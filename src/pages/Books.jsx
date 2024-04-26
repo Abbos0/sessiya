@@ -4,7 +4,7 @@ const Books = () => {
     <div>
         <pre>
             <p class="text ">
-                <h1>`{`
+                <h1>{`
             Bug'-gaz_qurilmalari
 
     1 kg gazning havoga uzatgan issiqlik miqdorini aniqlash ifodasini toping?

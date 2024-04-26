@@ -7,7 +7,7 @@ useEffect(() => {
     if (seconds > 0) {
       const timer = setTimeout(() => {
         setSeconds(prevSeconds => prevSeconds - 1);
-      }, 100);
+      }, 10);
       return () => {
         clearTimeout(timer);
       };
