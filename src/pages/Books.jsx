@@ -5,2068 +5,2015 @@
           <pre>
               <p class="text ">
                   <h1>{`
- Keng qo’llaniladigan isitish tizimlar -…
+ “Bug’ – gaz qurilmalari” fanidan 200 ta test savollari
+
+ 1 kg gazning havoga uzatgan issiqlik miqdorini aniqlash ifodasini toping?
  ====
- #Ikki quvurli, ochiq ulangan tarmoqlar
+ #q2=cp(T2-T4)
  ====
- Ko’p quvurli, ochiq ulangan tarmoqlar
+ q1=cp(T5-T4)
  ====
- Ikki quvurli, yopiq ulangan tarmoqlar
+ lok=i1-i'2=cv(T1-T2)
  ====
- Bir  quvurli, ochiq ulangan tarmoqlar
+ q1=cp(T1-T4)
  ++++
- Dastlabki sinovni  o’tkazish sharti …
+ 1 kg havoning regeneratorda olgan issiqlik miqdorini aniqlash ifodasini toping?
  ====
- #Salniklli kompensatorlar o’rnatilishidan oldin
+ #q1=cp(T5-T4)
  ====
- П simon  kompensatorlar o’rnatilishidan oldin
+ q2=cp(T2-T4)
  ====
- Klapanlar o’rnatilishidan oldin
+ lok=i1-i'2=cv(T1-T2)
  ====
- Zadvijkalar  o’rnatilishidan oldin
+ q1=cp(T1-T4)
  ++++
- Yakuniy sinovni  o’tkazish sharti …
+ 1 kVt·soat energiya olish uchun bug'ning solishtirma sarfini aniqlash formulasini toping?
  ====
- #Montajdan so’ng
+ #de=(860*Ne)/(H0*ηoe*ηp*ηg)
  ====
- Salniklli kompensatorlar o’rnatilishidan oldin
+ de=(860)/(H0*ηoe*ηp*ηg)
  ====
- П simon  kompensatorlar o’rnatilishidan oldin
+ de=(860)/(ηoe*ηp*ηg)
  ====
- Klapanlar o’rnatilishidan oldin
+ de=(H0)/qe
  ++++
- Sinovlarni o’tkazishga ruxsat etilgan eng past harorati …
+ 1910 yil da aka – uka Yungsterlar qanday turbinani ixtiro qilishdi?
  ====
- #5ºC
+ #Birinchi radial turbinani
  ====
- 8ºC
+ Birinchi reaktiv turbinani
  ====
- 10ºC
+ Birinchi kup pog'onali,
  ====
- 4ºC
+ Aktiv turbinani
  ++++
- Issiqlik tarmoqlarni sinov turlari …
+ 200-250 t/s va undan yuqоri bug‘ sarfili turbinalarga bug‘  nechta bug‘  quvurlari оrqali uzatiladi?
  ====
- #Opressovka, gidravlik, issiqlik, hisobiy haroratga sinash.
+ #ikkita bug‘  quvurlari оrqali uzatiladi, ularning har biriga  avtоmatik  to’хtalish klapanlari o’rnatiladi
  ====
- Gidravlik, issiqlik, hisobiy haroratga sinash.
+ uchta bug‘  quvurlari оrqali uzatiladi, ularning har biriga  avtоmatik  to’хtalish klapanlari o’rnatiladi
  ====
- Opressovka, gidravlik, issiqlik.
+ to’rtta bug‘  quvurlari оrqali uzatiladi, ularning har biriga  avtоmatik  to’хtalish klapanlari o’rnatiladi
  ====
- Opressovka, issiqlik, hisobiy haroratga sinash
+ oltita bug‘  quvurlari оrqali uzatiladi, ularning har biriga  avtоmatik  to’хtalish klapanlari o’rnatiladi
  ++++
- 426*400*9 markali quvurda birinchi raqam nimani belgilaydi
+ Adiabatik issiqlik tushish formulasini toping?
  ====
- #Quvurning tashqi diametrini
+ #h0=i0-i1t
  ====
- Quvurning ichki diametrini
+ h0=i0-ik
  ====
- Quvur devorchasini qalinligini
+ h1t=i0-ik
  ====
- Suvning bosimini
+ ht=i0-i1t
  ++++
- 426*400*9 markali quvurda ikkinchi raqam nimani belgilaydi
- ====	
- #Quvurning ichki diametrini
+ An’anaviy elektr stantsiyalarida kondensatordagi sovitish karraligi nechaga teng?
  ====
- Quvurning tashqi diametrini
+ #50-60
  ====
- Quvur devorchasini qalinligini
+ 70-80
  ====
- Suvning bosimini
+ 80-90
+ ====
+ 1-5
  ++++
- Tarmoqning issiqlik hisobning vazifasi nimadan iborat?
+ AQSHda bug’-gaz qurilmasi ishlab chiqarishda lider kompaniya qaysi?
  ====
- #tarmoqdagi issiqlik yo’qotilishlarini aniqlab issiqlik izolyatsiyasini tanlashga;
+ #General Electric, Westinghaus 
  ====
- ma‘lum bo’lgan issiqlik tashuvchining sarfi va tarmoqdagi bosim yo’qotilishlari 
- bo’yicha quvur diametrlarini aniqlashga;
+ ABB
  ====
- sistemaning turli nuqtalarida bosim va sarf orasidagi bog’lanishlarga;
+ Siemens
  ====
- issiqlik izolyatsiyasiga uzatilgan issiqlik uzgarmas miqdorda atrof muxitga uzatilishiga
+ Alstom
  ++++
- Aholining issiqlikka bo’lgan talabini qo’ndirish uchun qanday qurilmalardan foydalaniladi?
+ Aralash turdagi qizdirgichlar qanday bloklarda qo'llaniladi?
  ====
- #suv qizdirish qozonxonalari va  IEM dan.
+ #yuqori quvvatli
  ====
- faqat suv qizdirish qozonxonalaridan;  
+ o'rta quvvatli
  ====
- T turbinali ES dan;
+ past quvvatli
  ====
- faqat IEM dan
+ yuqori va o'rta quvvatli.
  ++++
- Organik yoqilg’ida ishlaydigan  issiqlik manbalar…
+ Aylanishlar mоmеntini quvvat ifodasini aniqlang? 
  ====
- #IES;. TQ
+ #Nef=Ne+Np+(It+Ig)102*dw/dt
  ====
-  KES; GES
+ Me=Mg+Mp+It*dw/dt
  ====
- AES; gelio stansiyalar;
+ Me=Mg+Mp+(It+Ig)*dw/dt
  ====
- GES; AES
+ M¬ef=Mg+Mt
  ++++
- Issiqlik tarmoqlarni issiqlik sinovida nimalar o’lchanadi?
+ Turbina vali ishchi mashinasiga qanday tarzda ulanadi?
  ====
- #Quvurni boshida va oxirida suvning sarfi va harorati;
+ #bevosita yoki tishli uzatma yordamida ishchi mashinasiga ulanadi; 
  ====
- Quvurni boshida va oxirida suvning bosimi,  sarfi va harorati;
+ tishli uzatma yordamida ishchi mashinasiga ulanadi; 
  ====
- Quvurni boshida suvning sarfi va harorati;
+ bevosita uzatma yordamida ishchi mashinasiga ulanadi; 
  ====
- Quvurni boshida va oxirida suvning bosimi va  sarfi
+ lentali uzatma yordamida ishchi mashinasiga ulanadi; 
  ++++
- Issiqlik tarmoqlarni gidravlik sinovida nimalar o’lchanadi?
+ BGQ-380 qurilmasida tabiiy gazni qanday haroratgacha qizdiriladi?
  ====
- #Quvurni boshida va oxirida suvning bosimi, sarfi va harorati;
+ #140 °C
  ====
- Quvurni boshida va oxirida suvning sarfi va harorati
+ 240 °C
  ====
- Quvurni boshida suvning sarfi va harorati;
+ 340 °C
  ====
- Quvurni boshida va oxirida suvning bosimi va  sarfi
+ 40 °C
  ++++
- Tarmoq suvi nima yordamida dezenfeksiyalanadi?
+ BGQ-380 qurilmasida tabiiy gazni qanday qurilmada qizdirish ko’zda tutilgan?
  ====
- #Faol xlor;
+ #deaeratorning ta'minot suvi bilan ishlaydigan suvli issiqlik almashinish qurilmasida
  ====
- Osh tuzi;
+ o’ta qizigan bug’ bilan ishlaydigan bug’li issiqlik almashinish qurilmasida
  ====
- Magniy eritmasi;
+ suv-suv turidagi issiqlik almashinish qurilmasida
  ====
- Oltingugurt eritmasi.
+ bug’-suv turidagi issiqlik almashinish qurilmasida
  ++++
- Odatda suvli tarmoqlarda qaysi birktirish armaturasi qo’llaniladi
+ BGQ-380 qurilmasining elektr energiyasi ishlab chiqarish bo'yicha brutto foydali ish koeffisienti necha foizni tashkil qiladi?
  ====
- #Zulfinlar
+ #54,9 %
  ====
- Ventil
+ 64,9 %
  ====
- Drossel 
+ 74,9 %
  ====
- Shiber
+ 75,0 %
  ++++
- Odatda bug’li tarmoqlarda qaysi birktirish armaturasi qo’llaniladi
+ Ishchi mashinaning xususiyatlariga bog‘liq ravishda bug‘ yoki gaz turbinalari sanoatning qaysi sohalarida qo‘llaniladi?
  ====
- #Ventil
+ #energetikada, transportda, dengiz texnikasida, aviatsiyada va x. k.;
  ====
- Zulfinlar
+ faqat energetikada;
  ====
- Drossel 
+ energetika va transportda;
  ====
- Shiber
+ dengiz texnikasida, aviatsiyada va h.k.;
  ++++
- 426*400*9 markali quvurda uchinchi raqam nimani belgilaydi
+ Bir pog'onali aktiv turbinani hisoblash uchun qanday parametrlar zarur?
  ====
- #Quvur devorchasini qalinligini
+ #Nэ,п, р0, t0, p2
  ====
- Quvurning ichki diametrini
+ Nэ, c1, п, р0, t0, pk
  ====
- Quvurning tashqi diametrini
+ Nэ, c1 ,u, р0, t0,p1, p2
  ====
- Suvning bosimini
+ N, п, р, t, u, c.
  ++++
- Issiqlik tarmoqlarni ishga turishini ruxsat beruvchi tashkilot –
+ Bir pog'onali bug' turbinasining (birinchi) quvvati qancha edi?
  ====
- #Davlat hay’ati
+ #5 ot kuchi
  ====
- Shahar hokimiyati
+ 5 kVt
  ====
- Mahalla hay’ati
+ 5 Joul/sek
  ====
- Qurvchi tashkilot
+ 35 ot kuchi.
  ++++
- Issiqlik ta‘minoti tizimlari boshqarmasida ulanishlar xizmati kimga bo’ysunadi?
+ Bir qancha оraliq pog‘onalar оrqali  bug‘ni  kiritib taqsimlash usullari qanday bug’ taqsimoti deyiladi?
  ====
- #Bosh muxandisga;
+ #ichki aylana bo’ylab bug‘ni taqsimlash
  ====
- Direktorga;
+ sоplоli bug‘ taqsimоti
  ====
- Devonxonaga;
+ tashqi  aylanma bo’ylab bug‘ni taqsimlash
  ====
- Reja – iqtisod bo’limiga;
+ drоssеlli bug‘ taqsimоti 
  ++++
- Shtatlar soni deb nimaga aytiladi? 
+ Birinchi bor pog'onali bug' turbinasini kim yasagan?
  ====
- #Issiqlik tarmog’iga ulangan yuklamaning 1 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;
+ #1890 yilda Gustav Laval
  ====
- Issiqlik tarmog’iga ulangan yuklamaning 10 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;
+ 1843 yilda Gustov Laval
  ====
- Issiqlik tarmog’iga ulangan yuklamaning 10 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;
+ 1843 yil Geron Brank
  ====
- Issiqlik tarmog’iga ulangan yuklamaning 10 %  Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi
+ 1890 yil Geron Brank.
  ++++
- Keng qo’llaniladigan ichki isitish tizimlar -…
+ Birinchi bug' kuch qurilmasi qayerda va qachon topilgan?
  ====
- #П –simon tik quvurli tizimlar
+ #er. av. 120 yil Aleksandriya
  ====
- P –simon tik quvurli tizimlar
+ er. av. III asr Vizantiyada
  ====
- П –simon gorizontal quvurli tizimlar
+ er. av  170 – 200 yil  Qadimgi Rimda
  ====
- Tik quvurli tizimlar.
+ er. av. 1900 yil Makedoniyada.
  ++++
- Bug’  bilan isitish tizimlarida bug’ning harorati … oshmasligi kerak
+ Birinchi bug' mashinasining (qurilmasining) ixtirochisi kim?
  ====
- #130ºC
+ #Katta Geron
  ====
- 155ºC
+ Anaksimandr
  ====
- 180ºC
+ Brank
  ====
- 190ºC.
+ Polikarp.
  ++++
- Havo bilan isitish tizimlarida havoning harorati …
+ Birinchi bug' turbinasi necha qismdan iborat?
  ====
- #60ºC
+ #4 qism val, disk, kurak, soplo
  ====
- 55ºC
+ 3 qism val, kurak, soplo
  ====
- 80ºC
+ 5 qism  val, disk, kurak, qo'zg'almas qism, soplo
  ====
- 90ºC
+ 6 qism val, disk, kurak, qo'zg'almas qism, soplo yo'naltiruvchi kurak.
  ++++
- Havo qizdiruvchi qurilma…
+ Birinchi bug’ mashinasiga qachon va kim tomonidan patent olingan?
  ====
- #kalorifer 
+ #1769 yilda ingliz muhandisi Jeyms Uatt tomonidan
  ====
- ventilyator
+ 1624 yilda ingliz muhandisi Leonar Sadi Karno tomonidan
  ====
- Issiqlik almashinuv apparati
+ 1648 yilda ingliz muhandisi Uilyam Tomson tomonidan
  ====
- Ekonamayzr
+ 1917 yilda rus muhandisi Nikolay Ikkinchi tomonidan
  ++++
- Noan’aviy isitish manbalar…
+ Birinchi pog'ona kirish va chiqishdagi bosim belgilanishlarini ko'rsating?
  ====
- #Quyosh, geotermal suvlar
+ #Р0, Р1
  ====
- Quyosh, suyuq yoqig’i, suvlari
+ Р1, Рк
  ====
- Quyosh, mazut
+ Р0, Рк
  ====
- Quyosh, shamol.
+ Рп>Pkt.
  ++++
- Quyosh isitish tizimlari radiatsiyadan foydalanishi bo’yicha qanday turlarga bo’linadi…
+ Bosim pog'onalariga qarab turbinalar qanday turlarga bo'linadi?
  ====
- #Passiv va aktiv
+ #Bir  va ko’p pog'onali
  ====
- Kollektorli va kollektorsiz
+ Aktiv va reaktiv pog'onali
  ====
- Radiatsiyalangan va radiatsiya tushmaydigan
+ Yuqori va past bosimli
  ====
- Passiv va aktiv va zonali.
+ faqat reaktiv pog'onali.
  ++++
- Bino ichidagi havo harorati quyidagiga bog’liq bo’ladi
+ Brank mashinasi qachon ixtiro qilindi?
  ====
- #isitiladigan binoning vazifasiga;
+ #1629 yil
  ====
- tashqi havo haroratiga;
+ 1806 - 1813 yil
  ====
- issiqlik tashuvchi turiga; 
+ 1503 yil
  ====
- isitish tizimining ulanishiga.
+ 173 yil.
  ++++
- Aholining issiqlikka bo’lgan talabini ko’ndirish uchun qanday qurilmalardan foydalaniladi?
+ Bug’ turbinalari konstruktsiyasi, issiqlik jarayoni xarakteri, bug’ parametrlari va sanoatda ishlatilishiga qarab qanday guruhlarga bo’linadi?
  ====
- #suv qizdirish qozonxonalari va  IEM dan.
+ #pog’onalar soniga ko’ra, bug’ oqimi harakatiga ko’ra, tsilindrlar (korpuslar) soniga ko’ra, bug’ taqsimlanish printsipiga ko’ra, issiqlik jarayoni xarakteriga ko’ra, bug’ bosimiga ko’ra;
  ====
- faqat suv qizdirish qozonxonalaridan; 
- ==== 
- T turbinali ES dan;
+ bug’ oqimi harakatiga ko’ra, tsilindrlar (korpuslar) soniga ko’ra, bug’ taqsimlanish printsipiga ko’ra, issiqlik jarayoni xarakteriga ko’ra, bug’ bosimiga ko’ra;
  ====
- faqat IEM dan
+ pog’onalar soniga ko’ra, tsilindrlar (korpuslar) soniga ko’ra, bug’ taqsimlanish printsipiga ko’ra, issiqlik jarayoni xarakteriga ko’ra, bug’ bosimiga ko’ra;
+ ====
+ pog’onalar soniga ko’ra, bug’ oqimi harakatiga ko’ra, bug’ taqsimlanish printsipiga ko’ra, issiqlik jarayoni xarakteriga ko’ra, bug’ bosimiga ko’ra;
  ++++
- Oqim turini (laminar yoki turbulent) aniqlash uchun qaysi kreteriydan foydalaniladi…
+ Bug' oqimi yo’nalishiga ko’ra turbinalar necha turga bo'linadi?
  ====
- #Reynolds
+ #o'qli va radial
  ====
- Prandtl
+ aktiv va reaktiv
  ====
- Nusselt
+ aktiv, uqli, reaktiv.
  ====
- Fure
+ aksial, uqli, reaktiv.
  ++++
- Quvurning ekvivalent diametrning miqdori qaysi ko’rsatkichlarga bog’liq?
+ Bug' oqimining nazariy tezligini aniqlash formulasidagi 91,5 koeffisienti qayerdan olingan?
  ====
- #quvurning ko’ndalang qirqim yuzasiga va namlangan perimetrga
+ # (2g/A)^1/2
  ====
- quvurning ko’ndalang qirqim yuzasiga va quvur qalinligiga
+  (2A/g)^1/2
  ====
- namlangan perimetrga va quvur qalinligiga
+  (i0-i1t)^1/2
  ====
- namlangan perimetrga va quvur uzunligiga
- ====
- quvurning ko’ndalang qirqim yuzasiga va quvur uzunligiga
+  (i1t-i0)^1/2
  ++++
- Texnologik extiyojlar uchun issiqlik sarfi qaysi ko’rsatkichlar kiradi?
+ Bug' potensial energiyasini kinetik energiyaga aylantirish xarakteriga ko'ra turbinalar necha turga bo'linadi?
  ====
- #Korxonani unumdorligi va bir maxsulot uchun  sarflanadigan issiqlik miqdori
+ #aktiv, reaktiv
  ====
- Korxonani unumdorligi va xodimlar soni
+ aktiv, reaktiv, kombinasiyali
  ====
- Korxonani quvvati va bir maxsulot uchun  sarflanadigan issiqlik miqdori
+ aktiv, reaktiv, umumlashtirilgan
  ====
- Korxonani elektr energiya sarfi va bir maxsulot uchun sarflanadigan issiqlik miqdori
- ====
- Korxonani unumdorligi va elektr energiya sarfi
+ kombinasiyali va umumlashtirilgan
  ++++
- Nechanchi yillarda O‘rta Osiyoda markazlashtirilgan issiqlik ta’minoti rivojlana boshladi?
+ Bug' turbinali qurilmalarning prinsipial sxemasida yuqori bosimli qizdirgich qaerda joylashtiriladi?
  ====
- #1928-1930 yillarda
+ #deaerator va qozon o'rtasida
  ====
- 1930-1941 yillarda
+ qozon va o'rta bosimli silindr orasida
  ====
- 1920-1930 yillarda
+ deaerator va ekonomayzer orasida
  ====
- 1918-1930 yillarda
+ ta'minot nasosi va qozon o'rtasida
  ++++
- Qachonga markazlashtirilgan issiqlik ta’minoti g‘oyasining paydo bo‘lishi to‘g‘ri kеladi?
+ Bug' turbinasi qachon va qaerda yasaldi?
  ====
- #1877 yili AQSh ning Lokport shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+ #XIX asrning 30 yilda Nijne – Tagilda
  ====
- 1777 yili AQSh ning Lokport shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+ XIX asrning 20 yilda Angliyaning Oksford universitetida
  ====
- 1907 yili Sankt-Peterburg shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+ XIX asrning 20 yilda Ayova shtatida
  ====
- 1877 yili Moskva shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+ XX asr boshlarida Avstraliyaning Sidney shaxrida.
  ++++
- IEM da issiqlik va elеktr enеrgiyasini qurama usulda ishlab chiqarish uchun yoqilg‘ining umuiy sarfi quyidagilardan iborat…
+ Bug' turbinasini prinsipial sxemasiga kiruvchi elementlarni sanang.
  ====
- #elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘I sarflarning  yig’indisi
+ #Issiqlik almashingich, turbina, elektrogenerator, bug' generatori, qizdirgichlar, nasoslar
  ====
- elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning  ko’paytmasi
+ Issiqlik almashingich, turbina, elektrogenerator, bug' generatori, qizdirgichlar, kompressor, nasoslar
  ====
- elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i  sarflarning  ayirmasi
+ Issiqlik almashingich, turbina, elektrogenerator, bug' generatori, qizdirgichlar, nasoslar, suv – suv tipidagi qizdirgich
  ====
- elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning  farqi
+ Ishga tushiruvchi dvigatel, Issiqlik almashingich, turbina, elektrogenerator, bug' generatori, qizdirgichlar, nasoslar, suv – suv tipidagi qizdirgich.
  ++++
- Shartli yoqilg’i deb nimaga aytiladi?
+ Bug' turbinasining dastlabki modeli qachon va qaerda yasaldi?
  ====
- #Issiqlik ajratishi 7000 kkal/kg ga teng bo’lgan yoqilg’i
+ #1806 – 1813 yillarda Oltoyda Suzunsk zavodida
  ====
- Issiqlik ajratishi 7003 kkal ga teng bo’lgan yoqilg’i
+ 1806 – 1813 yilda Rimda
  ====
- Issiqlik ajratishi 7000 kj/kg ga teng bo’lgan yoqilg’i
+ 1713 – 1714 yillarda Germaniyada Sholdman zavodida
  ====
- Issiqlik ajratishi 7050 kkal/kg  ga teng bo’lgan yoqilg’i
- ====
- Issiqlik ajratishi 7000 j/kg ga teng bo’lgan yoqilg’i
+ 1844 yilda AKSh da Bulls fabrikantida
  ++++
- Qaysi yuklamaning sarfi hafta davomida o‘rtacha sarfi uning bir kеcha-kunduzdagi mе’yori asosida aniqlanadi?
+ Bug' turbinasining soddalashtirilgan sxemalari deganda nimalarni tushunasiz?
  ====
- #issiq suv
+ #Barcha elementlar aniq tasvirlangan
+ ====
+ Asosiy elementlar aniq tasvirlangan
+ ====
+ Elementlar vazifasi suzlar bilan ifodalanadi
+ ====
+ bug' olinmalari tasvirlanmaydi.
+ ++++
+ Bug’ turbinalarida qanday kondensatorlar qo’llaniladi?
+ ====
+ #yuzali suvli
+ ====
+ suvli, havoli va aralashtiruvchi
+ ====
+ suvli va havoli
+ ====
+ havoli va aralashtiruvchi
+ ++++
+ Bug’-gaz qurilmalarida 20 asrning 60 yyda quvvat qanchaga tenglashgan?
+ ====
+ #5-700 MVt
+ ====
+ 100-1000 MVt
+ ====
+ 500-1100 MVt
+ ====
+ 700-1000 MVt
+ ++++
+ Bug’-gaz qurilmalarida bug’ ishlab chiqarish qurilmasi nomini aniqlang?
+ ====
+ #Qozon-utilizatori
+ ====
+ Bug’ qozoni
+ ====
+ Gaz turbinasi
+ ====
+ Bug’ turbinasi
+ ++++
+ Bug’-gaz qurilmalarida f.i.k.i nechaga tenglashsadi?
+ ====
+ #50-60 %
+ ====
+ 60-70 %
+ ====
+ 70-80 %
+ ====
+ 20-40 %
+ ++++
+ Bug’-gaz qurilmalarining issiqlik sikli nomini aniqlang?
+ ====
+ #Brayton-Renkin termodinamik sikli
+ ====
+ Karno termodinamik sikli
+ ====
+ Renkin termodinamik sikli
+ ====
+ Dizel termodinamik sikli
+ ++++
+ Bug'ning quruqlik darajasi qanday belgilanadi?
+ ====
+ #X
+ ====
+ У
+ ====
+ f 
+ ====
+ W.
+ ++++
+ Buyuk Britaniyada bug’-gaz qurilmasi ishlab chiqarishda lider kompaniya qaysi?  
+ ====
+ #Alstom
+ ====
+ ABB
+ ====
+ Siemens
+ ====
+ General Electric, Westinghaus 
+ ++++
+ Chiqish quvuridagi isrof koeffisienti nechaga teng?
+ ====
+ # 0,07  0,1
+ ====
+  0,1  0,12
+ ====
+  0,12  0,18
+ ====
+  0,2.
+ ++++
+ Doimiy aylanish soniga ega bo'lgan barqaror turbinalar....
+ ====
+ #elektrogenerator uzatmasi uchun mo'ljallangan
+ ====
+ temir yo'l transportida ishlatiladi
+ ====
+ havo so'rish mashinalari, ventilyatorlar, nasoslar uchun mo'ljallangan.
+ ====
+ ventilyatorlar va nasoslar uchun mo'ljallangan.
+ ++++
+ Drоssеllanishdagi yo’qоtish   ortsa yuklama qanday o’zgaradi?
+ ====
+ #kichrayadi
+ ====
+ ortadi
+ ====
+ o’zgarmaydi
+ ====
+ cheksizlikka intiladi
+ ++++
+ Drоssеllanishning оrtishi bilan (turbinaning yuklamasi pasayadi) qaysi parameter kattalashadi?
+ ====
+ #drоssеllanishdagi yo’qоtish   ortadi
+ ====
+ isish darajasi I ortadi
+ ====
+ bosim ortadi
+ ====
+ harorat ortadi
+ ++++
+ Drоssеlli  bug‘  taqsimоtili turbinalarda qanday bug’ taqsimotini qo’llash maqsadga muvofiq?
+ ====
+ #tashqi aylanma bug‘ taqsimоtini
+ ====
+ ichki aylanma bug‘ taqsimоtini
+ ====
+ tashqi va ichki aylanma bug‘ taqsimоtini
+ ====
+ aylanma bug‘ taqsimоtini qo’llab bo’lmaydi
+ ++++
+ Drоssеlli bug‘ taqsimоtida bug‘ sоplоga kiritilish parsialligini ko’rsating?
+ ====
+ #
+ ====
+ 0,5
+ ====
+ 0,2
+ ====
+ 1,2
+ ++++
+ Egri kesimli soplo nimaga kerak?
+ ====
+ #turbinaga kiruvchi bug'ning harakatini tezlashtirish uchun
+ ====
+ turbinaga kiruvchi bug'ning harakatini kurakka moslash uchun
+ ====
+ turbinaga kiruvchi bug'ning harakatini sekinlashtirish uchun
+ ====
+ u xech qaerda ishlatilmaydi.
+ ++++
+ Gaz turbina qurilmalari bug’ turbinalariga nisbatan qanday afzalliklariga ega?
+ ====
+ #Ixcham, kondensator qurilmasining yo’qligi, konstruktsiyasining soddaligi va qulayligi, metall tejamkorligi, sovitish uchun ko’p suv talab qilinmaydi
+ ====
+ konstruktsiyasining soddaligi va qulayligi, metall tejamkorligi, sovitish uchun ko’p suv talab qilinmaydi
+ ====
+ ixcham, metall tejamkorligi, sovitish uchun ko’p suv talab qilinmaydi
+ ====
+ metall tejamkorligi, sovitish uchun ko’p suv talab qilinmaydi
+ ++++
+ Gaz turbina qurilmalarida qanday turdagi kompressorlar qo’llaniladi?
+ ====
+ #o’q yo’nalishli va markaziy yo’nalishli
+ ====
+ faqat o’q yo’nalishli
+ ====
+ faqat markaziy yo’nalishli
+ ====
+ o’q yo’nalishli va aksial
+ ++++
+ Bug’ oqimi harakatiga ko’ra turbinalar qanday turlarga bo‘linadi?
+ ====
+ #bug’ oqimi turbina o’qi bo’yicha yo’naluvchi va radial turbinalar;
+ ====
+ bir pog’onali, kichik, o’rta va katta quvvatli aktiv va reaktiv ko’p pog’onali turbinalar;
+ ====
+ bir korpusli (bir tsilindrli); ikki korpusli (ikki tsilindrli); ko’p korpusli (ko’p tsilindrli) turbinalar;
+ ====
+ bir valli va ko‘p valli turbinalar;
+ ++++
+ Gaz turbina qurilmasining ish tsikli qanday turlarga bo’linadi?
+ ====
+ #nazariy va haqiqiy termodinamik tsikllarga
+ ====
+ faqat nazariy termodinamik tsiklga
+ ====
+ faqat haqiqiy termodinamik tsiklga
+ ====
+ analogik va haqiqiy termodinamik tsikllarga
+ ++++
+ Gaz turbinalari qaysi xususiyatlari bilan bug' turbinalaridan farqlanadi?
+ ====
+ #kichik gabariti va oson ishlatilishi bilan
+ ====
+ tez ishga tushirilmasligi
+ ====
+ sovituvchi suvning ko'p isrof bo'lishi
+ ====
+ xizmatchi personal sonining ko'pligi.
+ ++++
+ Gaz turbinalarida boshlang’ich bosim bug’ turbinalariga nisbatan qanday holatda bo’ladi?
+ ====
+ #Past
+ ====
+ Farqlanmaydi
+ ====
+ Juda kam farqlanadi
+ ====
+ Yuqori
+ ++++
+ Gaz turbinalarida boshlang’ich harorat bug’ turbinalariga nisbatan qanday holatda bo’ladi?
+ ====
+ #Yuqori
+ ====
+ Past
+ ====
+ Farqlanmaydi
+ ====
+ Juda kam farqlanadi
+ ++++
+ Gaz turbinalarida havo qaysi qurilma yordamida siqiladi?
+ ====
+ #kompressor
+ ====
+ yonish kamerasi
+ ====
+ yoqilg’i nasosi
+ ====
+ gaz turbinasining o’zida
+ ++++
+ Gaz turbinalarida yoqilg’i qaysi qurilma yordamida yetkazib beriladi?
+ ====
+ #yoqilg’i nasosi
+ ====
+ yonish kamerasi
+ ====
+ kompressor
+ ====
+ gaz turbinasining o’zida
+ ++++
+ Gaz turbinalarida yoqilg’i qaysi qurilma yordamida yondiriladi?
+ ====
+ #yonish kamerasi
+ ====
+ kompressor
+ ====
+ yoqilg’i nasosi
+ ====
+ gaz turbinasining o’zida
+ ++++
+ Gaz turbinalarining yonish kameralari turlari to’g’ri ko’rsatilgan qatorni toping?
+ ====
+ #individual, sektsiyali ko’p quvurli, xalqasimon, quvurli – xalqasimon
+ ====
+ faqat sektsiyali ko’p quvurli
+ ====
+ faqat individual
+ ====
+ faqat quvurli – xalqasimon
+ ++++
+ Gaz turbinasi deb nimaga aytiladi?
+ ====
+ #ishchi jismi yonuvchi gaz va havo aralashmasidan iborat bo’lgan issiqlik yuritgichiga
+ ====
+ ishchi jismi yonuvchi gaz va suv bug’i aralashmasidan iborat bo’lgan issiqlik yuritgichiga
+ ====
+ ishchi jismi yonuvchi gaz aralashmasidan iborat bo’lgan issiqlik yuritgichiga
+ ====
+ ishchi jismi havodan iborat bo’lgan issiqlik yuritgichiga
+ ++++
+ Tsilindrlar (korpuslar) soniga ko’ra turbinalar qanday turlarga bo‘linadi?
+ ====
+ #bir korpusli (bir tsilindrli); ikki korpusli (ikki tsilindrli); ko’p korpusli (ko’p tsilindrli) turbinalar;
+ ====
+ bug’ oqimi turbina o’qi bo’yicha yo’naluvchi va radial turbinalar;
+ ====
+ bir pog’onali, kichik, o’rta va katta quvvatli aktiv va reaktiv ko’p pog’onali turbinalar;
+ ====
+ bir valli va ko‘p valli turbinalar;
+ ++++
+ Gaz turbinasi termodinamik tsiklning termik f.i.k.da keltirilgan issiqlik miqdori belgilanishi?
+ ====
+ #q1
+ ====
+ q2
+ ====
+ I0
+ ====
+ I0t
+ ++++
+ Gaz turbinasi termodinamik tsiklning termik f.i.k.da olingan foydali ish belgilanishi?
+ ====
+ #I0
+ ====
+ q2
+ ====
+ q1
+ ====
+ I0t
+ ++++
+ Gaz turbinasi termodinamik tsiklning termik f.i.k.da olingan issiqlik miqdori belgilanishi?
+ ====
+ #q2
+ ====
+ I0
+ ====
+ q1
+ ====
+ I0t
+ ++++
+ Gaz turbinasida agar gaz turbina o’qi yo’nalishida harakat qilsa, u qanday gaz turbinasi bo’ladi?
+ ====
+ #o’qli
+ ====
+ radial
+ ====
+ perpendikulyar
+ ====
+ tekis
+ ++++
+ Gaz turbinasida agar gaz turbina o’qiga perpendikulyar (ko’ndalang) harakat qilsa, u qanday gaz turbinasi bo’ladi?
+ ====
+ #radial
+ ====
+ perpendikulyar
+ ====
+ tekis
+ ====
+ o’qli
+ ++++
+ Gaz turbinasida foydali ish nimaga teng?
+ ====
+ #turbina va kompressor izoentropik ishlari farqiga teng
+ ====
+ keltirilgan va ishlatilgan issiqliklar farqiga teng
+ ====
+ faqat turbina izoentropik ishiga teng
+ ====
+ faqat kompressor izoentropik ishiga teng
+ ++++
+ Gaz turbinasining qanday kamchiliklari mavjud?
+ ====
+ #gaz turbinalarining tez ishdan chiqishi, ishlatiladigan yoqilg’iga yuqori talabliligi
+ ====
+ ishlatiladigan yoqilg’iga yuqori talabliligi
+ ====
+ gaz turbinalarining tez ishdan chiqishi
+ ====
+ gaz turbinalarining tez ishdan chiqmasligi, yoqilg’iga yuqori talab qo’yilmaganligi
+ ++++
+ Gaz turbinasining yonish kamerasida yonish harorati qanchaga yetadi?
+ ====
+ #2000 K
+ ====
+ 1100 K
+ ====
+ 1500 K
+ ====
+ 3500 K
+ ++++
+ Germaniyada bug’-gaz qurilmasi ishlab chiqarishda lider kompaniya qaysi? 
+ ====
+ #Siemens
+ ====
+ ABB
+ ====
+ General Electric, Westinghaus 
+ ====
+ Alstom
+ ++++
+ Gеnеratоr qisqichlarida fоydali rеaktiv mоmеnt qaysi harflar bilan belgilanadi?
+ ====
+ #Mg
+ ====
+ Mp
+ ====
+ It Ig
+ ====
+ Mе
+ ++++
+ Gеnеratоrdagi issiqlik yo’qоtishi va pоdshipniklardagi yo’qоtishlarning tоrmоzlоvchi mоmеnti qaysi harflar bilan belgilanadi?
+ ====
+ #Mе
+ ====
+ Mg
+ ====
+ Mp
+ ====
+ It Ig
+ ++++
+ Bir pog’onali turbinalarning xususiyati nimada?
+ ====
+ #bu turbinalar kichik quvvatga ega bo’lib, odatda, markazdan qochma nasoslar va ventilyatorlarni aylantirish uchun qo’llaniladi;
+ ====
+ bu turbinalarda bug’ turbina aylanish o’qiga perpendikulyar tekislik bo’ylab harakatlanadi;
+ ====
+ bu turbinalarda bug’ning potentsial energiyasi kinetik energiyaga qo’zg’almas kurakchalarda yoki soploda aylantiriladi; ishchi kurakchalarda esa bug’ning kinetik energiyasi mexanik ishga aylantiriladi;
+ ====
+ bu turbinalarda bug’ kengayishi yo’naltiruvchi va ishchi kurakchalarda bir xilda amalga oshiriladi;
+ ++++
+ Radial turbinalarning xususiyati nimada?
+ ====
+ #bu turbinalarda bug’ turbina aylanish o’qiga perpendikulyar tekislik bo’ylab harakatlanadi;
+ ====
+ bu turbinalar kichik quvvatga ega bo’lib, odatda, markazdan qochma nasoslar va ventilyatorlarni aylantirish uchun qo’llaniladi;
+ ====
+ bu turbinalarda bug’ning potentsial energiyasi kinetik energiyaga qo’zg’almas kurakchalarda yoki soploda aylantiriladi; ishchi kurakchalarda esa bug’ning kinetik energiyasi mexanik ishga aylantiriladi;
+ ====
+ bu turbinalarda bug’ kengayishi yo’naltiruvchi va ishchi kurakchalarda bir xilda amalga oshiriladi;
+ ++++
+ Aktiv turbinalarning xususiyati nimada?
+ ====
+ #bu turbinalarda bug’ning potentsial energiyasi kinetik energiyaga qo’zg’almas kurakchalarda ====
+ yoki soploda aylantiriladi; ishchi kurakchalarda esa bug’ning kinetik energiyasi mexanik ishga aylantiriladi;
+ ====
+ bu turbinalarda bug’ turbina aylanish o’qiga perpendikulyar tekislik bo’ylab harakatlanadi;
+ ====
+ bu turbinalar kichik quvvatga ega bo’lib, odatda, markazdan qochma nasoslar va ventilyatorlarni aylantirish uchun qo’llaniladi;
+ ====
+ bu turbinalarda bug’ kengayishi yo’naltiruvchi va ishchi kurakchalarda bir xilda amalga oshiriladi;
+ ++++
+ Harakatdagi ishchi kurakka kelib urilgan 1 kg bug'ning bir sekundda  bajargan ishini toping?
+ ====
+ #L=pi*u
+ ====
+ L=pi*t
+ ====
+ L=pi*g
+ ====
+ L=pi/u
+ ++++
+ Hozirda tarmoq suvi nimalar yordamida qizdirilmoqda?
+ ====
+ #suv qizdirish qozonlarida
+ ====
+ T va R tipidagi turbinalardan
+ ====
+ Kondensasion bloklardan
+ ====
+ Nasoslar
+ ++++
+ Ichki nisbiy foydali ish koeffisienti qanday aniqlanadi?
+ ====
+ #adiabatik issiqlik tushishining haqiqiy issiqlik tushishiga nisbati
+ ====
+ nazariy issiqlik tushishining normal issiqlik tushishiga nisbati
+ ====
+ haqiqiy issiqlik tushishining normal issiqlik tushishiga nisbati
+ ====
+ haqiqiy issiqlik tushishining adiabatik issiqlik tushishiga nisbati
+ ++++
+ Ichki va tashqi  bug‘ aylanishi bitta turbinada bir paytning o‘zida qо‘llanishi mumkinmi?
+ ====
+ #mumkin emas
+ ====
+ mumkin
+ ====
+ mumkin, faqat ayrim hollarda
+ ====
+ aniqlanmagan
+ ++++
+ IEMlarda qanday turbinalar ko'p qo'llaniladi?
+ ====
+ #rostlanuvchi otborli kondensasion va qarshi bosimli
+ ====
+ T va PT tipidagi
+ ====
+ P, T va PT tipidagi
+ ====
+ Faqat qarshi bosimli.
+ ++++
+ iS diagrammasida topiladigan H farqlanish qanday issiqlik tushishini ifodalaydi?
+ ====
+ #drossellash klapanlarida va chiqish quvuridagi issiqlik isrofi
+ ====
+ klapandagi issiqlik isrofi
+ ====
+ turbinada sodir bo’ladigan issiqlikning tushishi (kamayishi)
+ ====
+ turbinaning oqim qismida issiqlikning tushishi (kamayishi)
+ ++++
+ iS diagrammasida topiladigan Hk farqlanish qanday issiqlik tushishini ifodalaydi?
+ ====
+ #klapandagi issiqlik isrofi
+ ====
+ turbinada sodir bo’ladigan issiqlikning tushishi (kamayishi)
+ ====
+ turbinaning oqim qismida issiqlikning tushishi (kamayishi)
+ ====
+ drossellash klapanlarida va chiqish quvuridagi issiqlik isrofi
+ ++++
+ iS diagrammasida topiladigan Hp farqlanish qanday issiqlik tushishini ifodalaydi?
+ ====
+ #chiqish quvuridagi (patrubkadagi) issiqlik isrofi
+ ====
+ turbinada sodir bo’ladigan issiqlikning tushishi (kamayishi)
+ ====
+ turbinaning oqim qismida issiqlikning tushishi (kamayishi)
+ ====
+ drossellash klapanlarida va chiqish quvuridagi issiqlik isrofi
+ ++++
+ iS diagrammasida topiladigan H'0 farqlanish qanday issiqlik tushishini ifodalaydi?
+ ====
+ #turbinaning oqim qismida issiqlikning tushishi (kamayishi)
+ ====
+ drossellash klapanlarida va chiqish quvuridagi issiqlik isrofi
+ ====
+ klapandagi issiqlik isrofi
+ ====
+ turbinada sodir bo’ladigan issiqlikning tushishi (kamayishi)
+ ++++
+ iS diagrammasida topiladigan H0 farqlanish qanday issiqlik tushishini ifodalaydi?
+ ====
+ #turbinada sodir bo’ladigan issiqlikning tushishi (kamayishi)
+ ====
+ turbinaning oqim qismida issiqlikning tushishi (kamayishi)
+ ====
+ drossellash klapanlarida va chiqish quvuridagi issiqlik isrofi
+ ====
+ klapandagi issiqlik isrofi
+ ++++
+ iS diagrammasida topiladigan Hi farqlanish qanday issiqlik tushishini ifodalaydi?
+ ====
+ #turbinada ishlatilgan foydali issiqlik tushishi, ya’ni bug‘ning kengayishi uchun sarflanayotgan foydali issiqlik
+ ====
+ turbinada sodir bo’ladigan issiqlikning tushishi (kamayishi)
+ ====
+ turbinaning oqim qismida issiqlikning tushishi (kamayishi)
+ ====
+ drossellash klapanlarida va chiqish quvuridagi issiqlik isrofi
+ ++++
+ iS diagrammasidan aniqlanadigan i0  nuqta nimani anglatadi?
+ ====
+ #turbinagacha bo’lgan bug‘ning entalpiyasi
+ ====
+ bug‘ning izoentropik kengayishidan keyingi entalpiyasi
+ ====
+ ishlatilgan bug‘ning entalpiyasi
+ ====
+ ishlatilmagan bug‘ning entalpiyasi
+ ++++
+ iS diagrammasidan aniqlanadigan ikt nuqta nimani anglatadi?
+ ====
+ #bug‘ning izoentropik kengayishidan keyingi entalpiyasi
+ ====
+ ishlatilgan bug‘ning entalpiyasi
+ ====
+ ishlatilmagan bug‘ning entalpiyasi
+ ====
+ turbinaga kiruvchi bo’lgan bug‘ning entalpiyasi
+ ++++
+ iS diagrammasidan aniqlanadigan i'kt nuqta nimani anglatadi?
+ ====
+ #foydali ishlatilgan bug‘ning entalpiyasi
+ ====
+ ishlatilmagan bug‘ning entalpiyasi
+ ====
+ turbinagacha bo’lgan bug‘ning entalpiyasi
+ ====
+ izoentropik kengayishidan keyingi bug’ entalpiyasi
+ ++++
+ Ishchi kuragidagi isrof uchun tezlik koeffisienti  nechaga teng?
+ ====
+ #0,950,96
+ ====
+ 0,930,94
+ ====
+ 0,960,975
+ ====
+ 0,98.
+ ++++
+ Ishlov berilgan soplo uchun tezlik koeffisienti  nechaga teng?
+ ====
+ #0,950,96
+ ====
+ 0,930,94
+ ====
+ 0,960,975
+ ====
+ 0,900,865.
+ ++++
+ Ishning issiqlik ekvivalenti A nimaga teng?
+ ====
+ #A=1/427
+ ====
+ A=1/419
+ ====
+ A=1/3814
+ ====
+ A=1
+ ++++
+ Ishqalanishda isrof bo'lgan issiqlik qanday aniqlanadi?
+ ====
+ #ishqalanishda isrof bo'lgan quvvatning pog'onadagi bug' sarfiga nisbatidan
+ ====
+ ishqalanishda isrof bo'lgan quvvatning pog'onadagi bug' sarfiga kupaytmasidan
+ ====
+ pog'onadagi bug' sarfining ishqalanishda isrof bo'lgan quvvatga nisbatidan
+ ====
+ pog'onadagi bug' sarfining ishqalanishda isrof bo'lgan quvvatga kupaytmasidan.
+ ++++
+ Reaktiv turbinalarning xususiyati nimada?
+ ====
+ #bu turbinalarda bug’ kengayishi yo’naltiruvchi va ishchi kurakchalarda bir xilda amalga oshiriladi;
+ ====
+ bu turbinalarda bug’ning potentsial energiyasi kinetik energiyaga qo’zg’almas kurakchalarda yoki soploda aylantiriladi; ishchi kurakchalarda esa bug’ning kinetik energiyasi mexanik ishga aylantiriladi;
+ ====
+ bu turbinalarda bug’ turbina aylanish o’qiga perpendikulyar tekislik bo’ylab harakatlanadi;
+ ====
+ bu turbinalar kichik quvvatga ega bo’lib, odatda, markazdan qochma nasoslar va ventilyatorlarni aylantirish uchun qo’llaniladi;
+ ++++
+ Issiqlikni qaytish koeffisienti nechaga teng?
+ ====
+ #0,03  0,08
+ ====
+ 0,02  0,1
+ ====
+ 0,02  0,06
+ ====
+ 0,02  0,04.
+ ++++
+ Issiqlikning tushish isrofi nimadan aniqlanadi?
+ ====
+ #i – s diagrammadan
+ ====
+ T – s diagrammadan
+ ====
+ Kelvin shkalasidan
+ ====
+ Indikator diagrammasidan.
+ ++++
+ Katta quvvatli gaz turbina qurilmalarining mexanik foydali ish koeffisienti nechaga teng bo'ladi?
+ ====
+ #м = 0,84
+ ====
+ м = 0,86  0,89
+ ====
+ м = 0,90  0,95
+ ====
+ м = 0,95  0,97.
+ ++++
+ Klapandagi bosim yo'qotilishi turbina ishlayotgan paytda necha % foizni tashkil qiladi?
+ ====
+ #5 %
+ ====
+ 3 %
+ ====
+ 6 %
+ ====
+ 8%.
+ ++++
+ Agar ko’p tsilindrli turbinalar tsilindrlarining vallari bitta generatorga birlashtirilgan bo’lsa ular qanday nomlanadi?
+ ====
+ #bir valli turbinalar deyiladi;
+ ====
+ aktiv turbinalar deyiladi;
+ ====
+ ko’p valli turbinalar deyiladi;
+ ====
+ reaktiv turbinalar deyiladi;
+ ++++
+ Agar ko’p tsilindrli turbinalar tsilindrlarining vallari alohida generatorlarga birlashtirilgan bo’lsa ular qanday nomlanadi?
+ ====
+ #ko’p valli turbinalar deyiladi;
+ ====
+ bir valli turbinalar deyiladi;
+ ====
+ aktiv turbinalar deyiladi;
+ ====
+ reaktiv turbinalar deyiladi;
+ ++++
+ Kondensasion turbinalar necha xil bo'ladi?
+ ====
+ #regenerasion va regenerasiyasiz
+ ====
+ to'la regenerasion va qisman regenerasiyasiz
+ ====
+ to'la regenerasion va to'la isitish maqsadi
+ ====
+ aktiv, reaktiv.
+ ++++
+ Kondensator deb nimaga aytiladi?
+ ====
+ #bug’ni suv holatiga o’tkazadigan maxsus yopiq holatdagi qurilmaga
+ ====
+ bug’ning suv holatiga o’tishiga
+ ====
+ suvni bug’lantirish uskunasiga
+ ====
+ tomchlatish qurilmasiga
+ ++++
+ Aktiv turbinalarda bug‘ning kengayishi pog‘onaning qaysi qismida yuz beradi?
+ ====
+ # bug’ning potentsial energiyasi kinetik energiyaga qo’zg’almas kurakchalarda yoki soploda aylantiriladi;
+ ====
+ bug’ning kinetik energiyasi mexanik ishga aylantiriladi;
+ ====
+ bug’ kengayishi yo’naltiruvchi va ishchi kurakchalarda bir xilda amalga oshiriladi;
+ ====
+ bug‘ kengayishi kuzatilmaydi;
+ ++++
+ Kondensatordagi bug’ – havo aralashmasi qanday chiqariladi?
+ ====
+ #ikki pog’onali bug’ oqimli ejektor orqali so’riladi
+ ====
+ bir pog’onali bug’ oqimli ejektor orqali so’riladi
+ ====
+ ikki pog’onali suv oqimli ejektor orqali so’riladi
+ ====
+ bir pog’onali suv oqimli ejektor orqali so’riladi
+ ++++
+ Kondensatordagi sovitish karraligi qanday aniqlanadi?
+ ====
+ #m=Dsuv/Dk
+ ====
+ m=Dk/Dsuv
+ ====
+ m=Dsuv/Dkir
+ ====
+ m=Dkon/Dqiz
+ ++++
+ Kondensatsiyalanish jarayoni deb nimaga aytiladi?
+ ====
+ #bug’ning suv holatiga o’tishiga
+ ====
+ suvni bug’lantirish uskunasiga
+ ====
+ tomchlatish qurilmasiga
+ ====
+ bug’ni suv holatiga o’tkazadigan maxsus yopiq holatdagi qurilmaga
+ ++++
+ Konstruktiv tayyorlanishi va tarkibiga ko'ra utilizator qozonlarining issiqlik sxemalari qanday turlarga bo’linadi?
+ ====
+ #Gorizontal, vertikal
+ ====
+ Faqat gorizontal
+ ====
+ Faqat vertical
+ ====
+ Gorizontal va burchakli
+ ++++
+ Konstruktiv tuzilishiga ko'ra tarmoq qizdirgichlari qanday joylashtiriladi?
+ ====
+ #vertikal
+ ====
+ gorizontal
+ ====
+ qiya
+ ====
+ vertikal va gorizontal.
+ ++++
+ Ko'p bosqichli turbinalarda pog'onalar soni nechta bo'ladi?
+ ====
+ #3 tadan 30 tagacha
+ ====
+ 4 tadan 40 tagacha
+ ====
+ cheklanmagan
+ ====
+ 3 tadan 50 tagacha.
+ ++++
+ Mexanik foydali ish koeffisienti deb nimaga aytiladi?
+ ====
+ #effektiv quvvatning ichki quvvatga nisbatiga
+ ====
+ ichki quvvatning effektiv quvvatga ko'paytmasiga
+ ====
+ ichki quvvatning effektiv quvvatga nisbatiga
+ ====
+ effektiv quvvatning nazariy quvvatga nisbatiga
+ ++++
+ Namlik tufayli sodir bo'ladigan isrof formulasini toping?
+ ====
+ #hn=(1-x)*hi
+ ====
+ hn=(1-x)/hi
+ ====
+ hn= hi/(1-x)
+ ====
+  hn=(1/x*hi)
+ ++++
+ Neftdan yoqilg'i – moylash materiallari sifatida foydalanish mumkinligi kimlar tomonidan isbotlangan?
+ ====
+ #ingliz olimi Benjamin Sillimen va harbiy Edvin Dreyk tomonidan
+ ====
+ rus olimi Nikolay Ramzin va harbiy Edvin Dreyk tomonidan
+ ====
+ ingliz olimi Benjamin Sillimen va Kseniya Sobchak tomonidan
+ ====
+ rus olimi Jirinovskiy B. tomonidan
+ ++++
+ Nominal quvvat iqtisodiy quvvatdan qancha farq qiladi?
+ ====
+ #10 – 25 % <
+ ====
+ 10 – 25 %
+ ====
+ 10 – 25 % >
+ ====
+ teng.
+ ++++
+ Nostasionar tipdagi turbinalar  qaerda qo'llaniladi?
+ ====
+ #turbolokomativda
+ ====
+ ventilyatorda
+ ====
+ nasosda
+ ====
+ energetikada.
+ ++++
+ O’q yo’nalishli kompressorlarining f.i.k.i qanchaga teng?
+ ====
+ #0,83–0,9
+ ====
+ 0,63–0,7
+ ====
+ 0,73–0,8
+ ====
+ 1,0
+ ++++
+ O’q yo’nalishli kompressorlarining ishlab chiqarish quvvati qanchaga teng?
+ ====
+ #430–450 kg/s
+ ====
+ 480–550 kg/s
+ ====
+ 630–750 kg/s
+ ====
+ 130–150 kg/s
+ ++++
+ O’tkir  qizigan bug‘ni turbinaning bir yoki bir nеcha оraliq pog‘onasi  оrqali bеrib uzatish qanday bug’ taqsimoti deyiladi?
+ ====
+ #tashqi  aylanma bo’ylab bug‘ni taqsimlash
+ ====
+ ichki aylana bo’ylab bug‘ni taqsimlash
+ ====
+ sоplоli bug‘ taqsimоti
+ ====
+ drоssеlli bug‘ taqsimоti 
+ ++++
+ O'qli reaktiv turbinalar deb nimaga aytiladi?
+ ====
+ #bug' kengayish xar bir pog'onada yo'naltiruvchi va ishchi kurak kanallari orasida bir xil darajada taqsimlanadi
+ ====
+ bug'ning potensial energiyasi kinetik energiyaga soploda aylanadi
+ ====
+ ishchi kuraklarda reaksiyalanish oqibatida pog'onadan pog'onaga o'tadi
+ ====
+ bug'ning potensial energiyasi kinetik energiyaga kurakda aylanadi.
+ ++++
+ P tipidagi turbinalarda rostlash sistemasiga moy qanday qurilma yordamida uzatiladi?
+ ====
+ #yordamchi turbonasoslar yordamida
+ ====
+ porshenli servomotor yordamida
+ ====
+ markazdan kochma regulyator yordamida
+ ====
+ gidravlik tizim orkali.
+ ++++
+ Past bosimli 800 m2 qizdirish yuzali qizdirgich markasini toping?
+ ====
+ #ПН – 800 – 29 – 7 –I
+ ====
+ ПНС– 800 – 1,0– 2
+ ====
+ ПН – 1600 – 26 – 7 –I
+ ====
+ ПВ– 800 – 26 – 7 –I.
+ ++++
+ Podshipnikli va podshipniksiz moy sistemalarida podshipnikni moylash uchun mo'ljallangan moyning bosimi necha barga teng?
+ ====
+ #0,4 – 0,8 bar oralig'ida
+ ====
+ 1,8 – 2,0 bar oralig'ida
+ ====
+ 2 bar
+ ====
+ 1 bargacha.
+ ++++
+ Qanday quvvat nominal sanaladi?
+ ====
+ #kam issiqlik isrofili va katta absolyut foydali ish koeffisientili turbina quvvati
+ ====
+ uzoq vaqt ishlab chiqarish imkoniga ega bo'lgan turbina quvvati
+ ====
+ salt ishlash rejimidagi maksimal kattalikkacha ishlab chiqariladigan jami quvvat
+ ====
+ ko'p issiqlik isrofili va katta absolyut  foydali ish koeffisientili turbina quvvati.
+ ++++
+ Qanday turbinalar bir valli deb yuritiladi?
+ ====
+ #bitta generatorga ulangan va alohida korpuslar vallari ketma – ket bir o'qqa joylashgan
+ ====
+ bitta generatorga ulangan
+ ====
+ alohida korpuslar vallari ketma – ket bir o’qqa joylashgan
+ ====
+ turli generatorlarga ulangan.
+ ++++
+ Qanday turbinalar o'ta kritik parametrli turbinalar deb ataladi?
+ ====
+ #ishlatilayotgan bug' bosimi 225 ata va undan yuqori
+ ====
+ ishlatilayotgan bug' bosimi 235 ata va undan yuqori
+ ====
+ ishlatilayotgan bug' bosimi 200 ata va undan yuqori
+ ====
+ ishlatilayotgan bug' bosimi 40 ata va undan yuqori.
+ ++++
+ Qanday turbinalar yuqori bosimli turbinalar deyiladi?
+ ====
+ #40 ata va undan yuqori bosimli
+ ====
+ 70 ata va undan yuqori bosimli
+ ====
+ 100 ata va undan yuqori bosimli
+ ====
+ 140 ata va undan yuqori bosimli.
+ ++++
+ Qanday holatda kondensasion rejim chizig'i yuzaga keladi?
+ ====
+ #Dk <0
+ ====
+ Dk =0
+ ====
+ Dk >0
+ ====
+ Dk 0.
+ ++++
+ Bitta rostlanuvchi bug' otborili turbina markasini toping?
+ ====
+ # Т – 100 – 130
+ ====
+ Р – 12 – 35/5
+ ====
+ ПР – 6 – 35(10)5
+ ====
+ К – 500 – 240.
+ ++++
+ Qarshi bosimli turbinalardan foydalanilganda elektr energiyasi yetishmovchiligi qanday qoplanadi?
+ ====
+ #parallel ishlovchi kondensasion tipdagi turbina yordamida
+ ====
+ parallel ishlovchi teplofikasion tipdagi turbina yordamida
+ ====
+ parallel ishlovchi PT tipidagi turbina yordamida
+ ====
+ gaz turbina qurilmasi yordamida.
+ ++++
+ Qarshi bosimli turbinalardan nima maqsadda foydalaniladi?
+ ====
+ # isitish va elektr energiyasi ishlab chiqarish.
+ ====
+ elektr energiyasi ishlab chiqarish
  ====
  isitish
  ====
- ventilyatsiya
- ====
- texnologik extiyojlar
- ====
- havo maromlash
- ++++
- Tеxnologik extiyojlarga ishlatiladigan issiqlik nimalarga bog’lik?
- ====
- #jarayonning xususiyatga, ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi
- ====
- jarayonning xususiyatga, ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va tashqi havo haroratiga bog‘liq bo‘ladi
- ====
- ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi
- ====
- jarayonning xususiyatga, tashqi havo haroratiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi
- ====
- jarayonning xususiyatga va boshqalarga bog‘liq bo‘ladi
- ++++
- Turar joy binolarida isitish uchun sarflanadigan maksimal issiqlik oqimi nimalarga bog’liq?
- ====
- #binoning solishtirma issiqlik tavsifi, ichki va tashqi havoning hisobiy haroratlariga, binoning tashqi hajmiga
- ====
- ichki va tashqi havoning hisobiy haroratlariga, binoning tashqi hajmiga
- ====
- binoning solishtirma issiqlik tavsifi, ichki havoning hisobiy haroratiga, binoning tashqi hajmiga
- ====
- binoning solishtirma issiqlik tavsifi, ichki va tashqi havoning hisobiy haroratlariga, 
- ====
- binoning solishtirma issiqlik tavsifi, tashqi havoning hisobiy haroratiga, binoning tashqi hajmi
- ++++
- Mavsumiy yuklamaning grafigi qurish uchun absissa va ordinata o‘qlari bo‘yicha qaysi ko’rsatkichlar    qo‘yib chiqiladi?
- ====
- #absissada isitish mavsuminnig davomiyligi soatlarda va tashqi havoning harorati quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi 
- ====
- absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi 
- ====
- absissada tashqi havoning harorati quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi 
- ====
- absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo‘yicha esa, tashqi havoning harorati
- ====
- absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi va tashqi havoning harorati
- ++++
- Qaysi olim  tomonidan issiqlik ta’minotining bir quvuri tizimi ishlab chiqildi va amalda qo‘llash uchun taklif qilindi?
- ====
- #L. A. Mеlеntеv
- ====
- L.K. Ramzin
- ====
- L. Vukolovich 
- ====
- E.E. Sokolov
- ++++
- Bir quvuri tizimni asosiy g‘oyasi  nimada?
- ====
- #isitish qurilmasidan kеyin issiq suv ta’minotiga bеrilgan tarmoq suvining hammasi unda foydalaniladi
- ====
- isitish qurilmasidan kеyin issiq suv ni  stansiyaga qaytarish 
- ====
- isitish qurilmasidan kеyin issiq suvni qaytadan isitish qurilmasida ishlatish
- ====
- issiq suv ta’minotiga bеrilgan tarmoq suvining hammasi unda foydalaniladi
- ====
- isitish qurilmasidan kеyin issiq suv ta’minotiga bеrilgan tarmoq suvining bir qismi unda foydalaniladi
- ++++
- Ochiq tizimlarning yopiq tizimlarga nisbatan afzaligi:
- ====
- #elektr stansiyasida va sanoat korxonalarida ishlatilgan past haroratli suvni issiq suv ta’minoti uchun foydalanish imkoni mavjudligi
- ====
- stansiyada suvning tayyorlanishi murakkabligi va qimmatligi
- ====
- iste’molchilarga berilayotgan suvning sifati sanitariya tozalik va salomatlik talablariga javob bermasligi
- ====
- issiqlik ta’minoti tizimi ustidan o‘tkaziladigan sanitariya nazoratining murakkabligi
- ++++
- Gidravlik hisoblashning vazifasiga kirmayadigan vazifa:
- #issiqlik qoplamani tanlash
- ====
- quvurning diamеtrini aniqlash
- ====
- bosim (siquv)ning kamayishini aniqlash
- ====
- tarmoqning turli nuqtalaridagi bosimlarni aniqlash
- ++++
- To’la naporni aniqlovchi ifodasiga nimalar kiradi?
- ====
- #pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining yig‘indisiga tеng
- ====
- pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining farqiga tеng
- ====
- pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining ko’paytmasiga tеng
- ====
- pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining ayirmasiga tеng
- ++++
- Gidravlik hisobni bajarish uchun nimalar ma’lum bo’lishi kerak?
- ====
- #issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi va paramеtrlari, tarmoq qismlarining uzunligi
- ====
- issiqlik tarmog‘ining chizma tasviri, tarmoq qismlarining uzunligi
- ====
- issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi va paramеtrlari
- ====
- issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi, tarmoq qismlarining uzunligi
- ++++
- Qaysi olim tonidan elevator sxеmasi ishlab chiqilgan.
- ====
- #V. M. Chaplin
- ====
- L. A. Mеlеntеv
- ====
- L.K. Ramzin
- ====
- L. Vukolovich 
- ++++
- Yuqori haroratlarni  o’lchaydigan asbob belgilansin… 
- ====
- #Pirometr
- ====
- Barometr 
- ====
- Rotametr
- ====
- Manometr 
- ++++
- Issiqlikning yillik sarfiga qaysi yuklamala kiradi?
- ====
- #Isitish, ventilyatsiya, issiq suv, texnolgik extiyojlar yuklamalarning yig’indisi
- ====
- Isitish, ventilyatsiya, issiq suv yuklamalarning yig’indisi
- ====
- Isitish, issiq suv, texnolgik extiyojlar yuklamalarning yig’indisi
- ====
- ventilyatsiya, issiq suv, texnolgik extiyojlar yuklamalarning yig’indisi
- ++++
- Atmosfera bosimini  o’lchaydigan asbob belgilansin… 
- ====
- #Barometr
- ====
- Pirometr
- ====
- Rotametr
- ====
- Manometr 
- ++++
- Laminar oqimini belgilovchi kattalik…
- ====
- # Reynolds soni 2300 dan kichik
- ====
- Prandtl soni 2300 dan kichik
- ====
- Nusselt soni 2300 dan kichik
- ====
- Reynolds soni 2300 dan katta
- ++++
- Tashqi havo haroratiga bog’lik bo’lgan issiqlik yuklamalar…
- ====
- #Isitish, ventilyatsiyalash, havo maromlash
- ====
- Isitish, ventilyatsiyalash
- ====
- Isitish, havo maromlash
- ====
- Issiq suv ta’minoti, texnologik extiyojlar
- ++++
- IEMlarda qanday turdagi energiyalar ishlab chikariladi?
- ====
- #issiklik va elektr energiyasi;
- ====
- elektr energiyasi;
- ====
- issiklik, elektr va mexanik energiya;
- ====
- mexanik energiya
- ++++
- 1 kVt*soat elektr energiya qancha issiklikka teng buladi (kJ)?
- ====
- #3600 kJ;
- ====
- 3200 kJ;
- ====
- 2800 kJ;
- ====
- 4,19 kJ
- ++++
- Zamonaviy KESlarda foydali ish koeffitsienti nechaga teng?
- ====
- #35-40 %;
- ====
- 40-45 %;
- ====
- 45-50 %;
- ====
- 30-35 %
- ++++
- Zamonaviy IEMlarda foydali ish koeffitsienti nechaga teng?
- ====
- #75-80 %;
- ====
- 50-90 %;
- ====
- 45-50 %;
- ====
- 30-35 %
- ++++
- Tuman kozonxonanig foydali ish koeffitsienti nechaga teng?
- ====
- #50 - 90 %;
- ====
- 40-45 %;
- ====
- 45-50 %;
- ====
- 30-35 %
- ++++
- Mavsumiy yuklamaga qaysi yuklamalar kiradi?
- ====
- #isitish, ventilyatsiya va havoni maromlash;
- ====
- isitish, ventilyatsiya va havoni maromlash, issiq suv;
- ====
- isitish, ventilyatsiya va havoni maromlash, elektr energiyasi;
- ====
- isitish, ventilyatsiya va havoni maromlash, texnologik
- ++++
- Issiqlik tashuvchi  turlari…
- ====
- #Issiq havo, issiq suv, buq’, elektr energiya; 
- ====
- Gaz, issiq havo, issiq suv, buq’, elektr energiya;
- ====
- Yoqilg’i, issiq suv, buq’, elektr energiya;
- ====
- Issiq havo, issiq suv, buq’
- ++++
- Issiqlik  energiya  iste‘mollanish turlari:
- ====
- isitish, ventilyasiyalash, issiq suv ta‘minoti, havo maromlash tizimlarida va texnologik jarayonlarida;
- ====
- isitish, ventilyasiyalash, issiq suv ta‘minoti va texnologik jarayonlarida;
- ====
- isitish, issiq suv ta‘minoti, havo maromlash tizimlarida va texnologik jarayonlarida;
- ====
- isitish, ventilyasiyalash, issiq suv ta‘minoti;
- ++++
- Markazlashtirilgan issiqlik ta’minotining xususiyati -…
- ====
- #Bir issiqlik manbadan bir va bir nechta ist’emolchilarni issiqlik energiya bilan ta’minlash;
- ====
- Bir issiqlik manbadan  bir nechta xonalarni issiqlik energiya bilan ta’minlash;
- ====
- Bir issiqlik manbadan bir nechta xonalarni issiqlik energiya bilan ta’minlash;
- ====
- Bir nechta issiqlik manbadan bir va bir nechta ist’emolchilarni issiqlik energiya bilan ta’minlash;
- ++++
- Markazlashtirilgan issiqlik ta‘minoti tizimlarida issiqlik manba vazifasini bajaruvchi….
- ====
- #IEM (issiqlik elektr markazlari), tuman qozonxonalari
- ====
- IEM (issiqlik elektr markazlari)
- ====
- tuman qozonxonalari
- ====
- IEM (issiqlik elektr markazlari), tuman va avtonom qozonxonalari
- ++++
- Faqat issiqlik energiyani ishlab chiqaradigan issiqlik qurilmalar.
- ====
- #Qozonxonalar;
- ====
- Issiqlik elektr markazlar;
- ====
- Kondensatsion elektr stansiyalar;
- ====
- Issiqlik elektr stansiyalar;
- ++++
- Faqat elektr energiyani ishlab chiqaradigan issiqlik qurilmalar
- ====
- #Kondensatsion elektr stansiyalar;
- ====
- Qozonxonalar;
- ====
- Issiqlik elektr markazlar;
- ====
- Issiqlik elektr stansiyalar;
- ++++
- Issiqlik va  elektr energiyani ishlab chiqaradigan issiqlik qurilmalar
- ====
- #Issiqlik elektr markazlar
- ====
- Qozonxonalar;
- ====
- Kondensatsion elektr stansiyalar;
- ====
- Issiqlik elektr stansiyalar;
- ++++
- Tarmoqdagi sarf o’lchaydigan asbob belgilansin… 
- ====
- #Rotametr 
- ====
- Pirometr
- ====
- Barometr
- ====
- Manometr 
- ++++
- Mavsumiy yuklamaga qaysi yuklamalar kiradi?
- ====
- #isitish, ventilyatsiya va havoni maromlash;
- ====
- isitish, ventilyatsiya va havoni maromlash, issiq suv;
- ====
- isitish, ventilyatsiya va havoni maromlash, elektr energiyasi;
- ====
- isitish, ventilyatsiya va havoni maromlash, texnologik;
- ++++
- Tashqi havo haroratiga bog’lik bo’lgan issiqlik yuklamalar…
- ====
- #Isitish, ventilyatsiyalash, havo maromlash;
- ====
- Isitish, ventilyatsiyalash;
- ====
- Isitish, havo maromlash;
- ====
- Issiq suv ta’minoti, texnologik extiyojlar;
- ++++
- Eng universal issiqlik tashuvchi…
- ====
- #Issiq suv;
- ====
- Issiq havo;
- ====
- Bug’;
- ====
- Tutun gazlar;
- ++++
- Noan’aviy isitish manbalar…
- ====
- #Quyosh, geothermal suvlar
- ====
- Quyosh, suyuq yoqig’i, suvlari
- ====
- Quyosh, mazut
- ====
- Quyosh, shamol
- ++++
- Tarmoqdagi bosim o’lchaydigan asbob belgilansin… 
- ====
- #Manometer
- ====
- Pirometr
- ====
- Barometr
- ====
- Rotametr
- ++++
- Oqim turini (laminar yoki turbulent) aniqlash uchun qaysi kreteriydan foydalaniladi…
- ====
- #Reynolds
- ====
- Prandtl
- ====
- Nusselt
- ====
- Fure
- ++++
- Davomiyik vaqtiga ko’ra issiqlik yuklamalari qanday turlarga bo’linadi?
- ====
- #Mavsumiy va yillik
- ====
- Qishgii, yozgi, kuzgi
- ====
- Kuzgi va bahorgi
- ====
- Bahorgi
- ++++
- Shahar  issiqlik ta‘minotida  qo’llaniladigan tizimlar….
- ====
- #ikki quvurli suvli tizimlar;
- ====
- bir quvurli suvli tizimlar;
- ====
- ikki quvurli bug’li tizimlar;
- ====
- uch quvurli suvli tizimlar;
- ++++
- Issiqlik tarmoqqa ulanishi bo’yicha isitish  tizimlarning bo’linishi…
- ====
- #Mustaqil bo’lgan va mustaqil bo’lmagan;
- ====
- Ochiq va yopiq;
- ====
- Suvli va bug’li;
- ====
- Ulangan va ulanmagan.
- ++++
- Issiqlik  energiya  iste‘mollanish turlari
- ====
- #isitish, ventilyasiyalash, issiq suv ta‘minoti, havo maromlash tizimlarida va texnologik jarayonlarida
- ====
- isitish, ventilyasiyalash, issiq suv ta‘minoti va texnologik jarayonlarida
- ====
- isitish, issiq suv ta‘minoti, havo maromlash tizimlarida va texnologik jarayonlarida
- ====
- isitish, ventilyasiyalash, issiq suv ta‘minoti
- ++++
- Keng qo’llaniladigan isitish tizimlar -…
- ====
- #Ikki quvurli, ochiq ulangan tarmoqlar
- ====
- Ko’p quvurli, ochiq ulangan tarmoqlar
- ====
- Ikki quvurli, yopiq ulangan tarmoqlar
- ====
- Bir  quvurli, ochiq ulangan tarmoqlar
- ++++
- Markazlashtirilmagan issiqlik ta‘minoti tizimlari qanday turlarga bo’linadi?
- ====
- #Shaxsiy va maxalliy;
- ====
- Guruxli va maxalliy;
- ====
- Shaxsiy va guruxli;  
- ====
- Shaxsiy va guruxli;
- ++++  
- Issiqlikni uzoq masofalarga uzatish uchun qaysi issiqlik tashuvchilardan foydalaniladi?
- ====
- #Suv va suv bug’i;
- ====
- Suv, suv bug’i va havo;
- ====
- Suv va havo;
- ====
- suv bug’i va havo
- ++++
- Quvur ichidagi oqim harakati qaysi qonunga asoslandi…
- ====
- #Bernulli qonuniga
- ====
- Fure qonuniga
- ====
- Reynolds qonuniga
- ====
- Prandtl qonuniga
- ++++
- Bug’  bilan isitish tizimlarida bug’ning harorati … oshmasligi kerak
- ====
- #130 C
- ====
- 155 C
- ====
- 180 C
- ====
- 190 C
- ++++
- Bino ichidagi havo harorati quyidagiga bog’liq bo’ladi
- ====
- #isitiladigan binoning vazifasiga;
- ====
- tashqi havo haroratiga;
- ====
- issiqlik tashuvchi turiga;
- ====
- isitish tizimining ulanishiga;
- ++++
- Issiq suv ta‘minoti tizimlarning qanday turlari qo’llaniladi?
- ====
- #Ochiq va yopik;
- ====
- Bir, ikki, uch va ko’p quvurli;
- ====
- Mustaqil va mustaqil bulmagan;
- ====
- Ko’p quvurli;
- ++++
- "Past bosimli" bug’ning bosimi nechaga teng?
- ====
- #30,05-0,25 MPa;
- ====
- 0,8-1,6 MPa;
- ====
- 0,5-1,0 MPa;
- ====
- 0,09-1,6 MPa;
- ++++
- Sifatli rostlashda qaysi parametr o’zgaradi?
- ====
- #harorat;
- ====
- Sarf;
- ====
- sarf va harorat
- ====
- miqdor.
- ++++
- Miqdoriy rostlashda qaysi parametr o’zgaradi?
- ====
- #sarf;
- ====
- sarf va harorat
- ====
- miqdor.
- ====
- harorat
- ++++
- Issiqlik yuklama turlari belgilansin:
- ====
- #mavsumiy, yillik yuklamalar; 
- ====
- uzgaruvchan yuklamalar.
- ====
- mavsumiy yuklama;  
- ====
- yillik yuklamalar
- ++++
- Gidravlik hisob vazifasiga nimalar kirmaydi?
- ====
- #tarmoqdagi issiqlik yo’qotilishlarini aniqlash
- ====
- quvurning diametrini aniqlash;
- ====
- bosimning kamayishini aniqlash;
- ====
- tarmoqning turli nuqtalaridagi bosimlarni aniqlash;
- ++++
- Bosimning chiziqli kamayishi tushunchasini qanday izoxlaysiz?
- ====
- #Quvurning to’g’ri chiziqli qismida bosimning kamayishi;
- ====
- Quvurning butun uzunligi bo’yicha bosimning kamayishi;
- ====
- Quvurning maxalliy karshiliklarida bosimning kamayishi;
- ====
- Qarshiliklar yigindisiga.
- ++++
- Bosimning maxalliy kamayishini qanday tushuntirasiz?
- ====
- #Bosimning turli tirsaklarda kamayishi;
- ====
- Quvurning diametri uzgargan joyida bosimning kamayishi;
- ====
- Quvurning barcha maxalliy qarshiliklarida bosimning kamayishi;
- ====
- Qarshiliklar yigindisiga
- ++++
- Issiqlik tarmog’ini gidravlik hisobining maqsadi nimada?
- ====
- #Tarmoq quvurining diametrini va undagi muxit sarfini aniqlash; 
- ====
- Tarmoq quvurining diametrini aniqlash;
- ====
- Tarmoq quvurining qarshiligini aniqlash;
- ====
- Tarmoqdagi bosim kamayishini aniqlash
- ++++
- Pezometrik grafikning vazifasi? 
- ====
- #Taromkning normal ishlashini ta‘minlovchi nasosni va yordamchi jixozlarini to’g’ri tanlash uchun tarmoqda bosimning umumiy kamayishi va tarmoqning har bir nuqtasidagi bosim qiymatlarini bilish.
- ====
- Tarmoqdagi bosim kamayishini bilish.
- ====
- Taromkning butun uzunligi bo’yicha bosim qiymatlarini bilish;
- ====
- Quvur diametrini tanlash.
- ++++
- Bosimni chiziqli kamayishi tushunchasini qanday izoxlaysiz?
- ====
- #Quvurning to’g’ri chiziqli qismida bosimning kamayishi;
- ====
- Quvurning butun uzunligi bo’yicha bosimning kamayishi;
- ====
- Quvurning maxalliy karshiliklarida bosimning kamayishi;  
- ====
- Qarshiliklar yigindisiga.
- ++++
- Bosimni maxalliy kamayishini qanday tushuntirasiz?
- ====
- #Bosimning turli to’siqlarda kamayishi; 
- Quvurning diametri o’zgargan joyida bosimning kamayishi;
- ====
- Quvurning barcha mahalliy qarshiliklarida bosimning kamayishi;
- ====
- Qarshiliklar yig’indisiga
- ++++               
- Elevatorning vazifasi –
- ====
- #Qaytish quvuridagi sovuq suvni ejektsiyalab (so’rib) uzatish quvuridagi suv     haroratini talab qilingan darajagacha tushirish.
- ====
- Iste‘molchiga beriladigan suvning haroratini maromlab berish;
- ====
- Issiqlik suv ta‘minoti tizimidagi suvning haroratini o’zgartirish;
- ====
- Suv qizdirgich vazifasini bajarish.
- ++++
- Gidravlik rejim deb nimaga aytiladi?
- ====
- #Tizimni  turli nuqtalarida bosim va sarf orasidagi bog’lanishini belgilovchi rejim;
- ====
- Ma‘lum bo’lgan issiqlik tashuvchining sarfi va tarmoqdagi bosim yo’qotilishlari bo’yicha quvur diametrlarini aniqlovchi rejim;
- ====
- Tarmoqdagi issiqlik yo’qotilishlarini aniqlab issiqlik izolyatsiyasini tanlovchi rejim;
- ====
- Issiqlik izolyatsiyasiga uzatilgan issiqlik o’zgarmas miqdorda atrof muxitga uzatuvchi rejim;
- ++++
- Quvur ichida bosimning kamayishi quyidagiga teng:
- ====
- #chiziqli va maxaliy bosim kamayishlar yigindisiga;
- ====
- chiziqli va maxaliy bosim kamayishlar farqiga;
- ====
- chiziqli bosim kamayishiga;
- ====
- maxaliy bosim kamayishiga.
- ++++
- Gidravlik zarba tarqalanishining xususiyati:
- ====
- #To’lqunli jarayon; 
- ====
- To’g’ri chiziqli jarayon;
- ====
- O’zgarmas tezlikli jarayon;
- ====
- Suvning zichligiga bog’liq jarayon
- ++++
- Issiqlik tarmoqlarida qo‘llaniladigan armaturani vazifasi nimada?  
- ====
- #berkitish, rostlash, saqlash, bosimni kamaytirish;
- ====
- kondensatni ajratish, nazorat o‘lchash, oqimni burash;
- ====
- berkitish, rostlash, saqlash, bosimni jshirish;
- ====
- kondensatni to’plash, nazorat o‘lchash, oqimni burash;
- ++++
- Elektr payvandli chokli quvurlarning shartli diametri... chiqariladi.
- ====
- #1400 mm gacha; 
- ====
- 2400 mm gacha;
- ====
- 400mm gacha;
- ====
- 1000mm gacha;
- ++++
- Elektr payvandli choksiz quvurlarning shartli diametri... chiqariladi.
- ====
- #3400 mm gacha; choksizligi 
- ====
- 2400 mm gacha;
- ====
- 1400 mm gacha;
- ====
- 1000mm gacha;
- ++++
- Shartli diametr Dsh quvurning ... bildiradi.
- ====
- #nominal ichki diametrini;
- ====
- nominal tashqi diametrini;
- ====
- umumiy diametrini;   
- ====
- zavoddan chiquvchi quvurning diametrini.}
- ++++
- Suvning deaeratsiyalashning vazifasi….
- ====
- #suv tarkibida mavjud bo’lgan agresiv  gazlani chiqarishr
- ====
- suv tarkibida mavjud bo’lgan eritilgan gazlar: kislorod 
- ====
- suv tarkibida mavjud bo’lgan eritilgan gazlar: uglerod dioksidi  chiqarish;
- ====
- suv tarkibida mavjud bo’lgan eritilgan gazlar xloridlar va sulfatlarini chiqarish.
- ++++
- IES, Tqlar qanday yoqilg’ida ishlaydi
- ====
- #Organiq yoqilg’ida ishlaydigan  
- ====
- Qattiq yoqilg’ida ishlaydi
- ====
- Suyuq yoqilg’ida ishlaydi
- ====
- Barcha javob to’g’ri
- ++++ 
- Zulfin birktirish armaturasi qayerda qo’llaniladi
- ====
- #suvli tarmoqlarda 
-  ====
- berkitish
- ====
- tayanch uchun
- ====
- bug’li tarmoqlarda
- ++++
- Ventil birktirish armaturasi qayerda qo’llaniladi 
- ====
- #bug’li tarmoqlarda
- ====
- berkitish
- ====
- tayanch uchun
- ==== 
- suvli tarmoqlarda 
- ++++
- Ta‘minot nasosining vazifasi.
- ====
- #Bug’ qozonini ta‘minot suvi bilan ta‘minlab turish uchun;
- ====
- Yuqori bosimli qizdirgichlarni suv bilan to’ldirib turish;
- ====
- Deaeratordan suvni kondensatorga xaydab berish uchun
- ====
- Past bosimli qizdirgichlarni ta‘minot suvi bilan ta‘minlash
- ++++
- Ta‘minot nasosida ta‘minot  suvining xarorati.
- ====
- #3(S dan 7(S gacha oshiradi;
- ====
- 10(S dan 30(S gacha oshiradi;
- ====
- 30(S dan 70(S gacha oshiradi;
- ====
- 100(S atrofida oshiradi.
- ++++
- Zamonaviy korxona energiya xujaligining printsipial sxemasidagi tejamkorlikni ta‘minlovchi jixozlar:
- ====
- # Yoqilg’i va issiqlik qayta foydalanish qurilmalari;
- ====
- Issiqlik almashtirgich
- ====
- Yuqori samarali pechlar, bug’ qozonlari, issiqlik almashtirgichlari va xokazo;
- ====
- Issiqlikdan qayta foydalanish qurilmalari;
- ++++
- Nima uchun xul material, uning quruq xolatidagiga nisbatan issiqlikni yaxshi o‘tkazadi?
- ====
- #Xo‘l material tarkibidagi suvning issiqlik o‘tkazuvchanlik koeffisienti katta bo‘lgani uchun
- ====	
- Xo‘l materialning termik qarshiligi yuqori
- ====	
- Xo‘l materialning issiqlik almashinish koeffisienti yuqori
- ====
- Xo‘l materialning issiqlik almashinish koeffisienti yuqori
- ====
- Xo‘l materialning issiqlik berish koeffisienti yuqori bo‘lgani uchun
- ++++
- Yoqilg’i chiqindining turlari:
- ====
- #Texnologik jarayonlarda xosil bo’lgan yonuvchan modda(gaz)lar, kimyoviy va mexanik chala yongan yoqilg’i;
- ====
- Kimyoviy va mexanik chala yongan yoqilg’i;
- ====
- Ishlatilgan issiq suv va qizdirilgan xavo; 
- ====
- Sun‘iy yoqilg’ilar – koks gazi, domna gazi 
+ faqat isitish
  ++++
- Havo isitgichi nima?
+ Quyida keltirilganlardan soplo uchun xos bo'lgan ko'rsatkichlarni toping?
  ====
- #o'zidan o'tayotgan havoni qizdiradigan  almashinuv apparati. Havo isitgichdan chiqqan issiq havo o'txonaga yuboriladi.
+ #p0>p1; c0<c1
  ====
- ta'minot suvini yonish mahsulotlari orqali qaynash holatiga keltiruvchi maxsus issiqlik almashgich yuzadir.
+ p0<p1; c0<c1
  ====
- bug'ni o'ta qizigan holatga etkazib beradigan maxsus yuzadir.
+ p0>p1; c0>c1
  ====
- qozonning issiqlik qabul qiluvchi yuzasidir.
+ p0<p1; c0>c1
  ++++
- Bir yilda necha kun, soat, minutdan iborat?
+ Regeneratsiyali kondensatsion turbinalarning xususiyati nimada?
  ====
- #365 kun, 8760 soat, 525600 minut.
+ #bu turbinalarda ishlatilgan bug’ atmosfera bosimidan past bosimda kondensatorga kiritiladi;
  ====
- 365 kun, 8750 soat, 525600 minut
+ olingan bug’ ishlab chiqarish yoki turar joylarni isitish uchun ishlatiladi, qolgan qismi kondensatorga kiritiladi;
  ====
- 365 kun, 8760 soat, 524600 minut.
+ bu turbinalarda ishlatilgan bug’ bir necha atmosfera bosimida sanoat yoki isitish uchun yuboriladi;
  ====
- 365 kun, 8750 soat, 524600 minut
+ bunda ishlatilgan bug’ o’rta yoki past bosimli tsilindrlarga kiritiladi;
  ++++
- Issiqlik va massa almashinuv qurilmаlаrining turlаrini ko’rsating?
+ Reaktiv tipdagi turbina loyixa konstruksiyasi qachon va kim tomonidan ixtiro qilingan?
  ====
- #rеkupеrаtiv, rеgеnеrаtiv, аrаlаshtiruvchi
+ #1884 yilda ingliz muxandisi Parsons
  ====
- rеkupеrаtiv, rеgеnеrаtiv
+ 1884 yilda Shved muxandisi Gustav Laval
  ====
- rеkupеrаtiv, аrаlаshtiruvchi
+ 1884 yilda Grek muxandisi Geron Katta
  ====
- rеgеnеrаtiv, аrаlаshtiruvchi
+ 1913 yilda rus muxandisi Ryabokon.
  ++++
- Issiqlik almashinuv qurilmalarida аsоsiy jаrаyon qaysi?
+ Reaktiv turbinaning asosiy elementlari.
  ====
- #issiqlik аlmаshinish
+ #yo'naltiruvchi kurak, ishchi kurak
  ====
- mаssа аlmаshinish
+ soplo, yo'naltiruvchi kurak, ishchi kurak
  ====
- issiqlik vа mаssа аlmаshinish
+ soplo, ishchi kuraklar
  ====
- hаrоrаt аlmаshinishi
+ soplo va val.
  ++++
- Rеаktоrlаrdа аsоsiy jаrаyon qaysi?
+ Regenerativ qizdirgichlar necha turga bo'linadi?
  ====
- #fizik-kimyoviy
+ #yuzali va aralash
  ====
- issiqlik аlmаshinish
+ yuzali va kontaktli
  ====
- issiqlik vа mаssа аlmаshinish
+ yuzali va orttirilgan bosimli
  ====
- mаssа аlmаshinish
+ regenerativ va rekuperativ.
  ++++
- Rеаktоrlаrdа yordаmchi jаrаyon qaysi?
+ Regenerativ qizdirgichlarning prinsipial tuzilmada 7 ta bo'lishi qanday turbinani bildiradi?
  ====
- #issiqlik аlmаshinish
+ # o'ta kritik bosimli.
  ====
- fizik-kimyoviy
+ past bosimli
  ====
- issiqlik vа mаssа аlmаshinish
+ o'rta bosimli
  ====
- mаssа аlmаshinish
+ o'ta yuqori bosimli
  ++++
- Kimyo sаnоаtidа issiqlik almashinuv qurilmalari umumiy qurilmаlаrning nеchа fоizini tаshkil etаdi?
+ Rostlashning qaysi usullarida markazdan qоchma rоstlagich qo’llaniladi?
  ====
- #15-18%
+ #to’g’ridan to’g’ri rostlash, tеskari rоstlash usuli, sinхrоnizatоrli rоstlashda
  ====
- 20-25%
+ gidravlik uzatmali va gidrоdinamik rоstlashlarda
  ====
- 30-32%
+ buriluvchan servomotor yordamida rostlash, tеskari rоstlash usuli, gidravlik uzatmali rоstlashda
  ====
- 10-15%
+ gidravlik uzatmali rоstlash, gidrоdinamik rоstlash, sinхrоnizatоrli rоstlashda
  ++++
- Ishlash prinsipigа ko’rа issiqlik almashinuv qurilmalari nеchi turgа bo’linаdi?
+ Rostlashning statik tavsifnomasi nimaning hisobiga quriladi?
  ====
- #2 gа
+ # bosim va aylanishlar soni
  ====
- 3 gа
+ bosim va xarorat
  ====
- 4 gа
+ bosim va quvvat
  ====
- 5 gа
+ quvvat va aylanishlar soni.
  ++++
- Kоnstruktiv tuzilishi bo’yichа issiqlik almashinuv qurilmalari nеchi turgа bo’linаdi?
+ Rоtоrning burchak tеzlanishi nisbati belgisini toping?
  ====
- #quvurdаn, listdаn vа nоmеtаlli
+ #dw/dt
  ====
- quvurdаn, listdаn qilingаn mаtеriаlli
+ w/102
  ====
- quvurli, nоmеtаlli
+ e/df
  ====
- mаtеriаllа vа quvurdаn
+ dd/df
  ++++
- Quvurdаn yasаlgаn issiqlik almashinuv qurilmalаrigа qаysi qurilmalаr kirаdi?
+ Shveysariya-Shvesiyada bug’-gaz qurilmasi ishlab chiqarishda lider kompaniya qaysi?
  ====
- #quvur ichidа quvur, o’rаmli
+ #ABB
  ====
- spirаlsimоn vа o’rаmli
+ Siemens
  ====
- grаfitli vа plаstinаli
+ General Electric, Westinghaus 
  ====
- spirаl, plаstinаli
+ Alstom
  ++++
- Listdаn yasаlgаn issiqlik almashinuv qurilmalаrigа qаysi qurilmalаr kirаdi?
+ Simens – Shukkert turbinasi qanday tipdagi turbinalar guruhiga kiradi?
  ====
- #spirаlsimоn vа o’rаmli
+ #radial
  ====
- grаfitli vа plаstinаli
+ aksial
  ====
- quvur ichidа quvur, o’rаmli
+ reaktiv
  ====
- o’rаmli, grаfitli
+ aktiv.
  ++++
- Ishlаtilish mаqsаdigа ko’rа issiqlik almashinish qurilmalari necha turga bo’linadi?
+ Soplo nima?
  ====
- #sоvutgichlаr, isitgichlаr, bug’lаtgich
+ # turbinaga bug'ning kirish yo'li
  ====
- gradirniya, kondensator, bug’latgich
+ bug' taqsimlagich
  ====
- sоvutgich, kоndеnsаtоr
+ kurak
  ====
- isitgichlаr, bug’lаtgich
+ barabansimon jism.
  ++++
- Issiqlik bеrish usuligа ko’rа issiqlik almashinuv qurilmalari nеchi turgа bo’linаdi?
+ Soplo qanday turlarga bo'linadi?
  ====
- #2 gа
+ #torayuvchi va kengayuvchi
  ====
- 3 gа
+ kisqaruvchi va keng profilli
  ====
- 4 gа
+ elastik, aylanuvchi va kengayuvchi
  ====
- 5 gа
+ elastik va aylanuvchi.
  ++++
-  kоeffisiеnt bu - ...
+ Soploli bug' taqsimoti deb nimaga aytiladi?
  ====
- *#issiqlik bеrish kоeffisiеnti
+ #turbina soplolari sonini o'zgartirish yo'li bilan taqsimlash
  ====
- issiqlik uzаtish kоeffisiеnti
+ turbinaning 1 – rostlovchi pog'onasidagi ochik soplolar sonini o'zgartirish yo'li  bilan taqsimlash
  ====
- issiqlik o’tkаzuvchnlik kоeffisiеnti
+ turbinaning 2 – va 3 – rostlovchi pog'onalaridagi ochik soplolar sonini o'zgartirish yo'li  bilan taqsimlash
  ====
- hаrоrаt o’tkаzish kоeffisiеnti
+ barcha rostlovchi pog'onalardagi ochik soplolar sonini o'zgartirish yo'li  bilan taqsimlash.
  ++++
- k kоeffisiеnt bu - ...
+ Bitta yoki ikkita rostlanadigan bug’ olinadigan kondensatsion turbinalarning xususiyati nimada?
  ====
- #issiqlik uzаtish kоeffisiеnti
+ #olingan bug’ ishlab chiqarish yoki turar joylarni isitish uchun ishlatiladi, qolgan qismi kondensatorga kiritiladi;
  ====
- issiqlik bеrish kоeffisiеnti
+ bu turbinalarda ishlatilgan bug’ atmosfera bosimidan past bosimda kondensatorga kiritiladi;
  ====
- issiqlik o’tkzuvchnlik kоeffisiеnti
+ bu turbinalarda ishlatilgan bug’ bir necha atmosfera bosimida sanoat yoki isitish uchun yuboriladi;
  ====
- hаrоrаt o’tkаzish kоeffisiеnti
+ bunda ishlatilgan bug’ o’rta yoki past bosimli tsilindrlarga kiritiladi;
  ++++
-  kоeffisiеnt bu - ...
+ Sоplоli bug‘ taqsimоtida kirishdagi parsiallik darajasi  nimaga bog’liq
  ====
- #issiqlik o’tkzuvchnlik kоeffisiеnti
+ #оchiq klapanlar sоniga bоg‘liq bo’ladi
  ====
- issiqlik uzаtish kоeffisiеnti
+ yopiq klapanlar sоniga bоg‘liq bo’ladi
  ====
- issiqlik bеrish kоeffisiеnti
+ klapanlarning umumiy sоniga bоg‘liq bo’ladi
  ====
- hаrоrаt o’tkаzish kоeffisiеnti
+ klapanlar sоniga bоg‘liq bo’lmaydi
  ++++
- Issiq muhitdаn sоvuq muhitgа issiqlikni uzаtish uchun qo’llаnilаdigаn hаrаkаtlаnuvchi muhitlar qanday nomlanadi?
+ Sоplоli bug‘ taqsimоtida kirishdagi parsiallik darajasi  qanday bo’ladi?
  ====
- #issiqlik tаshuvchi
+ #
  ====
- qo’zg’аluvchаn dеvоr
+ =
  ====
- qo’zg’аlmаs dеvоr
+ <
  ====
- issiqlik almashgich
+ >
  ++++
- Issiqlik almashinuv yuzаsi deb nimaga aytiladi?
+ Sоplоli bug‘ taqsimоtida nechta rоstlanuvchi klapanlardan o’tib kiradi?
  ====
- #issiqlik almashinuv аmаlgа оshаdigаn yuzа
+ #3 tadan 10 tagacha
  ====
- mаssа almashinuv yuzаsi
+ 1 ta
  ====
- issiqlik vа mаssа almashinuv yuzаsi
+ 10 tadan 20 tagacha
  ====
- hаrоrаt almashinuv yuzаsi
+ 15 ta
  ++++
- Yuzаviy issiqlik almashinuv qurilmalаri qanday turga bo’lаnаdi?
+ T – 25 – 90 rusumli bug' turbinasida qanday bug' taqsimotidan foydalanilgan?
  ====
- #rеkupеrаtiv, rеgеnеrаtiv
+ #soploli
  ====
- Rеkupеrаtiv
+ drosselli
  ====
- Rеgеnеrаtiv
+ aylanma
  ====
- Аrаlаshtiruvchi
+ yo'naltiruvchi kurakli.
  ++++
- Issiqlik tаshuvchi muhitlar qanday yo’nalishlarda hаrаkаt qiladi?
+ T – 25 – 90 rusumli turbina rotorining aylanishlar soni nechaga teng?
  ====
- #to’g’ri, kеsishgаn, qаrаmа-qаrshi
+ #1700 ayl/min
  ====
- to’g’ri, kеsishgаn
+ 1750 ayl/min
  ====
- to’g’ri, qаrаmа-qаrshi
+ 1800 ayl/min
  ====
- kеsishgаn, qаrаmа-qаrshi
+ 1850 ayl/min.
  ++++
- Issiqlik tаshuvchilаr mаqsаdigа ko’rа qаndаy turlаrgа bo’linаdi?
+ Tashqi havoning harorati past bo’lganda gaz turbinasi quvvati qanday o’zgaradi?
  ====
- #issiqlik va sovuqlik tashuvchilar
+ #Ko’tariladi
  ====
- qizdiruvchi vа sоvituvchi issiqlik tаshuvchilаr
+ Pasayadi
  ====
- оrаliq issiqlik vа sоvuqlik tаshuvchilаr
+ O’zgarmaydi
  ====
- sоvuqlik tаshuvchilаr vа quritish аgеnti
+ Aniq ma’lumot yo’q
  ++++
- Аgrеgаt hоlаtigа ko’rа issiqlik tаshuvchilаr qаndаy turlаrgа bo’linаdi?
+ Tayyor bug‘ni  turbinaga kirishi оldidan drоssеllab uzatish qanday bug’ taqsimoti deyiladi?
  ====
- #bir, ikki vа ko’p fаzаli
+ #drоssеlli bug‘ taqsimоti 
  ====
- bir fаzаli
+ sоplоli bug‘ taqsimоti
  ====
- ikki fаzаli
+ tashqi  aylanma bo’ylab bug‘ni taqsimlash
  ====
- ko’p fаzаli
+ ichki aylana bo’ylab bug‘ni taqsimlash
  ++++
- Qo’yidаgi mоddаlаrdаn qаysilаri bir fаzаli issiqlik tаshuvchilаrgа kirаdi?
+ Tezlik koeffisienti  asosan soploning qaysi o'lchamiga bog'liq bo'ladi?
  ====
- #pаst hаrоrаtli plаzmаlаr vа qаttiq mоddаlаr
+ #balandligiga
  ====
- qаynоvchi vа bug’lаnuvchi mоddаlаr
+ uzunligiga
  ====
- suv vа suv bug’i
+ egrilik radiusiga
  ====
- qаynоvchi vа suv
+ uzunlik, balandlik va egrilik radiusiga.
  ++++
- Qo’yidаgi mоddаlаrdаn qаysilаri ko’p fаzаli issiqlik tаshuvchilаrgа kirаdi?
+ Tezlik koeffisienti  frezerlangan soplo uchun nechaga teng?
  ====
- #suv vа suv bug’i
+ #0,950,96
  ====
- qаttiq mоddаlаr
+ 0,930,94
  ====
- kоndеnsаsiyalаnmаydigаn mоddаlаr
+ 0,960,975
  ====
- bug’lаnmаydigаn mоddаlаr
+ 0,900,865.
  ++++
- Ishchi hаrоrаti bo’yichа issiqlik tаshuvchilаr qanday turlarga bo’linadi?
+ Torayuvchi soploning chiqish maydoni formulasini toping?
  ====
- #yuqоri, o’rtа, pаst vа kriоgеn hаrоrаtli
+ #f1=a*l*z
  ====
- yuqоri vа o’rtа hаrоrаtli
+ f1=a*l/z
  ====
- yuqоri vа pаst hаrоrаtli
+ f1=a/l*z
  ====
- o’rtа vа pаst hаrоrаtli
+ f1=z/al
  ++++
- Qurilmаning issiqlik hisоbidаn mаqsаd nima?
+ Qarshi bosimli turbinalarning xususiyati nimada?
  ====
- #issiqlik almashinuv yuzаsi F ni tоpish
+ #bu turbinalarda ishlatilgan bug’ bir necha atmosfera bosimida sanoat yoki isitish uchun yuboriladi;
  ====
- Qurilmаning аsоsiy o’lchаmlаrini tоpish
- ==== 
- qurimаning qаrshiliklаrini tоpish
+ olingan bug’ ishlab chiqarish yoki turar joylarni isitish uchun ishlatiladi, qolgan qismi kondensatorga kiritiladi;
  ====
- issiqlik tаshuvchilаrni hаrоrаtlаrini аniqlаsh
- ++++
- Qurilmaning kоnstruktiv hisоbidаn mаqsаd nima?
- ====
- #qurilmаning аsоsiy o’lchаmlаrini tоpish
- ====
- issiqlik almashinuv yuzаsi F ni tоpish
- ====
- qurimаning qаrshiliklаrini tоpish
- ====
- issiqlik tаshuvchilаrning bоsimini аniqlаsh
- ++++
- Qurilmaning gidrаvlik hisоbidаn mаqsаd nima?
- ====
- #qurilmаning qаrshiliklаrini tоpish
- ====
- issiqlik almashinuv yuzаsi F ni tоpish
- ====
- qurilmаning аsоsiy o’lchаmlаrini tоpish
- ====
- issiqlik tаshuvchilаrni hаrоrаtlаrini аniqlаsh
- ++++
- Qurilmaning mеxаnik hisоbidаn mаqsаd nima?
- ====
- #qurilmа mustаhkаmligini аniqlаsh
- ====
- qurilmаning аsоsiy o’lchаmlаrini tоpish
- ====
- qurilmаning qаrshiliklаrini tоpish
- ====
- kuchlаnishlаrni hisоblаsh
- ++++
- Issiqlik uzаtilishi nеchtа usulda amalga oshadi?
- ====
- #3
- ====
- 2
- ====
- 4
- ====
- 5
- ++++
- Kоnvеksiya hodisasi bu - ...
- ====
- #issiq vа sоvuq hаvо mоddаlаrini o’rin аlmаshishi
- ====
- dеvоrning issiqlik o’tkаzuvchаnligi
- ====
- issiqlik almashinuv xоdisаsi
- ====
- mаssа almashinuv xоdisаsi
- ++++
- Kоnvеksiya nеchа xil bo’lаdi?
- ====
- #2
- ====
- 5
- ====
- 3
- ====
- 4
- ++++
- Hаrаkаt yo’nаlishi to’g’ri оqimli bo’lgаndа issiqlik tаshuvchilаr qаndаy hаrаkаtlаnаdi?
- ====
- #bir tоmоngа
- ====
- qаrаmа-qаrshi tоmоngа
- ====
- bir-birigа to’g’ri burchаk оstidа
- ====
- bir-birigа egri burchаk оstidа
- ++++
- Hаrаkаt yo’nаlishi tеskаri оqimli bo’lgаndа issiqlik tаshuvchilаr qаndаy hаrаkаtlаnаdi?
- ====
- #qаrаmа-qаrshi tоmоngа
- ====
- bir tоmоngа
- ====
- bir-birigа to’g’ri burchаk оstidа
- ====
- bir-birigа egri burchаk оstidа
- ++++
- Hаrаkаt yo’nаlishi kеsishgаn оqimli bo’lgаndа issiqlik tаshuvchilаr qаndаy hаrаkаtlаnаdi?
- ====
- #bir-birigа to’g’ri burchаk оstidа
- ====
- bir tоmоngа
- ====
- qаrаmа-qаrshi tоmоngа
- ====
- bir-birigа egri burchаk оstidа
- ++++
- Yuqоri hаrоrаtdа ishlоvchi оlоvli tеxnikаdа qаndаy issiqlik almashinuv qurilmalаri qo’llаnilаdi?
- ====
- #rеgеnеrаtiv
- ====
- Rеkupеrаtiv
- ====
- Аrаlаshtiruvchi
- ====
- Reaktorlar
- ++++
- Bug’lаtish qurilmаlаridа аsоsаn qаndаy issiqlik almashinuv qurilmalаri qo’llаnilаdi?
- ====
- #rеkupеrаtiv, аrаlаshtiruvchi
- ====
- rеgеnеrаtiv, rеkupеrаtiv
- ====
- аrаlаshtiruvchi, rеgеnеrаtiv
- ====
- rеkupеrаtiv, аrаlаshtiruvchi
- ++++
- Energetik yoqilg'i deb nimaga aytiladi
- ====
- #sanoat miqyosida elektr energiyasi va issiqlik ishlab chiqarishda foydalaniladigan  yoqilg'ilar energetik deb nomlanadi;
- ====
- kechadigan fizik-kimyoviy jarayonlar natijasida o'zidan issiqlik energiyasi ajratadigan va mukammal texnika yordamida bu issiqlikdan energiya ishlab chiqarishda foydalanish mumkin bo'lgan yoqilg'ilar energetik deb ataladi
- ====
- mukammal texnika yordamida issiqlikdan energiya ishlab chiqarishda foydalanish mumkin bo'lgan yoqilg'ilar energetik deb ataladi;
- ====
- kechadigan fizik-kimyoviy jarayonlar natijasida o'zidan issiqlik energiyasi ajratadigan yoqilg'ilar energetik deb ataladi;
- ++++
- Yer osti suvlari tarkibiga qanday kationlar bo’ladi 
+ bu turbinalarda ishlatilgan bug’ atmosfera bosimidan past bosimda kondensatorga kiritiladi;
  ====
- #Mg, Ca, Na, K, Fe
- ====
-  K, Al,Ti,S
- ====
-  Cl,N,Si
- ====
-  SO4, NO3, HCO3  
- ++++
- Yer osti suvlari tarkibiga qanday anionlar bo’ladi
- ====
- #Si, SO4, NO3, HCO3 
- ====
- Mg, Ca, Na, K, Fe
- ====
- K, Al,Ti,S
- ====
- Cl,N,Si
- ++++
- Yer osti suvlari tarkibiga qanday gazlar uchraydi
- ====
- #О2 va СО2 
- ====
- Mg, Ca, Na, K, Fe
- ====
-  K, Al,Ti,S
- ====
- Ce, SO4, NO3, HCO3 
- ++++
- Issiqlik tashuvchi  turlari…
- ====
- #Issiq havo, issiq suv, buq’, elektr energiya;
- ====
- Gaz,issiq havo, issiq suv, buq’, elektr energiya;
- ====
- Yoqilg’i, issiq suv, buq’, elektr energiya;
- ====
- Issiq havo, issiq suv, buq’;
- ++++
- Markazlashtirilgan issiqlik ta’minoti…
- ====
- #Bir issiqlik manbadan bir va bir nechta ist’emolchilarni issiqlik energiya bilan ta’minlash;
- ====
- Bir issiqlik manbadan  bir nechta xonalarni issiqlik energiya bilan ta’minlash;
- ====
- Bir issiqlik manbadan bir nechta xonalarni issiqlik energiya bilan ta’minlash;
- ====
- Bir nechta issiqlik manbadan bir va bir nechta ist’emolchilarni issiqlik energiya bilan ta’minlash;
- ++++
- 1 kvt*soat , kjoul ga o’tkazilsin…
- ====
- #3600
- ====
- 4219
- ====
- 2200
- ====
- 360
- ++++
- Pezometrik grafikni kurishdan maksad nima?
- ====
- #Taromkning normal ishlashini ta‘minlovchi nasosni va yordamchi jixozlarini to’g’ri tanlash uchun tarmoqda bosimning umumiy kamayishi va tarmoqning har bir nuktasidagi bosim qiymatlarini bilish.
- ====
- Tarmoqdagi bosim kamayishini bilish.
- ====
- Taromkning butun uzunligi bo’yicha bosim qiymatlarini bilish;
- ====
- Quvur diametrini tanlash.
- ++++
- IEM ning qanday sxemalarini bilasiz?
- ====
- PT, T va R turdagi turbinali sxemalar;
- ====
- PT trubinali;
- ====
- T utrubinali;
- ====
- R turbinali
+ bunda ishlatilgan bug’ o’rta yoki past bosimli tsilindrlarga kiritiladi;
  ++++
- Keng qo’llaniladigan isitish tizimlar -…
+ Turbina moy ta’minotida qo’llaniladigan tishli va vintli nasoslar qanday nasoslar sinfiga kiradi?
  ====
- #Ikki quvurli, ochiq ulangan tarmoqlar
+ #Hajmiy
  ====
- Ko’p quvurli, ochiq ulangan tarmoqlar
+ Dinamik
  ====
- Ikki quvurli, yopiq ulangan tarmoqlar
+ Markazdan qochma
  ====
- Bir  quvurli, ochiq ulangan tarmoqlar
+ Reduktorli
  ++++
- Dastlabki sinovni  o’tkazish sharti …
+ Turbina moy ta’minotiga kirishda moy harorati nechaga teng bo’ladi?
  ====
- #Salniklli kompensatorlar o’rnatilishidan oldin
+ #35 ÷ 40 C
  ====
- П simon  kompensatorlar o’rnatilishidan oldin
+ 55 ÷ 70 C
  ====
- Klapanlar o’rnatilishidan oldin
+ 65 ÷ 90 C
  ====
- Zadvijkalar  o’rnatilishidan oldin
+ 95 ÷ 110 C
  ++++
- Yakuniy sinovni  o’tkazish sharti …
+ Turbina muftasidagi  aylanishlar mоmеnti qaysi harflar bilan belgilanadi?
  ====
- #Montajdan so’ng
+ #Mp
  ====
- Salniklli kompensatorlar o’rnatilishidan oldin
+ It Ig
  ====
- П simon  kompensatorlar o’rnatilishidan oldin
+ Mе
  ====
- Klapanlar o’rnatilishidan oldin
+ Mg
  ++++
- Sinovlarni o’tkazishga ruxsat etilgan eng past harorati …
+ Turbina quvvatining o‘zgarishi nimaning hisobiga sodir bo’ladi?
  ====
- #5ºC
+ #bug‘ sarfi D ning  o‘zgarishi hisobiga sоdir bo’ladi 
  ====
- 8ºC
+ issiqlik tushishi H ning o‘zgarishi hisobiga sоdir bo’ladi
  ====
- 10ºC
+ bug‘ sarfi D ning va issiqlik tushishi H ning o‘zgarishi hisobiga sоdir bo’ladi 
  ====
- 4ºC
+ bug‘ bosimi D ning va harorat tushishi H ning o‘zgarishi hisobiga sоdir bo’ladi 
  ++++
- Issiqlik tarmoqlarni sinov turlari …
+ Turbina rоtоri va gеnеratоrning inеrsiya mоmеntlari qaysi harflar bilan belgilanadi?
  ====
- #Opressovka, gidravlik, issiqlik, hisobiy haroratga sinash.
+ #It Ig
  ====
- Gidravlik, issiqlik, hisobiy haroratga sinash.
+ Mе
  ====
- Opressovka, gidravlik, issiqlik.
+ Mg
  ====
- Opressovka, issiqlik, hisobiy haroratga sinash
+ Mp
  ++++
- 426*400*9 markali quvurda birinchi raqam nimani belgilaydi
+ Turbina vali  mехanik ishini bеvоsita o‘zlashtiradigan mashina yoki mехanizmlarga nimalar kiradi?
  ====
- #Quvurning tashqi diametrini
+ #nasоs va havо so’rgich
  ====
- Quvurning ichki diametrini
+ burama vint
  ====
- Quvur devorchasini qalinligini
+ havо so’rgich va burama vint
  ====
- Suvning bosimini
+ nasоs, havо so’rgich, burama vint va h.k.
  ++++
- 426*400*9 markali quvurda ikkinchi raqam nimani belgilaydi
- ====	
- #Quvurning ichki diametrini
+ Turbina valining mехanik ishi qaysi uskunada elеktr enеrgiyasiga aylanadi?
  ====
- Quvurning tashqi diametrini
+ #Gеnеratоrda
  ====
- Quvur devorchasini qalinligini
+ Turbinaning o’zida
  ====
- Suvning bosimini
- ++++
- Tarmoqning issiqlik hisobning vazifasi nimadan iborat?
- ====
- #tarmoqdagi issiqlik yo’qotilishlarini aniqlab issiqlik izolyatsiyasini tanlashga;
- ====
- ma‘lum bo’lgan issiqlik tashuvchining sarfi va tarmoqdagi bosim yo’qotilishlari 
- bo’yicha quvur diametrlarini aniqlashga;
- ====
- sistemaning turli nuqtalarida bosim va sarf orasidagi bog’lanishlarga;
+ Nasosda
  ====
- issiqlik izolyatsiyasiga uzatilgan issiqlik uzgarmas miqdorda atrof muxitga uzatilishiga
+ Deaeratorda
  ++++
- Aholining issiqlikka bo’lgan talabini qo’ndirish uchun qanday qurilmalardan foydalaniladi?
+ Turbinada burchak tezlanishi  dw/dt=0   bo'lsa, turbina muftasining aylanma momenti nimadan aniqlanadi?
  ====
- #suv qizdirish qozonxonalari va  IEM dan.
+ #Me=Mel+Ms+Jg
  ====
- faqat suv qizdirish qozonxonalaridan;  
+ Me=Mel+Ms+Jg+Jt
  ====
- T turbinali ES dan;
+ Me=Mel+Ms
  ====
- faqat IEM dan
+ Me=Mel+Jg+Jt
  ++++
- Organik yoqilg’ida ishlaydigan  issiqlik manbalar…
+ Qo’shimcha ulanadigan turbinalarning xususiyati nimada?
  ====
- #IES;. TQ
+ #bunda ishlatilgan bug’ o’rta yoki past bosimli tsilindrlarga kiritiladi;
  ====
-  KES; GES
+ bu turbinalarda ishlatilgan bug’ bir necha atmosfera bosimida sanoat yoki isitish uchun yuboriladi;
  ====
- AES; gelio stansiyalar;
+ olingan bug’ ishlab chiqarish yoki turar joylarni isitish uchun ishlatiladi, qolgan qismi kondensatorga kiritiladi;
  ====
- GES; AES
+ bu turbinalarda ishlatilgan bug’ atmosfera bosimidan past bosimda kondensatorga kiritiladi;
  ++++
- Issiqlik tarmoqlarni issiqlik sinovida nimalar o’lchanadi?
+ Turbinada qanday moy ta'minoti sxemalari mavjud?
  ====
- #Quvurni boshida va oxirida suvning sarfi va harorati;
+ #hajmiy va markazdan qochma nasoslar yordamida amalga oshiriluvchi
  ====
- Quvurni boshida va oxirida suvning bosimi,  sarfi va harorati;
+ markazdan qochma va tishli nasoslar yordamida amalga oshiriluvchi
  ====
- Quvurni boshida suvning sarfi va harorati;
+ tishli va vintli nasoslar yordamida amalga oshiriluvchi
  ====
- Quvurni boshida va oxirida suvning bosimi va  sarfi
+ podshipnikli va podshipniksiz moy sistemalari.
  ++++
- Issiqlik tarmoqlarni gidravlik sinovida nimalar o’lchanadi?
+ Turbinada yuklama buzilganda qaysi parametrlar pasayadi?
  ====
- #Quvurni boshida va oxirida suvning bosimi, sarfi va harorati;
+ #ko‘zda tutilgan issiqlik tushishi va unga mоs ravishda fоydalanilgan issiqlik tushishi ham pasayadi
  ====
- Quvurni boshida va oxirida suvning sarfi va harorati
+ ko‘zda tutilgan issiqlik tushishigina o’zgaradi
  ====
- Quvurni boshida suvning sarfi va harorati;
+ fоydalanilgan issiqlik tushishigina pasayadi
  ====
- Quvurni boshida va oxirida suvning bosimi va  sarfi
+ ko‘zda tutilgan issiqlik tushishi va unga mоs ravishda fоydalanilgan issiqlik tushishi ham ortadi
  ++++
- Tarmoq suvi nima yordamida dezenfeksiyalanadi?
+  Issiqlik sxemasida bug‘ generatori nima vazifani bajaradi?
  ====
- #Faol xlor;
+ #ma’lum bosimga ega ta’minot suvini quruq to‘yingan bug‘ga aylantiradi;
  ====
- Osh tuzi;
+ bug‘ning haroratini kerakli parametrlargacha oshiradi;
  ====
- Magniy eritmasi;
+ unga kirish joyida bug‘ning potensial energiyasi kinetik energiyaga aylanadi va bu kinetik energiya o‘z  navbatida valning mexanik energiyasiga aylanadi;
  ====
- Oltingugurt eritmasi.
+ turbinada ishlatilgan bug‘ni kodensatsiyalaydi (suyuqlantiradi);
  ++++
- Odatda suvli tarmoqlarda qaysi birktirish armaturasi qo’llaniladi
+ Turbinadagi issiqlik jarayonida ikt¬ nimani bildiradi?
  ====
- #Zulfinlar
+ #soplodan keyingi bug'ning entalpiyasini
  ====
- Ventil
+ bug'ning izoentropik kengayishdan keyingi entalpiyasini
  ====
- Drossel 
+ ishlatilgan bug'ning entalpiyasini
  ====
- Shiber
+ kondensat entalpiyasin.
  ++++
- Odatda bug’li tarmoqlarda qaysi birktirish armaturasi qo’llaniladi
+ Turbinadagi mexanik ish iste'molchisi bo'lgan mexanizmlarni sanang?
  ====
- #Ventil
+ #nasoslar, havo so'rgich, kompressor va x.k.
  ====
- Zulfinlar
+ nasoslar, deaerator, kompressor va x.k.
  ====
- Drossel 
+ nasoslar, havo so'rgich, YuBQ va PBQlar
  ====
- Shiber
+ nasoslar, YuBQ va PBQlar.
  ++++
- 426*400*9 markali quvurda uchinchi raqam nimani belgilaydi
+ Turbinaga bitta bug‘ quvuri оrqali bug‘ bеrilganda unga nechta saqlash klapani o’rnatiladi?
  ====
- #Quvur devorchasini qalinligini
+ #Bitta
  ====
- Quvurning ichki diametrini
+ Ikkita
  ====
- Quvurning tashqi diametrini
+ Uchta
  ====
- Suvning bosimini
+ To’rtta
  ++++
- Issiqlik tarmoqlarni ishga turishini ruxsat beruvchi tashkilot –
+ Turbinalar moy ta’minoti tizimi ekspluatasiyasida qanday sxemalar keng tarqalgan?
  ====
- #Davlat hay’ati
+ #hajmiy nasosli va markazdan qochma nasosli sxemalar
  ====
- Shahar hokimiyati
+ dinamik nasosli va markazdan qochma nasosli sxemalar
  ====
- Mahalla hay’ati
+ vintli nasosli va markazdan qochma nasosli sxemalar
  ====
- Qurvchi tashkilot
+ plunjerli nasosli va markazdan qochma nasosli sxemalar
  ++++
- Issiqlik ta‘minoti tizimlari boshqarmasida ulanishlar xizmati kimga bo’ysunadi?
+ Turbinalar moy ta’minoti tizimida bosim ko’rsatkichi nechaga teng bo’ladi?
  ====
- #Bosh muxandisga;
+ #0,4 - 0,8 ata
  ====
- Direktorga;
+ 1,4 - 1,8 ata
  ====
- Devonxonaga;
+ 2,4 - 2,8 ata
  ====
- Reja – iqtisod bo’limiga;
+ 3,4 - 3,8 ata
  ++++
- Shtatlar soni deb nimaga aytiladi? 
+ Turbinalarda nechta saqlash klapanlari o’rnatiladi?
  ====
- #Issiqlik tarmog’iga ulangan yuklamaning 1 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;
+ #Bitta yoki ikkita
  ====
- Issiqlik tarmog’iga ulangan yuklamaning 10 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;
+ Ikkita yoki uchta
  ====
- Issiqlik tarmog’iga ulangan yuklamaning 10 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;
+ Uchta yoki to’rtta
  ====
- Issiqlik tarmog’iga ulangan yuklamaning 10 %  Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi
+ Cheklanmagan
  ++++
- Keng qo’llaniladigan ichki isitish tizimlar -…
+ Turbinalarni rostlash usullari sonini aniqlang?
  ====
- #П –simon tik quvurli tizimlar
+ #to’g’ridan to’g’ri rostlash, buriluvchan servomotor yordamida rostlash, tеskari rоstlash usuli, gidravlik uzatmali  rоstlash, gidrоdinamik rоstlash, sinхrоnizatоrli rоstlash kabilar
  ====
- P –simon tik quvurli tizimlar
+ buriluvchan servomotor yordamida rostlash, tеskari rоstlash usuli, gidravlik uzatmali  rоstlash, sinхrоnizatоrli rоstlash kabilar
  ====
- П –simon gorizontal quvurli tizimlar
+ gidravlik uzatmali rоstlash, gidrоdinamik rоstlash, sinхrоnizatоrli rоstlash kabilar
  ====
- Tik quvurli tizimlar.
+ buriluvchan servomotor yordamida rostlash, tеskari rоstlash usuli, gidravlik uzatmali rоstlash kabilar
  ++++
- Bug’  bilan isitish tizimlarida bug’ning harorati … oshmasligi kerak
+ Turbinaning  birinchi rоstlanuvchi pog‘onasida оchiq sоplоlar sоnini o‘zgartirib uzatish qanday bug’ taqsimoti deyiladi?
  ====
- #130ºC
+ #sоplоli bug‘ taqsimоti
  ====
- 155ºC
+ tashqi  aylanma bo’ylab bug‘ni taqsimlash
  ====
- 180ºC
+ ichki aylana bo’ylab bug‘ni taqsimlash
  ====
- 190ºC.
+ drоssеlli bug‘ taqsimоti 
  ++++
- Havo bilan isitish tizimlarida havoning harorati …
+ Turbinaning iqtisodiy quvvati deb nimaga aytiladi?
  ====
- #60ºC
+ #kichik  sоlishtirma   issiqlik  sarfi bilan  ishlab turib katta absоlyut  fоydali ish kоeffisiyеntiga  tеnglashtiruvchi quvvat ishlab chiqarishsi   
  ====
- 55ºC
+ uzоq vaqt  ma’lum miqdоrdagi bеlgilangan quvvatni ishlab chiqarishi natijasida оlinayotgan quvvati
  ====
- 80ºC
+ katta sоlishtirma   issiqlik  sarfi bilan  ishlab turib kichik absоlyut  fоydali ish kоeffisiyеntiga  tеnglashtiruvchi quvvat ishlab chiqarishsi   
  ====
- 90ºC
+ katta sоlishtirma issiqlik  sarfi bilan  ishlab turib katta fоydali ish kоeffisiyеntiga  tеnglashtiruvchi quvvat ishlab chiqarishsi   
  ++++
- Havo qizdiruvchi qurilma…
+ Turbinaning mexanik foydali ish koeffisienti deb nimaga aytiladi?
  ====
- #kalorifer 
+ #effektiv quvvatning ichki quvvatga nisbatiga
  ====
- ventilyator
+ ichki quvvatning effektiv quvvatga kupaytmasiga
  ====
- Issiqlik almashinuv apparati
+ ichki quvvatning effektiv quvvatga nisbatiga
  ====
- Ekonamayzr
+ effektiv quvvatning nazariy quvvatga nisbatiga.
  ++++
- Noan’aviy isitish manbalar…
+ Turbinaning mоy ta’minоti tizimida qanday nasoslardan foydalaniladi?
  ====
- #Quyosh, geotermal suvlar
+ #Tishli va vintli
  ====
- Quyosh, suyuq yoqig’i, suvlari
+ Porshenli, servomotorli
  ====
- Quyosh, mazut
+ Zolotnikli, dinamik
  ====
- Quyosh, shamol.
+ Hajmiy, servomotorli
  ++++
- Quyosh isitish tizimlari radiatsiyadan foydalanishi bo’yicha qanday turlarga bo’linadi…
+ Turbinaning nisbiy effektiv foydali ish koeffisienti deb nimaga aytiladi?
  ====
- #Passiv va aktiv
+ #effektiv quvvatning nazariy quvvatga nisbatiga
  ====
- Kollektorli va kollektorsiz
+ ichki quvvatning effektiv quvvatga kupaytmasiga
  ====
- Radiatsiyalangan va radiatsiya tushmaydigan
+ ichki quvvatning effektiv quvvatga nisbatiga
  ====
- Passiv va aktiv va zonali.
+ effektiv quvvatning nazariy quvvatga nisbatiga.
  ++++
- Bino ichidagi havo harorati quyidagiga bog’liq bo’ladi
+ Turbinaning nominal quvvati deb nimaga aytiladi?
  ====
- #isitiladigan binoning vazifasiga;
- ====
- tashqi havo haroratiga;
- ====
- issiqlik tashuvchi turiga; 
- ====
- isitish tizimining ulanishiga.
- ++++
- Aholining issiqlikka bo’lgan talabini ko’ndirish uchun qanday qurilmalardan foydalaniladi?
+ #uzоq vaqt  ma’lum miqdоrdagi bеlgilangan quvvatni ishlab chiqarishi natijasida оlinayotgan quvvati
  ====
- #suv qizdirish qozonxonalari va  IEM dan.
+ kichik  sоlishtirma   issiqlik  sarfi bilan  ishlab turib katta absоlyut  fоydali ish kоeffisiyеntiga  tеnglashtiruvchi quvvat ishlab chiqarishsi   
  ====
- faqat suv qizdirish qozonxonalaridan; 
- ==== 
- T turbinali ES dan;
+ katta sоlishtirma   issiqlik  sarfi bilan  ishlab turib kichik absоlyut  fоydali ish kоeffisiyеntiga  tеnglashtiruvchi quvvat ishlab chiqarishsi   
  ====
- faqat IEM dan
+ katta sоlishtirma   issiqlik  sarfi bilan  ishlab turib katta fоydali ish kоeffisiyеntiga  tеnglashtiruvchi quvvat ishlab chiqarishsi   
  ++++
- Oqim turini (laminar yoki turbulent) aniqlash uchun qaysi kreteriydan foydalaniladi…
+ Issiqlik sxemasida bug‘ qizdirgich nima vazifani bajaradi?
  ====
- #Reynolds
+ #bug‘ning haroratini kerakli parametrlargacha oshiradi;
  ====
- Prandtl
+ ma’lum bosimga ega ta’minot suvini quruq to‘yingan bug‘ga aylantiradi;
  ====
- Nusselt
+ unga kirish joyida bug‘ning potensial energiyasi kinetik energiyaga aylanadi va bu kinetik energiya o‘z  navbatida valning mexanik energiyasiga aylanadi;
  ====
- Fure
+ turbinada ishlatilgan bug‘ni kodensatsiyalaydi (suyuqlantiradi);
  ++++
- Quvurning ekvivalent diametrning miqdori qaysi ko’rsatkichlarga bog’liq?
+ Turbinaning quvvati o‘zgartirilish uslublari soni nechta?
  ====
- #quvurning ko’ndalang qirqim yuzasiga va namlangan perimetrga
+ #4 ta
  ====
- quvurning ko’ndalang qirqim yuzasiga va quvur qalinligiga
+ 3 ta
  ====
- namlangan perimetrga va quvur qalinligiga
+ 2 ta
  ====
- namlangan perimetrga va quvur uzunligiga
- ====
- quvurning ko’ndalang qirqim yuzasiga va quvur uzunligiga
+ 1 ta
  ++++
- Texnologik extiyojlar uchun issiqlik sarfi qaysi ko’rsatkichlar kiradi?
- ====
- #Korxonani unumdorligi va bir maxsulot uchun  sarflanadigan issiqlik miqdori
+ Issiqlik sxemasida bug‘ turbinasi nima vazifani bajaradi?
  ====
- Korxonani unumdorligi va xodimlar soni
+ #unga kirish joyida bug‘ning potensial energiyasi kinetik energiyaga aylanadi va bu kinetik energiya o‘z  navbatida valning mexanik energiyasiga aylanadi;
  ====
- Korxonani quvvati va bir maxsulot uchun  sarflanadigan issiqlik miqdori
+ bug‘ning haroratini kerakli parametrlargacha oshiradi;
  ====
- Korxonani elektr energiya sarfi va bir maxsulot uchun sarflanadigan issiqlik miqdori
+ ma’lum bosimga ega ta’minot suvini quruq to‘yingan bug‘ga aylantiradi;
  ====
- Korxonani unumdorligi va elektr energiya sarfi
+ turbinada ishlatilgan bug‘ni kodensatsiyalaydi (suyuqlantiradi);
  ++++
- Nechanchi yillarda O‘rta Osiyoda markazlashtirilgan issiqlik ta’minoti rivojlana boshladi?
+ Turg’un (stasionar) gaz turbina qurilmalari qanday turlanadi?
  ====
- #1928-1930 yillarda
+ #energetik, uzatmali, utilizasion, texnologik, atom
  ====
- 1930-1941 yillarda
+ energetik, uzatmali, utilizasion, texnologik, bir siklli...
  ====
- 1920-1930 yillarda
+ energetik, uzatmali, bir siklli, ko'p siklli...
  ====
- 1918-1930 yillarda
+ utilizasion, texnologik, bir siklli.
  ++++
- Qachonga markazlashtirilgan issiqlik ta’minoti g‘oyasining paydo bo‘lishi to‘g‘ri kеladi?
+ Issiqlik sxemasida kondensator nima vazifani bajaradi?
  ====
- #1877 yili AQSh ning Lokport shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+ #turbinada ishlatilgan bug‘ni kodensatsiyalaydi (suyuqlantiradi);
  ====
- 1777 yili AQSh ning Lokport shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+ unga kirish joyida bug‘ning potensial energiyasi kinetik energiyaga aylanadi va bu kinetik energiya o‘z  navbatida valning mexanik energiyasiga aylanadi;
  ====
- 1907 yili Sankt-Peterburg shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+ bug‘ning haroratini kerakli parametrlargacha oshiradi;
  ====
- 1877 yili Moskva shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+ ma’lum bosimga ega ta’minot suvini quruq to‘yingan bug‘ga aylantiradi;
  ++++
- IEM da issiqlik va elеktr enеrgiyasini qurama usulda ishlab chiqarish uchun yoqilg‘ining umuiy sarfi quyidagilardan iborat…
+ Issiqlik sxemasida kondensat nasosi nima vazifani bajaradi?
  ====
- #elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘I sarflarning  yig’indisi
+ #tizimda kondensat harakatini ta’minlovchi;
  ====
- elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning  ko’paytmasi
+ olddan ulanadigan nasos agregati bilan birgalikda tizimda bosim hosil qiladi va ta’minot suvini bug‘ generatoriga haydab beradi;
  ====
- elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i  sarflarning  ayirmasi
+ ta’minot suvi tarkibidan kislorod va kislorodli gazlarni siqib chiqaradi;
  ====
- elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning  farqi
+ turbina otboridan olingan bug‘ yordamida ishchi jism (kondensat va ta’minot suvi) ni qizdiradi;
  ++++
- Shartli yoqilg’i deb nimaga aytiladi?
+ Ushbu formula qanday pog'onadagi issiqlik tushishini ifodalaydi h0=h01+h’02  kJ/kg
  ====
- #Issiqlik ajratishi 7000 kkal/kg ga teng bo’lgan yoqilg’i
+ #aksial reaktiv
  ====
- Issiqlik ajratishi 7003 kkal ga teng bo’lgan yoqilg’i
+ radial reaktiv
  ====
- Issiqlik ajratishi 7000 kj/kg ga teng bo’lgan yoqilg’i
+ aksial aktiv
  ====
- Issiqlik ajratishi 7050 kkal/kg  ga teng bo’lgan yoqilg’i
- ====
- Issiqlik ajratishi 7000 j/kg ga teng bo’lgan yoqilg’i
+ radial aktiv.
  ++++
- Qaysi yuklamaning sarfi hafta davomida o‘rtacha sarfi uning bir kеcha-kunduzdagi mе’yori asosida aniqlanadi?
- ====
- #issiq suv
+ Issiqlik sxemasida ta’minot nasosi nima vazifani bajaradi?
  ====
- isitish
+ #olddan ulanadigan nasos agregati bilan birgalikda tizimda bosim hosil qiladi va ta’minot suvini bug‘ generatoriga haydab beradi;
  ====
- ventilyatsiya
+ tizimda kondensat harakatini ta’minlovchi;
  ====
- texnologik extiyojlar
+ ta’minot suvi tarkibidan kislorod va kislorodli gazlarni siqib chiqaradi;
  ====
- havo maromlash
+ turbina otboridan olingan bug‘ yordamida ishchi jism (kondensat va ta’minot suvi) ni qizdiradi;
  ++++
- Tеxnologik extiyojlarga ishlatiladigan issiqlik nimalarga bog’lik?
+ Issiqlik sxemasida deaerator nima vazifani bajaradi?
  ====
- #jarayonning xususiyatga, ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi
+ #ta’minot suvi tarkibidan kislorod va kislorodli gazlarni siqib chiqaradi;
  ====
- jarayonning xususiyatga, ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va tashqi havo haroratiga bog‘liq bo‘ladi
+ olddan ulanadigan nasos agregati bilan birgalikda tizimda bosim hosil qiladi va ta’minot suvini bug‘ generatoriga haydab beradi;
  ====
- ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi
+ tizimda kondensat harakatini ta’minlovchi;
  ====
- jarayonning xususiyatga, tashqi havo haroratiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi
- ====
- jarayonning xususiyatga va boshqalarga bog‘liq bo‘ladi
+ turbina otboridan olingan bug‘ yordamida ishchi jism (kondensat va ta’minot suvi) ni qizdiradi;
  ++++
- Turar joy binolarida isitish uchun sarflanadigan maksimal issiqlik oqimi nimalarga bog’liq?
- ====
- #binoning solishtirma issiqlik tavsifi, ichki va tashqi havoning hisobiy haroratlariga, binoning tashqi hajmiga
+ V64.2 (Siemens) turidagi qurilma gaz turbinasi elektr energiyasi ishlab chiqarishdagi f.i.k.i nechaga teng?
  ====
- ichki va tashqi havoning hisobiy haroratlariga, binoning tashqi hajmiga
+ #ηge = 32,827 %
  ====
- binoning solishtirma issiqlik tavsifi, ichki havoning hisobiy haroratiga, binoning tashqi hajmiga
+ ηкmех = 99,9 %
  ====
- binoning solishtirma issiqlik tavsifi, ichki va tashqi havoning hisobiy haroratlariga, 
+ Nк = 317,545 кВт
  ====
- binoning solishtirma issiqlik tavsifi, tashqi havoning hisobiy haroratiga, binoning tashqi hajmi
+ ηyok = 99,7 %
  ++++
- Mavsumiy yuklamaning grafigi qurish uchun absissa va ordinata o‘qlari bo‘yicha qaysi ko’rsatkichlar    qo‘yib chiqiladi?
+ V64.2 (Siemens) turidagi qurilma gaz turbinasi elektrogeneratori quvvati 1 kg/s massaviy sarfida nechaga teng?
  ====
- #absissada isitish mavsuminnig davomiyligi soatlarda va tashqi havoning harorati quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi 
+ #Neg = 294,574 кВт
  ====
- absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi 
+ Nк = 317,545 кВт
  ====
- absissada tashqi havoning harorati quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi 
+ ηge = 32,827 %
  ====
- absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo‘yicha esa, tashqi havoning harorati
- ====
- absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi va tashqi havoning harorati
+ NGТ = 615,094 кВт
  ++++
- Qaysi olim  tomonidan issiqlik ta’minotining bir quvuri tizimi ishlab chiqildi va amalda qo‘llash uchun taklif qilindi?
+ V64.2 (Siemens) turidagi qurilma gaz turbinasi quvvati 1 kg/s massaviy sarfida nechaga teng?
  ====
- #L. A. Mеlеntеv
+ #NGТ = 615,094 кВт
  ====
- L.K. Ramzin
+ Neg = 294,574 кВт
  ====
- L. Vukolovich 
+ ηge = 32,827 %
  ====
- E.E. Sokolov
+ Nк = 317,545 кВт
  ++++
- Bir quvuri tizimni asosiy g‘oyasi  nimada?
- ====
- #isitish qurilmasidan kеyin issiq suv ta’minotiga bеrilgan tarmoq suvining hammasi unda foydalaniladi
+ V64.2 (Siemens) turidagi qurilma kompressorida iste’mol quvvati 1 kg/s massaviy sarfida nechaga teng?
  ====
- isitish qurilmasidan kеyin issiq suv ni  stansiyaga qaytarish 
+ #Nк = 317,545 кВт
  ====
- isitish qurilmasidan kеyin issiq suvni qaytadan isitish qurilmasida ishlatish
+ NGТ = 615,094 кВт
  ====
- issiq suv ta’minotiga bеrilgan tarmoq suvining hammasi unda foydalaniladi
+ ηyok = 99,7 %
  ====
- isitish qurilmasidan kеyin issiq suv ta’minotiga bеrilgan tarmoq suvining bir qismi unda foydalaniladi
+ ηge = 32,827 %
  ++++
- Ochiq tizimlarning yopiq tizimlarga nisbatan afzaligi:
+ V64.2 (Siemens) turidagi qurilma kompressorining mexanik f.i.k.i nechaga teng?
  ====
- #elektr stansiyasida va sanoat korxonalarida ishlatilgan past haroratli suvni issiq suv ta’minoti uchun foydalanish imkoni mavjudligi
+ #ηкmех = 99,9 %
  ====
- stansiyada suvning tayyorlanishi murakkabligi va qimmatligi
+ Nк = 317,545 кВт
  ====
- iste’molchilarga berilayotgan suvning sifati sanitariya tozalik va salomatlik talablariga javob bermasligi
+ ηyok = 99,7 %
  ====
- issiqlik ta’minoti tizimi ustidan o‘tkaziladigan sanitariya nazoratining murakkabligi
+ ηge = 32,827 %
  ++++
- Gidravlik hisoblashning vazifasiga kirmayadigan vazifa:
- #issiqlik qoplamani tanlash
+ V64.2 (Siemens) turidagi qurilma yonish kamerasining f.i.k.i nechaga teng?
  ====
- quvurning diamеtrini aniqlash
+ #ηyok = 99,7 %
  ====
- bosim (siquv)ning kamayishini aniqlash
+ ηкmех = 99,9 %
  ====
- tarmoqning turli nuqtalaridagi bosimlarni aniqlash
- ++++
- To’la naporni aniqlovchi ifodasiga nimalar kiradi?
- ====
- #pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining yig‘indisiga tеng
- ====
- pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining farqiga tеng
- ====
- pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining ko’paytmasiga tеng
+ Nк = 317,545 кВт
  ====
- pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining ayirmasiga tеng
+ ηge = 32,827 %
  ++++
- Gidravlik hisobni bajarish uchun nimalar ma’lum bo’lishi kerak?
+ Vertikal utilizator qozonlarining harakat prinsipiga ko’ra turlanishini tushuntiring?
  ====
- #issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi va paramеtrlari, tarmoq qismlarining uzunligi
+ #tabiiy sirkulyasiyali, majburiy sirkulyasiyali va to'g'ri oqimli
  ====
- issiqlik tarmog‘ining chizma tasviri, tarmoq qismlarining uzunligi
+ majburiy sirkulyasiyali va to'g'ri oqimli
  ====
- issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi va paramеtrlari
+ tabiiy sirkulyasiyali va to'g'ri oqimli
  ====
- issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi, tarmoq qismlarining uzunligi
+ faqat tabiiy sirkulyasiyali 
  ++++
- Qaysi olim tonidan elevator sxеmasi ishlab chiqilgan.
- ====
- #V. M. Chaplin
- ====
- L. A. Mеlеntеv
- ====
- L.K. Ramzin
- ====
- L. Vukolovich
- Qurilmaning kоnstruktiv hisоbidаn mаqsаd nima?
+ Xalqaro birliklar sistemasiga Jeyms Uattning ismi qaysi o’lchov birligi sifatida qachon kiritilgan?
  ====
- #qurilmаning аsоsiy o’lchаmlаrini tоpish
+ #1960 yildan, energiya o'lchov birligi Vatt bilan ataladi
  ====
- issiqlik almashinuv yuzаsi F ni tоpish
+ 1954 yildan, issiqlik o'lchov birligi Joul bilan ataladi
  ====
- qurimаning qаrshiliklаrini tоpish
+ 1940 yildan, tok kuchi o'lchov birligi Amper bilan ataladi
  ====
- issiqlik tаshuvchilаrning bоsimini аniqlаsh
+ 1994 yildan, harorat o'lchov birligi Kelvin bilan ataladi
  ++++
- Qurilmaning gidrаvlik hisоbidаn mаqsаd nima?
+ Issiqlik sxemasida regenerativ qizdirgichlar nima vazifani bajaradi?
  ====
- #qurilmаning qаrshiliklаrini tоpish
+ #turbina otboridan olingan bug‘ yordamida ishchi jism (kondensat va ta’minot suvi) ni qizdiradi;
  ====
- issiqlik almashinuv yuzаsi F ni tоpish
+ ta’minot suvi tarkibidan kislorod va kislorodli gazlarni siqib chiqaradi;
  ====
- qurilmаning аsоsiy o’lchаmlаrini tоpish
+ olddan ulanadigan nasos agregati bilan birgalikda tizimda bosim hosil qiladi va ta’minot suvini bug‘ generatoriga haydab beradi;
  ====
- issiqlik tаshuvchilаrni hаrоrаtlаrini аniqlаsh
+ tizimda kondensat harakatini ta’minlovchi;
  ++++
- Qurilmaning mеxаnik hisоbidаn mаqsаd nima?
+ Yuqori bosimli qarshi bosimli turbinaning boshlang'ich parametrlarini toping?
  ====
- #qurilmа mustаhkаmligini аniqlаsh
+ #130 bar, 545 С.
  ====
- qurilmаning аsоsiy o’lchаmlаrini tоpish
+ 35 bar, 435 С
  ====
- qurilmаning qаrshiliklаrini tоpish
+ 90 bar, 535 С
  ====
- kuchlаnishlаrni hisоblаsh
+ 100 bar, 565 С
  ++++
+ 
+ 
+ IE kafedrasi mudiri:					T.A. Fayziyev
+ 
+ Fan o’qituvchisi:						S.M. Xujakulov
+ 
  
       
                             `}`</h1>
