@@ -6,7 +6,2162 @@
               <p class="text ">
                  
                 <h1>{`
-                qalaysan savol javoblar yo'qmi
+                
+
+Turbina kondensatori nima uchun kerak?
+==== 
+Turbina ishni muvozanatlash uchun;  	 
+==== 
+Ishlatilgan bugni yigish va sovutish;
+==== 
+#Ishlatilgan bugni sovutish;		 
+==== 
+Bug bosimini rostlash.
++++++
+Buster nasoslar xosil kiladigan bosim:
+ ==== 
+1,9 MPa;       
+==== 
+1,7 MPa;        
+==== 
+#1,85 MPa;        
+==== 
+1,87 MPa.
+++++
+Ta‘minot nasoslarining ishchi parragi burchak tezligi:
+==== 
+4700;       
+==== 
+4500;        
+==== 
+#4600;        
+==== 
+4650.
++++++
+IES komponovkasining asosiy kursatkichlari:
+==== 
+Balandlik, kenglik;			
+==== 
+Solishtirma xajm;
+ ==== 
+#Inshootning solishtirma xajmi va maydoni;
+==== 
+ Inshootning energetik kursatkichlari.
++++++
+Birinchi kategoriyasiga mansub truba kuvurlaridagi ishchi tana parametrlari:
+==== 
+t = 540 C, P = 1,6 mPa;         
+==== 
+t = 560 C, P = 0,07 mPa;
+==== 
+==== 
+#t = 250 C, P = 2,2 mPa;          
+==== 
+t = 580 C, P = 8,0 mPa.
++++++
+Atom elektr stantsiyalaridagi zaxarli chikitlar necha turga bulinadi?
+ ==== 
+2 xil;         
+==== 
+5 xil;      
+==== 
+#TVELlar va radiaktiv gazlar;       
+==== 
+gazsimon, suyuk va kattik.
++++++
+IESning texnik kursatkichlari nima uchun kerak?
+==== 
+Elektr stantsiyani tabiiy suv okimini urganish;	 
+==== 
+Elektr stantsiyani tabiiy energiya manbasidan foydalanish kursatkichlarini baxolash;            
+==== 
+#IESni energetik kursatkichini olish;		 
+==== 
+mexnat va suv xarajati formalarini urganish.
++++++
+Zamonaviy IESlarning iste‘molchilariga uzatilgan elektr energiya buyicha FIK necha foizni tashkil etdi?
+==== 
+26 %;         
+==== 
+28 %;           
+==== 
+#36 %;          
+==== 
+30 %.
++++++
+Issiklik chikindilarining turlari:
+==== 
+ Ishlatilgan issik suv, xavo va gazlar issikligi;
+==== 
+Tayyor maxsulotlarning fizik issikligi;
+ ==== 
+#Ishlatilgan bug, kondensat, issik suv, xavo va gazlar issikligi, tayyor maxsulotlar va sovitish ==== 
+tizimida kullanilgan issiklik tashuvchi muxitning issikligi;             
+==== 
+Issik suv, issik xavo.
++++++
+Fakat  elektr  energiya  ishlab  chikaradigan  energiya  manbalari:
+ ==== 
+KES, (GRES), AES, kozonxona;   
+==== 
+IEM, (TETs), GETs, IES;
+ ==== 
+#GRES, KES, ichki yonar dvigateli;    
+==== 
+AES, IEM.
+++++
+Energiya  ta‘minotining  sistema (tizim) lari:
+==== 
+Energiyalarni aloxida ishlab chikarish tizimi;
+==== 
+Kurama va aralash sistemalar;
+==== 
+#Energiya ta‘minotining aloxida, kurama va aralash sistemalari;
+==== 
+Kurama tizim.
++++++
+Energiya  iste‘mol  kilinishi  grafigining  notekis  bulishining  sababi:  
+==== 
+Iste‘molchi kurilmalarning bir tekisda ishlay olmasligi;
+==== 
+Kupchilik iste‘molchilarning bir smenada ishlashi va issiklik yuklamasining iklim sharoitiga boglikligi;    
+==== 
+#Iste‘molchilarning kamligi;      
+==== 
+Angren GRESi.
++++++
+IEM (TETs) ni  birlashgan  energetik  sistemadan yakkalangan xolda ishlatilmasligining sababi nimada?
+ ==== 
+IEMda xam  issiklik, xam elektr stantsiyasini ishlab chikarishida;
+==== 
+IEMda  asosan issiklik energiyasini ishlab chikarishda;
+==== 
+#Yokilgi tejalishini oshirish uchun IEMda ishlab chikarilayotgan elktr energiyasini kamaytirish xisobiga iste‘molchilarga issiklikni kuprok berish imkoniyatiga ega bulish;            
+==== 
+IEMda issiklik ishlab chikarilishi sababli.
++++++
+Zamonaviy issiklik elektr stantsiyasidagi ishchi jismning asosiy parametrlari:
+ ==== 
+535 C, 90 at;  			 
+==== 
+565 C, 130  at;
+==== 
+#565 C, 130  at va ayrim xollarda: 560 С, 240 at;  	 
+==== 
+535 C, 130  at.
++++++
+Ejektorning vazifasi nimadan iborat?
+==== 
+Uta kizigan bugni turbinaga sikib berish uchun;
+==== 
+Kondensatsiyalanmagan gazlarni surib chikarish.
+ ==== 
+#Deaeratordan O va СО gazlarini chikarib tashlash;
+==== 
+Kozonxonaga chikindi gazlarini retsirkulyatsiya kilish uchun;
++++++
+Ta‘minot suvini regenerativ ravishda kizdirishning vazifasi:
+==== 
+Kondensatorga kuprok bug berish uchun;
+==== 
+Turbinaning FIK ni oshirish va yokilgi sarfini oshirish uchun;
+ ==== 
+#Bug kozonining FIK ni kamaytirish uchun;
+ ==== 
+Kondensatordagi issiklik yukotilishini kamaytirish.
++++++
+Issiklik sxemasidagi regenerativ kizdirgichlarning vazifasi:
+ ==== 
+kondensatni xaroratini bug yordamida oshirish 
+==== 
+Turbinani ish rejimini maromlash uchun;
+==== 
+ #Kondenstordagi bosimni bir maromda ushlab turish uchun;
+==== 
+Bug kozoniga yokilgi sarfini oshirish uchun.
++++++
+Issiklik sxemasidagi regenerativ kizdirgichlarning turlari:
+ ==== 
+Urta va past xaroratli;    
+==== 
+Yukori va past okimli;
+==== 
+#Yukori, past va aralash turdagi;    
+==== 
+Past va nominal bosimli.
++++++
+Regenerativ kizdirgichlar IES ni foydali ish koeffitsientini:
+==== 
+20 – 30 % ga oshiradi;        
+==== 
+15 – 20 % ga oshiradi;
+ ==== 
+#60 – 70 % ga oshiradi;         
+==== 
+90 – 99 % ga oshiradi.
++++++
+Kondensatsion elektr stantsiyaning issiklik sxemasida regenerativ kizdirgichlar:
+ ==== 
+2 tadan 3 tagacha buladi;       
+==== 
+5 tadan 13 tagacha buladi;
+==== 
+#7 tadan 9 tagacha buladi;          
+==== 
+Fakat bitta.
++++++
+Ta‘minot nasosining vazifasi.
+==== 
+Yukori bosimli kizdirgichlarni suv bilan tuldirib turish;
+==== 
+Bug kozonini ta‘minot suvi bilan ta‘minlab turish uchun;
+ ==== 
+#Deaeratordan suvni kondensatorga xaydab berish uchun;
+ ==== 
+Past bosimli kizdirgichlarni ta‘minot suvi bilan ta‘minlash.
++++++
+К – 300 – 240 bloklarda turbinaga berilayotgan uta kizigan bugning xarorati:
+ ==== 
+300 С dan 400 С gacha;         
+==== 
+400 С dan 425 С gacha;
+==== 
+#540 С dan 560 С gacha;         
+==== 
+560 С dan 600 С gacha.
++++++
+Issiklik elektr stantsiyasida buglatgichlarning vazifasi:
+ ==== 
+Stantsiyaning FIK ni oshirish;		
+==== 
+Suvni bugdan tozalash uchun;
+==== 
+ #Termik ravishda stantsiyaga ta‘minot suvi tayyorlash uchun;
+==== 
+Ximiyaviy ravishda stantsiyaga suv tayyorlash uchun.
++++++
+Issiklik sxemasidagi regenerativ kizdirgichlarning turlari:
+ ==== 
+Urta va past xaroratli;    
+==== 
+Yukori va past okimli;
+ ==== 
+#Yukori, past va aralash turdagi;     
+==== 
+Past va nominal bosimli.
++++
+Kondensatsion elektr stantsiyaning issiklik sxemasida regenerativ kizdirgichlar:
+ ==== 
+2 tadan 3 tagacha buladi;       
+==== 
+5 tadan 13 tagacha buladi;
+ ==== 
+#7 tadan 9 tagacha buladi;         
+==== 
+Fakat bitta.
++++++
+Issiklik elektr stantsiyasida buglatgichlarning vazifasi:
+ ==== 
+Stantsiyaning FIK ni oshirish;		
+==== 
+Suvni bugdan tozalash uchun;
+==== 
+#Termik ravishda stantsiyaga ta‘minot suvi tayyorlash uchun;
+==== 
+Ximiyaviy ravishda stantsiyaga suv tayyorlash uchun.
++++++
+Ta‘minot nasosida ta‘minot  suvining xarorati.
+ ==== 
+3С dan 7С gacha oshiradi;			 
+==== 
+10С dan 30С gacha oshiradi;
+==== 
+ #30С dan 70С gacha oshiradi;			 
+==== 
+100С atrofida oshiradi.
++++++
+Kondensatsion elektr stantsiyada kondensatorning vazifasi:
+ ==== 
+Stantsiyaga kushimcha suv saklash uchun;
+==== 
+Bugni sovutish uchun.
+==== 
+ #Suvdan bugni ajratish uchun;
+ ==== 
+Sovitish suvini xaroratini oshirish uchun;
++++++
+Yokilgi chikindining turlari:
+==== 
+Kimyoviy va mexanik chala yongan yokilgi;
+==== 
+Ishlatilgan issik suv va kizdirilgan xavo;
+ ==== 
+#Texnologik jarayonlarda xosil bulgan yonuvchan modda(gaz)lar, kimyoviy va mexanik chala yongan yokilgi;
+ ==== 
+Sun‘iy yokilgilar – koks gazi, domna gazi.
++++++
+Insoniyat paydo bulgandan buyon organik yokilgilarni yokishda ishlatilgan  О2 mikdori 
+ ==== 
+270 trl.t;      
+==== 
+260 trl.t;    
+==== 
+#273 trl.t;      
+==== 
+322 trl.t.
++++++
+Uta kuvvatli IES tutun kuvurlaridan chikadigan СО2 gazini ishlash uchun kancha mikdorda urmon talab kilinadi?
+ ==== 
+6500 km2;    
+==== 
+6300 km2;  
+==== 
+ #6400 km2;   
+==== 
+6250 km2.
++++++
+Bir yilda atmosfera xavosiga chikariladigan  gazning mikdori
+  ==== 
+280 mln.t;   
+==== 
+230 mln.t;      
+ ==== 
+#250 mln.t;     
+ ==== 
+240 mln.t.
++++++
+К-300-240 turbinasidagi texnik suv ta‘minotidagi suv xarorati
+==== 
+ 33 ºС;     
+==== 
+32 ºС;      
+==== 
+#31 ºС;        
+==== 
+30 ºС.
++++++
+Atmosfera uchun PDK=0,085 м2/м3, PDK=0,008 м2/м3, PDK=0,05 м2/м3 ni aniklang.
+==== 
+СО2, Н2S, xlor;        
+==== 
+NO2, HSO3, kurum; 
+ ==== 
+#СО2, NO2, kurum;      
+==== 
+Н2S, chang, VO5.
++++++
+Issiklik chikindilarining turlari:
+==== 
+ Ishlatilgan issik suv, xavo va gazlar issikligi;
+==== 
+Tayyor maxsulotlarning fizik issikligi;
+ ==== 
+#Ishlatilgan bug, kondensat, issik suv, xavo va gazlar issikligi, tayyor maxsulotlar va sovitish ==== 
+tizimida kullanilgan issiklik tashuvchi muxitning issikligi;             
+==== 
+Issik suv, issik xavo.
++++++
+Fakat  elektr  energiya  ishlab  chikaradigan  energiya  manbalari:
+ ==== 
+KES, (GRES), AES, kozonxona;   
+==== 
+IEM, (TETs), GETs, IES;
+ ==== 
+#GRES, KES, ichki yonar dvigateli;    
+==== 
+AES, IEM.
++++++
+Energiya  ta‘minotining  sistema (tizim) lari:
+==== 
+Energiyalarni aloxida ishlab chikarish tizimi;
+==== 
+Kurama va aralash sistemalar;
+==== 
+#Energiya ta‘minotining aloxida, kurama va aralash sistemalari;
+==== 
+Kurama tizim.
++++++
+Turbina kondensatori nima uchun kerak?
+==== 
+Turbina ishni muvozanatlash uchun;  	 
+==== 
+Ishlatilgan bugni yigish va sovutish;
+==== 
+#Ishlatilgan bugni sovutish;		 
+==== 
+Bug bosimini rostlash.
++++++
+Energiya  iste‘mol  kilinishi  grafigining  notekis  bulishining  sababi:  
+==== 
+Iste‘molchi kurilmalarning bir tekisda ishlay olmasligi;
+==== 
+Kupchilik iste‘molchilarning bir smenada ishlashi va issiklik yuklamasining iklim sharoitiga boglikligi;    
+==== 
+#Iste‘molchilarning kamligi;      
+==== 
+Angren GRESi.
++++++
+IEM (TETs) ni  birlashgan  energetik  sistemadan yakkalangan xolda ishlatilmasligining sababi nimada?
+ ==== 
+IEMda xam  issiklik, xam elektr stantsiyasini ishlab chikarishida;
+==== 
+IEMda  asosan issiklik energiyasini ishlab chikarishda;
+==== 
+#Yokilgi tejalishini oshirish uchun IEMda ishlab chikarilayotgan elktr energiyasini kamaytirish xisobiga iste‘molchilarga issiklikni kuprok berish imkoniyatiga ega bulish;            
+==== 
+IEMda issiklik ishlab chikarilishi sababli.
++++++
+Zamonaviy issiklik elektr stantsiyasidagi ishchi jismning asosiy parametrlari:
+ ==== 
+535 C, 90 at;  			 
+==== 
+565 C, 130  at;
+==== 
+#565 C, 130  at va ayrim xollarda: 560 С, 240 at;  	 
+==== 
+535 C, 130  at.
++++++
+Stantsiyaning issiklik sxemasi tushunchasi nimani anglatadi?
+==== 
+Issiklik kuvurlaridan iborat tizim;
+==== 
+Energiyani bir turda ikkinchi turga uzgartirish uchun muljallangan va issiklik okimlari bilan uzaro boglangan turli jixoz va agregatlar majmui;
+==== 
+#Kozon bilan turbinaning uzaro boglanish sxemasi;
+==== 
+Turbina va yordamchi jixozlarning uzaro boglanishini.
++++++
+Deaeratorda О2 va СО2 gazlari kondensat tarkibidan nima yordamida tozalanadi?
+ ==== 
+Sulfat  kislotasi yordamida;        			
+==== 
+Ishkor yordamida;
+ ==== 
+#Chikindi gazlar yordamida;               		  
+==== 
+Bug yordamida.
++++++
+Ejektorning vazifasi nimadan iborat?
+==== 
+Uta kizigan bugni turbinaga sikib berish uchun;
+==== 
+Kondensatsiyalanmagan gazlarni surib chikarish.
+ ==== 
+#Deaeratordan O va СО gazlarini chikarib tashlash;
+==== 
+Kozonxonaga chikindi gazlarini retsirkulyatsiya kilish uchun;
++++++
+Ta‘minot suvini regenerativ ravishda kizdirishning vazifasi:
+==== 
+Kondensatorga kuprok bug berish uchun;
+==== 
+Turbinaning FIK ni oshirish va yokilgi sarfini oshirish uchun;
+ ==== 
+#Bug kozonining FIK ni kamaytirish uchun;
+ ==== 
+Kondensatordagi issiklik yukotilishini kamaytirish.
++++++
+Issiklik sxemasidagi regenerativ kizdirgichlarning vazifasi:
+ ==== 
+kondensatni xaroratini bug yordamida oshirish 
+==== 
+Turbinani ish rejimini maromlash uchun;
+==== 
+ #Kondenstordagi bosimni bir maromda ushlab turish uchun;
+==== 
+Bug kozoniga yokilgi sarfini oshirish uchun.
++++++
+Issiklik sxemasidagi regenerativ kizdirgichlarning turlari:
+ ==== 
+Urta va past xaroratli;    
+==== 
+Yukori va past okimli;
+==== 
+#Yukori, past va aralash turdagi;    
+==== 
+Past va nominal bosimli.
++++++
+Regenerativ kizdirgichlar IES ni foydali ish koeffitsientini:
+==== 
+20 – 30 % ga oshiradi;        
+==== 
+15 – 20 % ga oshiradi;
+ ==== 
+#60 – 70 % ga oshiradi;         
+==== 
+90 – 99 % ga oshiradi.
++++++
+Kondensatsion elektr stantsiyaning issiklik sxemasida regenerativ kizdirgichlar:
+ ==== 
+2 tadan 3 tagacha buladi;       
+==== 
+5 tadan 13 tagacha buladi;
+==== 
+#7 tadan 9 tagacha buladi;          
+==== 
+Fakat bitta.
++++++
+Ta‘minot nasosining vazifasi.
+==== 
+Yukori bosimli kizdirgichlarni suv bilan tuldirib turish;
+==== 
+Bug kozonini ta‘minot suvi bilan ta‘minlab turish uchun;
+ ==== 
+#Deaeratordan suvni kondensatorga xaydab berish uchun;
+ ==== 
+Past bosimli kizdirgichlarni ta‘minot suvi bilan ta‘minlash.
++++++
+К – 300 – 240 bloklarda turbinaga berilayotgan uta kizigan bugning xarorati:
+ ==== 
+300 С dan 400 С gacha;         
+==== 
+400 С dan 425 С gacha;
+==== 
+#540 С dan 560 С gacha;         
+==== 
+560 С dan 600 С gacha.
++++++
+Kanday xollarda komponovka samarali xisoblanadi
+ ==== 
+Energetik kursatkichlar katta bulganda;
+==== 
+Iktisodiy kursatkichlar katta bulganda;
+ ==== 
+#Solishtirma xajmi va maydon kiymatlari kichik bulganda;
+ ==== 
+Uskunalar narxi past bulganda.
++++++
+Kuvvati 500 mVt bulgan IES turbina zalining kengligi kancha?
+ ==== 
+42 metr;       
+==== 
+50 metr;        
+==== 
+#48 metr;        
+==== 
+51 metr.
++++++
+Mashinalar zalida texnik xizmat kursatish maydonlar soni?
+==== 
+3 ta;    
+==== 
+4 ta;     
+ ==== 
+#1 ta;       
+==== 
+2 ta.
++++++
+Buster nasoslar xosil kiladigan bosim:
+==== 
+1,9 MPa;      
+==== 
+1,7 MPa;      
+==== 
+#1,85 MPa;        
+==== 
+1,87 MPa.
++++++
+Kuvvati 800 mVt bulgan energobloklarda ta‘minot nasosi necha metr balandlikda urnatiladi?
+==== 
+ 8 metr;      
+==== 
+9 metr;       
+==== 
+#10,3 metr;       
+==== 
+11,3 metr.
++++++
+Kanday energiya asosida ishlaydigan stantsiya AES deb ataladi?
+==== 
+atom energiyasidan foydalaniladigan; 
+==== 	
+organik yokilgida ishlaydigan;
+==== 
+ #er osti suvlaridan foydalaniladigan;
+==== 			  
+oftob nurlanishidan.
++++++
+IES dagi uta kizigan bug kuvuriga kuyiladigan belgi:
+==== 
+Kora xalka chiziladi;      
+==== 
+Xavorang xalka chiziladi;
+==== 
+#Kizil xalka chiziladi;    
+ ==== 
+Kizil rangga buyaladi.
++++++
+Uta kizigan bug kuvurining belgilanishi Р = 14 MPa bulganda:
+ ==== 
+P. P. v.d.;   
+==== 
+P. N.;   
+==== 
+#P. P. s. v. d.;    
+==== 
+P. O.
++++++
+Stantsiyaning issiklik sxemasi tushunchasi nimani anglatadi?
+==== 
+Issiklik kuvurlaridan iborat tizim;
+==== 
+Energiyani bir turda ikkinchi turga uzgartirish uchun muljallangan va issiklik okimlari bilan uzaro boglangan turli jixoz va agregatlar majmui;
+==== 
+#Kozon bilan turbinaning uzaro boglanish sxemasi;
+==== 
+Turbina va yordamchi jixozlarning uzaro boglanishini.
++++++
+
+
+Reduktsion sovitish kurilmasi (RSK) ning vazifasi?
+==== 
+Bugni kerakli xaroratgacha sovutib berish;
+==== 
+Bug bosimini ma‘lum kiymatgacha kamaytirib berish;
+==== 
+#Bug xarorati bilan bosimni psaytirib berish;
+==== 
+Bug sarfini uuzgartirib berish.
++++++
+
+
+Gaz turbinali kurilmalarning afzalliklari nimalardan iborat?
+==== 
+Arzon va sodda bulishi;
+==== 
+Yukori foydali ish koeffitsientiga ega bulishi;
+==== 
+#Bug kozoni bilan murakkab suv xujaligining yukligi, yukori foydali ish koeffitsientili arzon va sodda texnologik sxemaga egaligi xamda bir ish xolatidan boshkasiga oson va tez uta olish xususiyatiga ega bulganligi;
+==== 
+Kam xarajat talab kilinadi.
++++++
+Issiklik dvigatellariga nimalar kiradi?
+==== 
+Nasoslar;   
+==== 
+Bug turbinalar;   
+==== 
+#Kompressorlar;    
+==== 
+Ventilyator.
++++++
+h – s diagramma kanday xisoblashlar uchun kerak?
+==== 
+Gidravlika jarayonlari;       	 
+==== 
+Issiklik jarayonlari;
+==== 
+#Mexanik jarayonlar;     		 
+==== 
+Umumiy xolat kattaliklarini aniklash.
++++++
+Kup pogonali turbinani xisoblash uchun kanday kattalik kerak?
+==== 
+Bug bosimi va kozonxona;         
+==== 
+Kondensat xarorat, bug bosimi va xarorati;
+==== 
+#Ne, P0, PK;   			     
+==== 
+Ne.
++++++
+Taminot suvi trakti deb:
+==== 
+Turbina kondensatoridan deaeratorigacha bulgan oralik;    
+==== 
+Bug kozonidan boshlab turbinagacha bulgan oralik;
+==== 
+#Deaeratordan boshlab bug kozonigacha bulgan oralik;
+ ==== 
+Ta‘minot nasosidan boshlab ekonomayzergacha bulgan oralik.
++++++
+Nima uchun deaeratorda suvdan О2 va СО2 gazlari tozalanadi?
+==== 
+Stantsiyani FIK ni oshirish uchun;              
+==== 
+Kozonxonadagi yukotishlarni kamaytirish uchun;
+==== 
+#Kuvurlar ichidagi korroziyani bartaraf etish.  
+==== 
+ Chikindi gazlar tarkibida SO gazini kamaytirish uchun;
++++++
+Deaeratorda О2 va СО2 gazlari kondensat tarkibidan nima yordamida tozalanadi?
+ ==== 
+Sulfat  kislotasi yordamida;        			
+==== 
+Ishkor yordamida;
+ ==== 
+#Chikindi gazlar yordamida;               		  
+==== 
+Bug yordamida.
++++++
+IESning texnik kursatkichlari nima uchun kerak?
+==== 
+Elektr stantsiyani tabiiy suv okimini urganish;        
+==== 
+Elektr stantsiyani tabiiy energiya manbasidan foydalanish kursatkichlarini baxolash;
+==== 
+#IESni energetik kursatkichini olish;
+==== 
+mexnat va suv xarajati formalarini urganish.       
++++++
+Issiklik chikindilarining turlari:
+==== 
+Ishlatilgan issik suv, xavo va gazlar issikligi;
+==== 
+Tayyor maxsulotlarning fizik issikligi;
+ ==== 
+#Ishlatilgan bug, kondensat, issik suv, xavo va gazlar issikligi, tayyor maxsulotlar va sovitish tizimida kullanilgan issiklik tashuvchi muxitning issikligi;              
+==== 
+Issik suv, issik xavo.
++++++
+Energiya  iste‘mol  kilinishi  grafigining  notekis  bulishining  sababi:  
+==== 
+Iste‘molchi kurilmalarning bir tekisda ishlay olmasligi;
+==== 
+Kupchilik iste‘molchilarning bir smenada ishlashi va issiklik yuklamasining iklim sharoitiga boglikligi;	   
+==== 
+#Iste‘molchilarning kamligi;       
+==== 
+Angren GRESi.
++++++
+Zamonaviy issiklik elektr stantsiyasidagi ishchi jismning asosiy parametrlari:
+==== 
+535 C, 90 at;   
+==== 
+565 C, 130  at;
+==== 
+#565 C, 130  at va ayrim xollarda: 560 С, 240 at;    
+==== 
+535 C, 130  at.
++++++
+Reduktsion sovitish kurilmasi (RSK) ning vazifasi?
+==== 
+Bugni kerakli xaroratgacha sovutib berish;
+==== 
+Bug bosimini ma‘lum kiymatgacha kamaytirib berish;
+ ==== 
+#Bug xarorati bilan bosimni psaytirib berish;
+ ==== 
+Bug sarfini uuzgartirib berish.
++++++
+Issiklik dvigatellariga nimalar kiradi?
+==== 
+Nasoslar;   
+==== 
+Bug turbinalar;   
+==== 
+#Kompressorlar;   
+==== 
+Ventilyator.
+++++
+Kup pogonali turbinani xisoblash uchun kanday kattalik kerak?
+==== 
+Bug bosimi va kozonxona;  
+==== 
+Kondensat xarorat, bug bosimi va xarorati;
+ ==== 
+#Ne,P0, PK;     
+==== 
+Ne.
++++++
+Birinchi kategoriyasiga mansub truba kuvurlaridagi ishchi tana parametrlari:
+ ==== 
+t = 540 C, P = 1,6 mPa;        
+==== 
+t = 560 C, P = 0,07 mPa;
+==== 
+#t = 250 C, P = 2,2 mPa;          
+==== 
+t = 580 C, P = 8,0 mPa.
++++++
+IES dagi uta kizigan bug kuvuriga kuyiladigan belgi:
+ ==== 
+Kora xalka chiziladi;      			 
+==== 
+Xavorang xalka chiziladi;
+==== 
+#Kizil xalka chiziladi;    			  
+==== 
+Kizil rangga buyaladi.
++++++
+Ta‘minot suvi kuvurining belgilanishi:
+==== 
+P. O. V. d;       
+==== 
+P. S;        
+==== 
+#VK;       
+==== 
+V. P.
++++++
+Kondensatsion elektr stantsiyasini ta‘riflang.
+ ==== 
+xam elektr stantsiyasi, xam issiklik energiyasi ishlab chikaradigan stantsiya;
+==== 
+Bug – gaz turbinali stantsiya;		 
+==== 
+#Sanoat elektr stantsiyasi;
+==== 
+Fakat elektr energiyasi ishlab chikaruvchi elektr stantsiyasi.
++++++
+Atom elektr stantsiyalaridagi zaxarli chikitlar necha turga bulinadi?
+====
+2 xil;    
+==== 
+5 xil;     
+==== 
+#TVELlar va radiaktiv gazlar;
+====  
+gazsimon, suyuk va kattik.
++++++
+AESdagi qattiq chiqitlar nima uchun yokiladi?
+==== 
+zaxarlilik darajasini kamaytirish uchun;
+==== 
+radiaktivlik darajasini kamaytirish uchun;
+==== 
+#xajmini kamaytirish uchun;
+==== 
+nuklidlarni yashasha davrini oshirish uchun.
++++++
+Kanday energiya asosida ishlaydigan stantsiya AES deb ataladi?
+==== 
+atom energiyasidan foydalaniladigan; 
+==== 	
+organik yokilgida ishlaydigan;
+==== 
+ #er osti suvlaridan foydalaniladigan;
+==== 			  
+oftob nurlanishidan.
+++++
+Elektr energiyasini xosil kiluvchi kanday stantsiyalarni bilasiz?
+==== 
+shamol, kuyosh, dengiz suv tulkini, AES, IES;	
+==== 	
+er osti suvlari issikligi, GES, chakmokli;	
+==== 		 
+#kayta kuyiluvchi GES, kerosin yokilgisida ishlovchi IES;
+==== 
+ yogoch chikindisida ishlovchi, AES, IES.
++++++
+Fakat elektr energiyasi ishlab chikaradigan stantsiya deb kanday stantsiyaga aytiladi?
+==== 
+AES;       
+==== 
+GES;   
+====     
+# IES;     
+====    
+KES.
+++++
+Past bosimli bug turbinalarini boshlangich bosimini ayting?
+==== 
+3,5 – 4,0 MPa;   
+====   
+8 – 10 MPa;  
+====       
+#4 – 7 MPa;  
+====     
+6 – 9 MPa.
++++++
+IESning texnik kursatkichlari nima uchun kerak?
+==== 
+Elektr stantsiyani tabiiy suv okimini urganish;	 
+==== 
+Elektr stantsiyani tabiiy energiya manbasidan foydalanish kursatkichlarini baxolash;            
+==== 
+#IESni energetik kursatkichini olish;		 
+==== 
+mexnat va suv xarajati formalarini urganish.
++++++
+Zamonaviy IESlarning iste‘molchilariga uzatilgan elektr energiya buyicha FIK necha foizni tashkil etdi?
+==== 
+26 %;         
+==== 
+28 %;           
+==== 
+#36 %;          
+==== 
+30 %.
++++++
+Reduktsion sovitish kurilmasi (RSK) ning vazifasi?
+==== 
+Bugni kerakli xaroratgacha sovutib berish;
+==== 
+Bug bosimini ma‘lum kiymatgacha kamaytirib berish;
+==== 
+#Bug xarorati bilan bosimni psaytirib berish;
+==== 
+Bug sarfini uuzgartirib berish.
++++++
+Issiklik elektr stantsiyasida buglatgichlarning vazifasi:
+ ==== 
+Stantsiyaning FIK ni oshirish;		
+==== 
+Suvni bugdan tozalash uchun;
+==== 
+ #Termik ravishda stantsiyaga ta‘minot suvi tayyorlash uchun;
+==== 
+Ximiyaviy ravishda stantsiyaga suv tayyorlash uchun.
++++++
+K-300-240  turbinali issiklik elektr stantsiyasidagi  ta‘minot nasosi   ta‘minot suvi bosimini:
+==== 
+20 – 30 MPaga oshiradi;				 
+==== 
+1,5 MPaga oshiradi;
+==== 
+#100 MPaga oshiradi;				
+==== 
+ 30 – 50 MPaga oshiradi.
++++++
+Ta‘minot nasosida ta‘minot  suvining xarorati.
+==== 
+3С dan 7С gacha oshiradi;			 
+==== 
+10С dan 30С gacha oshiradi;
+==== 
+ #30С dan 70С gacha oshiradi;			  
+==== 
+100С atrofida oshiradi.
++++++
+Kondensatsion elektr stantsiyada kondensatorning vazifasi:
+==== 
+Stantsiyaga kushimcha suv saklash uchun;
+==== 
+Bugni sovutish uchun.
+ ==== 
+#Suvdan bugni ajratish uchun;
+==== 
+ Sovitish suvini xaroratini oshirish uchun;
++++++
+K-300-240 blokli elektr stantsiyaning issiklik sxemasida nechta kondensat nasosi bor?
+==== 
+ 1 ta;        
+==== 
+2 ta;       
+==== 
+# 3 ta;        
+==== 
+ 8 ta.
++++++
+Kondensatordan chikayotgan sovitish suvining xarorati:
+==== 
+ 50 – 60С buladi;       
+==== 
+70 –80С buladi;
+==== 
+ #90 –95С buladi;        
+==== 
+25 – 30С buladi.
++++++
+Kondensatorning turbalari kaysi metalldan tayyorlanadi?
+==== 
+ Temirdan;  
+==== 
+Alyumindan;    
+==== 
+#Nixromdan;     
+==== 
+Latundan.
++++++
+GOELRO plani kachon kabul kilingan?
+ ==== 
+1919 yil;    
+==== 
+1920 yil;   
+==== 
+#1922 yil;    
+==== 
+1925 yil.
++++++
+Zamonaviy korxona energiya xujaligining printsipial sxemasidagi tejamkorlikni ta‘minlovchi jixozlar:
+==== 
+Yukori samarali pechlar, bug kozonlari, issiklik almashtirgichlari va xokazo;
+==== 
+Issiklikdan kayta foydalanish kurilmalari;
+==== 
+ #Yokilgi va issiklik kayta foydalanish kurilmalari;
+==== 
+ Issiklik almashtirgich.
++++++
+Yokilgi chikindining turlari:
+==== 
+Kimyoviy va mexanik chala yongan yokilgi;
+==== 
+Ishlatilgan issik suv va kizdirilgan xavo;
+==== 
+ #Texnologik jarayonlarda xosil bulgan yonuvchan modda(gaz)lar, kimyoviy va mexanik chala yongan yokilgi;
+==== 
+ Sun‘iy yokilgilar – koks gazi, domna gazi.
++++++
+Kuvvati 500 mVt bulgan IES turbina zalining kengligi kancha?
+ ==== 
+42 metr;       
+==== 
+50 metr;       
+==== 
+#48 metr;       
+==== 
+51 metr.
++++++
+Mashinalar zalida texnik xizmat kursatish maydonlar soni?
+ ==== 
+3 ta;     
+==== 
+4 ta;      
+==== 
+#1 ta;       
+==== 
+2 ta.
++++++
+Past bosimli bug turbinalarini boshlangich bosimini ayting?
+==== 
+3,5 – 4,0 MPa;      
+==== 
+8 – 10 MPa;        
+==== 
+#4 – 7 MPa;      
+==== 
+6 – 9 MPa.
++++++
+Kanday xollarda komponovka samarali xisoblanadi
+==== 
+Energetik kursatkichlar katta bulganda;
+==== 
+Iktisodiy kursatkichlar katta bulganda;
+==== 
+#Solishtirma xajmi va maydon kiymatlari kichik bulganda;
+ ==== 
+Uskunalar narxi past bulganda.
++++++
+Agar tutun gazlari tutun kuvuriga yer ostidan uzatilsa tutun surgichni kanday urnatgan ma‘kul.
+ ==== 
+erdan 1,5 m  balandlikda;     
+==== 
+yerdan 1,0 m blandlikda;
+==== 
+ #0 chi nuktada;      
+==== 
+yerdan 0,5 m balandda.
++++++
+Kuvvati 500 mVt bulgan IES turbina zalining kengligi kancha?
+ ==== 
+42 metr;       
+==== 
+50 metr;       
+==== 
+#48 metr;       
+==== 
+51 metr.
++++++
+Kuvvati 800 mVt bulgan energobloklarda ta‘minot nasosi necha metr balandlikda urnatiladi?
+==== 
+ 8 metr;      
+==== 
+9 metr;       
+==== 
+#10,3 metr;       
+==== 
+11,3 metr.
++++++
+Mashinalar zalida texnik xizmat kursatish maydonlar soni?
+ ==== 
+3 ta;     
+==== 
+4 ta;      
+==== 
+#1 ta;       
+==== 
+2 ta.
++++++
+Buster nasoslar xosil kiladigan bosim:
+ ==== 
+1,9 MPa;       
+==== 
+1,7 MPa;        
+==== 
+#1,85 MPa;        
+==== 
+1,87 MPa.
++++++
+Ta‘minot nasoslarining ishchi parragi burchak tezligi:
+==== 
+4700;       
+==== 
+4500;        
+==== 
+#4600;        
+==== 
+4650.
++++++
+IES da tuyingan bug kuvurlarining belgilanishi 
+==== 
+P. P. s. v;    
+==== 
+  P. P. r;        
+==== 
+#P. N;          
+==== 
+ P. O.
+IES kimyoviy tozalangani suv kuvuri kanday rangga buyaladi?
+==== 
+Sarik, ok xalkali;       			 
+==== 
+Kizil, kora xalkali;
+ ==== 
+#Yashil, ok xalkali;       			 
+==== 
+Kizil.
++++++
+Kondensatsion elektr stantsiyasini ta‘riflang.
+==== 
+xam elektr stantsiyasi, xam issiklik energiyasi ishlab chikaradigan stantsiya;
+==== 
+Bug – gaz turbinali stantsiya;          
+ ==== 
+#Sanoat elektr stantsiyasi;
+==== 
+Fakat elektr energiyasi ishlab chikaruvchi elektr stantsiyasi.
++++++
+Kondensatsion elektr stantsiyaning energetik kursatkichini belgilovchi faktorlarni kursating?
+==== 
+KESga bug sarfi, yokilgi sarfi va bug kozonidagi yukotishlar;	
+==== 
+KESga shartli yokilgi sarfi va turbinaga solishtirma bug sarfi;        
+==== 
+ #Suv tayyorlash kurilmalarining foydali ish koeffitsienti;             
+==== 
+ Bug turbinasining iktisodiy ish rejimi.
++++++
+12 kv/m mikdordagi elektrik maydonda inson tanasiga ta‘sir kiladigan induktsion tok
+==== 
+0,20 MA;       
+==== 
+0,25 МА;       
+==== 
+#0,35 МА;       
+==== 
+0,18 МА.
++++++
+K-300-240  turbinali issiklik elektr stantsiyasidagi  ta‘minot nasosi   ta‘minot suvi bosimini:
+==== 
+20 – 30 MPaga oshiradi;				 
+==== 
+1,5 MPaga oshiradi;
+==== 
+#100 MPaga oshiradi;				
+==== 
+ 30 – 50 MPaga oshiradi.
++++++
+Ta‘minot nasosida ta‘minot  suvining xarorati.
+==== 
+3С dan 7С gacha oshiradi;			 
+==== 
+10С dan 30С gacha oshiradi;
+==== 
+ #30С dan 70С gacha oshiradi;			  
+==== 
+100С atrofida oshiradi.
++++++
+Kondensatsion elektr stantsiyada kondensatorning vazifasi:
+==== 
+Stantsiyaga kushimcha suv saklash uchun;
+==== 
+Bugni sovutish uchun.
+ ==== 
+#Suvdan bugni ajratish uchun;
+==== 
+ Sovitish suvini xaroratini oshirish uchun;
++++++
+K-300-240 blokli elektr stantsiyaning issiklik sxemasida nechta kondensat nasosi bor?
+==== 
+ 1 ta;        
+==== 
+2 ta;       
+==== 
+# 3 ta;        
+==== 
+ 8 ta.
++++++
+Kondensatordan chikayotgan sovitish suvining xarorati:
+==== 
+ 50 – 60С buladi;       
+==== 
+70 –80С buladi;
+==== 
+ #90 –95С buladi;        
+==== 
+25 – 30С buladi.
++++++
+Kondensatorning turbalari kaysi metalldan tayyorlanadi?
+==== 
+ Temirdan;  
+==== 
+Alyumindan;    
+==== 
+#Nixromdan;     
+==== 
+Latundan.
++++++
+GOELRO plani kachon kabul kilingan?
+ ==== 
+1919 yil;    
+==== 
+1920 yil;   
+==== 
+#1922 yil;    
+==== 
+1925 yil.
++++++
+Kup pogonali turbinani xisoblash uchun kanday kattalik kerak?
+==== 
+Bug bosimi va kozonxona;         
+==== 
+Kondensat xarorat, bug bosimi va xarorati;
+==== 
+#Ne, P0, PK;   			     
+==== 
+Ne.
++++++
+Zamonaviy korxona energiya xujaligining printsipial sxemasidagi tejamkorlikni ta‘minlovchi jixozlar:
+==== 
+Yukori samarali pechlar, bug kozonlari, issiklik almashtirgichlari va xokazo;
+==== 
+Issiklikdan kayta foydalanish kurilmalari;
+==== 
+ #Yokilgi va issiklik kayta foydalanish kurilmalari;
+==== 
+ Issiklik almashtirgich.
++++++
+Yokilgi chikindining turlari:
+==== 
+Kimyoviy va mexanik chala yongan yokilgi;
+==== 
+Ishlatilgan issik suv va kizdirilgan xavo;
+==== 
+ #Texnologik jarayonlarda xosil bulgan yonuvchan modda(gaz)lar, kimyoviy va mexanik chala yongan yokilgi;
+==== 
+ Sun‘iy yokilgilar – koks gazi, domna gazi.
++++++
+GOELRO plani buyicha kurilishi muljallangan elektr stantsiyalarning umumiy kuvvati:
+                
+==== 
+2,0 mln. kVt.       
+==== 
+1 mln. kVt;         
+==== 
+#2,5 mln. kVt;     
+==== 
+1,5 mln. kVt.
++++++
+Kanday xollarda komponovka samarali xisoblanadi
+ ==== 
+Energetik kursatkichlar katta bulganda;
+==== 
+Iktisodiy kursatkichlar katta bulganda;
+ ==== 
+#Solishtirma xajmi va maydon kiymatlari kichik bulganda;
+ ==== 
+Uskunalar narxi past bulganda.
+++++
+Kuvvati 500 mVt bulgan IES turbina zalining kengligi kancha?
+ ==== 
+42 metr;       
+==== 
+50 metr;        
+==== 
+#48 metr;        
+==== 
+51 metr.
++++++
+Mashinalar zalida texnik xizmat kursatish maydonlar soni?
+==== 
+3 ta;    
+==== 
+4 ta;     
+ ==== 
+#1 ta;       
+==== 
+2 ta.
++++++
+Buster nasoslar xosil kiladigan bosim:
+==== 
+1,9 MPa;      
+==== 
+1,7 MPa;      
+==== 
+#1,85 MPa;        
+==== 
+1,87 MPa.
++++++
+IES da tuyingan bug kuvurlarining belgilanishi 
+ ==== 
+P. P. s. v;      
+==== 
+P. P. r;         
+==== 
+#P. 
+==== 
+O.
++++++
+Kondensatsion elektr stantsiyasini ta‘riflang.
+ ==== 
+xam elektr stantsiyasi, xam issiklik energiyasi ishlab chikaradigan stantsiya;
+==== 
+Bug – gaz turbinali stantsiya;		  
+==== 
+#Sanoat elektr stantsiyasi;
+==== 
+Fakat elektr energiyasi ishlab chikaruvchi elektr stantsiyasi.
++++++
+Kondensatsion elektr stantsiyaning bug sarfi deb:
+ ==== 
+Kondensatorga sarflanayotgan bug;		 
+==== 
+Bug kozoniga berilayotgan ta‘minot suvi;
+==== 
+#Kizdirgichlarga olingan kism bugdan kolgani; 
+ ==== 
+Bug turbinasiga sarflanayotgan boshlangich bug.
++++++
+Turbinaga sarflanayotgan bug sarfi SI sistemasida kuyidagi kaysi birlikda ulchanadi?
+==== 
+MPa;      
+==== 
+kg/s;        
+==== 
+#KVt/sek;         
+==== 
+sm/kg.
++++++
+Taminot suvi trakti deb:
+ ==== 
+Turbina kondensatoridan deaeratorigacha bulgan oralik;
+==== 
+Bug kozonidan boshlab turbinagacha bulgan oralik;
+==== 
+#Deaeratordan boshlab bug kozonigacha bulgan oralik;
+==== 
+ Ta‘minot nasosidan boshlab ekonomayzergacha bulgan oralik.
++++++
+Deaeratorda О2 va СО2 gazlari kondensat tarkibidan nima yordamida tozalanadi?
+ ==== 
+Sulfat  kislotasi yordamida;         
+==== 
+Ishkor yordamida;
+==== 
+ #Chikindi gazlar yordamida;               
+==== 
+ Bug yordamida.
++++++
+Ta‘minot suvini regenerativ ravishda kizdirishning vazifasi:
+ ==== 
+Kondensatorga kuprok bug berish uchun;
+==== 
+Turbinaning FIK ni oshirish va yokilgi sarfini oshirish uchun;
+ ==== 
+#Bug kozonining FIK ni kamaytirish uchun;
+ ==== 
+Kondensatordagi issiklik yukotilishini kamaytirish.
++++++
+IES da tuyingan bug kuvurlarining belgilanishi 
+==== 
+P. P. s. v;    
+==== 
+  P. P. r;        
+==== 
+#P. N;          
+==== 
+ P. O.
+IES kimyoviy tozalangani suv kuvuri kanday rangga buyaladi?
+==== 
+Sarik, ok xalkali;       			 
+==== 
+Kizil, kora xalkali;
+ ==== 
+#Yashil, ok xalkali;       			 
+==== 
+Kizil.
++++++
+Kondensatsion elektr stantsiyasini ta‘riflang.
+==== 
+xam elektr stantsiyasi, xam issiklik energiyasi ishlab chikaradigan stantsiya;
+==== 
+Bug – gaz turbinali stantsiya;          
+ ==== 
+#Sanoat elektr stantsiyasi;
+==== 
+Fakat elektr energiyasi ishlab chikaruvchi elektr stantsiyasi.
++++++
+Kondensatsion elektr stantsiyaning energetik kursatkichini belgilovchi faktorlarni kursating?
+==== 
+KESga bug sarfi, yokilgi sarfi va bug kozonidagi yukotishlar;	
+==== 
+KESga shartli yokilgi sarfi va turbinaga solishtirma bug sarfi;        
+==== 
+ #Suv tayyorlash kurilmalarining foydali ish koeffitsienti;             
+==== 
+ Bug turbinasining iktisodiy ish rejimi.
++++++
+Kondensatsion elektr stantsiyaning bug sarfi deb:
+ ==== 
+Kondensatorga sarflanayotgan bug;		
+==== 
+Bug kozoniga berilayotgan ta‘minot suvi;
+==== 
+#Kizdirgichlarga olingan kism bugdan kolgani;	
+==== 
+ Bug turbinasiga sarflanayotgan boshlangich bug.
++++++
+Turbinaga sarflanayotgan bug sarfi SI sistemasida kuyidagi kaysi birlikda ulchanadi?
+==== 
+MPa;      
+==== 
+kg/s;       
+==== 
+#KVt/sek;         
+==== 
+sm/kg.
++++++
+Kondensatsion elektr stantsiyaga yokilgi sarfi deb:
+==== 
+ Bir soatda bug kozonida ishlab chikarilgan bug;   
+==== 
+Teplofikatsiya maksadida ishlatilgan bug;   
+====      
+ #Bug kozonidan ishlab chikarilgan bug sarfini yokilgidan ajralib chikkan issiklik va bug kozonining foydali ish koeffitsientiga nisbati;  
+ ==== 
+Nisbiy issiklik tushishini xakikiy issiklik tushishiga nisbatiga.
++++++
+Taminot suvi trakti deb:
+==== 
+Turbina kondensatoridan deaeratorigacha bulgan oralik;    
+==== 
+Bug kozonidan boshlab turbinagacha bulgan oralik;
+==== 
+#Deaeratordan boshlab bug kozonigacha bulgan oralik;
+ ==== 
+Ta‘minot nasosidan boshlab ekonomayzergacha bulgan oralik.
++++++
+Nima uchun deaeratorda suvdan О2 va СО2 gazlari tozalanadi?
+==== 
+Stantsiyani FIK ni oshirish uchun;              
+==== 
+Kozonxonadagi yukotishlarni kamaytirish uchun;
+==== 
+#Kuvurlar ichidagi korroziyani bartaraf etish.  
+==== 
+ Chikindi gazlar tarkibida SO gazini kamaytirish uchun;
++++++
+Ejektorning vazifasi nimadan iborat?
+==== 
+ Uta kizigan bugni turbinaga sikib berish uchun;
+==== 
+Kondensatsiyalanmagan gazlarni surib chikarish.
+==== 
+ #Deaeratordan O va SO gazlarini chikarib tashlash;
+==== 
+Kozonxonaga chikindi gazlarini retsirkulyatsiya kilish uchun;
++++++
+Issiklik sxemasidagi regenerativ kizdirgichlarning vazifasi:
+ ==== 
+kondensatni xaroratini bug yordamida oshirish 
+==== 
+Turbinani ish rejimini maromlash uchun;
+==== 
+ #Kondenstordagi bosimni bir maromda ushlab turish uchun;
+==== 
+ Bug kozoniga yokilgi sarfini oshirish uchun.
++++++
+Xozirgi kunda atmosfera xavosidagi  СО2 gazlari mikdori 
+==== 
+2300 mlrd.t;     
+==== 
+2180 mlrd.t;      
+==== 
+#2000 mlrd.t;    
+==== 
+2400 mlrd.t.
++++++
+Yirik shaxarlarda bir kunda sarflanadigan kislorod mikdori 
+==== 
+50 ÷ 75 t; 
+==== 
+30 ÷ 40 t;     
+==== 
+#180 t;      
+==== 
+100 ÷ 150 t.
+SO2, NO2 gazlarining inson uchun zaxarli kontsentratsiyasi 
+==== 
+ 400÷680 м2/м3;   
+==== 
+ 400÷500 м2/м3;  
+==== 
+    #400÷1000 м2/м3;     
+==== 
+ 380 м2/м3.
+К-800-240 turbinasidagi texnik suv ta‘minotidagi suv sarfi
+==== 
+21 м3/sek;    
+==== 
+22 м3/ sek;      
+==== 
+#20 м3/ sek;      
+==== 
+20,8 м3/ sek.
++++++
+Xavodagi SO2 gazini kaysi asbob yordamida ulchanadi?
+ ==== 
+GKM – 1;    
+==== 
+EA – 2;      
+==== 
+#GKP – 1;     
+==== 
+EA – 1.
++++++
+IESda ishlatiladigan suvning kattikligi
+==== 
+ 2÷5 mg ekv/l;     
+==== 
+2÷3 mg ekv/l;     
+==== 
+   #2÷7 мг ekv/l; 
+==== 
+5÷7 mg ekv/l.
++++++
+AESdagi kattik chikitlar nima uchun yokiladi?
+==== 
+ zaxarlilik darajasini kamaytirish uchun;                  
+==== 
+radiaktivlik darajasini kamaytirish uchun;
+ ==== 
+#xajmini kamaytirish uchun;                         
+==== 
+ nuklidlarni yashasha davrini oshirish uchun.
++++++
+1990 yilgacha elektr stantsiyalarning kuvvatini ayting
+==== 
+450 mln.kvt;       
+==== 
+350 mln.kvt;        
+==== 
+#630 mln.kvt;      
+==== 
+850 mln.kvt.
++++++
+Tallimarjon IES ni kuvvatini ayting?            
+==== 
+2400 mVt;     
+==== 
+1600 mVt;     
+==== 
+ #4000 mVt;        
+==== 
+3200 mVt.
+++++
+Elektr energiyasini xosil kiluvchi kanday stantsiyalarni bilasiz?
+==== 
+shamol, kuyosh, dengiz suv tulkini, AES, IES;           
+==== 
+yer osti suvlari issikligi, GES, chakmokli;
+==== 
+#kayta kuyiluvchi GES, kerosin yokilgisida ishlovchi IES; 
+==== 
+yogoch chikindisida ishlovchi, AES, IES.
++++++
+GOELRO plani buyicha kurilishi muljallangan elektr stantsiyalarning umumiy kuvvati:    
+==== 
+2,0 mln. kVt.       
+==== 
+1 mln. kVt;         
+==== 
+#2,5 mln. kVt;     
+==== 
+1,5 mln. kVt.
++++++
+Past bosimli bug turbinalarini boshlangich bosimini ayting?
+==== 
+3,5 – 4,0 MPa;      
+==== 
+8 – 10 MPa;        
+==== 
+#4 – 7 MPa;      
+==== 
+6 – 9 MPa.
+++++
+IES truba kuvurining umumiy xajmi IES dagi metall sarfini necha % ni tashkil kiladi?
+ ==== 
+10 %;        
+==== 
+11 %;       
+==== 
+#10,5 %;       
+==== 
+9 %.
++++++
+Ta‘minot suvi kuvurining belgilanishi:
+==== 
+P. O. V. d;       
+==== 
+P. S;       
+==== 
+#VK;        
+==== 
+V. P.
++++++
+Kondensatsion elektr stantsiyaning bug sarfi deb:
+ ==== 
+Kondensatorga sarflanayotgan bug;		
+==== 
+Bug kozoniga berilayotgan ta‘minot suvi;
+==== 
+#Kizdirgichlarga olingan kism bugdan kolgani;	
+==== 
+ Bug turbinasiga sarflanayotgan boshlangich bug.
++++++
+Turbinaga sarflanayotgan bug sarfi SI sistemasida kuyidagi kaysi birlikda ulchanadi?
+==== 
+MPa;      
+==== 
+kg/s;       
+==== 
+#KVt/sek;         
+==== 
+sm/kg.
++++++
+Kondensatsion elektr stantsiyaga yokilgi sarfi deb:
+==== 
+ Bir soatda bug kozonida ishlab chikarilgan bug;   
+==== 
+Teplofikatsiya maksadida ishlatilgan bug;   
+====      
+ #Bug kozonidan ishlab chikarilgan bug sarfini yokilgidan ajralib chikkan issiklik va bug kozonining foydali ish koeffitsientiga nisbati;  
+ ==== 
+Nisbiy issiklik tushishini xakikiy issiklik tushishiga nisbatiga.
++++++
+Kondensatordan chikayotgan sovitish suvining xarorati:
+==== 
+50 – 60С buladi;    
+==== 
+70 –80С buladi;
+==== 
+ #90 –95С buladi;         
+==== 
+25 – 30С buladi.
++++++
+GOELRO plani kachon kabul kilingan?
+ ==== 
+1919 yil;    
+==== 
+1920 yil;    
+==== 
+#1922 yil;   
+==== 
+1925 yil.
++++++
+AESdagi qattiq chiqitlar nima uchun yokiladi?
+==== 
+zaxarlilik darajasini kamaytirish uchun;
+==== 
+radiaktivlik darajasini kamaytirish uchun;
+==== 
+#xajmini kamaytirish uchun;
+==== 
+nuklidlarni yashasha davrini oshirish uchun.
++++++
+Zamonaviy IESlarning iste‘molchilariga uzatilgan elektr energiya buyicha FIK necha foizni tashkil etdi?
+==== 
+26 %;         
+==== 
+28 %;           
+==== 
+#36 %;          
+==== 
+30 %.
++++
+Atom elektr stantsiyalaridagi zaxarli chikitlar necha turga bulinadi?
+====
+2 xil;    
+==== 
+5 xil;     
+==== 
+#TVELlar va radiaktiv gazlar;
+====  
+gazsimon, suyuk va kattik.
++++++
+Elektr energiyasini xosil kiluvchi kanday stantsiyalarni bilasiz?
+==== 
+shamol, kuyosh, dengiz suv tulkini, AES, IES;	
+==== 	
+er osti suvlari issikligi, GES, chakmokli;	
+==== 		 
+#kayta kuyiluvchi GES, kerosin yokilgisida ishlovchi IES;
+==== 
+ yogoch chikindisida ishlovchi, AES, IES.
++++++
+Fakat elektr energiyasi ishlab chikaradigan stantsiya deb kanday stantsiyaga aytiladi?
+==== 
+AES;       
+==== 
+GES;   
+====     
+# IES;     
+====    
+KES.
++++++
+Past bosimli bug turbinalarini boshlangich bosimini ayting?
+==== 
+3,5 – 4,0 MPa;   
+====   
+8 – 10 MPa;  
+====       
+#4 – 7 MPa;  
+====     
+6 – 9 MPa.
++++++
+Ejektorning vazifasi nimadan iborat?
+==== 
+ Uta kizigan bugni turbinaga sikib berish uchun;
+==== 
+Kondensatsiyalanmagan gazlarni surib chikarish.
+==== 
+ #Deaeratordan O va SO gazlarini chikarib tashlash;
+==== 
+Kozonxonaga chikindi gazlarini retsirkulyatsiya kilish uchun;
++++++
+Issiklik sxemasidagi regenerativ kizdirgichlarning vazifasi:
+ ==== 
+kondensatni xaroratini bug yordamida oshirish 
+==== 
+Turbinani ish rejimini maromlash uchun;
+==== 
+ #Kondenstordagi bosimni bir maromda ushlab turish uchun;
+==== 
+ Bug kozoniga yokilgi sarfini oshirish uchun.
++++++
+Xozirgi kunda atmosfera xavosidagi  СО2 gazlari mikdori 
+==== 
+2300 mlrd.t;     
+==== 
+2180 mlrd.t;      
+==== 
+#2000 mlrd.t;    
+==== 
+2400 mlrd.t.
++++++
+Yirik shaxarlarda bir kunda sarflanadigan kislorod mikdori 
+==== 
+50 ÷ 75 t; 
+==== 
+30 ÷ 40 t;     
+==== 
+#180 t;      
+==== 
+100 ÷ 150 t.
+SO2, NO2 gazlarining inson uchun zaxarli kontsentratsiyasi 
+==== 
+ 400÷680 м2/м3;   
+==== 
+ 400÷500 м2/м3;  
+==== 
+    #400÷1000 м2/м3;     
+==== 
+ 380 м2/м3.
+К-800-240 turbinasidagi texnik suv ta‘minotidagi suv sarfi
+==== 
+21 м3/sek;    
+==== 
+22 м3/ sek;      
+==== 
+#20 м3/ sek;      
+==== 
+20,8 м3/ sek.
++++++
+Xavodagi SO2 gazini kaysi asbob yordamida ulchanadi?
+ ==== 
+GKM – 1;    
+==== 
+EA – 2;      
+==== 
+#GKP – 1;     
+==== 
+EA – 1.
++++++
+IESda ishlatiladigan suvning kattikligi
+==== 
+ 2÷5 mg ekv/l;     
+==== 
+2÷3 mg ekv/l;     
+==== 
+   #2÷7 мг ekv/l; 
+==== 
+5÷7 mg ekv/l.
++++++
+AESdagi kattik chikitlar nima uchun yokiladi?
+==== 
+ zaxarlilik darajasini kamaytirish uchun;                  
+==== 
+radiaktivlik darajasini kamaytirish uchun;
+ ==== 
+#xajmini kamaytirish uchun;                         
+==== 
+ nuklidlarni yashasha davrini oshirish uchun.
++++++
+1990 yilgacha elektr stantsiyalarning kuvvatini ayting
+==== 
+450 mln.kvt;       
+==== 
+350 mln.kvt;        
+==== 
+#630 mln.kvt;      
+==== 
+850 mln.kvt.
++++++
+Tallimarjon IES ni kuvvatini ayting?            
+==== 
+2400 mVt;     
+==== 
+1600 mVt;     
+==== 
+ #4000 mVt;        
+==== 
+3200 mVt.
++++++
+Elektr energiyasini xosil kiluvchi kanday stantsiyalarni bilasiz?
+==== 
+shamol, kuyosh, dengiz suv tulkini, AES, IES;           
+==== 
+yer osti suvlari issikligi, GES, chakmokli;
+==== 
+#kayta kuyiluvchi GES, kerosin yokilgisida ishlovchi IES; 
+==== 
+yogoch chikindisida ishlovchi, AES, IES.
++++++
+Uzbekistonda kachon elektr stantsiyalari kurilishi amalga oshirilgan?
+  ==== 
+1950-1980 yillarda;       			
+==== 
+1915-1923 yillarda; 
+==== 
+#1930-1940 yillarda;       			 
+==== 
+1915-1925 yillarda.
++++++
+Kanday energiya asosida ishlaydigan stantsiya AES deb ataladi?
+==== 
+atom energiyasidan foydalaniladigan; 
+==== 
+organik yokilgida ishlaydigan;
+==== 
+# yer osti suvlaridan foydalaniladigan;
+==== 
+oftob nurlanishidan.
++++++
+Fakat elektr energiyasi ishlab chikaradigan stantsiya deb kanday stantsiyaga aytiladi?
+==== 
+AES;      
+==== 
+GES;      
+==== 
+#IES;       
+==== 
+KES.
++++++
+Yukori bosimli bug turbinalari bosimini ayting?
+==== 
+8,7 – 9,3 MPa;  
+==== 
+9 – 13 MPa;  
+==== 
+#14,0 – 15,0 MPa;    
+==== 
+16,0 – 17,0 MPa.
++++++
+Issiklik chikindilarining turlari:
+==== 
+ Ishlatilgan issik suv, xavo va gazlar issikligi;
+==== 
+Tayyor maxsulotlarning fizik issikligi;
+==== 
+ #Ishlatilgan bug, kondensat, issik suv, xavo va gazlar issikligi, tayyor maxsulotlar va sovitish tizimida kullanilgan issiklik tashuvchi muxitning issikligi;             
+==== 
+ Issik suv, issik xavo.
++++++
+Energiya  ta‘minotining  sistema (tizim) lari:
+==== 
+Energiyalarni aloxida ishlab chikarish tizimi;		 
+==== 
+Kurama va aralash sistemalar;    
+==== 
+#Energiya ta‘minotining aloxida, kurama va aralash sistemalari;		 
+==== 
+Kurama tizim.
++++++
+IES dagi uta kizigan bug kuvuriga kuyiladigan belgi:
+==== 
+Kora xalka chiziladi;     
+==== 
+ Xavorang xalka chiziladi;
+ ==== 
+#Kizil xalka chiziladi;   
+==== 
+  Kizil rangga buyaladi.
++++++
+Ta‘minot suvi kuvurining belgilanishi:
+ ==== 
+P. O. V. d;      
+==== 
+P. S;       
+==== 
+#VK;        
+==== 
+V. P.
++++++
+Kanday xollarda komponovka samarali xisoblanadi
+==== 
+Energetik kursatkichlar katta bulganda;
+==== 
+Iktisodiy kursatkichlar katta bulganda;
+==== 
+#Solishtirma xajmi va maydon kiymatlari kichik bulganda;
+==== 
+ Uskunalar narxi past bulganda.
++++++
+Kuvvati 500 mVt bulgan IES turbina zalining kengligi kancha?
+==== 
+42 metr;       
+==== 
+50 metr;       
+==== 
+#48 metr;      
+==== 
+51 metr.
++++++
+Mashinalar zalida texnik xizmat kursatish maydonlar soni?
+==== 
+3 ta;     
+==== 
+4 ta;      
+==== 
+#1 ta;      
+==== 
+2 ta.
++++++
+Gaz turbinali kurilmalarning afzalliklari nimalardan iborat?
+==== 
+Arzon va sodda bulishi;
+==== 
+Yukori foydali ish koeffitsientiga ega bulishi;
+==== 
+#Bug kozoni bilan murakkab suv xujaligining yukligi, yukori foydali ish koeffitsientili arzon va sodda texnologik sxemaga egaligi xamda bir ish xolatidan boshkasiga oson va tez uta olish xususiyatiga ega bulganligi;
+==== 
+Kam xarajat talab kilinadi.
++++++
+Issiklik dvigatellariga nimalar kiradi?
+==== 
+Nasoslar;   
+==== 
+Bug turbinalar;   
+==== 
+#Kompressorlar;    
+==== 
+Ventilyator.
++++++
+h – s diagramma kanday xisoblashlar uchun kerak?
+==== 
+Gidravlika jarayonlari;       	 
+==== 
+Issiklik jarayonlari;
+==== 
+#Mexanik jarayonlar;     		 
+==== 
+Umumiy xolat kattaliklarini aniklash.
+++++
+Birinchi kategoriyasiga mansub truba kuvurlaridagi ishchi tana parametrlari:
+==== 
+t = 540 C, P = 1,6 mPa;         
+==== 
+t = 560 C, P = 0,07 mPa;
+==== 
+==== 
+#t = 250 C, P = 2,2 mPa;          
+==== 
+t = 580 C, P = 8,0 mPa.
++++++
+IES truba kuvurining umumiy xajmi IES dagi metall sarfini necha % ni tashkil kiladi?
+ ==== 
+10 %;        
+==== 
+11 %;       
+==== 
+#10,5 %;       
+==== 
+9 %.
++++++
+IES dagi uta kizigan bug kuvuriga kuyiladigan belgi:
+==== 
+Kora xalka chiziladi;      
+==== 
+Xavorang xalka chiziladi;
+==== 
+#Kizil xalka chiziladi;    
+ ==== 
+Kizil rangga buyaladi.
++++++
+Uta kizigan bug kuvurining belgilanishi Р = 14 MPa bulganda:
+ ==== 
+P. P. v.d.;   
+==== 
+P. N.;   
+==== 
+#P. P. s. v. d.;    
+==== 
+P. O.
++++++
+Ta‘minot suvi kuvurining belgilanishi:
+==== 
+P. O. V. d;       
+==== 
+P. S;       
+==== 
+#VK;        
+==== 
+V. P.
++++++
+IES komponovkasining asosiy kursatkichlari:
+==== 
+Balandlik, kenglik;			
+==== 
+Solishtirma xajm;
+ ==== 
+#Inshootning solishtirma xajmi va maydoni;
+==== 
+ Inshootning energetik kursatkichlari.
++++++
+Kanday xollarda komponovka samarali xisoblanadi
+==== 
+Energetik kursatkichlar katta bulganda;
+==== 
+Iktisodiy kursatkichlar katta bulganda;
+==== 
+#Solishtirma xajmi va maydon kiymatlari kichik bulganda;
+ ==== 
+Uskunalar narxi past bulganda.
++++++
+Agar tutun gazlari tutun kuvuriga yer ostidan uzatilsa tutun surgichni kanday urnatgan ma‘kul.
+ ==== 
+erdan 1,5 m  balandlikda;     
+==== 
+yerdan 1,0 m blandlikda;
+==== 
+ #0 chi nuktada;      
+==== 
+yerdan 0,5 m balandda.
++++++
+IESning texnik kursatkichlari nima uchun kerak?
+==== 
+Elektr stantsiyani tabiiy suv okimini urganish;        
+==== 
+Elektr stantsiyani tabiiy energiya manbasidan foydalanish kursatkichlarini baxolash;
+==== 
+#IESni energetik kursatkichini olish;
+==== 
+mexnat va suv xarajati formalarini urganish.       
++++++
+Issiklik chikindilarining turlari:
+==== 
+Ishlatilgan issik suv, xavo va gazlar issikligi;
+==== 
+Tayyor maxsulotlarning fizik issikligi;
+ ==== 
+#Ishlatilgan bug, kondensat, issik suv, xavo va gazlar issikligi, tayyor maxsulotlar va sovitish tizimida kullanilgan issiklik tashuvchi muxitning issikligi;              
+==== 
+Issik suv, issik xavo.
++++++
+Energiya  iste‘mol  kilinishi  grafigining  notekis  bulishining  sababi:  
+==== 
+Iste‘molchi kurilmalarning bir tekisda ishlay olmasligi;
+==== 
+Kupchilik iste‘molchilarning bir smenada ishlashi va issiklik yuklamasining iklim sharoitiga boglikligi;	   
+==== 
+#Iste‘molchilarning kamligi;       
+==== 
+Angren GRESi.
++++++
+Zamonaviy issiklik elektr stantsiyasidagi ishchi jismning asosiy parametrlari:
+==== 
+535 C, 90 at;   
+==== 
+565 C, 130  at;
+==== 
+#565 C, 130  at va ayrim xollarda: 560 С, 240 at;    
+==== 
+535 C, 130  at.
++++++
+Reduktsion sovitish kurilmasi (RSK) ning vazifasi?
+==== 
+Bugni kerakli xaroratgacha sovutib berish;
+==== 
+Bug bosimini ma‘lum kiymatgacha kamaytirib berish;
+ ==== 
+#Bug xarorati bilan bosimni psaytirib berish;
+ ==== 
+Bug sarfini uuzgartirib berish.
++++++
+Issiklik dvigatellariga nimalar kiradi?
+==== 
+Nasoslar;   
+==== 
+Bug turbinalar;   
+==== 
+#Kompressorlar;   
+==== 
+Ventilyator.
++++++
+Kup pogonali turbinani xisoblash uchun kanday kattalik kerak?
+==== 
+Bug bosimi va kozonxona;  
+==== 
+Kondensat xarorat, bug bosimi va xarorati;
+ ==== 
+#Ne,P0, PK;     
+==== 
+Ne.
++++++
+Birinchi kategoriyasiga mansub truba kuvurlaridagi ishchi tana parametrlari:
+ ==== 
+t = 540 C, P = 1,6 mPa;        
+==== 
+t = 560 C, P = 0,07 mPa;
+==== 
+#t = 250 C, P = 2,2 mPa;          
+==== 
+t = 580 C, P = 8,0 mPa.
++++++
+IES dagi uta kizigan bug kuvuriga kuyiladigan belgi:
+ ==== 
+Kora xalka chiziladi;      			 
+==== 
+Xavorang xalka chiziladi;
+==== 
+#Kizil xalka chiziladi;    			  
+==== 
+Kizil rangga buyaladi.
++++++
+Ta‘minot suvi kuvurining belgilanishi:
+==== 
+P. O. V. d;       
+==== 
+P. S;        
+==== 
+#VK;       
+==== 
+V. P.
+
+
                      `}</h1>
                      </p>
                  </pre>   
