@@ -2,7 +2,7 @@ import React, { useEffect,  useState } from 'react'
 import Books from './Books';
 const Entrance = () => {
     let [result,setResult] = useState(false)
-    const [seconds, setSeconds] = useState(2100);
+    const [seconds, setSeconds] = useState(30);
 useEffect(() => {
     if (seconds > 0) {
       const timer = setTimeout(() => {
@@ -18,7 +18,7 @@ useEffect(() => {
   
   return (
     <div >
-        {result ? <h1 className=' text-[#009dff] font-bold text-[40px] mt-[200px] text-center'> Thank you very much !!! 😎 BOSS</h1>:
+        {result ? <h1 className=' text-[#009dff] font-bold text-[40px] mt-[200px] text-center bg-black '> Thank you very much !!! 😎 BOSS</h1>:
             <>
               <div>
                 <Books/>
