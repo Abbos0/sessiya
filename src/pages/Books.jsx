@@ -2008,6 +2008,9821 @@
   ====
   100 bar, 565 С
   ++++
+  KES va IEM lar bir – biridan farqlanishi nimada?
+  ====
+  kes da fakat elektr energiya, iem da esa elektr energiya ham issiqlik energiya ishlab chiqariladi
+  ====
+  kes da kimyoviy energiya, iem da esa elektr energiya ishlab chiqariladi 
+  ====
+  kes da elektr energiya, iem da esa issiqlik energiya ishlab chiqariladi 
+  ====
+  kes da fakat issiqlik energiya, iem da esa elektr energiya ham issiqlik energiya ishlab chiqariladi 
+  ++++ 
+  Qozon agregati deb nimaga aytiladi?
+  ====
+  Suv bug’ini ishlab chiqaruvchi qurilma
+  ====
+  Suv qizdiruvchi agregat
+  ====
+  Suv ta’minlab beruvchi qurilma
+  ====
+  Bug’ ta’minlovchi uskuna
+  ++++ 
+  Suv isitish qozoni deb nimaga aytiladi?
+  ====
+  Issiq suv ishlab chiqaruvchi qurilma
+  ====
+  Issiq suv va bug’ islab chiqaruvchi qurilma
+  ====
+  Bug’ ishlab chiqaruvchi qurilma
+  ====
+  Suvni qizdirib bug’ga aylantiruvchi qurilma
+  ++++ 
+  Qozon qurilmasi deb nimaga aytiladi?
+  ====
+  Issiq suv va suv bug’i  ishlab chiqaruvchi qurilma va yordamchi jihozlar
+  ====
+  Suvni yuqori haroratda yetkazib beradi
+  ====
+  Yoqilg’idan yuqori harorat oladi 
+  ====
+  Ishchi jismi gaz bo’lgan qurilma
+  ++++ 
+  Bug’ generatorini asosiy qismlari?
+  ====
+  o’txona, bug’ qizdirgich, ekonomayzer va havo qizdirgich
+  ====
+  bug’ qizdirgich, ekonomayzer va kondensator
+  ====
+  ekonomayzer, havo qizdirgich va past bosimli silindr
+  ====
+  havo qizdirgich va ekonomayzer
+  ++++ 
+  Qanday sirkulyasiyali qozonlar mavjud?
+  ====
+  Tabiiy,majburiy,to’g’ri oqimli.
+  ====
+  Tabiiy,majburiy,teskari oqimli.
+  ====
+  To’g’ri oqimli,majburiyto’ri oqimli,teskari to’g’ri oqimli.
+  ====
+  To’g’ri oqimli,teskari oqimli,aralash oqimli
+  ++++ 
+  Sirkulyasiya karraligi deb nimaga aytiladi?
+  ====
+  Suv massa birligining bug’ga aylanish qiymati.
+  ====
+  Bug’ning suvga aylanishi
+  ====
+  Suvning qozonda aylanishi
+  ====
+  Bug’ va suvning aylanish tezligi.
+  ++++ 
+  Tabiiy sirkulyasiyali qozonlarda sirkulyasiya karraligi nechaga teng?
+  ====
+  K=4-30
+  ====
+  K=3-40
+  ====
+  K=3-10
+  ====
+  K=1
+  ++++ 
+  Majburiy sirkulyasiyali qozonlarda sirkulyasiya karraligi nechaga teng?
+  ====
+  K=3-10
+  ====
+  K=4-30
+  ====
+  K=1 
+  ====
+  K=3-40
+  ++++ 
+  To’g’ri oqimli qozonlarda sirkulyasiya karraligi nechaga teng?
+  ====
+  K=1
+  ====
+  K=3-40
+  ====
+  K=3-10
+  ====
+  K=4-30
+  ++++ 
+  Tutun so’rgichning vazifasi? 
+  ====
+  Bug’ generatori o’txonasidan yonish mahsulotlarini chiqarish.
+  ====
+  havoni o’choqqa uzatish.
+  ====
+  havo sirkulyasiyasini me'yorlash.
+  ====
+  Bug’ haroratini rostlash.
+  ++++ 
+  Bug’ haroratini rostlash?
+  ====
+  O’txonada joylashgan yuzalar
+  ====
+  gorizontal gaz yo’lida joylashgan yuzalar
+  ====
+  konvektiv shaxtada joylashgan yuzalar
+  ====
+  o’txonani tashqi devorida joylashgan yuzalar
+  ++++ 
+  Bug’ bosimiga ko’ra qozonlar necha turga bo’linadi?
+  ====
+  4 ga
+  ====
+  3ga
+  ====
+  2ga
+  ====
+  5ga
+  ++++ 
+  Qattiq va suyuq yoqilg’ilarning asosiy kimyoviy tarkibi?
+  ====
+  C,H,S,O,N,W,A.
+  ====
+  CH4,O2,N2,S,A,W.
+  ====
+  H2O,CO,H2S,C2H6,W
+  ====
+  C,O,N.S,W,A,H2O
+  ++++ 
+  Yoqilg’ining tashqi ballast qismi? 
+  ====
+  W,A
+  ====
+  O,N.
+  ====
+  S,O.
+  ====
+  N,W.
+  ++++ 
+  Yoqilg’ining ichki ballast qismi?
+  ====
+  O,N.
+  ====
+  S,O.
+  ====
+  W,A.
+  ====
+  N,O.
+  ++++ 
+  Suv qizdirish qozonlarining vazifasi?
+  ====
+  issiqlik ta'minoti ehtiyojlari uchun zarur bo’lgan suvni qizdirish
+  ====
+  o’ta qizigan bug’ishlab chiqarish
+  ====
+  Bug’ generatorini ishini me'yorlash
+  ====
+  to’yingan bug’ishlab chiqarish
+  ++++ 
+  Suv qizdirish qozonlarida qo’llaniladigan yoqilg’i turlari?
+  ====
+  mazut va gaz
+  ====
+  ====
+  toshko’mir va antrasit
+  ====
+  antrasit va o’tin
+  ====
+  qo’ng’ir ko’mir va dizel
+  ++++ 
+  Ta'minot suvini regenerativ qizdirishdan maqsad?
+  ====
+  stansiyada yoqilg’i sarfini kamaytirib, FIKni oshirish
+  ====
+  stansiyada suvni qaynatish
+  ====
+  stansiya ish faoliyatini yaxshilash
+  ====
+  stansiyada qo’shimcha bug’ olish maqsadida
+  ++++ 
+  Yoqilg’ini yonish issiqligiga ta'sir etuvchi moddalar?
+  ====
+  uglerod
+  ====
+  oltingugurt
+  ====
+  azot
+  ====
+  kislorod
+  ++++ 
+  Ekran yuzalari deb quyidagi yuzalarga aytiladi?
+  ====
+  o’txonada joylashgan yuzalar
+  ====
+  gorizontal gaz yo’lida joylashgan yuzalar
+  ====
+  konvektiv shaxtada joylashgan yuzalar
+  ====
+  o’txonani tashqi devorida joylashgan yuzalar
+  ++++ 
+  Yoqilg’ining yuqori yonish issiqligi deb quyidagi issiqlik miqdoriga aytiladi?
+  ====
+  yoqilg’ini to’liq yonish va suv bug’ini kondensasiyalashda sarflangan issiqlik miqdorlari yig’indisi
+  ====
+  yoqilg’ini ishchi massasi yonish issiqligi
+  ====
+  suv bug’ini kondensasiyalashga sarflangan issiqlikni xisobga olinmagan xoldagi yonish issiqligi 
+  ====
+  quyi yonish issiqligiga
+  ++++ 
+  Barabanli qozonlarning ishchi bosimi?
+  ====
+    
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Oraliq qizdirgichning vazifasi?
+  ====
+  YUUS da ishlatilgan Bug’’ni haroratini boshlang’ich haroratga yetkazish yonish mahsulotlarini sovutish
+  ====
+  quruq Bug’ni o’ta qizdirish
+  ====
+  at'minlovchi suvni qizdirish
+  ====
+  ishlatilgan Bug’ bosimini boshlang’ich holatga yetkazish
+  ++++ 
+  To’g’ri oqimli qozonlarining afzalligi?
+  ====
+  O’ta yuqori parametrli bug’ olish
+  ====
+  yuqori bosimli bug’ ishlab chiqarish
+  ====
+  yoqilg’i tejamkorligi
+  ====
+  issiqlik isrofi kamligi
+  ++++ 
+  Yoqilg’ining quyii yonish issiqligi deb nimaga aytiladi?
+  ====
+  Suv bug’ini kondensasiyalashga sarflangan  issiqlikni hisobga olinmagan  holdagi yonish issiqligi
+  ====
+  yoqilg’ini ishchi massasi yonish issiqligi
+  ====
+  yoqilg’ini to’liq yonish va suv bug’ini kondensasiyalashda sarflangan issiqlik miqdorlari yig’indisi
+  ====
+  quyi yonish issiqligiga
+  ++++ 
+  Yuqori bosimli qozonlarda ishchi jismning bosimi?
+  ====
+      ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Tutun gazlarining tarkibi?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Tutun gazlar  yo’li  bo’yicha ortiqcha havo koeffisientini o’zgarishi? 
+  ====
+  qiymati oshib boradi
+  ====
+  qiymati kamayadi
+  ====
+  qiymati o’zgarmaydi
+  ====
+  ortiqcha havo koeffisienti qiymatini qozon qismlariga aloqasi yo’q
+  ++++ 
+  Bug’ bosimi past bulgan bug’ qozonlarda bug’ bosimi nechaga teng? 
+  ====
+  P=0,8-1,6 Mpa
+  ====
+  P=1,6-2,5 Mpa
+  ====
+  P=0,6-2,6 Mpa
+  ====
+  P=2,4-4,0 Mpa
+  ++++ 
+  O’rta bosimli qozonlarda bug’ bosimi nechaga teng?
+  ====
+  P=2,4-4,0 Mpa
+  ====
+  P=4,0-10  Mpa
+  ====
+  P=10-14  Mpa
+  ====
+  P=0,8-1,6 Mpa
+  ++++ 
+  Yuqori bosimli qozonlarda bug’ bosimi nechaga teng?
+  ====
+  P=10-14  Mpa
+  ====
+  P=16-24  Mpa
+  ====
+  P=25-31  Mpa
+  ====
+  P=10-16  Mpa
+  ++++ 
+  O’ta yuqori bosimli qozonlarda bug’ bosimi nechaga teng?
+  ====
+  P=25-31  Mpa
+  ====
+  P=16-24  Mpa 
+  ====
+  P=24-30  Mpa
+  ====
+  P=10-16  Mpa
+  ++++ 
+  Energetik qozonlarda qanday yoqilg’ilar qo’llaniladi?
+  ====
+  Toshko’mir,qo’ng’ir ko’mir,antrasit,mazut,tabiiy gaz.
+  ====
+  Ko’mir,mazut,kerosin, domna gazi,tabiiy gaz.
+  ====
+  Torf,o’tin,antrasit,qo’ng’ir ko’mir,sun’iy gaz/
+  ====
+  Yonuvchi slaneslar,torf, mazut, toshko’mir,tabiiy gaz.
+  ++++ 
+  oqilg’ining ishchi massasi deb nimaga aytiladi?
+  ====
+  Qozon agregatining o’txonasiga to’g’ridan-to’g’ri tushadigan yoqilg’i.
+  ====
+  Namligi olingan yoqilg’i.
+  ====
+  Labaratoriyada tashqi namligi olingan yoqilg’i
+  ====
+  Tashqi ballasti A,W chiqarilgan yoqilg’i
+  ++++ 
+  Yoqilg’ining analitik massasi deb nimaga aytiladi?
+  ====
+  Labaratoriyada tashqi namligi olingan yoqilg’i
+  ====
+  Qozon agregatining o’txonasiga to’g’ridan-to’g’ri tushadigan yoqilg’i
+  ====
+  Namligi olingan yoqilg’i.
+  ====
+  Tashqi ballasti A,W chiqarilgan yoqilg’i
+  ++++ 
+  Suvni natriy kationlash deb nimaga aytiladi?
+  ====
+  Suvni natriy kationlash deb suv tarkibidagi kationlarning Na – kationit filtridagi Na – kationi
+  ====
+  bilan almashish holatiga aytiladi.
+  ====
+  Suv tozalash sohasida suvni Са2+ va Mg2+ kabi kationlardan tozalash suvni natriy kationlash
+  deb ataladi.
+  ====
+  Ion almashish jarayonida anionlar almashisa bu jarayon suvni natriy kationlash deb ataladi
+  ====
+  jisimlarning issiqlik almashish jarayonida anionlar almashisa bu jarayon suvni natriy
+  kationlash deb ataladi
+  ++++ 
+  Suvni H – kationlash deb nimaga aytiladi?
+  ====
+  H – kationitli filtrlardan o'tayotgan suv tarkibidagi kationlarning filtrdagi H– kationlari bilan
+  almashish suvni H – kationlash deb ataladi
+  ====
+  Ion almashish jarayonida anionlar almashisa bu jarayon suvni H kationlash deb ataladi
+  ====
+  jisimlarning issiqlik almashish jarayonida anionlar almashisa bu jarayon suvni H kationlash
+  deb ataladi
+  ====
+  Suvni natriy kationlash deb suv tarkibidagi kationlarning Na – kationat filtridagi H – kationi
+  ++++ 
+  Yoqilg’ining quruq massasi deb nimaga aytiladi?
+  ====
+  Yoqilg’I  namligi to’liq chiqarilgandagi  qolgan massa.
+  ====
+  Labaratoriyada tashqi namligi olingan yoqilg’i
+  ====
+  Qozon agregatining o’txonasiga to’g’ridan-to’g’ri tushadigan yoqilg’
+  ====
+  Tashqi ballasti A,W chiqarilgan yoqilg’i
+  ++++ 
+  Yoqilg’ining yonuvchi massasi deb nimaga aytiladi?
+  ====
+  Agar yoqilg’idan tashqi ballast A,W,chiqarilsa qolgan massa.
+  ====
+  Yoqilg’i namligi to’liq chiqarilgandagi  qolgan massa.
+  ====
+  Labaratoriyada tashqi namligi olingan yoqilg’i.
+  ====
+  Namligi olingan yoqilg’i.
+  ++++ 
+  Yoqilg’ining yonish issiqligi deb nimaga aytiladi?
+  ====
+  1mJ/kg yoki 1mJ/m3 yoqilg’i to’liq yonganda ajralib chiqqan issiqlik miqdoriga.
+  ====
+  yoqilg’ini to’liq yonish va suv bug’ini kondensasiyalashda sarflangan issiqlik miqdorlari yigindisi
+  ====
+  yoqilg’ini ishchi massasi yonish issiqligi
+  ====
+  quyi yonish issiqligiga
+  ++++ 
+  Yoqilg’I tarkibidagi H vodorodning yonish issiqligi nechaga teng?
+  ====
+  Q=120,5 mJ/kg
+  ====
+  Q=120,3 mJ/kg
+  ====
+  Q=120,6 mJ/kg
+  ====
+  Q=120,2 mJ/kg
+  ++++ 
+  Yoqilg’i tarkibidagi C uglerodning yonish issiqligi nechaga teng?
+  ====
+  Q=34,1 mJ/kg
+  ====
+  Q=35,0 mJ/kg
+  ====
+  Q=34,5 mJ/kg
+  ====
+  Q=34,2  mJ/kg
+  ++++ 
+  Yoqilg’i tarkibidagi S oltingugurtning yonish issiqligi nechaga teng?
+  ====
+  Q=9,3 mJ/kg
+  ====
+  Q=9,2 mJ/kg
+  ====
+  Q=9,5 mJ/kg
+  ====
+  Q=9,1 mJ/kg
+  ++++ 
+  Yoqilg’i tarkibida H vodorod necha foizni tashkil qiladi?
+  ====
+  4-9 %
+  ====
+  4-13 %
+  ====
+  4-8 %
+  ====
+  4-11 %
+  ++++ 
+  Yoqilg’i tarkibida C uglerod necha foizni tashkil qiladi?
+  ====
+  50-90 %
+  ====
+  55-90 %
+  ====
+  50-80%
+  ====
+  50-95 %
+  ++++ 
+  Yoqilg’i tarkibida S oltingugurt necha foizni tashkil qiladi?
+  ====
+  0,1-3 %
+  ====
+  0,1-5 %
+  ====
+  0,1-7 %
+  ====
+  0,1-2 %
+  ++++ 
+  To’g’ri oqimli qozonlar kim tomondan yaratildi?
+  ====
+  L.K.Ramzin.
+  ====
+  S.Karno
+  ====
+  D.I.Mendeleev
+  ====
+  Otto
+  ++++ 
+  Ortiqcha havo koeffisientining  hisobiy ifodasi?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Qozonning issiqlik balans tenglamasi?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Tutun gazlari bilan ketayotgan  issiqlik miqdori nimaga bog’liq?
+  ====
+  tutun gazlari haroratiga
+  ====
+  tutun gazlari bosimga
+  ====
+  tutun gazlari tarkibiga
+  ====
+  tutun so’rgich turiga
+  ++++ 
+  Atmosfera chiqayotgant utun gazlari tarkibidagi zaxarli moddalar?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Shartli yoqilg’ining yonish issiqligi qiymati nechaga teng?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Tutun mo’risining balandligi nimaga asoslanadi?
+  ====
+  stansiyaning quvvatiga
+  ====
+  yoqilg’ining turiga
+  ====
+  bug’ qozonining turiga
+  ====
+  bug’ qozonning soniga
+  ++++ 
+  Tutun gazlari harorati keltirilgan faktorlardan qaysi biriga bog’liq?
+  ====
+  o’txonaga uzatilgan havo haroratiga va yoqilg’i sifatiga
+
+  o’txonaga uzatilgan havoning tarkibiga
+  ====
+  yoqilg’i tarkibidagi azot miqdoriga
+  ====
+  O’txonaning hajmiga.
+  ++++ 
+  Majburiy sirkulyasiyali qozonlarda ishchi jismning tezlik miqdori?
+  ====
+  1,5 dan 2m/s gacha
+  ====
+  doimo oshib turadi
+  ====
+  1,2 m/s dan kichik
+  ====
+  1,2 dan 1,5 gacha
+  ++++ 
+  Qozon qurilmasining vazifasi nima?
+  ====
+  yoqilg'i yonishi hisobiga suvni isitish va bug’ga aylantirish
+  ====
+  suvni sovutib berishga hizmat qiladi
+  ====
+  suvning tarkibini tozalaydi
+  ====
+  bug’ni kondensatga aylantiradi
+  ++++ 
+  IESda bug’ turbinasi ishlatiladimi yoki GES dami?
+  ====
+  IESda
+  ====
+  GESda
+  ====
+  Ikkovida  ham  ishlatiladi
+  ====
+  Ikkovida ham  ishlatilmaydi
+  ++++ 
+  Kondensator qanday vazifani bajaradi?
+  ====
+  bug’ni suvga aylantiradi
+  ====
+  suvni bug’ga aylantiradi
+  ====
+  turbinadan tushayotgan suvni sovitadi
+  ====
+  bug’ni bug’ qozoniga etkazib beradi
+  ++++ 
+  Qattiq, suyuq va gazsimon yoqilg’ida ishlaydigan o’txona tanlansin?
+  ====
+  mash'alali o’txon
+  ====
+  qatlamli o’txona
+  ====
+  Uyurmali o’txona.
+  ====
+  siklonli o’txona
+  ++++ 
+  Konveksiya orqali issiqlik uzatish yuzalari?
+  ====
+  konvektiv bug’ qizdirgich  ekonomayzer va havo qizdirgich.
+  ====
+  ekran quvurlari
+  ====
+  o’choq atrofi
+  ====
+  feston;
+  ++++ 
+  Qozon qurilmasidagi havo yo’lining elementlari?
+  ====
+  havo qizdirgich, ventilyator va havo quvurlari
+  ====
+  havo qizdirgich, havo quvurlari va tutun so’rgich
+  ====
+  havo qizdirgich, havo quvurlari va o’choq
+  ====
+  separator va havo qizdirgich
+  ++++ 
+  Energetik yoqilg’ini ko’rsating?
+  ====
+  mazut, tabiiy gaz va ko’mir
+  ====
+  neft, tabiiy gaz va koks
+  ====
+  ko’mir, neft va generatorli gaz
+  ====
+  tabiiy gaz, neft va ko’mir
+  ++++ 
+  Qattiq yoqilg’ilar  uchun ortiqcha havo koeffisienti nechaga teng ?
+  ====
+  1,15-1,25
+  ====
+  1,10-1,20
+  ====
+  1,12-1,22
+  ====
+  1,05-1,15
+  ++++ 
+  Gazsimon yoqilg’ilar uchun ortiqcha havo koeffisienti nechaga teng ?
+  ====
+  1,05-1,1
+  ====
+  1,03-1,1
+  ====
+  1,02-1,1
+  ====
+  1,04-1,1
+  ++++ 
+  Suyuq yoqilg’ilar uchun ortiqcha havo koeffisienti nechaga teng ?
+  ====
+  1,03-1,1
+  ====
+  1,04-1,1
+  ====
+  1,02-1,1
+  ====
+  1,05-1,1
+  ++++ 
+  Majburiy sirkulyasiyali qozonlarda ishchi jismning tezlik miqdori?
+  ====
+  1,5 dan 2m/s gacha
+  ====
+  doimo oshib turadi
+  ====
+  1,2 m/s dan kichik
+  ====
+  1,2 dan 1,5 gacha
+  ++++ 
+  Kritik bosimdan yuqori bosimli bug’ qozonlaridan chiqadigan o’ta qizigan bug’ning parametrlari?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  IESlarda qanaqa yoqilg'i yoqiladi?
+  ====
+  ko'mir, tabiiy gaz, mazut
+  ====
+  o'tin
+  ====
+  gaz va mazut
+  ====
+  torf
+  ++++ 
+  Tabiiy gazning texnikaviy xarakteristikalari?
+  ====
+  namlik, portlovchanlik va zaxarlilik
+  ====
+  zichlik, zaxarlilik va portlovchanlik
+  ====
+  oltingugurtli va kam oltingugurtli
+  ====
+  portlovchanlik, zaxarlilik va yonish harorati
+  ++++ 
+  Havo isitgichining vazifasi nima?
+  ====
+  Tutun gazlarining issiqligi hisobiga o’zidan o’tayotgan havoni qizdirish.
+  ====
+  Tutun gazlarining haroratini tushirish.
+  ====
+  Tutun gazlarining haroratini ko’tarish.
+  ====
+  sun'iy hosil qilingan bug’ni isitish
+  ++++ 
+  Bug’ qozoni qanday materialdan yasaladi?
+  ====
+  po'lat va yuqori sifatli metallardan
+  ====
+  g’ish va loydan
+  ====
+  Alyumin va metaldan
+  ====
+  Mis va metaldan
+  ++++ 
+  Bug’lanish jarayonini belgilovchi parametr qiymatlari?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Suvning qaynash harorati nimaga bog’liq?
+  ====
+  bosimga
+  ====
+  to’yinish harorati
+  ====
+  suv miqdoriga
+  ====
+  bosimga, suv miqdoriga
+  ++++ 
+  Qozonning qizish va bug’lantirish yuzasi qanaqa yuza deyiladi?
+  ====
+  qozonning issiqlik qabul qiluvchi yuzasidir
+  ====
+  qozonning bug’ qabul qiluvchi yuzasidir
+  ====
+  qozonning gaz qabul qiluvchi yuzasidir
+  ====
+  qozonning tutun qabul qiluvchi yuzasidir
+  ++++ 
+  O’txonadagi yonish mahsulotlarining harorati?
+  ====
+  
+  ====
+  1000-2000 0 C
+  ====
+    ====
+  
+  ++++ 
+  Bug’ o'ta qizdirgichi nima?
+  ====
+  bug’ni o'ta qizigan holatga etkazib beradigan maxsus yuzadir
+  ====
+  bug’ni 100  ga etkazib beradigan maxsus yuzadir ====
+  suvni bug’ga aylantirib beruvchi uskuna
+  ====
+  bug’ni kondensatga aylantirib beruvchi uskuna
+  ++++ 
+  Ekonomayzer nima vazifani bajaradi ?
+  ====
+  tutun gazlari hisobiga ta’minot suvini qizdirib berish.
+  ====
+  tutun gazlarini sovutib chiqarish.
+  ====
+  havoni qizdirib berish.
+  ====
+  havoni sovutib berish.
+  ++++ 
+  Ekonomayzer yuzasini qizdirishda tutun gazlarini harorati?
+  ====
+    ====
+  
+  ====
+    ====
+  
+  ++++ 
+  Bug’ generatoridagi qizdirish yuzalar joyini belgilovchi asosiy faktor?
+  ====
+  harorati
+  ====
+  ishchi jismning bosimi
+  ====
+  gaz yo’llarini o’lchamlari
+  ====
+  bug’ qozon markasi
+  ++++ 
+  Konveksiya orqali issiqlikni uzatish koeffisientining  miqdoriga ta'sir etuvchi faktorlar?
+  ====
+  yonish maxsulotlari tezligi
+  ====
+  quvurlar diametri
+  ====
+  quvurlar joylashishi
+  ====
+  qizdirish sifatiga
+  ++++ 
+  Qaysi yoqilg’ini yondirish natijasida qizdirish yuzalarda kislorodli korroziya sodir bo’ladi?
+  ====
+  mazut
+  ====
+  tabiiy gaz
+  ====
+  tosh ko’mir
+  ====
+  qo’ng’ir ko’mir, tabiiy gaz
+  ++++ 
+  Qaysi yoqilg’ida oltingugurtli korroziya kuchli bo’ladi?
+  ====
+  mazut
+  ====
+  tabiiy gaz
+  ====
+  tosh ko’mir
+  ====
+  antrasit
+  ++++ 
+  Bug’ qozonning qaysi metal elementlarda yuqori haroratli korroziya kuchli bo’ladi?
+  ====
+  ekran quvurlar
+  ====
+  festonlar
+  ====
+  bug’ qizdirgich quvurlar
+  ====
+  oraliq bug’ qizdirgich quvurlari
+  ++++ 
+  Qizdirish yuzalardagi ichki korroziyani hosil etuvchi gazlar?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Ishqorli korroziyani sodir etuvchi kimyoviy element?
+  ====
+  ta'minot suvini yonish mahsulotlari orqali qaynash holatiga keltiruvchi maxsus issiqlik almashgich yuzadir
+  ====
+  kimyoviy tozalash sexidan keluvchi suvni tejash
+  ====
+  issiqlik almashinish jarayoni orqali ma'lum bir hajmdagi ishchi jismni berish
+  ====
+  qaynoq suvni tuzlardan tozalash
+  ++++ 
+  Ekonomayzer quvurlarining diametri qancha bo’ladi?
+  ====
+  D=20-30 mm, S=3,5-4,5 mm
+  ====
+  D=25-30 mm, S=4,0-4,5 mm
+  ====
+  D=25-35 mm, S=2,5-3,5 mm
+  ====
+  D=30-40 mm, S=4,5-5,0 mm
+  ++++ 
+  Konstruksiyasiga ko’ra ekonomayzerlar qanday shaklda yasaladi ?
+  ====
+  Quvurlardan ilonizisimon shaklda
+  ====
+  Tik quvurlar to’plamidan
+  ====
+  Quvurlardan vertical shaklda
+  ====
+  Quvurlardan gorizontal shaklda
+  ++++ 
+  Ekonomayzerlarning qanday turlari mavjud ?
+  ====
+  Qaynaydigan va qaynamaydigan
+  ====
+  Suv va bug’ ekonomayzerlar
+  ====
+  Yuqori  bosimga chidamli
+  ====
+  Past bosimda ishlaydigan
+  ++++ 
+  Konstruksiyasiga ko’ra qaynaydigan ekonomayzerlar qaynamaydiganlaridan nimasi bilan farq qiladi? 
+  ====
+  Farq qilmaydi
+  ====
+  Hajmi kattaligi bilan.
+  ====
+  Hajmi kichikligi bilan.
+  ====
+  Quvurining diametric bilan.
+  ++++ 
+  Qanaqa metallardan yasalgan ekonomayzerlar mavjud?
+  ====
+  Po’lat va cho’yandan.
+  ====
+  Po’lat va misdan
+  ====
+  Cho’yan va alyumindan
+  ====
+  Temir va cho’yandan
+  ++++ 
+  Past bosimli qozonlarda qanday ekonomayzerlar qo’llaniladi?
+  ====
+  Qaynaydigan
+  ====
+  Qaynamaydigan
+  ====
+  Bug’ ekonomayzerlar
+  ====
+  Suv ekonomayzerlar
+  ++++ 
+  Past haroratli qizdirish yuzalari?
+  ====
+  havo qizdirgich, ekonomayzer
+  ====
+  feston, ekran quvurlar
+  ====
+  ekonomayzer, tutun muri
+  ====
+  oraliq bug’ qizdirgich, xavo qizdirgich
+  ++++ 
+  Havo qizdirgichlar ishlash prinsipiga ko’ra necha turga bo’linadi?
+  ====
+  2 ga
+  ====
+  3 ga
+  ====
+  4 ga
+  ====
+  5 ga
+  ++++ 
+  Havo qizdirgichlar ishlash prinsipiga ko’ra qanday turlarga bo’linadi?
+  ====
+  Rekuperativ va regenerativ
+  ====
+  1 va 2 bosqichli.
+  ====
+  1 va ko’p bosqichli 
+  ====
+  1,2 va aralash bosqichli
+  ++++ 
+  Rekuperativ havo qizdirgichning ishlash prinsipi qanday?
+  ====
+  Isitish sirtlari qo’zg’almas bo’lib,u orqali tutun gazlarining harorati havoga uzatiladi.
+  ====
+  Tutun gazlarini o’txonaga uzatadi.
+  ====
+  Tutun gazlarini havoga aralashtirib o’txonaga beradi.
+  ====
+  Tutun gazlarini atmosferaga chiqarib yuboradi.
+  ++++ 
+  Qozon agregatlarida bug’ning quruqlik darajasi qanday oraliq qiymatda bo’ladi?
+  ====
+  0.90-0.96
+  ====
+  0.85-0.86
+  ====
+  0.75-0.80
+  ====
+  0.65-0.70
+  ++++ 
+  Regenerativ  havo qizdirgichning ishlash prinsipi qanday?
+  ====
+  Aylanuvchi  rotorli seksiyalarga bo’lingan,seksiyalarga yupqa po’lat plastinkalar o’rnatilgan ular orqali chiqib ketayotgan tutun gazlarining issiqligi olinib havoga uzatiladi va o’txonaga beriladi.    
+  ====
+  Isitish sirtlari qo’zg’almas bo’lib,u orqali tutun gazlarining harorati havoga uzatiladi.
+  ====
+  Tutun gazlarini atmosferaga chiqarib yuboradi.
+  ====
+  Tutun gazlarini havoga aralashtirib o’txonaga beradi.
+  ++++ 
+  Turbinadan ishlab chiqqan Bug’’ni harorati    bo’lganda, kondensatni harorati aniqlansin? ====
+  
+  ====
+    ====
+  
+  ====
+  400C
+  ++++ 
+  Ta'minot suvini tushunchasi?
+  ====
+  bug’ga aylangan suv miqdorini tuldirish uchun suv
+  ====
+  issiqlik ta'minotiga sarflangan suv miqdorini tuldirish
+  ====
+  bug’ qozonini yuvish jarayoniga sarflangan suv
+  ====
+  barabandagi suv
+  ++++ 
+  K-800-240 Bug’ turbinasi elektr quvvati qancha?
+  ====
+  800 MVt
+  ====
+  240 MVt
+  ====
+  300 MVt
+  ====
+  600 MVt
+  ++++ 
+  Sho’r suvning РН qiymati?
+  ====
+    ====
+  
+  ====
+    ====
+  
+  ++++ 
+  Ishqorli suvning РН qiymati?
+  ====
+    ====
+  
+  ====
+  
+  ====
+    ++++ 
+  «Produvka» deb quyidagi jarayonga aytiladi?
+  ====
+  qozondagi suvni qisman chiqarib, urniga ta'minot suvini uzatish
+  ====
+  qozondagi suvni to’liq almashinishi
+  ====
+  suv qatlamidan bug’’ni utkazish
+  ====
+  suv qatlamidan havoni utkazish
+  ++++ 
+  Barabandagi separasion uskunaning vazifasi nima?
+  ====
+  suvni bug’dan ajratishida
+  ====
+  bug’li suvning kinetik energiyasini oshirishdi
+  ====
+  bug’’ni suv qatlamiga uzatishda
+  ====
+  Bug’li suvni Bug’ muxitida uzatishda
+  ++++ 
+  Nurli issiqlikni qabul qiluvchan qizdirish yuzalari?
+  ====
+  pardali bug’ qizdirgich
+  ====
+  oraliq bug’ qizdirgich
+  ====
+  ekonomayzer
+  ====
+  havo qizdirgich
+  ++++ 
+  Havo qizdirgichda havo va yonish mahsulotlarining xarakati?
+  ====
+  qarama – qarshi harakat
+  ====
+  parallel pastga harakat
+  ====
+  o’zgaruvchan harakat
+  ====
+  gazlar yuqoriga, havo pastga harakat
+  ++++ 
+  KES dagi kondensatning harorati?
+  ====
+    ====
+  
+  ====
+    ====
+  
+  ++++ 
+  Tutun gazlarini baypaslashdan maqsad?
+  ====
+  o’ta qizigan bug’ning haroratini rostlash
+  ====
+  bug’ sarfini rostlash
+  ====
+  o’ta qizigan bug’ning bosimini rostlash
+  ====
+  o’ta qizigan bug’’ning tezligini rostlash
+  ++++ 
+  Havo qizdirgichga uzatilgan havoning harorati?
+  ====
+    ====
+  
+  ====
+    ====
+  
+  ++++ 
+  O’txonadagi haroratini o’lchaydigan asbob?
+  ====
+  pirometr
+  ====
+  termopara
+  ====
+  termometr
+  ====
+  Monometrik termometr
+  ++++ 
+  Vannadiyli korroziyani sodir etuvchi yoqilg’i  turi?
+  ====
+  mazut
+  ====
+  tosh ko’mir
+  ====
+  tabiiy gaz
+  ====
+  antrasit
+  ++++ 
+  Qozonning qizish va bug’lantirish yuzasi qanaqa yuza deyiladi?
+  ====
+  qozonning issiqlik qabul qiluvchi yuzasidir
+  ====
+  qozonning bug’ qabul qiluvchi yuzasidir
+  ====
+  qozonning gaz qabul qiluvchi yuzasidir
+  ====
+  qozonning tutun qabul qiluvchi yuzasidir
+  ++++ 
+  Ta'minot suvini regenerativ isitgichlar turlari?
+  ====
+  past bosimli, yukori bosimli va deaeratorlar
+  ====
+  kuchli va kuchsiz
+  ====
+  past bosimli,o’rta bosimli, yuqori bosiml,o’ta yuqori bosimli
+  ====
+  kondensator va nasoslar
+  ++++ 
+  Iste'molchilarga beradigan energiya turiga qarab IESlar turlarini ko'rsating?
+  ====
+  KES va IEM
+  ====
+  issiqlik elektr markazlari
+  ====
+  quyosh elektr stansiyalari
+  ====
+  shamol elektr stansiyalari
+  ++++ 
+  Bug’ turbinasining vazifasi nima?
+  ====
+  elektr generator rotorini aylantirib berish
+  ====
+  o'ta qizigan bug’ni sarflash
+  ====
+  elektr generatorni ishga tushirish
+  ====
+  issiqlik energiya ishlab chiqarish
+  ++++ 
+  Bug’ turbinali IESlarning FIK qanchaga teng?
+  ====
+  40 %
+  ====
+  60%
+  ====
+  50%
+  ====
+  35%
+  ++++ 
+  Nima hisobiga kondensatorda Bug’ kondensatga (suvga aylanadi)?
+  ====
+  sovutuvchi suvga o'z issiqligini berishi hisobiga
+  ====
+  sovuq havo berish hisobiga
+  ====
+  tashqi muhit ta'siri hisobiga
+  ====
+  vodorodli sovitish hisobiga
+  ++++ 
+  Kondеnsatorga bug’ qayerdan kеladi?
+  ====
+  bug’ turbinasidan
+  ====
+  bug’ qozonidan 
+  ====
+  generatordan 
+  ====
+  gaz turbinasidan
+  ++++ 
+  Kondеnsatorga bug’ qanday kеlib tushadi?
+  ====
+  kondensatordagi vakuum tufayli
+  ====
+  nasos yordamida
+  ====
+  tabiy kelib tushadi
+  ====
+  ishchi parraklar yordamida 
+  ++++ 
+  O’txona deb nimaga aytiladi ?
+  ====
+  Yoqilg’ining yonish jarayoni kechadigan qurilma.
+  ====
+  Yoqilg’I saqlanadigan joy.
+  ====
+  Yoqilg’ni yoqishga tayyorlaydigan uskuna.
+  ====
+  Yoqilg’ini maydalovchi va qurituvchi qurilma.
+  ++++ 
+  Nasosning vazifasi nima ?
+  ====
+  suvni haydab berish
+  ====
+  suyuqlikni haydab barish
+  ====
+  gazni haydab berish
+  ====
+  moddani haydab berish
+  ++++ 
+  Bug’ turbinali qurilmalarda  ishchi jism sifatida nima ishlatiladi ?
+  ====
+  suv bug’i
+  ====
+  tutun
+  ====
+  gaz 
+  ====
+  havo
+  ++++ 
+  Havo isitkichdan chiqqan issiq havo qayerga yuboriladi?
+  ====
+  o’txonaga
+  ====
+  barabanga 
+  ====
+  turbinaga
+  ====
+  kondensatorga
+  ++++ 
+  O’zbekistonda eng katta blok quvvatli elektr stansiya quvvati qancha ?
+  ====
+  800 Мvt
+  ====
+  900 Мvt
+  ====
+  700 Мvt
+  ====
+  1000 Мvt
+  ++++ 
+  IES bilan GES nimasi bilan farqlanadi ?
+  ====
+  IES bug’ hisobiga elеktr enеrgiya, GES esa suv hisobiga elеktr enеrgiya ishlab chiqaradi
+  ====
+  Ishlatiladigan yoqilg’i turiga ko’ra
+  ====
+  tashqi ko’rinishda
+  ====
+  quvvatida 
+  ++++ 
+  Rеspublikada ishlab chiqariladigan elеktr enеrgiyani 3 dan birini qaysiissiqqlik elеktr stantsiyasi bеradi?
+  ====
+  Sirdaryo IESi
+  ====
+  Navoiy IESi
+  ====
+  Taxiatosh IESi
+  ====
+  Toshkent IEMi
+  ++++ 
+  Kamerali o’txonalarga qanday holatdagi yoqilg’ilarni yoqish mo’ljallangan?
+  ====
+  Changsimon,suyuq va gaz holatdagi.
+  ====
+  Qattiq,suyuq va gazsimon
+  ====
+  Changsimon,qattiq va suyuq
+  ====
+  Gazsimon,changsimon va qattiq
+  ++++ 
+  Qozon qurilmasining asosiy tashkil etuvchilari nimalardan iborat?
+  ====
+  o'choq, qizdirish va bug’lantirish yuzalari, bug’ qizdirgich, suv ekonomayzеri, havo isitgich
+  ====
+  nasos, qizdirish va bug’lantirish yuzalari
+  ====
+  elеktrogеnеrator, o'choq, bug’ o'ta qizdirgich
+  ====
+  dеaerator va turbina
+  ++++ 
+  O'choqda yuqori darajada qizigan tutun gazlarini olish uchun nima yoqiladi?
+  ====
+  mazut, ko'mir, organik yoqilg'i
+  ====
+  mazut
+  ====
+  ko'mir
+  ====
+  organik yoqilg'i
+  ++++ 
+  Bug’ o'ta qizdirgichi nima?
+  ====
+  bug’ni o'ta qizigan holatga etkazib beradigan maxsus yuzadir
+  ====
+  bug’ni 100  0ga etkazib beradigan maxsus yuzadir ====
+  suvni bug’ga aylantirib beruvchi uskuna
+  ====
+  bug’ni kondensatga aylantirib beruvchi uskuna
+  ++++ 
+  K-800-240 bug’ turbinasiga kirishdagi bug’ bosimi qancha?
+  ====
+  240 atm
+  ====
+  245 atm
+  ====
+  250 atm
+  ====
+  255 atm
+  ++++ 
+  Qaysi hollarda IES da kondensasion turbina o’rnatiladi?
+  ====
+  faqat elektr energiyasi ishab chiqarish talab qilinganida
+  ====
+  elektr energiyasi va issiklik ishlab chiqarish talab qilinganida
+  ====
+  issik suv ishab chiqarish talab qilinganida
+  ====
+  past bosimli bug’ talab qilinganida
+  ++++ 
+  O'ta qizigan bug’ ko'rsatkichlari nimaga bog'liq?
+  ====
+  bosimga va haroratga
+  ====
+  haroratga
+  ====
+  hajmga
+  ====
+  bosimga
+  ++++ 
+  Quvvvati 300 MVt va undan yuqori bo'lgan bloklar qancha bosimda ishlaydi?
+  ====
+  24 MPa
+  ====
+  24,5 MPa
+  ====
+  25  MPa
+  ====
+  31 MPa
+  ++++ 
+  Qaysi yoqilg’i tabiiy emas?
+  ====
+  mazut
+  ====
+  ko'mir
+  ====
+  o'tin
+  ====
+  neft
+  ++++ 
+  K-300-240 bug’ turbinasi nominal elektr quvvati qancha?
+  ====
+  300 MVt
+  ====
+  240 MVt
+  ====
+  500 kVt
+  ====
+  700 Vt
+  ++++ 
+  Bug’ turbinasi nomidagi (markasidagi) «K» xarfi kaysi suzdan olingan, masalan K-500-240?
+  ====
+  kondensasion
+  ====
+  ko'mirda ishljvchi
+  ====
+  kanal
+  ====
+  klapan
+  ++++ 
+  Yoqilg'i agregat holatiga ko'ra qanaqa bo'ladi?
+  ====
+  qattiq, suyuq, gazsimon
+  ====
+  qattiq, suyuq, gazsimon, aralash
+  ====
+  suyuq
+  ====
+  yonuvchi slanes, ko'mir, gaz, mazut, torf
+  ++++ 
+  Tabiiy yoqilg'ilarga nimalar kiradi?
+  ====
+  antrasit, tosh va ko'ng'ir ko'mirlar, neft, tabiiy gaz, yonuvchi slaneslar, torf
+  ====
+  benzin va kerosin
+  ====
+  mazut, solyarka, ko'mir, neft, o'tin
+  ====
+  benzin
+  ++++ 
+  Bug’ turbinasi kurilmasi termodinamik sikli  qaysi siklga asoslangan?
+  ====
+  renkin sikli
+  ====
+  karno sikli
+  ====
+  brayton sikli
+  ====
+  otto sikli
+  ++++ 
+  Yoqilg'i nima bilan birikib yonganda undan issiqlik ajralib chiqadi?
+  ====
+  havo tarkibidagi kislorod bilan birikishi natijasida
+  ====
+  kondensasiyalanish natijasida
+  ====
+  sovush natijasida
+  ====
+  kislorod va vodorod bilan birikishi natijasida
+  ++++ 
+  Kondensat nasosi vazifasi nima?
+  ====
+  bug’ turbina kondensatini haydash
+  ====
+  ta'minot suvini qozonga kiritish
+  ====
+  kondensatordan namlikni ajratib olish
+  ====
+  qozonni kondensat bilan ta'minlash
+  ++++ 
+  O’zbekiston IESlarida eng ko'p miqdorda ishlatiladigan yoqilg’i qaysi?
+  ====
+  tabiiy gaz
+  ====
+  ko'mir
+  ====
+  mazut
+  ====
+  sun'iy gaz
+  ++++ 
+  Metan gazining kimyoviy formulasi?
+  ====
+    ====
+  
+  ====
+    ====
+  
+  ++++ 
+  Rengin sikli nimani anglatadi?
+  ====
+  suv va suv bug’ini fazaviy o’zgarishini
+  ====
+  nam bug’ni kengayishini
+  ====
+  suvni bug’ga aylanishini
+  ====
+  bug’ni kengayish jarayonini
+  ++++ 
+  Gazsimon yoqilg’ilar yonishida shlak hosil bo’ladimi?
+  ====
+  bo’lmaydi
+  ====
+  kam hosil bo’ladi
+  ====
+  qattiq moddalar hosil bo’ladi
+  ====
+  ko’p hosil bo’ladi
+  ++++ 
+  Yoqilg’ining yonish issiqligi qanday o'lchov birligida ifodalanadi?
+  ====
+    ====
+  
+  ====
+    ====
+  
+  ++++ 
+  Qatlamlab yoqish usuli qaysi yoqilg'i qo'llaniladi?
+  ====
+  ko'mir
+  ====
+  mazut
+  ====
+  tabiiy gaz
+  ====
+  neft
+  ++++ 
+  Alangali yoqish usuli qaysi yoqilg'ida qo'llaniladi?
+  ====
+  tabiiy gaz
+  ====
+  mazut
+  ====
+  ko'mir
+  ====
+  antrasit
+  ++++ 
+  Yoqilg’ining asosiy tarkibiy qismi nima?
+  ====
+  uglerod
+  ====
+  vodorod 
+  ====
+  azot 
+  ====
+  oltingugurt 
+  ++++ 
+  Ko'mir yonishi natijasida qancha   kul hosil bo'ladi? ====
+  20-30%
+  ====
+  50-60%
+  ====
+  30-40%
+  ====
+  15-25%
+  ++++ 
+  Ko'mir tarkibida namlik necha xil bo'ladi?
+  ====
+  3
+  ====
+  2
+  ====
+  4
+  ====
+  5
+  ++++ 
+  O’txona ekran quvurlari bu:
+  ====
+  qozonning  radiasion qizitish yuzasidir
+  ====
+  qozonning sirkulyasiya konturi
+  ====
+  bug’ o’taqizdirgichlar
+  ====
+  oraliq bug’qizdirgich
+  ++++ 
+  Qozonning sirkulyasiya konturiga qaysi qurilmalar kiradi?
+  ====
+  baraban, havo isitgich va ekonamayzer
+  ====
+  deaerator va turbina
+  ====
+  nasosla
+  ====
+  kollektorlar
+  ++++ 
+  Ko'mirning xususiyati neft xususiyatidan qanday farq qiladi?
+  ====
+  qattiqlik darajasi bilan
+  ====
+  farq qilmaydi
+  ====
+  oltingugurt miqdori bilan
+  ====
+  organik tarkibi bilan
+  ++++ 
+  Shara barabanli tegirmonlar qanday ko'mirlarni maydalaydi?
+  ====
+  toshko'mir va antrasit
+  ====
+  ko'ngir ko'mir, mazut va antrasitni
+  ====
+  yarim antrasit, gaz va qo'ngir ko'mir
+  ====
+  torfni
+  ++++ 
+  Tegirmon ventilyatorlar qaysi ko'mirlarni maydalaydi?
+  ====
+  ko'ngir ko'mirni
+  ====
+  yarim antrasitni, tabiiy gazni
+  ====
+  antrasitni, mazutni
+  ====
+  toshko'mirni va kulni
+  ++++ 
+  Bolg’achali tegirmonda qaysi ko'mirni maydalanadi?
+  ====
+  toshko'mir va yarim antrasid
+  ====
+  toshko'mir, mazut
+  ====
+  toshko'mir va qo'ngir ko'mir
+  ====
+  o’tin va torfni
+  ++++ 
+  Mazut necha gradusda yonadi?
+  ====
+  110-130
+  ====
+  80-90
+  ====
+  70-80
+  ====
+  20-30
+  ++++ 
+  Mazut necha gradusda chaqnaydi?
+  ====
+  95-100
+  ====
+  100-105
+  ====
+  85-90
+  ====
+  110-120
+  ++++ 
+  O’txonadan tushgan shlak harorati necha gradusda bo'ladi?
+  ====
+  1500-1800
+  ====
+  1000-1200
+  ====
+  1800-2000
+  ====
+  500-600
+  ++++ 
+    nimani anglatadi? ====
+  1kg shartli yoqilg’i yonganda ajralib chiqqan issiqlik miqdori
+  ====
+  10 kg yoqilg’i yoqqanda ajralib chiqqan issiqlik miqdori
+  ====
+  100 kg yoqilg’i yoqqanda ajralib chiqqan issiqlik miqdori
+  ====
+  1000 kg yoqilg’i yoqqanda ajralib chiqqan issiqlik miqdori
+  ++++ 
+  Deaeratordagi suv bosimi kattami yoki bug’ qozonidagi bug’ bosimimi?                                                                                                                                                          
+  ====
+  bug’ qozonidagi bug’ bosimi katta
+  ====
+  deaeratordagi suv bosimi katta
+  ====
+  ikkalovi teng
+  ====
+  deaeratorda bosim bo’lmaydi
+  ++++ 
+  Azot oksidlanish jarayonida ishtirok etadimi?	
+  ====
+  deyarli ishtirok etmaydi	
+  ====
+  yo'q	
+  ====
+  ha	
+  ====
+  ishtirok etadi	
+  ++++ 
+  Bug’ o'ta isitgichi vazifasi nima?
+  ====
+  bug’ni o'ta qizdirish
+  ====
+  havoni sovutish
+  ====
+  suvni isitish
+  ====
+  havoni isitish
+  ++++ 
+  Qatlamli yoqish nima?
+  ====
+  yoqilg’ini o'txona panjarasida yoqish
+  ====
+  yoqilg’ini gorelkada yoqish
+  ====
+  yoqilg’ini forsunkada yoqish
+  ====
+  yoqilg’ini changitib yoqish
+  ++++ 
+  Mazutning markasi qanday aniqlanadi?
+  ====
+  Uning 353K haroratdagi qovushqoqligi orqali aniqlanadi.
+  ====
+  Uning 253K haroratdagi qovushqoqligi orqali aniqlanadi.
+  ====
+  Uning 153K haroratdagi qovushqoqligi orqali aniqlanadi.
+  ====
+  Uning 273K haroratdagi qovushqoqligi orqali aniqlanadi.
+  ++++ 
+  Bug’ni yuvish nima uchun ishlatiladi?
+  ====
+  bug’ni tarkibidagi tuzlardan tozalash uchun
+  ====
+  bug’ tarkibidan zaharnni chiqarib tashlash uchun
+  ====
+  bug’ tarkibidagi kulni chiqarib tashlash uchun
+  ====
+  bug’ni qattiqligini kamaytirish uchun
+  ++++ 
+  Ta'minot nasosi nima vazifani bajaradi?
+  ====
+  ta'minot suvini qozonxonaga haydaydi
+  ====
+  bug’ni turbinaga haydaydi
+  ====
+  kondensatni turbinaga haydaydi
+  ====
+  ta'minot suvini deaeratorga haydaydi.
+  ++++ 
+  Qozon qurilmasining taxminiy balandligi qancha?
+  ====
+  70-80 m
+  ====
+  200-300m
+  ====
+  10-12 m
+  ====
+  300-400m
+  ++++ 
+  Puflovchi ventelyatorning vazifasi nima?
+  ====
+  Havoni havo qizdirgichga haydaydi.
+  ====
+  Suvni ekonomayzerga haydaydi
+  ====
+  Havoni mo’ri quvuriga haydaydi
+  ====
+  Tutunni mo’riga haydaydi
+  ++++ 
+  Ekonomayzerga berilayotgan ta’minot suvining taxminiy harorati qancha?
+  ====
+  25-30
+  ====
+  50-30
+  ====
+  40-70
+  ====
+  40-90
+  ++++ 
+  O’txonada issiqlikning uzatish turlari?
+  ====
+  Radiatsion va konvektiv
+  ====
+  konvektiv
+  ====
+  konvektiv vа noradiatsion
+  ====
+  Radiatsion
+  ++++ 
+  Energetic blok nimalardan tashkil topgan?;
+  ====
+  Bug’ qozoni,bug’ turbinasi,generator va yordamchi qurilmalar
+  ====
+  Kondensator va nasos
+  ====
+  Turbine va generator
+  ====
+  Kondensator va baraban.
+  ++++ 
+  Qanday kultutgichlar mavjud?
+  ====
+  elektrofiltr  va nam kultutgichlar 
+  ====
+  magnitli
+  ====
+  asinxron
+  ====
+  mexanik
+  ++++ 
+  Kul deb nimaga aytiladi?
+  ====
+  Yoqilg’ning yonishi natijasida hosil bo’ladigan mineral qoldiq.
+  ====
+  Yoqilg’ yonganda ucuvchi modda
+  ====
+  Yoqilg’i yonganda ereydigan modda
+  ====
+  Yoqilg’ini qazib olish jarayonida qo’shiladigan modda
+  ++++ 
+  Yoqilg’da kul qanday hosil bo’ladi?
+  ====
+  Yoqilg’i tarkibida mineral aralashmalarning borligi uchun.
+  ====
+  Yoqilg’i nam bo’lganligi ucun.
+  ====
+  Yoqilg’ining tarkibida og’ir uglerodlar bo’lganligi uchun
+  ====
+  Yoqilg’ining yonish issiqligi past bo’lganligi uchun
+  ++++ 
+  Necha xil kul hosil bo’ladi?
+  ====
+  3 
+  ====
+  2
+  ====
+  4
+  ====
+  5
+  ++++ 
+  Yoqilg’ining agregat holatiga va oksidlantiruvchisiga ko’ra yonish reyaksiyasi qanday bo’ladi?
+  ====
+  Gomogen va geterogenli
+  ====
+  Oksidlanuvchi 
+  ====
+  Oksidlantiruvchi 
+  ====
+  Organic va anorganik 
+  ++++ 
+  Gomogen reyaksiya deb nimaga aytiladi ?
+  ====
+  Yoqilg’i va oksidlantiruvchi bir xil agregat holatida kechadigan  reyaksiya.
+  ====
+  Yoqilg’i va oksidlantiruvchi har xil agregat holatida kechadigan  reyaksiya.
+  ====
+  Organic kimyoviy reyaksiya.
+  ====
+  Anorganic kimyoviy reyaksiya.
+  ++++ 
+  Geterogen reyaksiya deb nimaga aytiladi ?
+  ====
+  Yoqilg’i va oksidlantiruvchi har xil agregat holatida kechadigan  reyaksiya.
+  ====
+  Yoqilg’i va oksidlantiruvchi bir xil agregat holatida kechadigan  reyaksiya.
+  ====
+  Organic kimyoviy reyaksiya.
+  ====
+  Anorganic kimyoviy reyaksiya.
+  ++++ 
+  Gomogenli reyaksiyaga misol keltiring ?
+  ====
+  Gaz yoqilg’isining yonishi.
+  ====
+  Qattiq va suyuq yoqilg’ilarning  yonishi.
+  ====
+  Gaz va qattiq yoqilg’ining yonishi
+  ====
+  Gaz va suyuq yoqilg’ilarning yonishi
+  ++++ 
+  Geterogenli reyaksiyaga misol keltiring ?
+  ====
+  Qattiq va suyuq yoqilg’ilarning  yonishi.
+  ====
+  Gaz yoqilg’isining yonishi
+  ====
+  Gaz va qattiq yoqilg’ining yonishi
+  ====
+  Gaz va suyuq yoqilg’ilarning yonishi
+  ++++ 
+  Kritik bosimdan yuqori bosimli bug’ qozonlaridan chiqadigan o’ta qizigan bug’’ning parametrlari?
+  ====
+  Р = 25,5 mPa, т = 5650 C
+  ====
+  Р = 10 mPa, т = 5400 C
+  ====
+  Р = 25,5 mPa, т = 4000C
+  ====
+  Р = 14 mPa, т = 3500 C
+  ++++ 
+  Regenerativ va rekuperativ havo qizdirgichlar orasidagi asosiy farq ?
+  ====
+  konstruksiyasi  bo’yicha
+  ====
+  issiqlik almashinishi bo’yicha
+  ====
+  bug’ qozonida joylashishi bo’yicha 		
+  ====
+  havo o’tkazish bo’yicha 
+  ++++ 
+  Eng katta yuzali qizdirish elementini tanlang ?
+  ====
+  ekran quvurlari
+  ====
+  havo qizdirgich
+  ====
+  bug’ qizdirgich  		
+  ====
+  ekonomayzer 
+  ++++ 
+  Barbotaj so’zining ma’nosi nima ?
+  ====
+  suv ostidan bug’ni utkazish  
+  ====
+  bosim ostida bug’’ni barabanga uzatish 
+  ====
+  suvni qisman barabandan chiqarish 
+  ====
+  bug’’ni suvdan ajratish 
+  ++++ 
+  Birikmalari tez eriydigan kimyoviy element qaysi?
+  ====
+  Ca
+  ====
+  Na;
+  ====
+  Al;
+  ====
+  Fe.
+  ++++ 
+  IES siklida ishchi jismning eng past harorati qaysi qismda bo’ladi ?
+  ====
+  kondensatorda
+  ====
+  ta'minlovchi nasosda
+  ====
+  yuqori bosimli qizdirgichda
+  ====
+  deaeratorda
+  ++++ 
+  Qozon qurilmalarida GRUning vazifasi nima?
+  ====
+  gaz bosimini rostlash
+  ====
+  gaz sarfini me'yorlash
+  ====
+  gazni asosiy parametrlarini doimiy saqlab tu
+  ====
+  nazorat va o’lchov asboblarini sinash
+  ++++ 
+
+
+  Bug‘ generatori deb nimaga aytiladi?
+  ====
+  bug‘ ishlab chiqarish uchun mo‘ljallangan inshoot va qurilmalar majmui 
+  ====
+  yoqilgan yoqilg‘idan ajralgan issiqlik hisobiga bosim ostida issiq suv va bug‘ hosil qiladigan uskunalar majmui
+  ====
+  yoqilg‘idan ajralgan issiqlik hisobiga bosim ostida bug‘ hosil qiladigan uskunalar majmui
+  ====
+  yoqilg‘idan ajralgan issiqlik hisobiga bosim ostida issiq suv hosil qiladigan uskunalar majmui
+  ++++
+  Qozon agregati deb nimaga aytiladi?
+  ====
+  bug‘ ishlab chiqarish uchun mo‘ljallangan inshoot va qurilmalar majmui 
+  ====
+  yoqilgan yoqilg‘idan ajralgan issiqlik hisobiga bosim ostida issiq suv va bug‘ hosil qiladigan uskunalar majmui
+  ====
+  yoqilg‘idan ajralgan issiqlik hisobiga bosim ostida bug‘ hosil qiladigan uskunalar majmui
+  ====
+  yoqilg‘idan ajralgan issiqlik hisobiga bosim ostida issiq suv hosil qiladigan uskunalar majmui
+  ++++
+  Qozon agregati tarkibiga qanday jihozlar kiradi?
+  ====
+  yonish qurilmasi, bug‘ qizdirgich, suv ekonomayzeri va havo qizdirgich
+  ====
+  yonish qurilmasi, suv ekonomayzeri va havo qizdirgich
+  ====
+  bug‘ qizdirgich, suv ekonomayzeri va havo qizdirgich
+  ====
+  yonish qurilmasi, bug‘ qizdirgich va havo qizdirgich
+  ++++
+  Bug‘ generatorining yordamchi qurilmalari jumlasiga qaysi jihozlar kiradi?
+  ====
+  yonish qurilmasi, bug‘ qizdirgich, suv ekonomayzeri va havo qizdirgich, mo‘ri, shlak va kul chiqaradigan qurilmalar, kulni tutib qolish qurilmalari, karkas, ichki qoplama va boshqalar 
+  ====
+  yonish qurilmasi, bug‘ qizdirgich, suv ekonomayzeri va havo qizdirgich va boshqalar
+  ====
+  mo‘ri, shlak va kul chiqaradigan qurilmalar, kulni tutib qolish qurilmalari, karkas, ichki qoplama va boshqalar 
+  ====
+  bug‘ qizdirgich, suv ekonomayzeri va havo qizdirgich, mo‘ri, kulni tutib qolish qurilmalari, karkas, ichki qoplama va boshqalar
+  ++++
+  Bug‘ generatorlarida qaysi turdagi yoqilg‘ilar ishlatiladi?
+  ====
+  toshko‘mir, qo‘ng‘ir ko‘mir, antratsit, yonuvchi slanets, torf, neft, tabiiy gaz
+  ====
+  toshko‘mir, qo‘ng‘ir ko‘mir, antratsit, yonuvchi slanets, torf, yo‘ldosh gaz, tabiiy gaz
+  ====
+  toshko‘mir, qo‘ng‘ir ko‘mir, antratsit, yonuvchi slanets, torf, gibrid gaz, tabiiy gaz
+  ====
+  toshko‘mir, qo‘ng‘ir ko‘mir, antratsit, yonuvchi slanets, torf, mazut, tabiiy gaz
+  ++++
+  Qozon-utilizatorlarida issiqlik beruvchi ish jismi sifatida nima ishlatiladi?
+  ====
+  sanoat pechlarining va gaz turbinalarining chiqish gazlari
+  ====
+  tabiiy gaz va mazut
+  ====
+  sanoat pechlari va gaz turbinalarining chiqish gazlari, tabiiy gaz
+  ====
+  turli ko‘mir navlari, tabiiy gaz va mazut
+  ++++
+  Bug‘ generatorining asosiy ish tavsiflari to‘g‘ri ko‘rsatilgan qatorni toping?
+  ====
+  bug‘ unumdorligi, bug‘ parametrlari, bug‘ generatori FIK
+  ====
+  bug‘ parametrlari, bug‘ unumdorligi, bug‘ generatori FIK
+  ====
+  bug‘ unumdorligi, bug‘ generatori FIK, bug‘ parametrlari,
+  ====
+  bug‘ generatori FIK, bug‘ unumdorligi, bug‘ parametrlari
+  ++++
+  Bug‘ unumdorligi qanday ko‘rsatkich hisoblanadi?
+  ====
+  vaqt birligida hosil bo‘lgan issiq suv miqdori
+  ====
+  yil davomida hosil qilingan bug‘ miqdori
+  ====
+  vaqt birligida hosil bo‘lgan bug‘ miqdori
+  ====
+  yil davomida hosil qilingan issiq suv miqdori
+  ++++
+  Bug‘ unumdorligi past bug‘ generatorlarining ishlab chiqarish ko‘rsatkichi nechaga teng?
+  ====
+  0,01-5,5 kg/s
+  ====
+  7,5-10 kg/s
+  ====
+  25-30 kg/s
+  ====
+  50 kg/s gacha
+  ++++
+  Bug‘ unumdorligi o‘rtacha bug‘ generatorlarining ishlab chiqarish ko‘rsatkichi nechaga teng?
+  ====
+  50-100 kg/s
+  ====
+  30 kg/s gacha
+  ====
+  150-250 kg/s
+  ====
+  3-300 kg/s gacha
+  ++++
+  Bug‘ unumdorligi yuqori bug‘ generatorlarining ishlab chiqarish ko‘rsatkichi nechaga teng?
+  ====
+  500-1000 kg/s va undan yuqori
+  ====
+  100-200 kg/s va undan yuqori
+  ====
+  200-350 kg/s va undan yuqori
+  ====
+  350-500 kg/s va undan yuqori
+  ++++
+  Ishlatilishiga ko‘ra qozon qurilmalarining turlanishini aniqlang?
+  ====
+  sanoat bug‘ generatorlari, isitish qozonlari, issiqlik-energetik qurilmalar
+  ====
+  bug‘ generatorlari, isitish qozonlari, issiqlik-energetik qurilmalar
+  ====
+  bug‘ generatorlari, sanoat pechlari, isitish qozonlari, issiqlik-energetik qurilmalar
+  ====
+  bug‘ generatorlari, sanoat bug‘ generatorlari, isitish qozonlari, issiqlik-energetik qurilmalar
+  ++++
+  Suv isitadigan qozonlarning issiqlik unumdorligi qanchani tashkil etishi mumkin?
+  ====
+  15¸216 Gkal/soat 
+  ====
+  1,5¸216 Gkal/soat 
+  ====
+  40¸180 Gkal/soat 
+  ====
+  4¸180 Gkal/soat 
+  ++++
+  Issiqlik unumdorligi 30 Gkal/soat bo‘lgan suv qizdirish qozonlari parametrlari qanday farqlanadi?
+  ====
+  suvning qozondan chiqishidagi harorati 4230S, qozonga kirishdagi bosimi 1,6 MPa
+  ====
+  suvning qozondan chiqishidagi harorati 4230S, qozonga kirishdagi bosimi 2,6 MPa
+  ====
+  suvning qozondan chiqishidagi harorati 4500S, qozonga kirishdagi bosimi 1,6 MPa
+  ====
+  suvning qozondan chiqishidagi harorati 4500S, qozonga kirishdagi bosimi 2,6 MPa
+  ++++
+  Issiqlik unumdorligi 30 Gkal/soat dan yuqori bo‘lgan suv qizdirish qozonlari parametrlari qanday farqlanadi?
+  ====
+  suvning qozondan chiqishidagi harorati 450-4700S, qozonga kirishdagi bosimi 5,5 MPa
+  ====
+  suvning qozondan chiqishidagi harorati 450-4700S, qozonga kirishdagi bosimi 2,5 MPa
+  ====
+  suvning qozondan chiqishidagi harorati 150-1700S, qozonga kirishdagi bosimi 4,5 MPa
+  ====
+  suvning qozondan chiqishidagi harorati 450-4700S, qozonga kirishdagi bosimi 1,5 MPa
+  ++++
+  Silindrsimon va o‘t-quvurli qozonlardan suv-quvurli qozonlarga qachondan o‘tildi? 
+  ====
+  17-asrning o‘rtalarida 
+  ====
+  18-asrning o‘rtalarida 
+  ====
+  19-asrning o‘rtalarida 
+  ====
+  20-asrning o‘rtalarida 
+  ++++
+  Qanday turdagi suv qizdirish qozonlari bor?
+  ====
+  gaz-quvurli, suv-quvurli
+  ====
+  silindrsimon, o‘t-quvurli 
+  ====
+  kamerali, gorizontal, suv-quvurli
+  ====
+  to‘g‘ri oqimli va barabanli
+  ++++
+  Suv va suv-bug‘ aralashmasining isitish sirtlari bo‘ylab harakatlanish tavsifiga ko‘ra qozon agregatlari necha turga bo‘linadi?
+  ====
+  3
+  ====
+  5
+  ====
+  4
+  ====
+  2
+  ++++
+  Suv va suv-bug‘ aralashmasining isitish sirtlari bo‘ylab harakatlanish tavsifiga ko‘ra qozon agregatlari qanday turga bo‘linadi?
+  ====
+  tabiiy sirkulyasiyali va to‘g‘ri oqimli.
+  ====
+  tabiiy va majburiy sirkulyasiyali
+  ====
+  tabiiy sirkulyasiyali, majburiy sirkulyasiyali, to‘g‘ri oqimli.
+  ====
+  majburiy sirkulyasiyali, to‘g‘ri oqimli.
+  ++++
+  Tabiiy sirkulyasiyali bug‘ generatorlarida suv yopiq sirkulyasiyali konturda qanday harakatlanadi?
+  ====
+  «baraban - tushirish quvuri - pastki kollektor - baraban»
+  ====
+  «baraban - tushirish quvuri - ko‘tarish quvuri - baraban»
+  ====
+  «baraban - tushirish quvuri - pastki kollektor - ko‘tarish quvuri - baraban» 
+  ====
+  «baraban - pastki kollektor - ko‘tarish quvuri»
+  ++++
+  Tabiiy sirkulyasiyali bug‘ generatorlari konturida harakat nimaga asoslanadi?
+  ====
+  haroratlar farqiga
+  ====
+  bosim farqiga
+  ====
+  zichlik farqiga
+  ====
+  hajm farqiga
+  ++++
+  Qaysi turdagi bug‘ generatorida nasosdan foydalanib sirkulyatsiya hosil qilinadi? 
+  ====
+  tabiiy sirkulyasiyali, majburiy sirkulyasiyali, to‘g‘ri oqimli.
+  ====
+  tabiiy sirkulyasiyali va to‘g‘ri oqimli.
+  ====
+  tabiiy va majburiy sirkulyasiyali, to‘g‘ri oqimli.
+  ====
+  majburiy sirkulyasiyali, to‘g‘ri oqimli.
+  ++++
+  Bug‘ generatorlaridagi ishlab chiqarish jarayonlarni amalga oshirish uchun qanday agregat hоlatidagi yoqilg‘ilar ishlatiladi?
+  ====
+  qattiq, suyuq va gazsimon
+  ====
+  ko‘mir, mazut, antratsit va tabiiy gaz
+  ====
+  gaz turbinasining chiqish gazlari
+  ====
+  sanoat pechlarining chala yonish mahsulotlari
+  ++++
+  Bug‘ generatorlarida yoqilg‘i nima bilan aralashtirib yoqiladi?
+  ====
+  havo
+  ====
+  kislorod
+  ====
+  bug‘
+  ====
+  suv
+  ++++
+  Yoqilg‘i nima bilan oksidlanadi?
+  ====
+  havo
+  ====
+  kislorod
+  ====
+  o‘zaro
+  ====
+  azot
+  ++++
+  Yoqilg‘i yonishi uchun zarur bo‘lgan havo miqdori qanday aniqlanadi?
+  ====
+  oldindan qabul qilinadi
+  ====
+  taqribiy qiymat asosida
+  ====
+  hisoblash orqali
+  ====
+  dastlabki ma’lumotlardan olinadi
+  ++++
+  Yonish mahsulotlari nimadan iborat?
+  ====
+  kuldan
+  ====
+  tutun gazlaridan
+  ====
+  tutun gazlari va kuldan
+  ====
+  tutun gazlari, kul va toshqoldan
+  ++++
+  Bug‘ generatorining yonish jarayoni kechadigan qismi nima deb ataladi?
+  ====
+  kamera
+  ====
+  yondirgich
+  ====
+  o‘txona
+  ====
+  otashxona
+  ++++
+  O‘txonalar qanday turlarga bo‘linadi?
+  ====
+  qatlamli, kamerali 
+  ====
+  mash’alali, uyurmali
+  ====
+  radiatsiyali va qattiq shlakli
+  ====
+  qattiq va suyuq shlakli
+  ++++
+  Kamerali o‘txonalar qanday turlarga bo‘linadi?
+  ====
+  qatlamli, kamerali 
+  ====
+  mash’alali, uyurmali
+  ====
+  radiatsiyali va qattiq shlakli
+  ====
+  qattiq va suyuq shlakli
+  ++++
+  Bug‘ generatorlarining o‘txonasida qanda jarayon sodir bo‘ladi?
+  ====
+  radiasion va konvektiv issiqlik almashuvi
+  ====
+  yoqilg‘i yonishi va issiqlik almashuvi 
+  ====
+  haroratlar farqi
+  ====
+  shlak ajraladi
+  ++++
+  Issiqlik almashinuvining zaruriy sharti nimada?
+  ====
+  haroratlar farqi 
+  ====
+  issiqlik almashinuvi
+  ====
+  konveksiya
+  ====
+  radiatsiya
+  ++++
+  Yoqilg‘i yonishida issiqlik necha xil usulda uzatiladi?
+  ====
+  2
+  ====
+  4
+  ====
+  1
+  ====
+  3
+  ++++
+  Yoqilg‘i yonishida issiqlik qanday usullarda uzatiladi?
+  ====
+  konvektiv va nurlanish radiatsiya
+  ====
+  haroratlar va bosim farqiga ko‘ra
+  ====
+  issiqlik o‘tkazuvchanlik, konveksiya va nurlanish-radiasiya 
+  ====
+  termodinamik qonunlarga ko‘ra
+  ++++
+  Issiqlik o‘tkazuvchanlik qanday jarayon?
+  ====
+  jismning turli haroratli ayrim qismlari bir-biriga bevosita tekkanda issiqlik energiyasining tarqalishi
+  ====
+  bir tekis isimagan suyuqlik yoki gazning harakati va aralashishi natijasida issiqlik uzatish
+  ====
+  havo orqali issiqlik energiyasining tarqalishi
+  ====
+  suvda issiqlikning tarqalishi
+  ++++
+  Konveksiya qanday jarayon?
+  ====
+  jismning turli haroratli ayrim qismlari bir-biriga bevosita tekkanda issiqlik energiyasining tarqalishi
+  ====
+  bir tekis isimagan suyuqlik yoki gazning harakati va aralashishi natijasida issiqlik uzatish
+  ====
+  havo orqali issiqlik energiyasining tarqalishi
+  ====
+  suvda issiqlikning tarqalishi
+  ++++
+  Jismning fazaviy o‘zgarishi qanday jarayon?
+  ====
+  sublimatsiya va desublimatsiya
+  ====
+  bug‘lanish, qaynash, kondensasiya, sublimasiya
+  ====
+  bug‘lanish, qaynash, kondensasiya, sublimasiya, muzlash
+  ====
+  bug‘lanish, qaynash, kondensasiya, sublimasiya, yonish
+  ++++
+  Bug‘ generatorlarida ish jarayoni qanday bajariladi?
+  ====
+  qaynash
+  ====
+  bug‘lanish
+  ====
+  aralashish
+  ====
+  isish
+  ++++
+  Bug‘ hosil bo‘lish deb nimaga aytiladi?
+  ====
+  jismni suyuq holatidan gaz holatiga o‘tishi 
+  ====
+  suyuqlikning erkin sirtidan va har qanday haroratda bug‘ hosil bo‘lishi
+  ====
+  kinetik energiyasi katta bo‘lgan molekulalar qo‘shni molekulalarning tortishish kuchlarini yengib suyuqlikdan atrof muhitga uchib chiqishi
+  ====
+  harorat ko‘tarilishi
+  ++++
+  Bug‘lanish deb nimaga aytiladi?
+  ====
+  jismni suyuq holatidan gaz holatiga o‘tishi 
+  ====
+  suyuqlikning erkin sirtidan va har qanday haroratda bug‘ hosil bo‘lishi
+  ====
+  kinetik energiyasi katta bo‘lgan molekulalar qo‘shni molekulalarning tortishish kuchlarini yengib suyuqlikdan atrof muhitga uchib chiqishi
+  ====
+  harorat ko‘tarilishi
+  ++++
+  Bug‘lanish mohiyati nimada?
+  ====
+  jismni suyuq holatidan gaz holatiga o‘tishi 
+  ====
+  suyuqlikning erkin sirtidan va har qanday haroratda bug‘ hosil bo‘lishi
+  ====
+  kinetik energiyasi katta bo‘lgan molekulalar qo‘shni molekulalarning tortishish kuchlarini yengib suyuqlikdan atrof muhitga uchib chiqishi
+  ====
+  harorat ko‘tarilishi
+  ++++
+  Bug‘ issiqlik tashuvchi sifatida qaysi suyuqliklardan afzal hisoblanadi?
+  ====
+  suvdan
+  ====
+  moydan
+  ====
+  suv va moydan
+  ====
+  benzindan
+  ++++
+  Zamonaviy bug‘ generatorining F.I.K. necha foizni tashkil qiladi?
+  ====
+  90-95% 
+  ====
+  85-90 %
+  ====
+  80-85%
+  ====
+  100 %
+  ++++
+  Qozon agregatini tashkil etuvchilari nimalardan iborat?
+  ====
+  karkas, o‘tga chidamli qoplama, quvurlar, armaturalar, nazorat va avtomatika asboblari
+  ====
+  mo‘ri, shlak va kul chiqaradigan qurilmalar, kulni tutib qolish qurilmalari, karkas, ichki qoplama va boshqalar 
+  ====
+  bug‘ qizdirgich, suv ekonomayzeri va havo qizdirgich, mo‘ri, kulni tutib qolish qurilmalari, karkas, ichki qoplama va boshqalar
+  ++++
+  Konvektiv usulda issiqlik tashuvchi oqim sifatida nimadan foydalaniladi?
+  ====
+  alanga
+  ====
+  nurlanish
+  ====
+  tutun gazi
+  ====
+  havo
+  ++++
+  Barabanli qozonlarda sirkulyatsiya bosimi qanday kattaliklarga bog‘liq bo‘ladi? 
+  ====
+  kontur balandligi, zichliklar farqi va erkin tushish tezlanishiga
+  ====
+  suv va hosil qilingan bug‘ miqdorlariga
+  ====
+  yonish mahsulotlari va kul miqdorlari yig‘indisiga
+  ====
+  bosim, harorat va solishtirma hajm
+  ++++
+  Barabanli qozonlarda sirkulyatsiya karraligi qanday kattaliklarga bog‘liq bo‘ladi? 
+  ====
+  kontur balandligi, zichliklar farqi va erkin tushish tezlanishiga
+  ====
+  suv va hosil qilingan bug‘ miqdorlariga
+  ====
+  yonish mahsulotlari va kul miqdorlari yig‘indisiga
+  ====
+  bosim, harorat va solishtirma hajm
+  ++++
+  Yonish jarayoni issiqlik balans tenglamasining ikkinchi qismi qanday kattaliklardan tarkib topgan? 
+  ====
+  kontur balandligi, zichliklar farqi va erkin tushish tezlanishiga
+  ====
+  suv va hosil qilingan bug‘ miqdorlariga
+  ====
+  yonish mahsulotlari va kul miqdorlari yig‘indisiga
+  ====
+  bosim, harorat va solishtirma hajm
+  ++++
+  Bug‘ generatori ish jismining asosiy parametrlariga qanday kattaliklar kiradi? 
+  ====
+  kontur balandligi, zichliklar farqi va erkin tushish tezlanishiga
+  ====
+  suv va hosil qilingan bug‘ miqdorlariga
+  ====
+  yonish mahsulotlari va kul miqdorlari yig‘indisiga
+  ====
+  bosim, harorat va solishtirma hajm
+  ++++
+  Kukun tayyorlash tizimining maydalash korpusida ko‘mir qanday o‘lchamgacha maydalanadi?
+  ====
+  25 mm
+  ====
+  15 mm
+  ====
+  300-500 mkm
+  ====
+  10-50 mkm
+  ++++
+  Ko‘mir maydalash tegirmonlarida kukun qanday o‘lchamgacha maydalanadi?
+  ====
+  25 mm
+  ====
+  15 mm
+  ====
+  300-500 mkm
+  ====
+  10-50 mkm
+  ++++
+  Yoqilg‘i kukunini qizdirish uchun ishlatiladigan havo qanday nomlanadi?
+  ====
+  birlamchi havo
+  ====
+  ikkilamchi havo
+  ====
+  uchlamchi havo
+  ====
+  to‘rtlamchi havo
+  ++++
+  Yoqilg‘ini yoqish uchun o‘txonaga beriladigan havo qanday nomlanadi?
+  ====
+  birlamchi havo
+  ====
+  ikkilamchi havo
+  ====
+  uchlamchi havo
+  ====
+  to‘rtlamchi havo
+  ++++
+  To‘g‘ri oqimli bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  П
+  ====
+  Пр
+  ====
+  Е
+  ====
+  Пп
+  ++++
+  Majburiy sirkulyatsiyali bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  Пр
+  ====
+  П
+  ====
+  Е
+  ====
+  Пп
+  ++++
+  Tabiiy sirkulyatsiyali bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  Е
+  ====
+  Пр
+  ====
+  П
+  ====
+  Пп
+  ++++
+  Oraliq qizdirishli to‘g‘ri oqimli bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  Пп
+  ====
+  Пр
+  ====
+  Е
+  ====
+  П
+  ++++
+  Tabiiy sirkulyatsiyali va oraliq qizdirishli bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  Еп
+  ====
+  Пр
+  ====
+  П
+  ====
+  Пп
+  ++++
+  Gazsimon yoqilg‘ida ishlaydigan bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  Г
+  ====
+  М
+  ====
+  К
+  ====
+  Б
+  ++++
+  Mazutda ishlaydigan bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  М
+  ====
+  Г
+  ====
+  К
+  ====
+  Б
+  ++++
+  Qo‘ng‘ir ko‘mirda ishlaydigan bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  Б
+  ====
+  М
+  ====
+  К
+  ====
+  Г
+  ++++
+  Toshko‘mirda ishlaydigan bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  К
+  ====
+  М
+  ====
+  Г
+  ====
+  Б
+  ++++
+  Suyuq shlak chiqarishli bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  Ж
+  ====
+  Т
+  ====
+  К
+  ====
+  Б
+  ++++
+  Qattiq shlak chiqarishli bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  Т
+  ====
+  Ж
+  ====
+  К
+  ====
+  Б
+  ++++
+  Пп-2650-255-545 Г markali bug‘ generatorining bug‘ ishlab chiqarish unumdorligi qanchaga teng?
+  ====
+  2650 t/s
+  ====
+  255 t/s
+  ====
+  545 t/s
+  ====
+  1000 t/s
+  ++++
+  Пп-2650-255-545 Г markali bug‘ generatorining bug‘ bosimi qanchaga teng?
+  ====
+  255 kg/sm2
+  ====
+  2650 kg/sm2
+  ====
+  545 kg/sm2
+  ====
+  1000 kg/sm2
+  ++++
+  Пп-2650-255-545 Г markali bug‘ generatorida bug‘ harorati qanchaga teng?
+  ====
+  255 °С
+  ====
+  2650 °С
+  ====
+  545 °С
+  ====
+  1000 °С
+  ++++
+  Пп-2650-255-545 Г markali bug‘ generatori qanday turdagi yoqilg‘ida ishlaydi?
+  ====
+  tabiiy gaz
+  ====
+  mazut
+  ====
+  qo‘ng‘ir ko‘mir
+  ====
+  antratsit
+  ++++
+  ТП-100 markali bug‘ generatori qanday komponovkaga ega?
+  ====
+  Т-simon
+  ====
+  П-simon
+  ====
+  minorali
+  ====
+  ikki barabanli
+  ++++
+  Sanoat issiqlik energetikasida va issiqlik ta’minoti tizimlarida keng qo‘llanib kelingan bug‘ generatorlarini aniqlang?
+  ====
+  ДКВР
+  ====
+  КВ-ТК
+  ====
+  КВ-Г
+  ====
+  КВ-А
+  ++++
+  Bug‘ generatorlariga ta’minot suvi qaysi qurilma orqali kiritiladi?
+  ====
+  quyi kollektor
+  ====
+  baraban
+  ====
+  ekonomayzer
+  ====
+  ekran quvurlariga
+  ++++
+  Bug‘ generatorlarida bug‘ qizdirgichining joylashish o‘rnini toping?
+  ====
+  ekran quvurlaridan keyin
+  ====
+  barabandan keyin
+  ====
+  ekonomayzerdan keyin
+  ====
+  kovektiv qizdirgichdan keyin
+  ++++
+  Bug‘ generatorlarida bug‘ning separatsiyalanish joyini toping?
+  ====
+  barabanda
+  ====
+  bug‘ qizdirgichida
+  ====
+  quyi kollektorda
+  ====
+  ekran quvurida
+  ++++
+  O‘ta kritik bosimli bug‘ generatorlarida bosim ko‘rsatkichi nechaga teng?
+  ====
+  25 MPa
+  ====
+  13,8 MPa
+  ====
+  12,7 MPa
+  ====
+  23,5 MPa
+  ++++
+  Bug‘ generatorlarida adiabatik jarayon qanday jarayon?
+  ====
+  ajralib chiqqan issiqlik faqat yonish mahsulotlarini isitish uchun sarflanadi
+  ====
+  ajralib chiqqan issiqlik faqat ekran quvurlarini isitish uchun sarflanadi
+  ====
+  ajralib chiqqan issiqlik faqat festonni isitish uchun sarflanadi
+  ====
+  ajralib chiqqan issiqlik faqat shirmalarni isitish uchun sarflanadi
+  ++++
+  Tutun gazlar maksimal mumkin bo‘lgan haroratga ega bo‘lishi qanday nomlanadi?
+  ====
+  adiabatik yonish harorati
+  ====
+  maksimal harorat
+  ====
+  o‘ta yuqori harorat
+  ====
+  bug‘ hosil qilish harorati
+  ++++
+  O‘txonadan chiqish harorati deganda qaysi nuqtadagi harorat tushuniladi?
+  ====
+  konvektiv shaxtadagi
+  ====
+  feston oldidagi
+  ====
+  bug‘ qizdirgich oldidagi
+  ====
+  o‘ram oldidagi
+  ++++
+  O‘txonada issiqlik almashish jarayonini hisoblashda qaysi usullardan foydalaniladi?
+  ====
+  analitik va imperik 
+  ====
+  tekshiruv va analitik
+  ====
+  konstruktiv va analitik
+  ====
+  tekshiruv va imperik
+  ++++
+  Yonish jarayoni balansining kirish qismi qanday tashkil etuvchilardan iborat?
+  ====
+  keltirilgan yoqilg‘i miqdori va havo miqdori
+  ====
+  tartibli kiritilgan va so‘rilish orqali kirib kelgan havo miqdorlari
+  ====
+  so‘rilish hisobiga kirib keladigan va ballast havo miqdorlari
+  ====
+  barcha javoblar to‘g‘ri
+  ++++
+  Tabiiy gaz yoqilganda qanday mineral qoldiqlar ajraladi?
+  ====
+  tuzli
+  ====
+  loyqa
+  ====
+  chala yongan
+  ====
+  minerallar ajralmaydi
+  ++++
+  12kg +32kg=44kg stexiometrik reaksiyasi qaysi elementga tegishli?
+  ====
+  углерод
+  ====
+  кислород
+  ====
+  олтингугурт
+  ====
+  водород
+  ++++
+  32 kg +32kg=64kg stexiometrik reaksiyasi qaysi elementga tegishli?
+  ====
+  углерод
+  ====
+  кислород
+  ====
+  олтингугурт
+  ====
+  водород
+  ++++
+  Uglerod yonishi uchun kislorodning hajmiy sarfi qanchani tashkil qiladi?
+  ====
+  1,866 m3/kg
+  ====
+  0,933 m3/kg
+  ====
+  5,56 m3/kg
+  ====
+  0,7 m3/kg
+  ++++
+  Uglerod chala yonishi uchun kislorodning hajmiy sarfi qanchani tashkil qiladi?
+  ====
+  1,866 m3/kg
+  ====
+  0,933 m3/kg
+  ====
+  5,56 m3/kg
+  ====
+  0,7 m3/kg
+  ++++
+  Oltingugurt yonishi uchun kislorodning hajmiy sarfi qanchani tashkil qiladi?
+  ====
+  1,866 m3/kg
+  ====
+  0,933 m3/kg
+  ====
+  5,56 m3/kg
+  ====
+  0,7 m3/kg
+  ++++
+  Vodorod yonishi uchun kislorodning hajmiy sarfi qanchani tashkil qiladi?
+  ====
+  1,866 m3/kg
+  ====
+  0,933 m3/kg
+  ====
+  5,56 m3/kg
+  ====
+  0,7 m3/kg
+  ++++
+  Yoqilg‘ini mavjud issiqligi nima?
+  ====
+  o‘txonada 1 kg (yoki 1 m3) yoqilg‘i to‘liq yonganda ajraladigan issiqlik miqdori
+  ====
+  o‘txonada 1 kg (yoki 1 m3) yoqilg‘i yonganda ajraladigan issiqlik miqdori
+  ====
+  o‘txonada 1 kg (yoki 1 m3) yoqilg‘i chala yonganda ajraladigan issiqlik miqdori
+  ====
+  kamerada 1 kg (yoki 1 m3) yoqilg‘i to‘liq yonganda ajraladigan issiqlik miqdori
+  ++++
+  Isitish quvurlarida suvni isitish, bug‘latish va o‘ta qizdirishga sarflangan issiqlik nima deb ataladi?
+  ====
+  foydali ishlatilgan issiqlik
+  ====
+  yo‘qotilgan issiqlik
+  ====
+  yoqilg‘ining mavjud issiqligi
+  ====
+  foydali ish koeffitsiyenti
+  ++++
+  Tutun gazlari bilan chiqib ketadigan issiqlik nima deb ataladi?
+  ====
+  foydali ishlatilgan issiqlik
+  ====
+  yo‘qotilgan issiqlik
+  ====
+  yoqilg‘ining mavjud issiqligi
+  ====
+  foydali ish koeffitsiyenti
+  ++++
+  Qozon qurilmasining issiqlik balansida nechta tashkil etuvchi bor?
+  ====
+  4
+  ====
+  5
+  ====
+  6
+  ====
+  7
+  ++++
+  Nisbiy issiqlik yo‘qotishi deb nimaga aytiladi?
+  ====
+  absolyut issiqlik yo‘qotishining quyi yonish issiqligiga nisbati
+  ====
+  absolyut issiqlik yo‘qotishining quyi yonish issiqligiga yig‘indisi
+  ====
+  absolyut issiqlik yo‘qotishining quyi yonish issiqligidan ayirmasi
+  ====
+  absolyut issiqlik yo‘qotishining quyi yonish issiqligiga ko‘paytmasi
+  ++++
+  
+  KES va IEM lar bir – biridan farqlanishi nimada?
+  ====
+  kes da fakat elektr energiya, iem da esa elektr energiya ham issiqlik energiya ishlab chiqariladi
+  ====
+  kes da kimyoviy energiya, iem da esa elektr energiya ishlab chiqariladi 
+  ====
+  kes da elektr energiya, iem da esa issiqlik energiya ishlab chiqariladi 
+  ====
+  kes da fakat issiqlik energiya, iem da esa elektr energiya ham issiqlik energiya ishlab chiqariladi 
+  ++++ 
+  Qozon agregati deb nimaga aytiladi?
+  ====
+  Suv bug’ini ishlab chiqaruvchi qurilma
+  ====
+  Suv qizdiruvchi agregat
+  ====
+  Suv ta’minlab beruvchi qurilma
+  ====
+  Bug’ ta’minlovchi uskuna
+  ++++ 
+  Suv isitish qozoni deb nimaga aytiladi?
+  ====
+  Issiq suv ishlab chiqaruvchi qurilma
+  ====
+    Issiq suv va bug’ islab chiqaruvchi qurilma
+  ====
+  Bug’ ishlab chiqaruvchi qurilma
+  ====
+  Suvni qizdirib bug’ga aylantiruvchi qurilma
+  ++++ 
+  Qozon qurilmasi deb nimaga aytiladi?
+  ====
+  Issiq suv va suv bug’i  ishlab chiqaruvchi qurilma va yordamchi jihozlar
+  ====
+  Suvni yuqori haroratda yetkazib beradi
+  ====
+  Yoqilg’idan yuqori harorat oladi 
+  ====
+  Ishchi jismi gaz bo’lgan qurilma
+  ++++ 
+  Bug’ generatorini asosiy qismlari?
+  ====
+  o’txona, bug’ qizdirgich, ekonomayzer va havo qizdirgich
+  ====
+  bug’ qizdirgich, ekonomayzer va kondensator
+  ====
+  ekonomayzer, havo qizdirgich va past bosimli silindr
+  ====
+  havo qizdirgich va ekonomayzer
+  ++++ 
+  Qanday sirkulyasiyali qozonlar mavjud?
+  ====
+  Tabiiy,majburiy,to’g’ri oqimli.
+  ====
+  Tabiiy,majburiy,teskari oqimli.
+  ====
+  To’g’ri oqimli,majburiyto’ri oqimli,teskari to’g’ri oqimli.
+  ====
+  To’g’ri oqimli,teskari oqimli,aralash oqimli
+  ++++ 
+  Sirkulyasiya karraligi deb nimaga aytiladi?
+  ====
+  Suv massa birligining bug’ga aylanish qiymati.
+  ====
+  Bug’ning suvga aylanishi
+  ====
+  Suvning qozonda aylanishi
+  ====
+  Bug’ va suvning aylanish tezligi.
+  ++++ 
+  Tabiiy sirkulyasiyali qozonlarda sirkulyasiya karraligi nechaga teng?
+  ====
+  K=4-30
+  ====
+  K=3-40
+  ====
+  K=3-10
+  ====
+  K=1
+  ++++ 
+  Majburiy sirkulyasiyali qozonlarda sirkulyasiya karraligi nechaga teng?
+  ====
+  K=3-10
+  ====
+  K=4-30
+  ====
+  K=1 
+  ====
+  K=3-40
+  ++++ 
+  To’g’ri oqimli qozonlarda sirkulyasiya karraligi nechaga teng?
+  ====
+  K=1
+  ====
+  K=3-40
+  ====
+  K=3-10
+  ====
+  K=4-30
+  ++++ 
+  Tutun so’rgichning vazifasi? 
+  ====
+  Bug’ generatori o’txonasidan yonish mahsulotlarini chiqarish.
+  ====
+  havoni o’choqqa uzatish.
+  ====
+  havo sirkulyasiyasini me'yorlash.
+  ====
+  Bug’ haroratini rostlash.
+  ++++ 
+  Bug’ haroratini rostlash?
+  ====
+  O’txonada joylashgan yuzalar
+  ====
+  gorizontal gaz yo’lida joylashgan yuzalar
+  ====
+  konvektiv shaxtada joylashgan yuzalar
+  ====
+  o’txonani tashqi devorida joylashgan yuzalar
+  ++++ 
+  Bug’ bosimiga ko’ra qozonlar necha turga bo’linadi?
+  ====
+  4 ga
+  ====
+  3ga
+  ====
+  2ga
+  ====
+  5ga
+  ++++ 
+  Qattiq va suyuq yoqilg’ilarning asosiy kimyoviy tarkibi?
+  ====
+  C,H,S,O,N,W,A.
+  ====
+  CH4,O2,N2,S,A,W.
+  ====
+  H2O,CO,H2S,C2H6,W
+  ====
+  C,O,N.S,W,A,H2O
+  ++++ 
+  Yoqilg’ining tashqi ballast qismi? 
+  ====
+  W,A
+  ====
+  O,N.
+  ====
+  S,O.
+  ====
+  N,W.
+  ++++ 
+  Yoqilg’ining ichki ballast qismi?
+  ====
+  O,N.
+  ====
+  S,O.
+  ====
+  W,A.
+  ====
+  N,O.
+  ++++ 
+  Suv qizdirish qozonlarining vazifasi?
+  ====
+  issiqlik ta'minoti ehtiyojlari uchun zarur bo’lgan suvni qizdirish
+  ====
+  o’ta qizigan bug’ishlab chiqarish
+  ====
+  Bug’ generatorini ishini me'yorlash
+  ====
+  to’yingan bug’ishlab chiqarish
+  ++++ 
+  Suv qizdirish qozonlarida qo’llaniladigan yoqilg’i turlari?
+  ====
+  mazut va gaz
+  ====
+  ====
+  toshko’mir va antrasit
+  ====
+  antrasit va o’tin
+  ====
+  qo’ng’ir ko’mir va dizel
+  ++++ 
+  Ta'minot suvini regenerativ qizdirishdan maqsad?
+  ====
+  stansiyada yoqilg’i sarfini kamaytirib, FIKni oshirish
+  ====
+  stansiyada suvni qaynatish
+  ====
+  stansiya ish faoliyatini yaxshilash
+  ====
+  stansiyada qo’shimcha bug’ olish maqsadida
+  ++++ 
+  Yoqilg’ini yonish issiqligiga ta'sir etuvchi moddalar?
+  ====
+  uglerod
+  ====
+  oltingugurt
+  ====
+  azot
+  ====
+  kislorod
+  ++++ 
+  Ekran yuzalari deb quyidagi yuzalarga aytiladi?
+  ====
+  o’txonada joylashgan yuzalar
+  ====
+  gorizontal gaz yo’lida joylashgan yuzalar
+  ====
+  konvektiv shaxtada joylashgan yuzalar
+  ====
+  o’txonani tashqi devorida joylashgan yuzalar
+  ++++ 
+  Yoqilg’ining yuqori yonish issiqligi deb quyidagi issiqlik miqdoriga aytiladi?
+  ====
+  yoqilg’ini to’liq yonish va suv bug’ini kondensasiyalashda sarflangan issiqlik miqdorlari yig’indisi
+  ====
+  yoqilg’ini ishchi massasi yonish issiqligi
+  ====
+  suv bug’ini kondensasiyalashga sarflangan issiqlikni xisobga olinmagan xoldagi yonish issiqligi 
+  ====
+  quyi yonish issiqligiga
+  ++++ 
+  Barabanli qozonlarning ishchi bosimi?
+  ====
+    
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Oraliq qizdirgichning vazifasi?
+  ====
+  YUUS da ishlatilgan Bug’’ni haroratini boshlang’ich haroratga yetkazish yonish mahsulotlarini sovutish
+  ====
+  quruq Bug’ni o’ta qizdirish
+  ====
+  at'minlovchi suvni qizdirish
+  ====
+  ishlatilgan Bug’ bosimini boshlang’ich holatga yetkazish
+  ++++ 
+  To’g’ri oqimli qozonlarining afzalligi?
+  ====
+  O’ta yuqori parametrli bug’ olish
+  ====
+  yuqori bosimli bug’ ishlab chiqarish
+  ====
+  yoqilg’i tejamkorligi
+  ====
+  issiqlik isrofi kamligi
+  ++++ 
+  Yoqilg’ining quyii yonish issiqligi deb nimaga aytiladi?
+  ====
+  Suv bug’ini kondensasiyalashga sarflangan  issiqlikni hisobga olinmagan  holdagi yonish issiqligi
+  ====
+  yoqilg’ini ishchi massasi yonish issiqligi
+  ====
+  yoqilg’ini to’liq yonish va suv bug’ini kondensasiyalashda sarflangan issiqlik miqdorlari yig’indisi
+  ====
+  quyi yonish issiqligiga
+  ++++ 
+  Yuqori bosimli qozonlarda ishchi jismning bosimi?
+  ====
+      ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Tutun gazlarining tarkibi?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Tutun gazlar  yo’li  bo’yicha ortiqcha havo koeffisientini o’zgarishi? 
+  ====
+  qiymati oshib boradi
+  ====
+  qiymati kamayadi
+  ====
+  qiymati o’zgarmaydi
+  ====
+  ortiqcha havo koeffisienti qiymatini qozon qismlariga aloqasi yo’q
+  ++++ 
+  Bug’ bosimi past bulgan bug’ qozonlarda bug’ bosimi nechaga teng? 
+  ====
+  P=0,8-1,6 Mpa
+  ====
+  P=1,6-2,5 Mpa
+  ====
+  P=0,6-2,6 Mpa
+  ====
+  P=2,4-4,0 Mpa
+  ++++ 
+  O’rta bosimli qozonlarda bug’ bosimi nechaga teng?
+  ====
+  P=2,4-4,0 Mpa
+  ====
+  P=4,0-10  Mpa
+  ====
+  P=10-14  Mpa
+  ====
+  P=0,8-1,6 Mpa
+  ++++ 
+  Yuqori bosimli qozonlarda bug’ bosimi nechaga teng?
+  ====
+  P=10-14  Mpa
+  ====
+  P=16-24  Mpa
+  ====
+  P=25-31  Mpa
+  ====
+  P=10-16  Mpa
+  ++++ 
+  O’ta yuqori bosimli qozonlarda bug’ bosimi nechaga teng?
+  ====
+  P=25-31  Mpa
+  ====
+  P=16-24  Mpa 
+  ====
+  P=24-30  Mpa
+  ====
+  P=10-16  Mpa
+  ++++ 
+  Energetik qozonlarda qanday yoqilg’ilar qo’llaniladi?
+  ====
+  Toshko’mir,qo’ng’ir ko’mir,antrasit,mazut,tabiiy gaz.
+  ====
+  Ko’mir,mazut,kerosin, domna gazi,tabiiy gaz.
+  ====
+  Torf,o’tin,antrasit,qo’ng’ir ko’mir,sun’iy gaz/
+  ====
+  Yonuvchi slaneslar,torf, mazut, toshko’mir,tabiiy gaz.
+  ++++ 
+  oqilg’ining ishchi massasi deb nimaga aytiladi?
+  ====
+  Qozon agregatining o’txonasiga to’g’ridan-to’g’ri tushadigan yoqilg’i.
+  ====
+  Namligi olingan yoqilg’i.
+  ====
+  Labaratoriyada tashqi namligi olingan yoqilg’i
+  ====
+  Tashqi ballasti A,W chiqarilgan yoqilg’i
+  ++++ 
+  Yoqilg’ining analitik massasi deb nimaga aytiladi?
+  ====
+  Labaratoriyada tashqi namligi olingan yoqilg’i
+  ====
+  Qozon agregatining o’txonasiga to’g’ridan-to’g’ri tushadigan yoqilg’i
+  ====
+  Namligi olingan yoqilg’i.
+  ====
+  Tashqi ballasti A,W chiqarilgan yoqilg’i
+  ++++ 
+  Suvni natriy kationlash deb nimaga aytiladi?
+  ====
+  Suvni natriy kationlash deb suv tarkibidagi kationlarning Na – kationit filtridagi Na – kationi
+  ====
+  bilan almashish holatiga aytiladi.
+  ====
+  Suv tozalash sohasida suvni Са2+ va Mg2+ kabi kationlardan tozalash suvni natriy kationlash
+  deb ataladi.
+  ====
+  Ion almashish jarayonida anionlar almashisa bu jarayon suvni natriy kationlash deb ataladi
+  ====
+  jisimlarning issiqlik almashish jarayonida anionlar almashisa bu jarayon suvni natriy
+  kationlash deb ataladi
+  ++++ 
+  Suvni H – kationlash deb nimaga aytiladi?
+  ====
+  H – kationitli filtrlardan o'tayotgan suv tarkibidagi kationlarning filtrdagi H– kationlari bilan
+  almashish suvni H – kationlash deb ataladi
+  ====
+  Ion almashish jarayonida anionlar almashisa bu jarayon suvni H kationlash deb ataladi
+  ====
+  jisimlarning issiqlik almashish jarayonida anionlar almashisa bu jarayon suvni H kationlash
+  deb ataladi
+  ====
+  Suvni natriy kationlash deb suv tarkibidagi kationlarning Na – kationat filtridagi H – kationi
+  ++++ 
+  Yoqilg’ining quruq massasi deb nimaga aytiladi?
+  ====
+  Yoqilg’I  namligi to’liq chiqarilgandagi  qolgan massa.
+  ====
+  Labaratoriyada tashqi namligi olingan yoqilg’i
+  ====
+  Qozon agregatining o’txonasiga to’g’ridan-to’g’ri tushadigan yoqilg’
+  ====
+  Tashqi ballasti A,W chiqarilgan yoqilg’i
+  ++++ 
+  Yoqilg’ining yonuvchi massasi deb nimaga aytiladi?
+  ====
+  Agar yoqilg’idan tashqi ballast A,W,chiqarilsa qolgan massa.
+  ====
+  Yoqilg’i namligi to’liq chiqarilgandagi  qolgan massa.
+  ====
+  Labaratoriyada tashqi namligi olingan yoqilg’i.
+  ====
+  Namligi olingan yoqilg’i.
+  ++++ 
+  Yoqilg’ining yonish issiqligi deb nimaga aytiladi?
+  ====
+  1mJ/kg yoki 1mJ/m3 yoqilg’i to’liq yonganda ajralib chiqqan issiqlik miqdoriga.
+  ====
+  yoqilg’ini to’liq yonish va suv bug’ini kondensasiyalashda sarflangan issiqlik miqdorlari yigindisi
+  ====
+  yoqilg’ini ishchi massasi yonish issiqligi
+  ====
+  quyi yonish issiqligiga
+  ++++ 
+  Yoqilg’I tarkibidagi H vodorodning yonish issiqligi nechaga teng?
+  ====
+  Q=120,5 mJ/kg
+  ====
+  Q=120,3 mJ/kg
+  ====
+  Q=120,6 mJ/kg
+  ====
+  Q=120,2 mJ/kg
+  ++++ 
+  Yoqilg’i tarkibidagi C uglerodning yonish issiqligi nechaga teng?
+  ====
+  Q=34,1 mJ/kg
+  ====
+  Q=35,0 mJ/kg
+  ====
+  Q=34,5 mJ/kg
+  ====
+  Q=34,2  mJ/kg
+  ++++ 
+  Yoqilg’i tarkibidagi S oltingugurtning yonish issiqligi nechaga teng?
+  ====
+  Q=9,3 mJ/kg
+  ====
+  Q=9,2 mJ/kg
+  ====
+  Q=9,5 mJ/kg
+  ====
+  Q=9,1 mJ/kg
+  ++++ 
+  Yoqilg’i tarkibida H vodorod necha foizni tashkil qiladi?
+  ====
+  4-9 %
+  ====
+  4-13 %
+  ====
+  4-8 %
+  ====
+  4-11 %
+  ++++ 
+  Yoqilg’i tarkibida C uglerod necha foizni tashkil qiladi?
+  ====
+  50-90 %
+  ====
+  55-90 %
+  ====
+  50-80%
+  ====
+  50-95 %
+  ++++ 
+  Yoqilg’i tarkibida S oltingugurt necha foizni tashkil qiladi?
+  ====
+  0,1-3 %
+  ====
+  0,1-5 %
+  ====
+  0,1-7 %
+  ====
+  0,1-2 %
+  ++++ 
+  To’g’ri oqimli qozonlar kim tomondan yaratildi?
+  ====
+  L.K.Ramzin.
+  ====
+  S.Karno
+  ====
+  D.I.Mendeleev
+  ====
+  Otto
+  ++++ 
+  Ortiqcha havo koeffisientining  hisobiy ifodasi?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Qozonning issiqlik balans tenglamasi?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Tutun gazlari bilan ketayotgan  issiqlik miqdori nimaga bog’liq?
+  ====
+  tutun gazlari haroratiga
+  ====
+  tutun gazlari bosimga
+  ====
+  tutun gazlari tarkibiga
+  ====
+  tutun so’rgich turiga
+  ++++ 
+  Atmosfera chiqayotgant utun gazlari tarkibidagi zaxarli moddalar?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Shartli yoqilg’ining yonish issiqligi qiymati nechaga teng?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Tutun mo’risining balandligi nimaga asoslanadi?
+  ====
+  stansiyaning quvvatiga
+  ====
+  yoqilg’ining turiga
+  ====
+  bug’ qozonining turiga
+  ====
+  bug’ qozonning soniga
+  ++++ 
+  Tutun gazlari harorati keltirilgan faktorlardan qaysi biriga bog’liq?
+  ====
+  o’txonaga uzatilgan havo haroratiga va yoqilg’i sifatiga
+
+  o’txonaga uzatilgan havoning tarkibiga
+  ====
+  yoqilg’i tarkibidagi azot miqdoriga
+  ====
+  O’txonaning hajmiga.
+  ++++ 
+  Majburiy sirkulyasiyali qozonlarda ishchi jismning tezlik miqdori?
+  ====
+  1,5 dan 2m/s gacha
+  ====
+  doimo oshib turadi
+  ====
+  1,2 m/s dan kichik
+  ====
+  1,2 dan 1,5 gacha
+  ++++ 
+  Qozon qurilmasining vazifasi nima?
+  ====
+  yoqilg'i yonishi hisobiga suvni isitish va bug’ga aylantirish
+  ====
+  suvni sovutib berishga hizmat qiladi
+  ====
+  suvning tarkibini tozalaydi
+  ====
+  bug’ni kondensatga aylantiradi
+  ++++ 
+  IESda bug’ turbinasi ishlatiladimi yoki GES dami?
+  ====
+  IESda
+  ====
+  GESda
+  ====
+  Ikkovida  ham  ishlatiladi
+  ====
+  Ikkovida ham  ishlatilmaydi
+  ++++ 
+  Kondensator qanday vazifani bajaradi?
+  ====
+  bug’ni suvga aylantiradi
+  ====
+  suvni bug’ga aylantiradi
+  ====
+  turbinadan tushayotgan suvni sovitadi
+  ====
+  bug’ni bug’ qozoniga etkazib beradi
+  ++++ 
+  Qattiq, suyuq va gazsimon yoqilg’ida ishlaydigan o’txona tanlansin?
+  ====
+  mash'alali o’txon
+  ====
+  qatlamli o’txona
+  ====
+  Uyurmali o’txona.
+  ====
+  siklonli o’txona
+  ++++ 
+  Konveksiya orqali issiqlik uzatish yuzalari?
+  ====
+  konvektiv bug’ qizdirgich  ekonomayzer va havo qizdirgich.
+  ====
+  ekran quvurlari
+  ====
+  o’choq atrofi
+  ====
+  feston;
+  ++++ 
+  Qozon qurilmasidagi havo yo’lining elementlari?
+  ====
+  havo qizdirgich, ventilyator va havo quvurlari
+  ====
+  havo qizdirgich, havo quvurlari va tutun so’rgich
+  ====
+  havo qizdirgich, havo quvurlari va o’choq
+  ====
+  separator va havo qizdirgich
+  ++++ 
+  Energetik yoqilg’ini ko’rsating?
+  ====
+  mazut, tabiiy gaz va ko’mir
+  ====
+  neft, tabiiy gaz va koks
+  ====
+  ko’mir, neft va generatorli gaz
+  ====
+  tabiiy gaz, neft va ko’mir
+  ++++ 
+  Qattiq yoqilg’ilar  uchun ortiqcha havo koeffisienti nechaga teng ?
+  ====
+  1,15-1,25
+  ====
+  1,10-1,20
+  ====
+  1,12-1,22
+  ====
+  1,05-1,15
+  ++++ 
+  Gazsimon yoqilg’ilar uchun ortiqcha havo koeffisienti nechaga teng ?
+  ====
+  1,05-1,1
+  ====
+  1,03-1,1
+  ====
+  1,02-1,1
+  ====
+  1,04-1,1
+  ++++ 
+  Suyuq yoqilg’ilar uchun ortiqcha havo koeffisienti nechaga teng ?
+  ====
+  1,03-1,1
+  ====
+  1,04-1,1
+  ====
+  1,02-1,1
+  ====
+  1,05-1,1
+  ++++ 
+  Majburiy sirkulyasiyali qozonlarda ishchi jismning tezlik miqdori?
+  ====
+  1,5 dan 2m/s gacha
+  ====
+  doimo oshib turadi
+  ====
+  1,2 m/s dan kichik
+  ====
+  1,2 dan 1,5 gacha
+  ++++ 
+  Kritik bosimdan yuqori bosimli bug’ qozonlaridan chiqadigan o’ta qizigan bug’ning parametrlari?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  IESlarda qanaqa yoqilg'i yoqiladi?
+  ====
+  ko'mir, tabiiy gaz, mazut
+  ====
+  o'tin
+  ====
+  gaz va mazut
+  ====
+  torf
+  ++++ 
+  Tabiiy gazning texnikaviy xarakteristikalari?
+  ====
+  namlik, portlovchanlik va zaxarlilik
+  ====
+  zichlik, zaxarlilik va portlovchanlik
+  ====
+  oltingugurtli va kam oltingugurtli
+  ====
+  portlovchanlik, zaxarlilik va yonish harorati
+  ++++ 
+  Havo isitgichining vazifasi nima?
+  ====
+  Tutun gazlarining issiqligi hisobiga o’zidan o’tayotgan havoni qizdirish.
+  ====
+  Tutun gazlarining haroratini tushirish.
+  ====
+  Tutun gazlarining haroratini ko’tarish.
+  ====
+  sun'iy hosil qilingan bug’ni isitish
+  ++++ 
+  Bug’ qozoni qanday materialdan yasaladi?
+  ====
+  po'lat va yuqori sifatli metallardan
+  ====
+  g’ish va loydan
+  ====
+  Alyumin va metaldan
+  ====
+  Mis va metaldan
+  ++++ 
+  Bug’lanish jarayonini belgilovchi parametr qiymatlari?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Suvning qaynash harorati nimaga bog’liq?
+  ====
+  bosimga
+  ====
+  to’yinish harorati
+  ====
+  suv miqdoriga
+  ====
+  bosimga, suv miqdoriga
+  ++++ 
+  Qozonning qizish va bug’lantirish yuzasi qanaqa yuza deyiladi?
+  ====
+  qozonning issiqlik qabul qiluvchi yuzasidir
+  ====
+  qozonning bug’ qabul qiluvchi yuzasidir
+  ====
+  qozonning gaz qabul qiluvchi yuzasidir
+  ====
+  qozonning tutun qabul qiluvchi yuzasidir
+  ++++ 
+  O’txonadagi yonish mahsulotlarining harorati?
+  ====
+  
+  ====
+  1000-2000 0 C
+  ====
+    ====
+  
+  ++++ 
+  Bug’ o'ta qizdirgichi nima?
+  ====
+  bug’ni o'ta qizigan holatga etkazib beradigan maxsus yuzadir
+  ====
+  bug’ni 100  ga etkazib beradigan maxsus yuzadir ====
+  suvni bug’ga aylantirib beruvchi uskuna
+  ====
+  bug’ni kondensatga aylantirib beruvchi uskuna
+  ++++ 
+  Ekonomayzer nima vazifani bajaradi ?
+  ====
+  tutun gazlari hisobiga ta’minot suvini qizdirib berish.
+  ====
+  tutun gazlarini sovutib chiqarish.
+  ====
+  havoni qizdirib berish.
+  ====
+  havoni sovutib berish.
+  ++++ 
+  Ekonomayzer yuzasini qizdirishda tutun gazlarini harorati?
+  ====
+    ====
+  
+  ====
+    ====
+  
+  ++++ 
+  Bug’ generatoridagi qizdirish yuzalar joyini belgilovchi asosiy faktor?
+  ====
+  harorati
+  ====
+  ishchi jismning bosimi
+  ====
+  gaz yo’llarini o’lchamlari
+  ====
+  bug’ qozon markasi
+  ++++ 
+  Konveksiya orqali issiqlikni uzatish koeffisientining  miqdoriga ta'sir etuvchi faktorlar?
+  ====
+  yonish maxsulotlari tezligi
+  ====
+  quvurlar diametri
+  ====
+  quvurlar joylashishi
+  ====
+  qizdirish sifatiga
+  ++++ 
+  Qaysi yoqilg’ini yondirish natijasida qizdirish yuzalarda kislorodli korroziya sodir bo’ladi?
+  ====
+  mazut
+  ====
+  tabiiy gaz
+  ====
+  tosh ko’mir
+  ====
+  qo’ng’ir ko’mir, tabiiy gaz
+  ++++ 
+  Qaysi yoqilg’ida oltingugurtli korroziya kuchli bo’ladi?
+  ====
+  mazut
+  ====
+  tabiiy gaz
+  ====
+  tosh ko’mir
+  ====
+  antrasit
+  ++++ 
+  Bug’ qozonning qaysi metal elementlarda yuqori haroratli korroziya kuchli bo’ladi?
+  ====
+  ekran quvurlar
+  ====
+  festonlar
+  ====
+  bug’ qizdirgich quvurlar
+  ====
+  oraliq bug’ qizdirgich quvurlari
+  ++++ 
+  Qizdirish yuzalardagi ichki korroziyani hosil etuvchi gazlar?
+  ====
+  
+  ====
+  
+  ====
+  
+  ====
+  
+  ++++ 
+  Ishqorli korroziyani sodir etuvchi kimyoviy element?
+  ====
+  ta'minot suvini yonish mahsulotlari orqali qaynash holatiga keltiruvchi maxsus issiqlik almashgich yuzadir
+  ====
+  kimyoviy tozalash sexidan keluvchi suvni tejash
+  ====
+  issiqlik almashinish jarayoni orqali ma'lum bir hajmdagi ishchi jismni berish
+  ====
+  qaynoq suvni tuzlardan tozalash
+  ++++ 
+  Ekonomayzer quvurlarining diametric qancha bo’ladi?
+  ====
+  D=20-30 mm, S=3,5-4,5 mm
+  ====
+  D=25-30 mm, S=4,0-4,5 mm
+  ====
+  D=25-35 mm, S=2,5-3,5 mm
+  ====
+  D=30-40 mm, S=4,5-5,0 mm
+  ++++ 
+  Konstruksiyasiga ko’ra ekonomayzerlar qanday shaklda yasaladi ?
+  ====
+  Quvurlardan ilonizisimon shaklda
+  ====
+  Tik quvurlar to’plamidan
+  ====
+  Quvurlardan vertical shaklda
+  ====
+  Quvurlardan gorizontal shaklda
+  ++++ 
+  Ekonomayzerlarning qanday turlari mavjud ?
+  ====
+  Qaynaydigan va qaynamaydigan
+  ====
+  Suv va bug’ ekonomayzerlar
+  ====
+  Yuqori  bosimga chidamli
+  ====
+  Past bosimda ishlaydigan
+  ++++ 
+  Konstruksiyasiga ko’ra qaynaydigan ekonomayzerlar qaynamaydiganlaridan nimasi bilan farq qiladi? 
+  ====
+  Farq qilmaydi
+  ====
+  Hajmi kattaligi bilan.
+  ====
+  Hajmi kichikligi bilan.
+  ====
+  Quvurining diametric bilan.
+  ++++ 
+  Qanaqa metallardan yasalgan ekonomayzerlar mavjud?
+  ====
+  Po’lat va cho’yandan.
+  ====
+  Po’lat va misdan
+  ====
+  Cho’yan va alyumindan
+  ====
+  Temir va cho’yandan
+  ++++ 
+  Past bosimli qozonlarda qanday ekonomayzerlar qo’llaniladi?
+  ====
+  Qaynaydigan
+  ====
+  Qaynamaydigan
+  ====
+  Bug’ ekonomayzerlar
+  ====
+  Suv ekonomayzerlar
+  ++++ 
+  Past haroratli qizdirish yuzalari?
+  ====
+  havo qizdirgich, ekonomayzer
+  ====
+  feston, ekran quvurlar
+  ====
+  ekonomayzer, tutun muri
+  ====
+  oraliq bug’ qizdirgich, xavo qizdirgich
+  ++++ 
+  Havo qizdirgichlar ishlash prinsipiga ko’ra necha turga bo’linadi?
+  ====
+  2 ga
+  ====
+  3 ga
+  ====
+  4 ga
+  ====
+  5 ga
+  ++++ 
+  Havo qizdirgichlar ishlash prinsipiga ko’ra qanday turlarga bo’linadi?
+  ====
+  Rekuperativ va regenerativ
+  ====
+  1 va 2 bosqichli.
+  ====
+  1 va ko’p bosqichli 
+  ====
+  1,2 va aralash bosqichli
+  ++++ 
+  Rekuperativ havo qizdirgichning ishlash prinsipi qanday?
+  ====
+  Isitish sirtlari qo’zg’almas bo’lib,u orqali tutun gazlarining harorati havoga uzatiladi.
+  ====
+  Tutun gazlarini o’txonaga uzatadi.
+  ====
+  Tutun gazlarini havoga aralashtirib o’txonaga beradi.
+  ====
+  Tutun gazlarini atmosferaga chiqarib yuboradi.
+  ++++ 
+  Qozon agregatlarida bug’ning quruqlik darajasi qanday oraliq qiymatda bo’ladi?
+  ====
+  0.90-0.96
+  ====
+  0.85-0.86
+  ====
+  0.75-0.80
+  ====
+  0.65-0.70
+  ++++ 
+  Regenerativ  havo qizdirgichning ishlash prinsipi qanday?
+  ====
+  Aylanuvchi  rotorli seksiyalarga bo’lingan,seksiyalarga yupqa po’lat plastinkalar o’rnatilgan ular orqali chiqib ketayotgan tutun gazlarining issiqligi olinib havoga uzatiladi va o’txonaga beriladi.    
+  ====
+  Isitish sirtlari qo’zg’almas bo’lib,u orqali tutun gazlarining harorati havoga uzatiladi.
+  ====
+  Tutun gazlarini atmosferaga chiqarib yuboradi.
+  ====
+  Tutun gazlarini havoga aralashtirib o’txonaga beradi.
+  ++++ 
+  Turbinadan ishlab chiqqan Bug’’ni harorati    bo’lganda, kondensatni harorati aniqlansin? ====
+  
+  ====
+    ====
+  
+  ====
+  400C
+  ++++ 
+  Ta'minot suvini tushunchasi?
+  ====
+  bug’ga aylangan suv miqdorini tuldirish uchun suv
+  ====
+  issiqlik ta'minotiga sarflangan suv miqdorini tuldirish
+  ====
+  bug’ qozonini yuvish jarayoniga sarflangan suv
+  ====
+  barabandagi suv
+  ++++ 
+  K-800-240 Bug’ turbinasi elektr quvvati qancha?
+  ====
+  800 MVt
+  ====
+  240 MVt
+  ====
+  300 MVt
+  ====
+  600 MVt
+  ++++ 
+  Sho’r suvning РН qiymati?
+  ====
+    ====
+  
+  ====
+    ====
+  
+  ++++ 
+  Ishqorli suvning РН qiymati?
+  ====
+    ====
+  
+  ====
+  
+  ====
+    ++++ 
+  «Produvka» deb quyidagi jarayonga aytiladi?
+  ====
+  qozondagi suvni qisman chiqarib, urniga ta'minot suvini uzatish
+  ====
+  qozondagi suvni to’liq almashinishi
+  ====
+  suv qatlamidan bug’’ni utkazish
+  ====
+  suv qatlamidan havoni utkazish
+  ++++ 
+  Barabandagi separasion uskunaning vazifasi nima?
+  ====
+  suvni bug’dan ajratishida
+  ====
+  bug’li suvning kinetik energiyasini oshirishdi
+  ====
+  bug’’ni suv qatlamiga uzatishda
+  ====
+  Bug’li suvni Bug’ muxitida uzatishda
+  ++++ 
+  Nurli issiqlikni qabul qiluvchan qizdirish yuzalari?
+  ====
+  pardali bug’ qizdirgich
+  ====
+  oraliq bug’ qizdirgich
+  ====
+  ekonomayzer
+  ====
+  havo qizdirgich
+  ++++ 
+  Havo qizdirgichda havo va yonish mahsulotlarining xarakati?
+  ====
+  qarama – qarshi harakat
+  ====
+  parallel pastga harakat
+  ====
+  o’zgaruvchan harakat
+  ====
+  gazlar yuqoriga, havo pastga harakat
+  ++++ 
+  KES dagi kondensatning harorati?
+  ====
+    ====
+  
+  ====
+    ====
+  
+  ++++ 
+  Tutun gazlarini baypaslashdan maqsad?
+  ====
+  o’ta qizigan bug’ning haroratini rostlash
+  ====
+  bug’ sarfini rostlash
+  ====
+  o’ta qizigan bug’ning bosimini rostlash
+  ====
+  o’ta qizigan bug’’ning tezligini rostlash
+  ++++ 
+  Havo qizdirgichga uzatilgan havoning harorati?
+  ====
+    ====
+  
+  ====
+    ====
+  
+  ++++ 
+  O’txonadagi haroratini o’lchaydigan asbob?
+  ====
+  pirometr
+  ====
+  termopara
+  ====
+  termometr
+  ====
+  Monometrik termometr
+  ++++ 
+  Vannadiyli korroziyani sodir etuvchi yoqilg’i  turi?
+  ====
+  mazut
+  ====
+  tosh ko’mir
+  ====
+  tabiiy gaz
+  ====
+  antrasit
+  ++++ 
+  Qozonning qizish va bug’lantirish yuzasi qanaqa yuza deyiladi?
+  ====
+  qozonning issiqlik qabul qiluvchi yuzasidir
+  ====
+  qozonning bug’ qabul qiluvchi yuzasidir
+  ====
+  qozonning gaz qabul qiluvchi yuzasidir
+  ====
+  qozonning tutun qabul qiluvchi yuzasidir
+  ++++ 
+  Ta'minot suvini regenerativ isitgichlar turlari?
+  ====
+  past bosimli, yukori bosimli va deaeratorlar
+  ====
+  kuchli va kuchsiz
+  ====
+  past bosimli,o’rta bosimli, yuqori bosiml,o’ta yuqori bosimli
+  ====
+  kondensator va nasoslar
+  ++++ 
+  Iste'molchilarga beradigan energiya turiga qarab IESlar turlarini ko'rsating?
+  ====
+  KES va IEM
+  ====
+  issiqlik elektr markazlari
+  ====
+  quyosh elektr stansiyalari
+  ====
+  shamol elektr stansiyalari
+  ++++ 
+  Bug’ turbinasining vazifasi nima?
+  ====
+  elektr generator rotorini aylantirib berish
+  ====
+  o'ta qizigan bug’ni sarflash
+  ====
+  elektr generatorni ishga tushirish
+  ====
+  issiqlik energiya ishlab chiqarish
+  ++++ 
+  Bug’ turbinali IESlarning FIK qanchaga teng?
+  ====
+  40 %
+  ====
+  60%
+  ====
+  50%
+  ====
+  35%
+  ++++ 
+  Nima hisobiga kondensatorda Bug’ kondensatga (suvga aylanadi)?
+  ====
+  sovutuvchi suvga o'z issiqligini berishi hisobiga
+  ====
+  sovuq havo berish hisobiga
+  ====
+  tashqi muhit ta'siri hisobiga
+  ====
+  vodorodli sovitish hisobiga
+  ++++ 
+  Kondеnsatorga bug’ qayerdan kеladi?
+  ====
+  bug’ turbinasidan
+  ====
+  bug’ qozonidan 
+  ====
+  generatordan 
+  ====
+  gaz turbinasidan
+  ++++ 
+  Kondеnsatorga bug’ qanday kеlib tushadi?
+  ====
+  kondensatordagi vakuum tufayli
+  ====
+  nasos yordamida
+  ====
+  tabiy kelib tushadi
+  ====
+  ishchi parraklar yordamida 
+  ++++ 
+  O’txona deb nimaga aytiladi ?
+  ====
+  Yoqilg’ining yonish jarayoni kechadigan qurilma.
+  ====
+  Yoqilg’I saqlanadigan joy.
+  ====
+  Yoqilg’ni yoqishga tayyorlaydigan uskuna.
+  ====
+  Yoqilg’ini maydalovchi va qurituvchi qurilma.
+  ++++ 
+  Nasosning vazifasi nima ?
+  ====
+  suvni haydab berish
+  ====
+  suyuqlikni haydab barish
+  ====
+  gazni haydab berish
+  ====
+  moddani haydab berish
+  ++++ 
+  Bug’ turbinali qurilmalarda  ishchi jism sifatida nima ishlatiladi ?
+  ====
+  suv bug’i
+  ====
+  tutun
+  ====
+  gaz 
+  ====
+  havo
+  ++++ 
+  Havo isitkichdan chiqqan issiq havo qayerga yuboriladi?
+  ====
+  o’txonaga
+  ====
+  barabanga 
+  ====
+  turbinaga
+  ====
+  kondensatorga
+  ++++ 
+  O’zbekistonda eng katta blok quvvatli elektr stansiya quvvati qancha ?
+  ====
+  800 Мvt
+  ====
+  900 Мvt
+  ====
+  700 Мvt
+  ====
+  1000 Мvt
+  ++++ 
+  IES bilan GES nimasi bilan farqlanadi ?
+  ====
+  IES bug’ hisobiga elеktr enеrgiya, GES esa suv hisobiga elеktr enеrgiya ishlab chiqaradi
+  ====
+  Ishlatiladigan yoqilg’i turiga ko’ra
+  ====
+  tashqi ko’rinishda
+  ====
+  quvvatida 
+  ++++ 
+  Rеspublikada ishlab chiqariladigan elеktr enеrgiyani 3 dan birini qaysiissiqqlik elеktr stantsiyasi bеradi?
+  ====
+  Sirdaryo IESi
+  ====
+  Navoiy IESi
+  ====
+  Taxiatosh IESi
+  ====
+  Toshkent IEMi
+  ++++ 
+  Kamerali o’txonalarga qanday holatdagi yoqilg’ilarni yoqish mo’ljallangan?
+  ====
+  Changsimon,suyuq va gaz holatdagi.
+  ====
+  Qattiq,suyuq va gazsimon
+  ====
+  Changsimon,qattiq va suyuq
+  ====
+  Gazsimon,changsimon va qattiq
+  ++++ 
+  Qozon qurilmasining asosiy tashkil etuvchilari nimalardan iborat?
+  ====
+  o'choq, qizdirish va bug’lantirish yuzalari, bug’ qizdirgich, suv ekonomayzеri, havo isitgich
+  ====
+  nasos, qizdirish va bug’lantirish yuzalari
+  ====
+  elеktrogеnеrator, o'choq, bug’ o'ta qizdirgich
+  ====
+  dеaerator va turbina
+  ++++ 
+  O'choqda yuqori darajada qizigan tutun gazlarini olish uchun nima yoqiladi?
+  ====
+  mazut, ko'mir, organik yoqilg'i
+  ====
+  mazut
+  ====
+  ko'mir
+  ====
+  organik yoqilg'i
+  ++++ 
+  Bug’ o'ta qizdirgichi nima?
+  ====
+  bug’ni o'ta qizigan holatga etkazib beradigan maxsus yuzadir
+  ====
+  bug’ni 100  0ga etkazib beradigan maxsus yuzadir ====
+  suvni bug’ga aylantirib beruvchi uskuna
+  ====
+  bug’ni kondensatga aylantirib beruvchi uskuna
+  ++++ 
+  K-800-240 bug’ turbinasiga kirishdagi bug’ bosimi qancha?
+  ====
+  240 atm
+  ====
+  245 atm
+  ====
+  250 atm
+  ====
+  255 atm
+  ++++ 
+  Qaysi hollarda IES da kondensasion turbina o’rnatiladi?
+  ====
+  faqat elektr energiyasi ishab chiqarish talab qilinganida
+  ====
+  elektr energiyasi va issiklik ishlab chiqarish talab qilinganida
+  ====
+  issik suv ishab chiqarish talab qilinganida
+  ====
+  past bosimli bug’ talab qilinganida
+  ++++ 
+  O'ta qizigan bug’ ko'rsatkichlari nimaga bog'liq?
+  ====
+  bosimga va haroratga
+  ====
+  haroratga
+  ====
+  hajmga
+  ====
+  bosimga
+  ++++ 
+  Quvvvati 300 MVt va undan yuqori bo'lgan bloklar qancha bosimda ishlaydi?
+  ====
+  24 MPa
+  ====
+  24,5 MPa
+  ====
+  25  MPa
+  ====
+  31 MPa
+  ++++ 
+  Qaysi yoqilg’i tabiiy emas?
+  ====
+  mazut
+  ====
+  ko'mir
+  ====
+  o'tin
+  ====
+  neft
+  ++++ 
+  K-300-240 bug’ turbinasi nominal elektr quvvati qancha?
+  ====
+  300 MVt
+  ====
+  240 MVt
+  ====
+  500 kVt
+  ====
+  700 Vt
+  ++++ 
+  Bug’ turbinasi nomidagi (markasidagi) «K» xarfi kaysi suzdan olingan, masalan K-500-240?
+  ====
+  kondensasion
+  ====
+  ko'mirda ishljvchi
+  ====
+  kanal
+  ====
+  klapan
+  ++++ 
+  Yoqilg'i agregat holatiga ko'ra qanaqa bo'ladi?
+  ====
+  qattiq, suyuq, gazsimon
+  ====
+  qattiq, suyuq, gazsimon, aralash
+  ====
+  suyuq
+  ====
+  yonuvchi slanes, ko'mir, gaz, mazut, torf
+  ++++ 
+  Tabiiy yoqilg'ilarga nimalar kiradi?
+  ====
+  antrasit, tosh va ko'ng'ir ko'mirlar, neft, tabiiy gaz, yonuvchi slaneslar, torf
+  ====
+  benzin va kerosin
+  ====
+  mazut, solyarka, ko'mir, neft, o'tin
+  ====
+  benzin
+  ++++ 
+  Bug’ turbinasi kurilmasi termodinamik sikli  qaysi siklga asoslangan?
+  ====
+  renkin sikli
+  ====
+  karno sikli
+  ====
+  brayton sikli
+  ====
+  otto sikli
+  ++++ 
+  Yoqilg'i nima bilan birikib yonganda undan issiqlik ajralib chiqadi?
+  ====
+  havo tarkibidagi kislorod bilan birikishi natijasida
+  ====
+  kondensasiyalanish natijasida
+  ====
+  sovush natijasida
+  ====
+  kislorod va vodorod bilan birikishi natijasida
+  ++++ 
+  Kondensat nasosi vazifasi nima?
+  ====
+  bug’ turbina kondensatini haydash
+  ====
+  ta'minot suvini qozonga kiritish
+  ====
+  kondensatordan namlikni ajratib olish
+  ====
+  qozonni kondensat bilan ta'minlash
+  ++++ 
+  O’zbekiston IESlarida eng ko'p miqdorda ishlatiladigan yoqilg’i qaysi?
+  ====
+  tabiiy gaz
+  ====
+  ko'mir
+  ====
+  mazut
+  ====
+  sun'iy gaz
+  ++++ 
+  Metan gazining kimyoviy formulasi?
+  ====
+    ====
+  
+  ====
+    ====
+  
+  ++++ 
+  Rengin sikli nimani anglatadi?
+  ====
+  suv va suv bug’ini fazaviy o’zgarishini
+  ====
+  nam bug’ni kengayishini
+  ====
+  suvni bug’ga aylanishini
+  ====
+  bug’ni kengayish jarayonini
+  ++++ 
+  Gazsimon yoqilg’ilar yonishida shlak hosil bo’ladimi?
+  ====
+  bo’lmaydi
+  ====
+  kam hosil bo’ladi
+  ====
+  qattiq moddalar hosil bo’ladi
+  ====
+  ko’p hosil bo’ladi
+  ++++ 
+  Yoqilg’ining yonish issiqligi qanday o'lchov birligida ifodalanadi?
+  ====
+    ====
+  
+  ====
+    ====
+  
+  ++++ 
+  Qatlamlab yoqish usuli qaysi yoqilg'i qo'llaniladi?
+  ====
+  ko'mir
+  ====
+  mazut
+  ====
+  tabiiy gaz
+  ====
+  neft
+  ++++ 
+  Alangali yoqish usuli qaysi yoqilg'ida qo'llaniladi?
+  ====
+  tabiiy gaz
+  ====
+  mazut
+  ====
+  ko'mir
+  ====
+  antrasit
+  ++++ 
+  Yoqilg’ining asosiy tarkibiy qismi nima?
+  ====
+  uglerod
+  ====
+  vodorod 
+  ====
+  azot 
+  ====
+  oltingugurt 
+  ++++ 
+  Ko'mir yonishi natijasida qancha   kul hosil bo'ladi? ====
+  20-30%
+  ====
+  50-60%
+  ====
+  30-40%
+  ====
+  15-25%
+  ++++ 
+  Ko'mir tarkibida namlik necha xil bo'ladi?
+  ====
+  3
+  ====
+  2
+  ====
+  4
+  ====
+  5
+  ++++ 
+  O’txona ekran quvurlari bu:
+  ====
+  qozonning  radiasion qizitish yuzasidir
+  ====
+  qozonning sirkulyasiya konturi
+  ====
+  bug’ o’taqizdirgichlar
+  ====
+  oraliq bug’qizdirgich
+  ++++ 
+  Qozonning sirkulyasiya konturiga qaysi qurilmalar kiradi?
+  ====
+  baraban, havo isitgich va ekonamayzer
+  ====
+  deaerator va turbina
+  ====
+  nasosla
+  ====
+  kollektorlar
+  ++++ 
+  Ko'mirning xususiyati neft xususiyatidan qanday farq qiladi?
+  ====
+  qattiqlik darajasi bilan
+  ====
+  farq qilmaydi
+  ====
+  oltingugurt miqdori bilan
+  ====
+  organik tarkibi bilan
+  ++++ 
+  Shara barabanli tegirmonlar qanday ko'mirlarni maydalaydi?
+  ====
+  toshko'mir va antrasit
+  ====
+  ko'ngir ko'mir, mazut va antrasitni
+  ====
+  yarim antrasit, gaz va qo'ngir ko'mir
+  ====
+  torfni
+  ++++ 
+  Tegirmon ventilyatorlar qaysi ko'mirlarni maydalaydi?
+  ====
+  ko'ngir ko'mirni
+  ====
+  yarim antrasitni, tabiiy gazni
+  ====
+  antrasitni, mazutni
+  ====
+  toshko'mirni va kulni
+  ++++ 
+  Bolg’achali tegirmonda qaysi ko'mirni maydalanadi?
+  ====
+  toshko'mir va yarim antrasid
+  ====
+  toshko'mir, mazut
+  ====
+  toshko'mir va qo'ngir ko'mir
+  ====
+  o’tin va torfni
+  ++++ 
+  Mazut necha gradusda yonadi?
+  ====
+  110-130
+  ====
+  80-90
+  ====
+  70-80
+  ====
+  20-30
+  ++++ 
+  Mazut necha gradusda chaqnaydi?
+  ====
+  95-100
+  ====
+  100-105
+  ====
+  85-90
+  ====
+  110-120
+  ++++ 
+  O’txonadan tushgan shlak harorati necha gradusda bo'ladi?
+  ====
+  1500-1800
+  ====
+  1000-1200
+  ====
+  1800-2000
+  ====
+  500-600
+  ++++ 
+    nimani anglatadi? ====
+  1kg shartli yoqilg’i yonganda ajralib chiqqan issiqlik miqdori
+  ====
+  10 kg yoqilg’i yoqqanda ajralib chiqqan issiqlik miqdori
+  ====
+  100 kg yoqilg’i yoqqanda ajralib chiqqan issiqlik miqdori
+  ====
+  1000 kg yoqilg’i yoqqanda ajralib chiqqan issiqlik miqdori
+  ++++ 
+  Deaeratordagi suv bosimi kattami yoki bug’ qozonidagi bug’ bosimimi?                                                                                                                                                          
+  ====
+  bug’ qozonidagi bug’ bosimi katta
+  ====
+  deaeratordagi suv bosimi katta
+  ====
+  ikkalovi teng
+  ====
+  deaeratorda bosim bo’lmaydi
+  ++++ 
+  Azot oksidlanish jarayonida ishtirok etadimi?	
+  ====
+  deyarli ishtirok etmaydi	
+  ====
+  yo'q	
+  ====
+  ha	
+  ====
+  ishtirok etadi	
+  ++++ 
+  Bug’ o'ta isitgichi vazifasi nima?
+  ====
+  bug’ni o'ta qizdirish
+  ====
+  havoni sovutish
+  ====
+  suvni isitish
+  ====
+  havoni isitish
+  ++++ 
+  Qatlamli yoqish nima?
+  ====
+  yoqilg’ini o'txona panjarasida yoqish
+  ====
+  yoqilg’ini gorelkada yoqish
+  ====
+  yoqilg’ini forsunkada yoqish
+  ====
+  yoqilg’ini changitib yoqish
+  ++++ 
+  Mazutning markasi qanday aniqlanadi?
+  ====
+  Uning 353K haroratdagi qovushqoqligi orqali aniqlanadi.
+  ====
+  Uning 253K haroratdagi qovushqoqligi orqali aniqlanadi.
+  ====
+  Uning 153K haroratdagi qovushqoqligi orqali aniqlanadi.
+  ====
+  Uning 273K haroratdagi qovushqoqligi orqali aniqlanadi.
+  ++++ 
+  Bug’ni yuvish nima uchun ishlatiladi?
+  ====
+  bug’ni tarkibidagi tuzlardan tozalash uchun
+  ====
+  bug’ tarkibidan zaharnni chiqarib tashlash uchun
+  ====
+  bug’ tarkibidagi kulni chiqarib tashlash uchun
+  ====
+  bug’ni qattiqligini kamaytirish uchun
+  ++++ 
+  Ta'minot nasosi nima vazifani bajaradi?
+  ====
+  ta'minot suvini qozonxonaga haydaydi
+  ====
+  bug’ni turbinaga haydaydi
+  ====
+  kondensatni turbinaga haydaydi
+  ====
+  ta'minot suvini deaeratorga haydaydi.
+  ++++ 
+  Qozon qurilmasining taxminiy balandligi qancha?
+  ====
+  70-80 m
+  ====
+  200-300m
+  ====
+  10-12 m
+  ====
+  300-400m
+  ++++ 
+  Puflovchi ventelyatorning vazifasi nima?
+  ====
+  Havoni havo qizdirgichga haydaydi.
+  ====
+  Suvni ekonomayzerga haydaydi
+  ====
+  Havoni mo’ri quvuriga haydaydi
+  ====
+  Tutunni mo’riga haydaydi
+  ++++ 
+  Ekonomayzerga berilayotgan ta’minot suvining taxminiy harorati qancha?
+  ====
+  25-30
+  ====
+  50-30
+  ====
+  40-70
+  ====
+  40-90
+  ++++ 
+  O’txonada issiqlikning uzatish turlari?
+  ====
+  Radiatsion va konvektiv
+  ====
+  konvektiv
+  ====
+  konvektiv vа noradiatsion
+  ====
+  Radiatsion
+  ++++ 
+  Energetic blok nimalardan tashkil topgan?;
+  ====
+  Bug’ qozoni,bug’ turbinasi,generator va yordamchi qurilmalar
+  ====
+  Kondensator va nasos
+  ====
+  Turbine va generator
+  ====
+  Kondensator va baraban.
+  ++++ 
+  Qanday kultutgichlar mavjud?
+  ====
+  elektrofiltr  va nam kultutgichlar 
+  ====
+  magnitli
+  ====
+  asinxron
+  ====
+  mexanik
+  ++++ 
+  Kul deb nimaga aytiladi?
+  ====
+  Yoqilg’ning yonishi natijasida hosil bo’ladigan mineral qoldiq.
+  ====
+  Yoqilg’ yonganda ucuvchi modda
+  ====
+  Yoqilg’i yonganda ereydigan modda
+  ====
+  Yoqilg’ini qazib olish jarayonida qo’shiladigan modda
+  ++++ 
+  Yoqilg’da kul qanday hosil bo’ladi?
+  ====
+  Yoqilg’i tarkibida mineral aralashmalarning borligi uchun.
+  ====
+  Yoqilg’i nam bo’lganligi ucun.
+  ====
+  Yoqilg’ining tarkibida og’ir uglerodlar bo’lganligi uchun
+  ====
+  Yoqilg’ining yonish issiqligi past bo’lganligi uchun
+  ++++ 
+  Necha xil kul hosil bo’ladi?
+  ====
+  3 
+  ====
+  2
+  ====
+  4
+  ====
+  5
+  ++++ 
+  Yoqilg’ining agregat holatiga va oksidlantiruvchisiga ko’ra yonish reyaksiyasi qanday bo’ladi?
+  ====
+  Gomogen va geterogenli
+  ====
+  Oksidlanuvchi 
+  ====
+  Oksidlantiruvchi 
+  ====
+  Organic va anorganik 
+  ++++ 
+  Gomogen reyaksiya deb nimaga aytiladi ?
+  ====
+  Yoqilg’i va oksidlantiruvchi bir xil agregat holatida kechadigan  reyaksiya.
+  ====
+  Yoqilg’i va oksidlantiruvchi har xil agregat holatida kechadigan  reyaksiya.
+  ====
+  Organic kimyoviy reyaksiya.
+  ====
+  Anorganic kimyoviy reyaksiya.
+  ++++ 
+  Geterogen reyaksiya deb nimaga aytiladi ?
+  ====
+  Yoqilg’i va oksidlantiruvchi har xil agregat holatida kechadigan  reyaksiya.
+  ====
+  Yoqilg’i va oksidlantiruvchi bir xil agregat holatida kechadigan  reyaksiya.
+  ====
+  Organic kimyoviy reyaksiya.
+  ====
+  Anorganic kimyoviy reyaksiya.
+  ++++ 
+  Gomogenli reyaksiyaga misol keltiring ?
+  ====
+  Gaz yoqilg’isining yonishi.
+  ====
+  Qattiq va suyuq yoqilg’ilarning  yonishi.
+  ====
+  Gaz va qattiq yoqilg’ining yonishi
+  ====
+  Gaz va suyuq yoqilg’ilarning yonishi
+  ++++ 
+  Geterogenli reyaksiyaga misol keltiring ?
+  ====
+  Qattiq va suyuq yoqilg’ilarning  yonishi.
+  ====
+  Gaz yoqilg’isining yonishi
+  ====
+  Gaz va qattiq yoqilg’ining yonishi
+  ====
+  Gaz va suyuq yoqilg’ilarning yonishi
+  ++++ 
+  Kritik bosimdan yuqori bosimli bug’ qozonlaridan chiqadigan o’ta qizigan bug’’ning parametrlari?
+  ====
+  Р = 25,5 mPa, т = 5650 C
+  ====
+  Р = 10 mPa, т = 5400 C
+  ====
+  Р = 25,5 mPa, т = 4000C
+  ====
+  Р = 14 mPa, т = 3500 C
+  ++++ 
+  Regenerativ va rekuperativ havo qizdirgichlar orasidagi asosiy farq ?
+  ====
+  konstruksiyasi  bo’yicha
+  ====
+  issiqlik almashinishi bo’yicha
+  ====
+  bug’ qozonida joylashishi bo’yicha 		
+  ====
+  havo o’tkazish bo’yicha 
+  ++++ 
+  Eng katta yuzali qizdirish elementini tanlang ?
+  ====
+  ekran quvurlari
+  ====
+  havo qizdirgich
+  ====
+  bug’ qizdirgich  		
+  ====
+  ekonomayzer 
+  ++++ 
+  Barbotaj so’zining ma’nosi nima ?
+  ====
+  suv ostidan bug’ni utkazish  
+  ====
+  bosim ostida bug’’ni barabanga uzatish 
+  ====
+  suvni qisman barabandan chiqarish 
+  ====
+  bug’’ni suvdan ajratish 
+  ++++ 
+  Birikmalari tez eriydigan kimyoviy element qaysi?
+  ====
+  Ca
+  ====
+  Na;
+  ====
+  Al;
+  ====
+  Fe.
+  ++++ 
+  IES siklida ishchi jismning eng past harorati qaysi qismda bo’ladi ?
+  ====
+  kondensatorda
+  ====
+  ta'minlovchi nasosda
+  ====
+  yuqori bosimli qizdirgichda
+  ====
+  deaeratorda
+  ++++ 
+  Qozon qurilmalarida GRUning vazifasi nima?
+  ====
+  gaz bosimini rostlash
+  ====
+  gaz sarfini me'yorlash
+  ====
+  gazni asosiy parametrlarini doimiy saqlab tu
+  ====
+  nazorat va o’lchov asboblarini sinash
+  ++++ 
+
+
+  Bug‘ generatori deb nimaga aytiladi?
+  ====
+  bug‘ ishlab chiqarish uchun mo‘ljallangan inshoot va qurilmalar majmui 
+  ====
+  yoqilgan yoqilg‘idan ajralgan issiqlik hisobiga bosim ostida issiq suv va bug‘ hosil qiladigan uskunalar majmui
+  ====
+  yoqilg‘idan ajralgan issiqlik hisobiga bosim ostida bug‘ hosil qiladigan uskunalar majmui
+  ====
+  yoqilg‘idan ajralgan issiqlik hisobiga bosim ostida issiq suv hosil qiladigan uskunalar majmui
+  ++++
+  Qozon agregati deb nimaga aytiladi?
+  ====
+  bug‘ ishlab chiqarish uchun mo‘ljallangan inshoot va qurilmalar majmui 
+  ====
+  yoqilgan yoqilg‘idan ajralgan issiqlik hisobiga bosim ostida issiq suv va bug‘ hosil qiladigan uskunalar majmui
+  ====
+  yoqilg‘idan ajralgan issiqlik hisobiga bosim ostida bug‘ hosil qiladigan uskunalar majmui
+  ====
+  yoqilg‘idan ajralgan issiqlik hisobiga bosim ostida issiq suv hosil qiladigan uskunalar majmui
+  ++++
+  Qozon agregati tarkibiga qanday jihozlar kiradi?
+  ====
+  yonish qurilmasi, bug‘ qizdirgich, suv ekonomayzeri va havo qizdirgich
+  ====
+  yonish qurilmasi, suv ekonomayzeri va havo qizdirgich
+  ====
+  bug‘ qizdirgich, suv ekonomayzeri va havo qizdirgich
+  ====
+  yonish qurilmasi, bug‘ qizdirgich va havo qizdirgich
+  ++++
+  Bug‘ generatorining yordamchi qurilmalari jumlasiga qaysi jihozlar kiradi?
+  ====
+  yonish qurilmasi, bug‘ qizdirgich, suv ekonomayzeri va havo qizdirgich, mo‘ri, shlak va kul chiqaradigan qurilmalar, kulni tutib qolish qurilmalari, karkas, ichki qoplama va boshqalar 
+  ====
+  yonish qurilmasi, bug‘ qizdirgich, suv ekonomayzeri va havo qizdirgich va boshqalar
+  ====
+  mo‘ri, shlak va kul chiqaradigan qurilmalar, kulni tutib qolish qurilmalari, karkas, ichki qoplama va boshqalar 
+  ====
+  bug‘ qizdirgich, suv ekonomayzeri va havo qizdirgich, mo‘ri, kulni tutib qolish qurilmalari, karkas, ichki qoplama va boshqalar
+  ++++
+  Bug‘ generatorlarida qaysi turdagi yoqilg‘ilar ishlatiladi?
+  ====
+  toshko‘mir, qo‘ng‘ir ko‘mir, antratsit, yonuvchi slanets, torf, neft, tabiiy gaz
+  ====
+  toshko‘mir, qo‘ng‘ir ko‘mir, antratsit, yonuvchi slanets, torf, yo‘ldosh gaz, tabiiy gaz
+  ====
+  toshko‘mir, qo‘ng‘ir ko‘mir, antratsit, yonuvchi slanets, torf, gibrid gaz, tabiiy gaz
+  ====
+  toshko‘mir, qo‘ng‘ir ko‘mir, antratsit, yonuvchi slanets, torf, mazut, tabiiy gaz
+  ++++
+  Qozon-utilizatorlarida issiqlik beruvchi ish jismi sifatida nima ishlatiladi?
+  ====
+  sanoat pechlarining va gaz turbinalarining chiqish gazlari
+  ====
+  tabiiy gaz va mazut
+  ====
+  sanoat pechlari va gaz turbinalarining chiqish gazlari, tabiiy gaz
+  ====
+  turli ko‘mir navlari, tabiiy gaz va mazut
+  ++++
+  Bug‘ generatorining asosiy ish tavsiflari to‘g‘ri ko‘rsatilgan qatorni toping?
+  ====
+  bug‘ unumdorligi, bug‘ parametrlari, bug‘ generatori FIK
+  ====
+  bug‘ parametrlari, bug‘ unumdorligi, bug‘ generatori FIK
+  ====
+  bug‘ unumdorligi, bug‘ generatori FIK, bug‘ parametrlari,
+  ====
+  bug‘ generatori FIK, bug‘ unumdorligi, bug‘ parametrlari
+  ++++
+  Bug‘ unumdorligi qanday ko‘rsatkich hisoblanadi?
+  ====
+  vaqt birligida hosil bo‘lgan issiq suv miqdori
+  ====
+  yil davomida hosil qilingan bug‘ miqdori
+  ====
+  vaqt birligida hosil bo‘lgan bug‘ miqdori
+  ====
+  yil davomida hosil qilingan issiq suv miqdori
+  ++++
+  Bug‘ unumdorligi past bug‘ generatorlarining ishlab chiqarish ko‘rsatkichi nechaga teng?
+  ====
+  0,01-5,5 kg/s
+  ====
+  7,5-10 kg/s
+  ====
+  25-30 kg/s
+  ====
+  50 kg/s gacha
+  ++++
+  Bug‘ unumdorligi o‘rtacha bug‘ generatorlarining ishlab chiqarish ko‘rsatkichi nechaga teng?
+  ====
+  50-100 kg/s
+  ====
+  30 kg/s gacha
+  ====
+  150-250 kg/s
+  ====
+  3-300 kg/s gacha
+  ++++
+  Bug‘ unumdorligi yuqori bug‘ generatorlarining ishlab chiqarish ko‘rsatkichi nechaga teng?
+  ====
+  500-1000 kg/s va undan yuqori
+  ====
+  100-200 kg/s va undan yuqori
+  ====
+  200-350 kg/s va undan yuqori
+  ====
+  350-500 kg/s va undan yuqori
+  ++++
+  Ishlatilishiga ko‘ra qozon qurilmalarining turlanishini aniqlang?
+  ====
+  sanoat bug‘ generatorlari, isitish qozonlari, issiqlik-energetik qurilmalar
+  ====
+  bug‘ generatorlari, isitish qozonlari, issiqlik-energetik qurilmalar
+  ====
+  bug‘ generatorlari, sanoat pechlari, isitish qozonlari, issiqlik-energetik qurilmalar
+  ====
+  bug‘ generatorlari, sanoat bug‘ generatorlari, isitish qozonlari, issiqlik-energetik qurilmalar
+  ++++
+  Suv isitadigan qozonlarning issiqlik unumdorligi qanchani tashkil etishi mumkin?
+  ====
+  15¸216 Gkal/soat 
+  ====
+  1,5¸216 Gkal/soat 
+  ====
+  40¸180 Gkal/soat 
+  ====
+  4¸180 Gkal/soat 
+  ++++
+  Issiqlik unumdorligi 30 Gkal/soat bo‘lgan suv qizdirish qozonlari parametrlari qanday farqlanadi?
+  ====
+  suvning qozondan chiqishidagi harorati 4230S, qozonga kirishdagi bosimi 1,6 MPa
+  ====
+  suvning qozondan chiqishidagi harorati 4230S, qozonga kirishdagi bosimi 2,6 MPa
+  ====
+  suvning qozondan chiqishidagi harorati 4500S, qozonga kirishdagi bosimi 1,6 MPa
+  ====
+  suvning qozondan chiqishidagi harorati 4500S, qozonga kirishdagi bosimi 2,6 MPa
+  ++++
+  Issiqlik unumdorligi 30 Gkal/soat dan yuqori bo‘lgan suv qizdirish qozonlari parametrlari qanday farqlanadi?
+  ====
+  suvning qozondan chiqishidagi harorati 450-4700S, qozonga kirishdagi bosimi 5,5 MPa
+  ====
+  suvning qozondan chiqishidagi harorati 450-4700S, qozonga kirishdagi bosimi 2,5 MPa
+  ====
+  suvning qozondan chiqishidagi harorati 150-1700S, qozonga kirishdagi bosimi 4,5 MPa
+  ====
+  suvning qozondan chiqishidagi harorati 450-4700S, qozonga kirishdagi bosimi 1,5 MPa
+  ++++
+  Silindrsimon va o‘t-quvurli qozonlardan suv-quvurli qozonlarga qachondan o‘tildi? 
+  ====
+  17-asrning o‘rtalarida 
+  ====
+  18-asrning o‘rtalarida 
+  ====
+  19-asrning o‘rtalarida 
+  ====
+  20-asrning o‘rtalarida 
+  ++++
+  Qanday turdagi suv qizdirish qozonlari bor?
+  ====
+  gaz-quvurli, suv-quvurli
+  ====
+  silindrsimon, o‘t-quvurli 
+  ====
+  kamerali, gorizontal, suv-quvurli
+  ====
+  to‘g‘ri oqimli va barabanli
+  ++++
+  Suv va suv-bug‘ aralashmasining isitish sirtlari bo‘ylab harakatlanish tavsifiga ko‘ra qozon agregatlari necha turga bo‘linadi?
+  ====
+  3
+  ====
+  5
+  ====
+  4
+  ====
+  2
+  ++++
+  Suv va suv-bug‘ aralashmasining isitish sirtlari bo‘ylab harakatlanish tavsifiga ko‘ra qozon agregatlari qanday turga bo‘linadi?
+  ====
+  tabiiy sirkulyasiyali va to‘g‘ri oqimli.
+  ====
+  tabiiy va majburiy sirkulyasiyali
+  ====
+  tabiiy sirkulyasiyali, majburiy sirkulyasiyali, to‘g‘ri oqimli.
+  ====
+  majburiy sirkulyasiyali, to‘g‘ri oqimli.
+  ++++
+  Tabiiy sirkulyasiyali bug‘ generatorlarida suv yopiq sirkulyasiyali konturda qanday harakatlanadi?
+  ====
+  «baraban - tushirish quvuri - pastki kollektor - baraban»
+  ====
+  «baraban - tushirish quvuri - ko‘tarish quvuri - baraban»
+  ====
+  «baraban - tushirish quvuri - pastki kollektor - ko‘tarish quvuri - baraban» 
+  ====
+  «baraban - pastki kollektor - ko‘tarish quvuri»
+  ++++
+  Tabiiy sirkulyasiyali bug‘ generatorlari konturida harakat nimaga asoslanadi?
+  ====
+  haroratlar farqiga
+  ====
+  bosim farqiga
+  ====
+  zichlik farqiga
+  ====
+  hajm farqiga
+  ++++
+  Qaysi turdagi bug‘ generatorida nasosdan foydalanib sirkulyatsiya hosil qilinadi? 
+  ====
+  tabiiy sirkulyasiyali, majburiy sirkulyasiyali, to‘g‘ri oqimli.
+  ====
+  tabiiy sirkulyasiyali va to‘g‘ri oqimli.
+  ====
+  tabiiy va majburiy sirkulyasiyali, to‘g‘ri oqimli.
+  ====
+  majburiy sirkulyasiyali, to‘g‘ri oqimli.
+  ++++
+  Bug‘ generatorlaridagi ishlab chiqarish jarayonlarni amalga oshirish uchun qanday agregat hоlatidagi yoqilg‘ilar ishlatiladi?
+  ====
+  qattiq, suyuq va gazsimon
+  ====
+  ko‘mir, mazut, antratsit va tabiiy gaz
+  ====
+  gaz turbinasining chiqish gazlari
+  ====
+  sanoat pechlarining chala yonish mahsulotlari
+  ++++
+  Bug‘ generatorlarida yoqilg‘i nima bilan aralashtirib yoqiladi?
+  ====
+  havo
+  ====
+  kislorod
+  ====
+  bug‘
+  ====
+  suv
+  ++++
+  Yoqilg‘i nima bilan oksidlanadi?
+  ====
+  havo
+  ====
+  kislorod
+  ====
+  o‘zaro
+  ====
+  azot
+  ++++
+  Yoqilg‘i yonishi uchun zarur bo‘lgan havo miqdori qanday aniqlanadi?
+  ====
+  oldindan qabul qilinadi
+  ====
+  taqribiy qiymat asosida
+  ====
+  hisoblash orqali
+  ====
+  dastlabki ma’lumotlardan olinadi
+  ++++
+  Yonish mahsulotlari nimadan iborat?
+  ====
+  kuldan
+  ====
+  tutun gazlaridan
+  ====
+  tutun gazlari va kuldan
+  ====
+  tutun gazlari, kul va toshqoldan
+  ++++
+  Bug‘ generatorining yonish jarayoni kechadigan qismi nima deb ataladi?
+  ====
+  kamera
+  ====
+  yondirgich
+  ====
+  o‘txona
+  ====
+  otashxona
+  ++++
+  O‘txonalar qanday turlarga bo‘linadi?
+  ====
+  qatlamli, kamerali 
+  ====
+  mash’alali, uyurmali
+  ====
+  radiatsiyali va qattiq shlakli
+  ====
+  qattiq va suyuq shlakli
+  ++++
+  Kamerali o‘txonalar qanday turlarga bo‘linadi?
+  ====
+  qatlamli, kamerali 
+  ====
+  mash’alali, uyurmali
+  ====
+  radiatsiyali va qattiq shlakli
+  ====
+  qattiq va suyuq shlakli
+  ++++
+  Bug‘ generatorlarining o‘txonasida qanda jarayon sodir bo‘ladi?
+  ====
+  radiasion va konvektiv issiqlik almashuvi
+  ====
+  yoqilg‘i yonishi va issiqlik almashuvi 
+  ====
+  haroratlar farqi
+  ====
+  shlak ajraladi
+  ++++
+  Issiqlik almashinuvining zaruriy sharti nimada?
+  ====
+  haroratlar farqi 
+  ====
+  issiqlik almashinuvi
+  ====
+  konveksiya
+  ====
+  radiatsiya
+  ++++
+  Yoqilg‘i yonishida issiqlik necha xil usulda uzatiladi?
+  ====
+  2
+  ====
+  4
+  ====
+  1
+  ====
+  3
+  ++++
+  Yoqilg‘i yonishida issiqlik qanday usullarda uzatiladi?
+  ====
+  konvektiv va nurlanish radiatsiya
+  ====
+  haroratlar va bosim farqiga ko‘ra
+  ====
+  issiqlik o‘tkazuvchanlik, konveksiya va nurlanish-radiasiya 
+  ====
+  termodinamik qonunlarga ko‘ra
+  ++++
+  Issiqlik o‘tkazuvchanlik qanday jarayon?
+  ====
+  jismning turli haroratli ayrim qismlari bir-biriga bevosita tekkanda issiqlik energiyasining tarqalishi
+  ====
+  bir tekis isimagan suyuqlik yoki gazning harakati va aralashishi natijasida issiqlik uzatish
+  ====
+  havo orqali issiqlik energiyasining tarqalishi
+  ====
+  suvda issiqlikning tarqalishi
+  ++++
+  Konveksiya qanday jarayon?
+  ====
+  jismning turli haroratli ayrim qismlari bir-biriga bevosita tekkanda issiqlik energiyasining tarqalishi
+  ====
+  bir tekis isimagan suyuqlik yoki gazning harakati va aralashishi natijasida issiqlik uzatish
+  ====
+  havo orqali issiqlik energiyasining tarqalishi
+  ====
+  suvda issiqlikning tarqalishi
+  ++++
+  Jismning fazaviy o‘zgarishi qanday jarayon?
+  ====
+  sublimatsiya va desublimatsiya
+  ====
+  bug‘lanish, qaynash, kondensasiya, sublimasiya
+  ====
+  bug‘lanish, qaynash, kondensasiya, sublimasiya, muzlash
+  ====
+  bug‘lanish, qaynash, kondensasiya, sublimasiya, yonish
+  ++++
+  Bug‘ generatorlarida ish jarayoni qanday bajariladi?
+  ====
+  qaynash
+  ====
+  bug‘lanish
+  ====
+  aralashish
+  ====
+  isish
+  ++++
+  Bug‘ hosil bo‘lish deb nimaga aytiladi?
+  ====
+  jismni suyuq holatidan gaz holatiga o‘tishi 
+  ====
+  suyuqlikning erkin sirtidan va har qanday haroratda bug‘ hosil bo‘lishi
+  ====
+  kinetik energiyasi katta bo‘lgan molekulalar qo‘shni molekulalarning tortishish kuchlarini yengib suyuqlikdan atrof muhitga uchib chiqishi
+  ====
+  harorat ko‘tarilishi
+  ++++
+  Bug‘lanish deb nimaga aytiladi?
+  ====
+  jismni suyuq holatidan gaz holatiga o‘tishi 
+  ====
+  suyuqlikning erkin sirtidan va har qanday haroratda bug‘ hosil bo‘lishi
+  ====
+  kinetik energiyasi katta bo‘lgan molekulalar qo‘shni molekulalarning tortishish kuchlarini yengib suyuqlikdan atrof muhitga uchib chiqishi
+  ====
+  harorat ko‘tarilishi
+  ++++
+  Bug‘lanish mohiyati nimada?
+  ====
+  jismni suyuq holatidan gaz holatiga o‘tishi 
+  ====
+  suyuqlikning erkin sirtidan va har qanday haroratda bug‘ hosil bo‘lishi
+  ====
+  kinetik energiyasi katta bo‘lgan molekulalar qo‘shni molekulalarning tortishish kuchlarini yengib suyuqlikdan atrof muhitga uchib chiqishi
+  ====
+  harorat ko‘tarilishi
+  ++++
+  Bug‘ issiqlik tashuvchi sifatida qaysi suyuqliklardan afzal hisoblanadi?
+  ====
+  suvdan
+  ====
+  moydan
+  ====
+  suv va moydan
+  ====
+  benzindan
+  ++++
+  Zamonaviy bug‘ generatorining F.I.K. necha foizni tashkil qiladi?
+  ====
+  90-95% 
+  ====
+  85-90 %
+  ====
+  80-85%
+  ====
+  100 %
+  ++++
+  Qozon agregatini tashkil etuvchilari nimalardan iborat?
+  ====
+  karkas, o‘tga chidamli qoplama, quvurlar, armaturalar, nazorat va avtomatika asboblari
+  ====
+  mo‘ri, shlak va kul chiqaradigan qurilmalar, kulni tutib qolish qurilmalari, karkas, ichki qoplama va boshqalar 
+  ====
+  bug‘ qizdirgich, suv ekonomayzeri va havo qizdirgich, mo‘ri, kulni tutib qolish qurilmalari, karkas, ichki qoplama va boshqalar
+  ++++
+  Konvektiv usulda issiqlik tashuvchi oqim sifatida nimadan foydalaniladi?
+  ====
+  alanga
+  ====
+  nurlanish
+  ====
+  tutun gazi
+  ====
+  havo
+  ++++
+  Barabanli qozonlarda sirkulyatsiya bosimi qanday kattaliklarga bog‘liq bo‘ladi? 
+  ====
+  kontur balandligi, zichliklar farqi va erkin tushish tezlanishiga
+  ====
+  suv va hosil qilingan bug‘ miqdorlariga
+  ====
+  yonish mahsulotlari va kul miqdorlari yig‘indisiga
+  ====
+  bosim, harorat va solishtirma hajm
+  ++++
+  Barabanli qozonlarda sirkulyatsiya karraligi qanday kattaliklarga bog‘liq bo‘ladi? 
+  ====
+  kontur balandligi, zichliklar farqi va erkin tushish tezlanishiga
+  ====
+  suv va hosil qilingan bug‘ miqdorlariga
+  ====
+  yonish mahsulotlari va kul miqdorlari yig‘indisiga
+  ====
+  bosim, harorat va solishtirma hajm
+  ++++
+  Yonish jarayoni issiqlik balans tenglamasining ikkinchi qismi qanday kattaliklardan tarkib topgan? 
+  ====
+  kontur balandligi, zichliklar farqi va erkin tushish tezlanishiga
+  ====
+  suv va hosil qilingan bug‘ miqdorlariga
+  ====
+  yonish mahsulotlari va kul miqdorlari yig‘indisiga
+  ====
+  bosim, harorat va solishtirma hajm
+  ++++
+  Bug‘ generatori ish jismining asosiy parametrlariga qanday kattaliklar kiradi? 
+  ====
+  kontur balandligi, zichliklar farqi va erkin tushish tezlanishiga
+  ====
+  suv va hosil qilingan bug‘ miqdorlariga
+  ====
+  yonish mahsulotlari va kul miqdorlari yig‘indisiga
+  ====
+  bosim, harorat va solishtirma hajm
+  ++++
+  Kukun tayyorlash tizimining maydalash korpusida ko‘mir qanday o‘lchamgacha maydalanadi?
+  ====
+  25 mm
+  ====
+  15 mm
+  ====
+  300-500 mkm
+  ====
+  10-50 mkm
+  ++++
+  Ko‘mir maydalash tegirmonlarida kukun qanday o‘lchamgacha maydalanadi?
+  ====
+  25 mm
+  ====
+  15 mm
+  ====
+  300-500 mkm
+  ====
+  10-50 mkm
+  ++++
+  Yoqilg‘i kukunini qizdirish uchun ishlatiladigan havo qanday nomlanadi?
+  ====
+  birlamchi havo
+  ====
+  ikkilamchi havo
+  ====
+  uchlamchi havo
+  ====
+  to‘rtlamchi havo
+  ++++
+  Yoqilg‘ini yoqish uchun o‘txonaga beriladigan havo qanday nomlanadi?
+  ====
+  birlamchi havo
+  ====
+  ikkilamchi havo
+  ====
+  uchlamchi havo
+  ====
+  to‘rtlamchi havo
+  ++++
+  To‘g‘ri oqimli bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  П
+  ====
+  Пр
+  ====
+  Е
+  ====
+  Пп
+  ++++
+  Majburiy sirkulyatsiyali bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  П
+  ====
+  Пр
+  ====
+  Е
+  ====
+  Пп
+  ++++
+  Tabiiy sirkulyatsiyali bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  П
+  ====
+  Пр
+  ====
+  Е
+  ====
+  Пп
+  ++++
+  Oraliq qizdirishli to‘g‘ri oqimli bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  П
+  ====
+  Пр
+  ====
+  Е
+  ====
+  Пп
+  ++++
+  Tabiiy sirkulyatsiyali va oraliq qizdirishli bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  П
+  ====
+  Пр
+  ====
+  Еп
+  ====
+  Пп
+  ++++
+  Gazsimon yoqilg‘ida ishlaydigan bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  Г
+  ====
+  М
+  ====
+  К
+  ====
+  Б
+  ++++
+  Mazutda ishlaydigan bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  Г
+  ====
+  М
+  ====
+  К
+  ====
+  Б
+  ++++
+  Qo‘ng‘ir ko‘mirda ishlaydigan bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  Г
+  ====
+  М
+  ====
+  К
+  ====
+  Б
+  ++++
+  Toshko‘mirda ishlaydigan bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  Г
+  ====
+  М
+  ====
+  К
+  ====
+  Б
+  ++++
+  Suyuq shlak chiqarishli bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  Т
+  ====
+  Ж
+  ====
+  К
+  ====
+  Б
+  ++++
+  Qattiq shlak chiqarishli bug‘ generatorlari markalanishida qanday harf bilan ajratiladi?
+  ====
+  Т
+  ====
+  Ж
+  ====
+  К
+  ====
+  Б
+  ++++
+  Пп-2650-255-545 Г markali bug‘ generatorining bug‘ ishlab chiqarish unumdorligi qanchaga teng?
+  ====
+  2650 t/s
+  ====
+  255 t/s
+  ====
+  545 t/s
+  ====
+  1000 t/s
+  ++++
+  Пп-2650-255-545 Г markali bug‘ generatorining bug‘ bosimi qanchaga teng?
+  ====
+  2650 kg/sm2
+  ====
+  255 kg/sm2
+  ====
+  545 kg/sm2
+  ====
+  1000 kg/sm2
+  ++++
+  Пп-2650-255-545 Г markali bug‘ generatorida bug‘ harorati qanchaga teng?
+  ====
+  2650 °С
+  ====
+  255 °С
+  ====
+  545 °С
+  ====
+  1000 °С
+  ++++
+  Пп-2650-255-545 Г markali bug‘ generatori qanday turdagi yoqilg‘ida ishlaydi?
+  ====
+  tabiiy gaz
+  ====
+  mazut
+  ====
+  qo‘ng‘ir ko‘mir
+  ====
+  antratsit
+  ++++
+  ТП-100 markali bug‘ generatori qanday komponovkaga ega?
+  ====
+  Т-simon
+  ====
+  П-simon
+  ====
+  minorali
+  ====
+  ikki barabanli
+  ++++
+  ТГП-805 s/z markali bug‘ generatori qanday komponovkaga ega?
+  ====
+  Т-simon
+  ====
+  П-simon
+  ====
+  minorali
+  ====
+  ikki barabanli
+  ++++
+  ДЕ-10-14 bug‘ generatori qanday komponovkaga ega?
+  ====
+  Т-simon
+  ====
+  П-simon
+  ====
+  minorali
+  ====
+  ikki barabanli
+  ++++
+  ПТВМ-100 cho‘qqili suv qizdirish qozoni qanday komponovkaga ega?
+  ====
+  Т-simon
+  ====
+  П-simon
+  ====
+  minorali
+  ====
+  ikki barabanli
+  ++++
+  Sanoat issiqlik energetikasida va issiqlik ta’minoti tizimlarida keng qo‘llanib kelingan bug‘ generatorlarini aniqlang?
+  ====
+  ДКВР
+  ====
+  КВ-ТК
+  ====
+  КВ-Г
+  ====
+  КВ-А
+  ++++
+  Bug‘ generatorlariga ta’minot suvi qaysi qurilma orqali kiritiladi?
+  ====
+  quyi kollektor
+  ====
+  baraban
+  ====
+  ekonomayzer
+  ====
+  ekran quvurlariga
+  ++++
+  Bug‘ generatorlarida bug‘ qizdirgichining joylashish o‘rnini toping?
+  ====
+  ekran quvurlaridan keyin
+  ====
+  barabandan keyin
+  ====
+  ekonomayzerdan keyin
+  ====
+  kovektiv qizdirgichdan keyin
+  ++++
+  Bug‘ generatorlarida bug‘ning separatsiyalanish joyini toping?
+  ====
+  barabanda
+  ====
+  bug‘ qizdirgichida
+  ====
+  quyi kollektorda
+  ====
+  ekran quvurida
+  ++++
+  O‘ta kritik bosimli bug‘ generatorlarida bosim ko‘rsatkichi nechaga teng?
+  ====
+  25 MPa
+  ====
+  13,8 MPa
+  ====
+  12,7 MPa
+  ====
+  23,5 MPa
+  ++++
+  Bug‘ generatorlarida adiabatik jarayon qanday jarayon?
+  ====
+  ajralib chiqqan issiqlik faqat yonish mahsulotlarini isitish uchun sarflanadi
+  ====
+  ajralib chiqqan issiqlik faqat ekran quvurlarini isitish uchun sarflanadi
+  ====
+  ajralib chiqqan issiqlik faqat festonni isitish uchun sarflanadi
+  ====
+  ajralib chiqqan issiqlik faqat shirmalarni isitish uchun sarflanadi
+  ++++
+  Tutun gazlar maksimal mumkin bo‘lgan haroratga ega bo‘lishi qanday nomlanadi?
+  ====
+  adiabatik yonish harorati
+  ====
+  maksimal harorat
+  ====
+  o‘ta yuqori harorat
+  ====
+  bug‘ hosil qilish harorati
+  ++++
+  O‘txonadan chiqish harorati deganda qaysi nuqtadagi harorat tushuniladi?
+  ====
+  konvektiv shaxtadagi
+  ====
+  feston oldidagi
+  ====
+  bug‘ qizdirgich oldidagi
+  ====
+  o‘ram oldidagi
+  ++++
+  O‘txonada issiqlik almashish jarayonini hisoblashda qaysi usullardan foydalaniladi?
+  ====
+  analitik va imperik 
+  ====
+  tekshiruv va analitik
+  ====
+  konstruktiv va analitik
+  ====
+  tekshiruv va imperik
+  ++++
+  Yonish jarayoni balansining kirish qismi qanday tashkil etuvchilardan iborat?
+  ====
+  keltirilgan yoqilg‘i miqdori va havo miqdori
+  ====
+  tartibli kiritilgan va so‘rilish orqali kirib kelgan havo miqdorlari
+  ====
+  so‘rilish hisobiga kirib keladigan va ballast havo miqdorlari
+  ====
+  barcha javoblar to‘g‘ri
+  ++++
+  Tabiiy gaz yoqilganda qanday mineral qoldiqlar ajraladi?
+  ====
+  tuzli
+  ====
+  loyqa
+  ====
+  chala yongan
+  ====
+  minerallar ajralmaydi
+  ++++
+  12kg +32kg=44kg stexiometrik reaksiyasi qaysi elementga tegishli?
+  ====
+  углерод
+  ====
+  кислород
+  ====
+  олтингугурт
+  ====
+  водород
+  ++++
+  32 kg +32kg=64kg stexiometrik reaksiyasi qaysi elementga tegishli?
+  ====
+  углерод
+  ====
+  кислород
+  ====
+  олтингугурт
+  ====
+  водород
+  ++++
+  Uglerod yonishi uchun kislorodning hajmiy sarfi qanchani tashkil qiladi?
+  ====
+  1,866 m3/kg
+  ====
+  0,933 m3/kg
+  ====
+  5,56 m3/kg
+  ====
+  0,7 m3/kg
+  ++++
+  Uglerod chala yonishi uchun kislorodning hajmiy sarfi qanchani tashkil qiladi?
+  ====
+  1,866 m3/kg
+  ====
+  0,933 m3/kg
+  ====
+  5,56 m3/kg
+  ====
+  0,7 m3/kg
+  ++++
+  Oltingugurt yonishi uchun kislorodning hajmiy sarfi qanchani tashkil qiladi?
+  ====
+  1,866 m3/kg
+  ====
+  0,933 m3/kg
+  ====
+  5,56 m3/kg
+  ====
+  0,7 m3/kg
+  ++++
+  Vodorod yonishi uchun kislorodning hajmiy sarfi qanchani tashkil qiladi?
+  ====
+  1,866 m3/kg
+  ====
+  0,933 m3/kg
+  ====
+  5,56 m3/kg
+  ====
+  0,7 m3/kg
+  ++++
+  Yoqilg‘ini mavjud issiqligi nima?
+  ====
+  o‘txonada 1 kg (yoki 1 m3) yoqilg‘i to‘liq yonganda ajraladigan issiqlik miqdori
+  ====
+  o‘txonada 1 kg (yoki 1 m3) yoqilg‘i yonganda ajraladigan issiqlik miqdori
+  ====
+  o‘txonada 1 kg (yoki 1 m3) yoqilg‘i chala yonganda ajraladigan issiqlik miqdori
+  ====
+  kamerada 1 kg (yoki 1 m3) yoqilg‘i to‘liq yonganda ajraladigan issiqlik miqdori
+  ++++
+  Isitish quvurlarida suvni isitish, bug‘latish va o‘ta qizdirishga sarflangan issiqlik nima deb ataladi?
+  ====
+  foydali ishlatilgan issiqlik
+  ====
+  yo‘qotilgan issiqlik
+  ====
+  yoqilg‘ining mavjud issiqligi
+  ====
+  foydali ish koeffitsiyenti
+  ++++
+  Tutun gazlari bilan chiqib ketadigan issiqlik nima deb ataladi?
+  ====
+  foydali ishlatilgan issiqlik
+  ====
+  yo‘qotilgan issiqlik
+  ====
+  yoqilg‘ining mavjud issiqligi
+  ====
+  foydali ish koeffitsiyenti
+  ++++
+  Qozon qurilmasining issiqlik balansida nechta tashkil etuvchi bor?
+  ====
+  4
+  ====
+  5
+  ====
+  6
+  ====
+  7
+  ++++
+  Nisbiy issiqlik yo‘qotishi deb nimaga aytiladi?
+  ====
+  absolyut issiqlik yo‘qotishining quyi yonish issiqligiga nisbati
+  ====
+  absolyut issiqlik yo‘qotishining quyi yonish issiqligiga yig‘indisi
+  ====
+  absolyut issiqlik yo‘qotishining quyi yonish issiqligidan ayirmasi
+  ====
+  absolyut issiqlik yo‘qotishining quyi yonish issiqligiga ko‘paytmasi
+  ++++
+  Issiqlik va massa almashinuv qurilmalarining turlarini ko’rsating?
+  ====
+  rеkupеrаtiv, rеgеnеrаtiv, аrаlаshtiruvchi
+  ====
+  rеkupеrаtiv, rеgеnеrаtiv
+  ====
+  rеkupеrаtiv, аrаlаshtiruvchi
+  ====
+  rеgеnеrаtiv, аrаlаshtiruvchi
+  +++++
+  Rеkupеrаtiv issiqlik almashinuv qurilmalaridа issiqlik аlmаshinuvi ... 
+  ====
+  dеvоr оrqаli аmаlgа оshirilаdi
+  ====
+  dеvоr оrqаli gаlmа-gаldаn o’tkаzilаdi
+  ====
+  issiqlik tаshuvchilаrning bеvоsitа to’qnаshuvidа
+  ====
+  uzluksiz rаvishdа аmаlgа оshirilаdi
+  +++++
+  Rеgеnеrаtiv issiqlik almashinuv qurilmalaridа issiqlik аlmаshinuvi ...
+  ====
+  dеvоr оrqаli gаlmа-gаldаn o’tqаzilаdi
+  ====
+  dеvоr оrqаli аmаlgа оshirilаdi
+  ====
+  issiqlik tаshuvchilаrning bеvоsitа to’qnаshuvidа
+  ====
+  uzluksiz аmаlgа оshirilаdi
+  +++++
+  Аrаlаshtiruvchi issiqlik almashinuv qurilmalaridа issiqlik аlmаshinuvi ...
+  ====
+  issiqlik tаshuvchilаrning bеvоsitа to’qnаshuvidа
+  ====
+  dеvоr оrqаli аmаlgа оshirilаdi
+  ====
+  dеvоr оrqаli gаlmа-gаldаn o’tqаzilаdi
+  ====
+  uzluksiz аmаlgа оshirilаdi
+  +++++
+  Issiqlik almashinuv qurilmalari nеchigа bo’linаdi?
+  ====
+  2 
+  ====
+  3
+  ====
+  4 
+  ====
+  5
+  +++++
+  Issiqlik almashinuv qurilmalaridа аsоsiy jаrаyon ...
+  ====
+  issiqlik аlmаshinuvi
+  ====
+  mаssа аlmаshinuvi 
+  ====
+  issiqlik vа mаssа аlmаshinuvi 
+  ====
+  hаrоrаt аlmаshinuvi
+  +++++
+  Kimyo sаnоаtidа issiqlik almashinuv qurilmalari umumiy qurilmаlаrning nеchа fоizini tаshkil etаdi?
+  ====
+  15-18%
+  ====
+  20-25%
+  ====
+  30-32%
+  ====
+  10-15%
+  +++++
+  Ish prinsipigа ko’rа issiqlik almashinuv qurilmalari nеchigа bo’linаdi?
+  ====
+  2
+  ====
+  3
+  ====
+  4
+  ====
+  5
+  +++++
+  Kоnstruktiv tuzilishi bo’yichа issiqlik almashinuv qurilmalari:
+  ====
+  quvurdаn, listdаn vа nоmеtаlli
+  ====
+  quvurdаn, listdаn qilingаn mаtеriаlli 
+  ====
+  quvurli, nоmеtаlli
+  ====
+  mаtеriаllа vа quvurdаn
+  +++++
+  Quvurdаn yasаlgаn issiqlik almashinuv qurilmalarigа qаysilаr kirаdi?
+  ====
+  quvur ichidа quvur, o’rаmli
+  ====
+  spirаlsimоn vа o’rаmli
+  ====
+  grаfitli vа plаstinаli
+  ====
+  spirаl, plаstinаli
+  +++++
+  Listdаn yasаlgаn issiqlik almashinuv qurilmalarigа qаysilаr kirаdi?
+  ====
+  spirаlsimоn vа plаstinаli 
+  ====
+  grаfitli vа o’rаmli
+  ====
+  quvur ichidа quvur, o’rаmli
+  ====
+  o’rаmli, grаfitli
+  +++++
+  Ishlаtilish mаqsаdigа ko’rа issiqlik almashinuv qurilmalari ...
+  ====
+  isitgichlаr, bug’lаtgich, kоndеnsаtоrlаr
+  ====
+  sоvitgichlаr, isitgichlаr, bug’lаtgich, kоndеnsаtоrlаr
+  ====
+  bug’lаtgich, kоndеnsаtоrlаr, sоvitgichlаr
+  ====
+  sоvitgich, kоndеnsаtоr
+  +++++
+  Issiqlik bеrish usuligа ko’rа issiqlik almashinuv qurilmalari nеchigа bo’linаdi?
+  ====
+  2
+  ====
+  3
+  ====
+  4
+  ====
+  5
+  ++++
+  Issiqlik va massa almashinuv qurilmalarigа tа’rif bеring?
+  ====
+  bir vаqtning o’zidа issiqlik vа mаssа аlmаshinаdi
+  ====
+  bundа fаqаt issiqlik аlmаshinаdi
+  ====
+  fаqаt mаssа аlmаshinаdi
+  ====
+  hаrоrаt аlmаshinаdi
+  +++++
+  a kоeffisiеnt bu-...
+  ====
+  issiqlik bеrish kоeffisiеnti
+  ====
+  issiqlik uzаtish kоeffisiеnti	 
+  ====
+  issiqlik o’tkаzuvchnlik kоeffisiеnti 
+  ====
+  hаrоrаt o’tkаzish kоeffisiеnti
+  +++++
+  k kоeffisiеnt bu-...
+  ====
+  issiqlik uzаtish kоeffisiеnti 
+  ====
+  issiqlik bеrish kоeffisiеnti
+  ====
+  issiqlik o’tkzuvchnlik kоeffisiеnti 
+  ====
+  hаrоrаt o’tkаzish kоeffisiеnti
+  +++++
+  L kоeffisiеnt bu-...
+  ====
+  issiqlik o’tkzuvchnlik kоeffisiеnti 
+  ====
+  issiqlik uzаtish kоeffisiеnti
+  ====
+  issiqlik bеrish kоeffisiеnti
+  ====
+  hаrоrаt o’tkаzish kоeffisiеnti
+  +++++
+  Issiqlik bеrish kоeffisiеntining o’lchоv birligi?
+  ====
+  Vt/(m2K)
+  ====
+  Vt/(mK)
+  ====
+  Vt/m2 
+  ====
+  Vt/m2
+  +++++
+  Issiqlik uzаtish kоeffisiеntining o’lchоv birligi?
+  ====
+  Vt/(m2K)
+  ====
+  Vt/(mK)
+  ====
+  Vt/m2 
+  ====
+  Vt/m2
+  +++++
+  Issiqlik o’tkаzuvchаnlik kоeffisiеntining o’lchоv birligi?
+  ====
+  Vt/(mK)
+  ====
+  Vt/(m2K)
+  ====
+  Vt/m2 
+  ====
+  Vt/m2
+  +++++
+  Issiq muhitdаn sоvuq muhitgа issiqlikni uzаtish uchun qo’llаnilаdigаn hаrаkаtlаnuvchi muhit bu ...
+  ====
+  issiqlik tаshuvchi
+  ====
+  qo’zg’аluvchаn dеvоr
+  ====
+  qo’zg’аlmаs dеvоr
+  ====
+  nаsаdkа
+  +++++
+  Issiqlik аlmаshinuv yuzаsi bu ...
+  ====
+  issiqlik аlmаshinuvi аmаlgа оshаdigаn yuzа
+  ====
+  mаssа аlmаshinuvi yuzаsi
+  ====
+  issiqlik vа mаssа аlmаshinuvi yuzаsi
+  ====
+  hаrоrаt аlmаshinuvi yuzаsi
+  +++++
+  Yuzаviy issiqlik almashinuv qurilmalari qanday turlarga bo’linаdi?
+  ====
+  rеkupеrаtiv, rеgеnеrаtiv
+  ====
+  rеkupеrаtiv
+  ====
+  rеgеnеrаtiv
+  ====
+  аrаlаshtiruvchi
+  +++++
+  Issiqlik tаshuvchi аgеntlаr hаrаkаtining yo’nаlishi qаnаqа bo’lаdi?
+  ====
+  to’g’ri, kеsishgаn, qаrаmа-qаrshi
+  ====
+  to’g’ri, kеsishgаn
+  ====
+  to’g’ri, qаrаmа-qаrshi
+  ====
+  kеsishgаn, qаrаmа-qаrshi
+  +++++
+  Аgrеgаt hоlаtigа ko’rа issiqlik tаshuvchilаr ...
+  ====
+  bir, ikki vа ko’p fаzаli
+  ====
+  bir fаzаli
+  ====
+  ikki fаzаli
+  ====
+  ko’p fаzаli
+  +++++
+  Bir fаzаli issiqlik tаshuvchilаr dеb nimagа аytilаdi?
+  ====
+  ish hоlаtidа аgrеgаt hоlаtini o’zgаrtirmаydigаn issiqlik tаshuvchilаr
+  ====
+  ish hоlаtidа аgrеgаt hоlаtini o’zgаrtirаdigаn issiqlik tаshuvchilаr
+  ====
+  аyrim hоldа o’zgаrtirаdi, аyrim hоldа o’zgаrtirmаydi
+  ====
+  jаrаyon bоshidа o’zgаrtirаdigаn issiqlik tаshuvchilаr
+  +++++
+  Ko’p fаzаli issiqlik tаshuvchilаr dеb nimagа аytilаdi?
+  ====
+  ish hоlаtidа аgrеgаt hоlаtini o’zgаrtirаdigаn issiqlik tаshuvchilаr
+  ====
+  ish hоlаtidа аgrеgаt hоlаtini o’zgаrtirmаydigаn issiqlik tаshuvchilаr
+  ====
+  аyrim hоldа o’zgаrtirаdi, аyrim hоldа o’zgаrtirmаydi
+  ====
+  jаrаyon bоshidа o’zgаrtirmаydigаn issiqlik tаshuvchilаr
+  +++++
+  Qo’yidаgi mоddаlаrdаn qаysilаri bir fаzаli issiqlik tаshuvchilаrgа kirаdi?
+  ====
+  pаst hаrоrаtli plаzmаlаr vа qаttiq mоddаlаr
+  ====
+  qаynоvchi vа bug’lаnuvchi mоddаlаr
+  ====
+  suv vа suv bug’i
+  ====
+  qаynоvchi vа suv
+  +++++
+  Qo’yidаgi mоddаlаrdаn qаysilаri ko’p fаzаli issiqlik tаshuvchilаrgа kirаdi?
+  ====
+  suv vа suv bug’i
+  ====
+  qаttiq mоddаlаr
+  ====
+  kоndеnsаsiyalаnmаydigаn mоddаlаr
+  ====
+  bug’lаnmаydigаn mоddаlаr
+  +++++
+  Ishchi hаrоrаti bo’yichа issiqlik tаshuvchilаr ...
+  ====
+  yuqоri, o’rtа, pаst vа kriоgеn hаrоrаtli 
+  ====
+  yuqоri vа o’rtа hаrоrаtli
+  ====
+  yuqоri vа pаst hаrоrаtli
+  ====
+  o’rtа vа pаst hаrоrаtli
+  +++++
+  Yuqоri hаrоrаtli issiqlik tаshuvchilаrning ishchi hаrоrаti?
+  ====
+  1500–2000℃
+  ====
+  700–800℃	
+  ====
+  1000–1200℃
+  ====
+  2000–2200℃
+  +++++
+  O’rtа hаrоrаtli issiqlik tаshuvchilаrning ishchi hаrоrаti?
+  ====
+  150–700℃
+  ====
+  700–800℃ 
+  ====
+  1500–2000℃
+  ====
+  2000–2200℃
+  +++++
+  Pаst hаrоrаtli issiqlik tаshuvchilаrning ishchi hаrоrаti?
+  ====
+  -150 dаn +150℃
+  ====
+  1000-1200℃
+  ====
+  150-700℃
+  ====
+  1000-1500℃
+  +++++
+  Kriоgеn hаrоrаtli issiqlik tаshuvchilаrning ishchi hаrоrаti?
+  ====
+  – 150℃ dаn pаst
+  ====
+  -150 dаn +150℃
+  ====
+  1000-1200℃
+  ====
+  100℃ dаn yuqоri
+  +++++
+  Kriоgеn hаrоrаtli issiqlik tаshuvchilаr qаyеrlаrdа qo’llаnilаdi?
+  ====
+  sоvitish qurilmаlаridа
+  ====
+  quritish qurilmаlаridа
+  ====
+  yuqоri hаrоrаtli qurilmаlаrdа
+  ====
+  nаmlаtish qurilmаlаridа
+  +++++
+  Qаttiq issiqlik tаshuvchilаrgа qo’yidаgi mоddаlаrdаn qаysilаri kirаdi?
+  ====
+  po’lаt, cho’yan, kаrbоund
+  ====
+  po’lаt, suv, mоy
+  ====
+  suv, gаz, suv bug’i
+  ====
+  muz, suv
+  +++++
+  Suyuq issiqlik tаshuvchilаrgа qo’yidаgi mоddаlаrdаn qаysilаri kirаdi?
+  ====
+  simоb, suv, minеrаl mоy
+  ====
+  po’lаt, cho’yan, kаrbоund
+  ====
+  po’lаt, suv, mоy
+  ====
+  mоy, kаrbоund
+  +++++
+  Gаzsimоn issiqlik tаshuvchilаrgа qo’yidаgi mоddаlаrdаn qаysilаri kirаdi?
+  ====
+  hаvо, tutun gаzlаri, suv bug’i
+  ====
+  po’lаt, suv, mоy
+  ====
+  suv, gаz, suv bug’i
+  ====
+  hаvо, suv bug’i
+  +++++
+  Issiqlik tаshuvchilаr issiqlik almashinuvi qurilmalarida qo’llаnilishigа qаrаb qаndаy bo’linаdi?
+  ====
+  qаttiq, suyuq, gаzsimоn
+  ====
+  qаttiq, suyuq
+  ====
+  suyuq, gаzsimоn
+  ====
+  qаttiq, gаzsimоn
+  +++++
+  20000C hаrоrаtdаn yuqоri jаrаyonlаrdа qаndаy issiqlik tаshuvchilаr qo’llаnilаdi?
+  ====
+  iоnlаshgаn issiqlik tаshuvchilаr
+  ====
+  qаttiq issiqlik tаshuvchilаr
+  ====
+  suyuq issiqlik tаshuvchilаr
+  ====
+  gаzsimоn issiqlik tаshuvchilаr
+  +++++
+  Issiqlik tаshuvchilаrning аsоsiy issiqlik fizik xususiyatlаrigа qаysilаr kirаdi?
+  ====
+  zichlik, issiqlik sig’imi, isiqlik o’tkаzuvchаnlik
+  ====
+  hаrоrаt, bоsim, hаjm
+  ====
+  qоvushqоqlik, bоsim
+  ====
+  zichlik, bоsim, hаrоrаt
+  +++++
+  Issiqlik almashinuvi qurilmalari enеrgеtikа umumiy qurilmаlаrining tаxminаn nеchа qismini tаshkil qilаdi?
+  ====
+  40%
+  ====
+  20%
+  ====
+  30%
+  ====
+  50%
+  +++++
+  Issiqlik almashinuvi qurilmalarini hisоblаsh nеchа bоsqichdаn ibоrаt?
+  ====
+  5
+  ====
+  3
+  ====
+  4
+  ====
+  2
+  +++++
+  Qurilmаning issiqlik hisоbidаn mаqsаd?
+  ====
+  issiqlik аlmаshinuvi yuzаsi F ni tоpish
+  ====
+  qurilmаning аsоsiy o’lchаmlаrini tоpish
+  ====
+  qurissiqlik-massa almashinuvi qurilmaning qаrshiliklаrini tоpish
+  ====
+  issiqlik tаshuvchilаrni hаrоrаtlаrini аniqlаsh
+  +++++
+  Kоnstruktiv hisоbdаn mаqsаd?
+  ====
+  qurilmаning аsоsiy o’lchаmlаrini tоpish
+  ====
+  issiqlik аlmаshinuvi yuzаsi F ni tоpish
+  ====
+  qurissiqlik-massa almashinuvi qurilmaning qаrshiliklаrini tоpish
+  ====
+  issiqlik tаshuvchilаrning bоsimini аniqlаsh
+  +++++
+  Gidrаvlik hisоbdаn mаqsаd?
+  ====
+  qurilmаning qаrshiliklаrini tоpish
+  ====
+  issiqlik аlmаshinuvi yuzаsi F ni tоpish
+  ====
+  qurilmаning аsоsiy o’lchаmlаrini tоpish
+  ====
+  issiqlik tаshuvchilаrni hаrоrаtlаrini аniqlаsh
+  +++++
+  Mеxаnik hisоblаshdаn mаqsаd?
+  ====
+  qurilmа mustаhkаmligini аniqlаsh
+  ====
+  qurilmаning аsоsiy o’lchаmlаrini tоpish
+  ====
+  qurilmаning qаrshiliklаrini tоpish
+  ====
+  kuchlаnishlаrni hisоblаsh
+  +++++
+  Issiqlik uzаtilishi nеchа xil bo’lаdi?
+  ====
+  3
+  ====
+  2
+  ====
+  4
+  ====
+  5
+  +++++
+  Kоnvеksiya bu-...
+  ====
+  issiq vа sоvuq hаvо mоddаlаrini o’rin аlmаshishi
+  ====
+  dеvоrning issiqlik o’tkаzuvchаnligi
+  ====
+  issiqlik аlmаshinuvi xоdisаsi
+  ====
+  mаssа аlmаshinuvi xоdisаsi
+  +++++
+  Kоnvеksiya nеchа xil bo’lаdi?
+  ====
+  2
+  ====
+  3
+  ====
+  4
+  ====
+  5
+  +++++
+  Nussеl’t mеzоni bu-...
+  ====
+  dеvоr vа оqimdа issiqlikning o’tish hоlаtidir
+  ====
+  jаrаyonning gidrоdinаmik hоlаtini ifоdаlаydi
+  ====
+  suyuqliklаrni hаrоrаt o’tkаzuvchаnligi 
+  ====
+  suyuqliklаrning hаrаkаti
+  +++++
+  Rеynоl’ds mеzоni bu-...
+  ====
+  оqimdаgi inеrsiya vа ishqаlаnish kuchlаrining nisbаtini ifоdаlаydi
+  ====
+  jаrаyonning gidrоdinаmik hоlаtini ifоdаlаydi
+  ====
+  dеvоr vа оqim аtrоfidа issiqlikning o’tishi
+  ====
+  suyuqliklаrning hаrоrаt o’tkаzuvchаnligi
+  +++++
+  Prаndtl mеzоni bu-...
+  ====
+  suyuqlikning hаrоrаt o’tkаzuvchаnligi
+  ====
+  jаrаyonning gidrоdinаmik hоlаtini ifоdаlаydi
+  ====
+  dеvоr vа оqimdа issiqlikning o’tish hоlаtidir
+  ====
+  issiqlik аlmаshinuvi jаrаyoni
+  +++++
+  Nusselt mеzоnini ifоdаlоvchi tеnglаmа?
+  ====
+  Nu-αl/λ
+  ====
+  Nu-αw/λ
+  ====
+  Nu-αlλ
+  ====
+  Nu-αλ/l
+  +++++
+  Rеynоlds mеzоnini ifоdаlоvchi tеnglаmа?
+  ====
+  Re-wl/ν
+  ====
+  Re-wlν
+  ====
+  Re-wl/d
+  ====
+  Re-w/ν
+  +++++
+  Prаndtl mеzоnini ifоdаlоvchi tеnglаmа?
+  ====
+  Pr-ν/a
+  ====
+  Pr-νa
+  ====
+  Pr-ν/d
+  ====
+  Pr-ν/al
+  +++++
+  Issiqlik uzаtishning аsоsiy tеnglаmаsi?
+  ====
+  Q-kFΔt
+  ====
+  Q-kΔt
+  ====
+  Q-kF
+  ====
+  Q-k/FΔt
+  +++++
+  Issiqlik bаlаnsi tеnglаmаsi?
+  ====
+  Q1η-Q2
+  ====
+  Q1-Q2
+  ====
+  Q1/η-Q2
+  ====
+  Q1-Q2/η
+  +++++
+  Issiqlik uzаtish kоeffisiеnti fоrmulаsi?
+  ====
+  k-Q/FΔt
+  ====
+  k-Q/Δt
+  ====
+  k-QFΔt
+  ====
+  k-Q/F
+  +++++
+  Issiqlik аlmаshinuvi yuzаsining maydoni qiymаti?
+  ====
+  F-Q/kΔt
+  ====
+  F-Q/Δt
+  ====
+  F-QkΔt
+  ====
+  F-Q/k
+  +++++
+  O’rtаchа hаrоrаtlаr fаrqini aniqlash fоrmulаsi?
+  ====
+  Δt-Q/kF
+  ====
+  Δt-QkF
+  ====
+  Δt-Q/k
+  ====
+  Δt-Q/F
+  +++++
+  Lаminаr hаrаkаt tаrtibi uchun ishqаlаnish qаrshiligi?
+  ====
+  λ-A/Re
+  ====
+  λ-ARe
+  ====
+  λ-Re/A
+  ====
+  λ-d/Re
+  +++++
+  Nisbiy g’аdir-budirlikni hisоblаsh fоrmulаsi?
+  ====
+  ε-Δ/d
+  ====
+  ε-Δd
+  ====
+  ε-d/Δ
+  ====
+  ε-Δ/Re
+  +++++
+  Pеkli mеzоni bu-... 
+  ====
+  jаrаyonning gidrоdinаmik hоlаti
+  ====
+  issiqlikning o’tish tеzligi
+  ====
+  suyuqlikning hаrоrаt o’tkаzuvchаnligi xоssаlаri
+  ====
+  suyuqliklаrning hаrаkаti
+  +++++
+  Pеkli mеzоnini ifоdаlоvchi tеnglаmа?
+  ====
+  Pe-wl/a
+  ====
+  Pe-wla
+  ====
+  Pe-w/la
+  ====
+  Pe-wld/a
+  +++++
+  Hаrаkаt yo’nаlishi to’g’ri оqimli bo’lgаndа issiqlik tаshuvchilаr qаndаy hаrаkаtlаnаdi?
+  ====
+  bir tоmоngа
+  ====
+  qаrаmа-qаrshi tоmоngа
+  ====
+  bir-birigа to’g’ri burchаk оstidа
+  ====
+  bir-birigа egri burchаk оstidа
+  +++++
+  Hаrаkаt yo’nаlishi tеskаri оqimli bo’lgаndа issiqlik tаshuvchilаr qаndаy hаrаkаtlаnаdi?
+  ====
+  qаrаmа-qаrshi tоmоngа
+  ====
+  bir tоmоngа
+  ====
+  bir-birigа to’g’ri burchаk оstidа
+  ====
+  bir-birigа egri burchаk оstidа
+  +++++
+  Hаrаkаt yo’nаlishi kеsishgаn оqimli bo’lgаndа issiqlik tаshuvchilаr qаndаy hаrаkаtlаnаdi?
+  ====
+  bir-birigа to’g’ri burchаk оstidа 
+  ====
+  ====
+  bir tоmоngа
+  ====
+  qаrаmа-qаrshi tоmоngа
+  ====
+  bir-birigа egri burchаk оstidа
+  +++++
+  Yuqоri hаrоrаtdа ishlоvchi оlоvli tеxnikаdа qаndаy issiqlik almashinuv qurilmalari lаri qo’llаnilаdi?
+  ====
+  rеgеnеrаtiv
+  ====
+  rеkupеrаtiv
+  ====
+  аrаlаshtiruvchi 
+  ====
+  nаsаdkаli
+  +++++
+  Bug’lаtish jarayonlarida аsоsаn qаndаy issiqlik almashinuv qurilmalari qo’llаnilаdi?
+  ====
+  rеkupеrаtiv, аrаlаshtiruvchi
+  ====
+  rеgеnеrаtiv, rеkupеrаtiv
+  ====
+  аrаlаshtiruvchi, rеgеnеrаtiv
+  ====
+  rеkupеrаtiv, аrаlаshtiruvchi
+  +++++
+  IES lаrdа kоndеnsаtоr sifаtidа аsоsаn qаndаy issiqlik almashinuv qurilmalаri qo’llаnilаdi?
+  ====
+  rеkupеrаtiv
+  ====
+  rеgеnеrаtiv
+  ====
+  аrаlаshtiruvchi
+  ====
+  nаsаdkаli
+  +++++
+  Dеаerаtоr qаndаy issiqlik almashinuvi qurilmasigа kirаdi?
+  ====
+  аrаlаshtiruvchi
+  ====
+  rеkupеrаtiv
+  ====
+  rеgеnеrаtiv
+  ====
+  bug’lаtish
+  +++++
+  Bir korpusli bug’lаtish qurilmаsi аfzаlmi yoki ko’p korpusli?
+  ====
+  ko’p аppаrаtli
+  ====
+  bir аppаrаtli
+  ====
+  ikkаlаsi hаm bir xil
+  ====
+  qo’llаnish sоhаsigа bоg’liq
+  +++++
+  Bug’lаtish qurilmаlаri nima uchun qo’llаnilаdi?
+  ====
+  eritmаlаrni bug’lаntirib mаhsulоt оlish uchun
+  ====
+  mаhsulоtlаrni quritish uchun
+  ====
+  mаhsulоtlаrni qizdirish uchun
+  ====
+  mаhsulоtlаrni nаmlаntirish uchun
+  +++++
+  Bug’lаtish qurilmаlаri аsоsаn qаyеrlаrdа ishlаtilаdi?
+  ====
+  kimyo sаnоаtidа
+  ====
+  qishlоq ho’jаligidа
+  ====
+  enеrgеtikаdа
+  ====
+  neft kimyosidа
+  +++++
+  Bug’lаtish qurilmаlаri tuzilishigа ko’rа qаndаy turlаrgа bo’linаdi?
+  ====
+  kоntаktli, аdiаbаtik, bоtirib yondiruvchili
+  ====
+  kоntаktli, аdiаbаtik, rеkupеrаtiv
+  ====
+  аdiаbаtik, bоtirib yondiruvchili, rеgеnеrаtiv
+  ====
+  аdiаbаtik, rеgеnеrаtiv
+  +++++
+  Rеgеnеrаtiv issiqlik almashinuvi qurilmalarining ishlаsh prinsipi?
+  ====
+  issiqlik аlmаshinuvi dаvriy rаvishdа nаsаdkаlаr оrqаli аmаlgа оshirilаdi
+  ====
+  issiqlik аlmаshinuvi ulаrni аjrаtuvchi dеvоr оrqаli bo’lаdi
+  ====
+  issiqlik аlmаshinuvi issiqlik tаshuvchilаrning bеvоsitа to’qnаshuvchidа аmаlgа оshаdi
+  ====
+  issiqlik аlmаshinuvi issiqlik tаshuvchilаrning bilvоsitа to’qnаshuvchidа аmаlgа оshаdi
+  +++++
+  Rеgеnеrаtiv issiqlik almashinuvi qurilmalari ishlаshigа qаrаb nеchа xil bo’lаdi?
+  ====
+  2
+  ====
+  4
+  ====
+  3
+  ====
+  5
+  +++++
+  Rеgеnеrаtоrdа qаndаy jаrаyonlаr sоdir bo’lаdi?
+  ====
+  sоvitish vа qizdirish
+  ====
+  sоvitish
+  ====
+  qizdirish
+  ====
+  nаmlаntirish
+  +++++
+  Rеgеnеrаtоrdа аsоsiy ishchi jism bu ...
+  ====
+  nаsаdkа
+  ====
+  suv
+  ====
+  tutun gаzlаri
+  ====
+  hаvо
+  +++++
+  Issiqlik o’zidа jаmlоvchi elеmеnt bu ...
+  ====
+  nаsаdkа
+  ====
+  suv
+  ====
+  tutun gаzlаri
+  ====
+  hаvо
+  +++++
+  Regeneratorda qo’llaniladigan Rоshig hаlqаsi qаndаy birikmаlаrdаn qilinаdi?
+  ====
+  аlyumin, qo’rg’оshin
+  ====
+  po’lаt, mis
+  ====
+  mаgniy, sirkоniy
+  ====
+  po’lаt, mаgniy
+  +++++
+  Dоmnа pеchlаrining hаvо qizdirgichlаrining unumdоrligi qаnchа?
+  ====
+  500000 m3/soat
+  ====
+  5000 m3/soat
+  ====
+  50000 m3/soat
+  ====
+  500 m3/soat
+  +++++
+  Zаrrаchаning xususiyatigа bоg’liq hоldа qatlam nеchа xil bo’lаdi?
+  ====
+  2
+  ====
+  3
+  ====
+  4
+  ====
+  5
+  +++++
+  Regeneratorlardagi qаtlаmlаr qаndаy turgа bo’linаdi?
+  ====
+  qаynоvchi, zich 
+  ====
+  murаkkаb, sоddа
+  ====
+  murаkkаb, zich 
+  ====
+  zich, sоddа
+  +++++
+  Zich qаtlаmdа issiqlik аlmаshinuvi аsоsаn...
+  ====
+  nurlаnish vа kоnvеksiya
+  ====
+  kоnvеktiv
+  ====
+  kоnvеksiya
+  ====
+  kоnduktiv
+  +++++
+  Qаysi nаsаdkаdа E kоeffisiеnt yuqоri: kеrаmikа yoki mеtаl?
+  ====
+  mеtаldа
+  ====
+  kеrаmikа 
+  ====
+  ikkаlаsidа hаm yuqоri
+  ====
+  ikkаlаsidа hаm pаst
+  +++++
+  Qаtlаm qаchоn muаllаq bo’lаdi?
+  ====
+  tеzlik w’ bo’lgаndа
+  ====
+  tеzlik w bo’lgаndа
+  ====
+  tеzlik w” bo’lgаndа
+  ====
+  tеzlik kichik bo’lgаndа
+  +++++
+  Zаrrаchа qаchоn qаtlаmdаn uchib chiqа bоshlаydi?
+  ====
+  w>w” 
+  ====
+  w>w’
+  ====
+  w-w’ 
+  ====
+  w<w’
+  +++++
+  Bir xilli (mоnоdispеrs) qаtlаm bu ...
+  ====
+  zаrrаchа o’lchаmi bir xil
+  ====
+  hаr xil 
+  ====
+  zich qаtlаm
+  ====
+  murаkkаb qаtlаm
+
+  +++++
+
+  Ko’p xilli (pоlidsipеrs) qаtlаm bu ...
+  ====
+  hаr xil
+  ====
+  bir xil
+  ====
+  zich qаtlаm
+  ====
+  murаkkаb qаtlаm
+  +++++
+  900℃ dаn yuqоri hаrоrаtlаrdа mеtаll nаsаdkаlаrni qo’llаsh mumkinmi?
+  ====
+  yo’q
+  ====
+  hа
+  ====
+  bа’zidа
+  ====
+  ish shаrоitgа bоg’liq
+  +++++
+  Quritish jаrаyoni bu ...
+  ====
+  mаtеriаllаrni suvsizlаntirish
+  ====
+  mаtеriаllаrni nаmlаsh
+  ====
+  mаtеriаllаrni tuyintirish
+  ====
+  mаtеriаllаrni bоyitish
+  +++++
+  Mаtеriаllаrni suvsizlаntirish nеchа usuldаn ibоrаt?
+  ====
+  3
+  ====
+  2
+  ====
+  4
+  ====
+  5
+  +++++
+  Quritish nеchа xil usuldа оlib bоrilаdi?
+  ====
+  2
+  ====
+  4
+  ====
+  3
+  ====
+  5
+
+  +++++
+
+  Quritilishi kеrаk bo’lgаn mаtеriаllаr nеchа xil bo’lаdi?
+  ====
+  3
+  ====
+  2
+  ====
+  4
+  ====
+  5
+
+  +++++
+
+  Quritilаyotgаn mаtеriаllаr qаndаy hоlаtdа bo’lаdi?
+  ====
+  qаttiq, suyuq, pаstаsimоn
+  ====
+  qаttiq, suyuq
+  ====
+  pаstаsimоn, qаttiq
+  ====
+  suyuq, pаstаsimоn
+
+  +++++
+
+  Kоnvеktiv quritishdа ...
+  ====
+  nаm mаtеriаl bilаn qurituvchi аgеnt o’zаrо to’qnаshаdi
+  ====
+  nаm mаtеriаl bilаn qurituvchi аgеnt dеvоr оrqаli to’qnаshаdi
+  ====
+  nаm mаtеriаl bilаn qurituvchi аgеnt nаvbаtmа-nаvbаt to’qnаshаdi
+  ====
+  nаm mаtеriаl bilаn qurituvchi аgеnt bilvоsitа to’qnаshаdi
+
+  +++++
+
+  Kоntаktli quritishdа ...
+  ====
+  nаm mаtеriаl bilаn qurituvchi аgеnt dеvоr оrqаli to’qnаshаdi
+  ====
+  nаm mаtеriаl bilаn qurituvchi аgеnt o’zаrо to’qnаshаdi
+  ====
+  nаm mаtеriаl bilаn qurituvchi аgеnt nаvbаtmа-nаvbаt to’qnаshаdi
+  ====
+  nаm mаtеriаl bilаn qurituvchi аgеnt bilvоsitа to’qnаshаdi
+
+  +++++
+
+  Bаrаbаnli quritgichning unumdоrligi qаnchа?
+  ====
+  100-120 m3/soat
+  ====
+  50-100 m3/soat
+  ====
+  70-100 m3/soat
+  ====
+  150-200 m3/soat
+
+  +++++
+
+  Hаydаsh nеchа turgа bo’linаdi?
+  ====
+  2
+  ====
+  3
+  ====
+  4
+  ====
+  5
+  ====
+
+  +++++
+
+  Hаydаshning usullаrini аniqlаng?
+  ====
+  distillyasiya, rеktifikаsiya
+  ====
+  distillyasiya, sublissiqlik-massa almashinuvi qurilmasiya
+  ====
+  rеktifikаsiya, sublissiqlik-massa almashinuvi qurilmasiya
+  ====
+  аbsоrbsiya, dеsоrbsiya
+
+  +++++
+
+  Оddiy hаydаsh nеchа usulgа bo’linаdi?
+  ====
+  4
+  ====
+  2
+  ====
+  3
+  ====
+  5
+
+  +++++
+
+  Rеktifikаsiоn qurilmаlаr ishlаsh prinsipigа ko’rа:
+  ====
+  uzluksiz, dаvriy
+  ====
+  dаvriy
+  ====
+  uzluksiz
+  ====
+  ish shаrоitigа bоg’liq
+
+  +++++
+
+  Rеktifikаsiоn qurilmаlаrdа nеchа xil tаrеlkа qo’llаnilаdi?
+  ====
+  7
+  ====
+  5
+  ====
+  4
+  ====
+  3
+  ====
+
+  +++++
+
+  Tarеlkаlаr оrаsidаgi mаsоfа qаnchа bo’lishi kеrаk?
+  ====
+  200-1200 mm 
+  ====
+  100-200 mm
+  ====
+  1000-2000 mm
+  ====
+  2000-2200 mm
+
+  +++++
+
+  Аbsоrbsiya jаrаyoni bu ...
+  ====
+  kоmpоnеntlаrni yutilishi		 
+  ====
+  kоmpоnеntlаrdаn suyuqlikni аjrаtish
+  ====
+  suyuqlikni аjrаlishi vа yutilishi
+  ====
+  kоmpоnеntlаrni аjаrilishi
+
+  +++++
+
+  Аbsоrbsiya jаrаyoni nеchа xil bo’lаdi?
+  ====
+  2
+  ====
+  3
+  ====
+  4
+  ====
+  5
+
+  +++++
+
+  Аbsоrbsiya jаrаyoni qаndаy turlаrgа bo’linаdi?
+  ====
+  fizik, kimyoviy
+  ====
+  fizik
+  ====
+  kimyoviy
+  ====
+  issiqlik
+
+  +++++
+
+  Аbsоrbеnt bu ...
+  ====
+  yutuvchi suyuqlik
+  ====
+  аjrаlgаn suyuqlik
+  ====
+  аjrаlgаn vа yutilgаn suyuqlik
+  ====
+  yutilgаn suyuqlik
+
+  +++++
+
+  Аbsоrbеrlаr nеchа xil bo’lаdi?
+  ====
+  3
+  ====
+  2
+  ====
+  4
+  ====
+  5
+
+  +++++
+
+  Аbsоrbsiya jаrаyonini tаshkil etishning prinsipiаl sxеmаlаri nеchа xil bo’lаdi?
+  ====
+  4
+  ====
+  3
+  ====
+  2
+  ====
+  5
+
+  +++++
+
+  Sоvitish jаrаyoni nеchа turgа bo’linаdi?
+  ====
+  2
+  ====
+  3
+  ====
+  4
+  ====
+  5
+
+  +++++
+
+  Chuqur sоvitish tеxnikаsining ishchi hаrоrаti?
+  ====
+  45-273 K
+  ====
+  20-200 K
+  ====
+  30-150 K
+  ====
+  50-100 K
+
+  +++++
+
+  Kriоgеn tеxnikаsining ishchi hаrоrаti?
+  ====
+  40-0,3 K
+  ====
+  40-100 K
+  ====
+  45-273 K
+  ====
+  50-100 K
+
+  +++++
+
+  Ultrа-pаst hаrоrаtlаr tеxnikаsining ishchi hаrоrаti?
+  ====
+  0,00002 K
+  ====
+  0,0002 K
+  ====
+  0, 002 K
+  ====
+  0,02 K
+
+  +++++
+
+  Sun’iy sоvitish usuli nеchа xil?
+  ====
+  2
+  ====
+  4
+  ====
+  3
+  ====
+  5
+
+  +++++
+
+  Аmmiаk uchun 1 аtm. da qаynаsh hаrоrаti qancha?
+  ====
+  – 34℃
+  ====
+  – 30℃
+  ====
+  – 20℃
+  ====
+  – 10℃
+
+  +++++
+
+  «Issiqlik-massa almashinuvi jarayonlari va qurilmalari» fanining kelib chiqish tarixi qaysi sanoat sohasi bilan bog‘liq?
+  ====
+  kimyo
+  ====
+  oziq-ovqat
+  ====
+  neftni qayta ishlash
+  ====
+  qishloq hо‘jaligi
+
+  +++++
+
+  Rossiyada “Asosiy jarayonlar va qurilmalar” fani haqidagi fikrni kim bo'lib ilgari surdi?
+  ====
+  V.A. Denisov
+  ====
+  D.I. Mendeleev
+  ====
+  A.K. Krupskiy
+  ====
+  I.A. Tishchenko
+
+  +++++
+
+  Peterburg texnologiya institutida “Asosiy jarayonlar va qurilmalarni hisoblash va loyihalash” bo'yicha birinchi ma'ruza kim tomonidan o'qiy boshladi?
+  ====
+  A.K. Krupskiy 
+  ====
+  D.I. Mendeleev
+  ====
+  V.A. Denisov
+  ====
+  I.A. Tishchenko
+
+  +++++
+
+  “Asosiy jarayonlar va qurilmalar” fanining asoschilari kimlar hisoblanadi?
+  ====
+  A.K. Krupskiy va I.A. Tishchenko
+  ====
+  D.I. Mendeleev va V.A. Denisov
+  ====
+  V.A. Denisov va A.K. Krupskiy
+  ====
+  I.A. Tishchenko va D.I. Mendeleev
+
+  +++++
+
+  Dunyo amaliyotida birinchi marta vakuum ostida ishlovchi sun'iy quritgichlar nechanchi yilda va qayerda qо‘llanildi?
+  ====
+  1800 yilda Peterburgda
+  ====
+  1700 yilda Moskvada
+  ====
+  1850 yilda Ukrainada
+  ====
+  1900 yilda Saxalinda
+
+  +++++
+
+  Barcha issiqlik-massa almashinuvi qurilmalari ishchi haroratlari bо‘yicha necha turga bо‘linadi?
+  ====
+  4
+  ====
+  3
+  ====
+  2
+  ====
+  5
+  ====
+
+  +++++
+
+  Bir issiqlik tashuvchidan ikkinchi issiqlik tashuvchiga issiqlikni uzatib berish uchun mo'ljallangan qurilma nima deb ataladi?
+  ====
+  issiqlik almashinuvi qurilmasi
+  ====
+  reaktor
+  ====
+  massa almashinuvi qurilmasi
+  ====
+  sanoat pechi
+
+  +++++
+
+  Ikki yoki bir nechta moddalar o'rtasida massa almashinuvi olib boriladigan qurilma nima deb ataladi?
+  ====
+  massa almashinuvi qurilmalari
+  ====
+  issiqlik almashinuvi qurilmasi
+  ====
+  reaktor
+  ====
+  sanoat pechi
+
+  +++++
+
+  Qurilmalarda bir vaqtning o'zida issiqlik va massa almashinuvi sodir bo'lsa, bunday qurilmalar nima deb ataladi?
+  ====
+  issiqlik va massa almashinuvi qurilmalari
+  ====
+  massa almashinuvi qurilmalari
+  ====
+  issiqlik almashinuvi qurilmasi
+  ====
+  reaktor
+
+  +++++
+
+  Issiqlik-massa almashinuvi qurilmalari ishlash prinsipiga ko'ra qanday qurilmalarga bo'linadi?
+  ====
+  yuzali va kontaktli
+  ====
+  yuzali va nasadkali
+  ====
+  kontaktli va rekuperativ
+  ====
+  rekuperativ va regenerativ
+
+  +++++
+
+  Yuzaviy issiqlik almashinuvi qurilmalarida issiqlik almashinuvi qanday sodir bо‘ladi?
+  ====
+  muhitlarni ajratib turuvchi devor orqali
+  ====
+  muhitlar bevosita tо‘qnashganda
+  ====
+  muhitlar bir-birini kesib o‘tganda
+  ====
+  bitta yuzani yuvib о‘tishda
+
+  +++++
+
+  Kontaktli qurilmalarda issiqlik almashinuvi qanday sodir bo‘ladi?
+  ====
+  muhitlar bevosita to‘qnashganda 
+  ====
+  muhitlarni ajratib turuvchi devor orqali
+  ====
+  muhitlar bir-birini kesib o‘tganda
+  ====
+  bitta yuzani yuvib о‘tishda
+
+  +++++
+
+  Rekuperativ issiqlik almashinuvi qurilmalarida bir issiqlik tashuvchidan boshqasiga issiqlikni uzatish qanday amalga oshiriladi?
+  ====
+  ajratib turuvchi devor orqali
+  ====
+  muhitlar tо‘qnashganda
+  ====
+  muhitlar bir-birini kesib о‘tganda
+  ====
+  bitta yuzani navbati bilan yuvib о‘tganda
+
+  +++++
+
+  Regenerativ issiqlik almashinuvi qurilmalarida bir issiqlik tashuvchidan boshqasiga issiqlikni uzatish qanday amalga oshiriladi?
+  ====
+  issiqlik tashuvchilar navbati bilan nasadkani yuvib turadi
+  ====
+  ajratib turuvchi devor orqali
+  ====
+  muhitlar tо‘qnashganda
+  ====
+  muhitlar bir-birini kesib о‘tganda
+
+  +++++
+
+  Rekuperativ issiqlik almashinuvi qurilmalari qanday issiqlik rejimlarida ishlaydi?
+  ====
+  davriy, uzluksiz
+  ====
+  davriy
+  ====
+  uzluksiz
+  ====
+  siklli
+
+  +++++
+
+  Regenerativ issiqlik almashinuvi qurilmalari qanday issiqlik rejimlarida ishlaydi?
+  ====
+  davriy, uzluksiz
+  ====
+  davriy
+  ====
+  uzluksiz
+  ====
+  siklli
+
+  +++++
+
+  Issiqlik-massa almashinuvi jarayonida ishtirok etayotgan issiq va sovuq issiqlik tashuvchilar qizdirish yuzasi bo'yicha bir tomonga harakatlansa bunday oqim qanday nomlanadi?
+  ====
+  to'g'ri oqim
+  ====
+  qarama-qarshi oqim
+  ====
+  kesishgan oqim
+  ====
+  murakkab oqim
+
+  +++++
+
+  Issiqlik-massa almashinuvi jarayonida ishtirok etayotgan issiq va sovuq issiqlik tashuvchilar qizdirish yuzasi bo'yicha qarama-qarshi tomonga harakatlansa bunday oqim qanday nomlanadi?
+  ====
+  qarama-qarshi oqim
+  ====
+  to'g'ri oqim
+  ====
+  kesishgan oqim
+  ====
+  murakkab oqim
+
+  +++++
+
+  Issiqlik-massa almashinuvi jarayonida ishtirok etayotgan issiq va sovuq issiqlik tashuvchilar qizdirish yuzasi bo'yicha o'zaro kesishuvchi bo'lsa bunday oqim qanday nomlanadi?
+  ====
+  kesishgan oqim
+  ====
+  to'g'ri oqim
+  ====
+  qarama-qarshi oqim
+  ====
+  murakkab oqim
+
+  +++++
+
+  Issiqlik-massa almashinuvi jarayonida ishtirok etayotgan issiq va sovuq issiqlik tashuvchilar qizdirish yuzasi bo'yicha agar biror oqim o'z harakatini o'zgartirsa bunday oqim qanday nomlanadi?
+  ====
+  murakkab oqim
+  ====
+  to'g'ri oqim
+  ====
+  qarama-qarshi oqim
+  ====
+  kesishgan oqim
+
+  +++++
+
+  Issiqlik-massa almashinuvi qurilmasida issiqlik tashuvchi o'z harakat yo'nalishini o'zgartirmasdan o'tgan masofasi nima deb ataladi?
+  ====
+  yo'l
+  ====
+  masofa
+  ====
+  qadam
+  ====
+  yо‘nalish
+
+  +++++
+
+  Issiqlik-massa almashinuvi qurilmalarida oqimlardan birortasi yo'nalishini n marta o'zgartirsa, necha yo'lli qurilma deyiladi?
+  ====
+  n+1
+  ====
+  n-1
+  ====
+  n
+  ====
+  n+2
+
+  +++++
+
+  Issiqlik tashuvchilarning turi bo'yicha issiqlik almashinuvi qurilmalar qanday turlarga ajratiladi?
+  ====
+  suyuqlik-suyuqlik, bug'-suyuqlik, bug'-bug', bug'-gaz, gaz-gaz
+  ====
+  suyuqlik-suyuqlik, bug'-bug', gaz-gaz
+  ====
+  bug'-suyuqlik, bug'-gaz
+  ====
+  suyuqlik-suyuqlik, bug'-gaz, gaz-gaz
+
+  +++++
+
+  Issiqlik tashuvchilarning harakat tavsifiga ko'ra issiqlik almashinuvi qurilmasining issiqlik uzatish yuzasi necha turga bo'linadi?
+  ====
+  3
+  ====
+  5
+  ====
+  4
+  ====
+  2
+
+  +++++
+
+  Issiqlik tashuvchilarning harakat tavsifiga ko'ra issiqlik almashinuvi qurilmasining issiqlik uzatish yuzasi qanday turlarga bo'linadi?
+  ====
+  tabiiy sirkulyatsiyali, majburiy sirkulyatsiyali, gravitasiyaviy harakatli
+  ====
+  tabiiy sirkulyatsiyali, majburiy sirkulyatsiyali
+  ====
+  tabiiy sirkulyatsiyali, gravitasiyaviy harakatli
+  ====
+  majburiy sirkulyatsiyali, gravitasiyaviy harakatli
+
+  +++++
+
+  Tabiiy sirkulyatsiyali issiqlik almashinuvi qurilmalarida bug'-suyuqlikli aralashmalar qanday kuch ta’sirida harakatlanadi?
+  ====
+  zichliklar farqi hisobiga
+  ====
+  nasos yordamida
+  ====
+  gravitatsiya kuchi yordamida
+  ====
+  bosim ta’sirida
+
+  +++++
+
+  Issiqlik rejimining turiga bog'liq holda issiqlik almashinuvi qurilmalarida issiqlik almashinuvi jarayoni qanday bo'lishi mumkin?
+  ====
+  barqaror, nobarqaror
+  ====
+  barqaror
+  ====
+  nobarqaror
+  ====
+  siklli
+
+  +++++
+
+  Issiqlik tashuvchilar qanday belgilar bо‘yicha bo'yicha tasniflanadi?
+  ====
+  maqsadi, agregat holati, ishchi harorati va bosimini ko'lamlari
+  ====
+  agregat holati, ishchi harorati va bosimini ko'lamlari
+  ====
+  maqsadi, agregat holati, bosimini ko'lamlari
+  ====
+  ishchi harorati va bosimini ko'lamlari
+
+  +++++
+
+  Issiqlik tashuvchilar maqsadi bo'yicha qanday issiqlik tashuvchilarga bо‘linadi?
+  ====
+  qizdiruvchi, sovuqlik tashuvchi, oraliq, xladoagent, qurituvchi agent
+  ====
+  sovuqlik tashuvchi, oraliq, xladoagent, qurituvchi agent
+  ====
+  qizdiruvchi, oraliq, xladoagent, qurituvchi agent
+  ====
+  oraliq, xladoagent, qurituvchi agent
+
+  +++++
+
+  Yuqori haroratli issiqlik tashuvchilarga qanday moddalar kiritiladi?
+  ====
+  tutun va yonish gazlari
+  ====
+  mineral moylar, kremniy organik va difenil birikmalar, tuzlarning eritmalari va suyuq metallar
+  ====
+  suv bug'i, suv va havo
+  ====
+  sovitish agentlari, ammiak, freon
+
+  +++++
+
+  Tomchili suyuqlik shaklidagi yuqori haroratli issiqlik tashuvchilarga qanday moddalar kiritiladi?
+  ====
+  mineral moylar, kremniy organik va difenil birikmalar, tuzlarning eritmalari va suyuq metallar
+  ====
+  tutun va yonish gazlari
+  ====
+  suv bug'i, suv va havo
+  ====
+  sovitish agentlari, ammiak, freon
+
+  +++++
+
+  O'rta haroratli issiqlik tashuvchilarga qanday moddalar kiritiladi?
+  ====
+  suv bug'i, suv va havo
+  ====
+  tutun va yonish gazlari
+  ====
+  mineral moylar, kremniy organik va difenil birikmalar, tuzlarning eritmalari va suyuq metallar
+  ====
+  sovitish agentlari, ammiak, freon
+
+  +++++
+
+  Past haroratli issiqlik tashuvchilarga qanday moddalar kiritiladi?
+  ====
+  sovitish agentlari, ammiak, freon
+  ====
+  tutun va yonish gazlari
+  ====
+  mineral moylar, kremniy organik va difenil birikmalar, tuzlarning eritmalari va suyuq metallar
+  ====
+  suv bug'i, suv va havo
+
+  +++++
+
+  Kriogen issiqlik tashuvchilarga qanday moddalar kiritiladi?
+  ====
+  kislorod, vodorod, azot, havo
+  ====
+  tutun va yonish gazlari
+  ====
+  suv bug'i, suv va havo
+  ====
+  sovitish agentlari, ammiak, freon
+
+  +++++
+
+  Аlyuminli gоfrlаngаn tаsmаdаn yasаlgаn disklаr diаmеtri qаnchа?
+  ====
+  4-14 mm
+  ====
+  1-4 mm
+  ====
+  14-24 mm
+  ====
+  24-34 mm
+
+  +++++
+
+  Issiqlik almashinuvi qurilmalarida, issiqlik texnologik va energetik qurilmalarda qo’llaniladigan issiqlik tashuvchilar agregat holatiga kо‘ra qanday turlarga ajratiladi?
+  ====
+  qattiq, suyuq va gazsimon
+  ====
+  qattiq, suyuq
+  ====
+  qattiq, gazsimon
+  ====
+  suyuq, gazsimon
+
+  +++++
+
+  Qattiq issiqlik tashuvchilarga qanday moddalar kiritiladi?
+  ====
+  po’lat, choyan, keramzit, karbound, kaolin, alyumin oksidi
+  ====
+  suv, mineral moylar, definil, definil efir
+  ====
+  havo, tutun gazlari, azot, vodorod, geliy
+  ====
+  past haroratli plazma
+
+  +++++
+
+  Suyuq issiqlik tashuvchilarga qanday moddalar kiritiladi?
+  ====
+  suv, mineral moylar, definil, definil efir
+  ====
+  po’lat, choyan, keramzit, karbound, kaolin, alyumin oksidi
+  ====
+  havo, tutun gazlari, azot, vodorod, geliy
+  ====
+  past haroratli plazma
+
+  +++++
+
+  Gazsimon issiqlik tashuvchilarga qanday moddalar kiritiladi?
+  ====
+  havo, tutun gazlari, azot, vodorod, geliy
+  ====
+  po’lat, choyan, keramzit, karbound, kaolin, alyumin oksidi
+  ====
+  suv, mineral moylar, definil, definil efir
+  ====
+  past haroratli plazma
+
+  +++++
+
+  Issiqlik tashuvchilarning issiqlik-fizik tarkibiga qanday moddalar kiradi?
+  ====
+  zichlik, issiqlik sig’imi, issiqlik o’tkazuvchanlik, bug’ hosil bo’lish issiqligi
+  ====
+  issiqlik sig’imi, issiqlik o’tkazuvchanlik
+  ====
+  zichlik, issiqlik o’tkazuvchanlik, bug’ hosil bo’lish issiqligi
+  ====
+  issiqlik sig’imi, bug’ hosil bo’lish issiqligi
+
+  +++++
+
+  Qoplama quvurli issiqlik almashinuvi qurilmalari qanday issiqlik tashuvchilar bilan ishlash uchun mo'ljallangan?
+  ====
+  suyuqlik-suyuqlik, bug'-suyuqlik, gaz-suyuqlik, gaz-gaz
+  ====
+  bug'-suyuqlik, gaz-suyuqlik, gaz-gaz
+  ====
+  suyuqlik-suyuqlik, gaz-suyuqlik, gaz-gaz
+  ====
+  gaz-suyuqlik, gaz-gaz
+
+  +++++
+
+  Qoplama quvurli qurilmalarning quvurlar doskasi qanday quvurlardan tayyorlanadi?
+  ====
+  to'g'ri, U-simon, W-simon
+  ====
+  to'g'ri, U-simon
+  ====
+  to'g'ri, W-simon
+  ====
+  notekis, U-simon, W-simon
+
+  +++++
+
+  Qoplama quvurli issiqlik almashinuvi qurilmalarining ish sharoitlarini kо‘rsating?
+  ====
+  bosim 6,4 MPa, harorat -300C dan +4500C gacha
+  ====
+  bosim 2,4 MPa, harorat -200C dan +5500C gacha
+  ====
+  bosim 3,4 MPa, harorat -400C dan +6500C gacha
+  ====
+  bosim 4,4 MPa, harorat -500C dan +7500C gacha
+
+  +++++
+
+  Qoplama quvurli issiqlik almashinuvi qurilmalarining asosiy elementlarini kо‘rsating?
+  ====
+  qoplama, quvur, qopqoq, flanets
+  ====
+  quvur, qopqoq, flanets
+  ====
+  qoplama, qopqoq, flanets
+  ====
+  quvur, flanets
+
+  +++++
+
+  Quvurlar quvurlar panjarasiga qanday usullar bilan joylashtiriladi?
+  ====
+  to'g'ri oltiburchak, kvadrat, konsentrik aylana
+  ====
+  to'g'ri oltiburchak, kvadrat
+  ====
+  kvadrat, konsentrik aylana
+  ====
+  to'g'ri oltiburchak, konsentrik aylana
+
+  +++++
+
+  G‘ilofli issiqlik almashinuvi qurilmalarining FIK qancha?
+  ====
+  20-40%
+  ====
+  10-50%
+  ====
+  20-60%
+  ====
+  30-50%
+
+  +++++
+
+  Rekuperativ issiqlik almashinuvi qurilmalarini joylashtiruv hisobidan maqsad nima?
+  ====
+  issiqlik almashinuvi qurilmasining tashqi o'lchamlari orasidagi munosabatlar aniqlanadi
+  ====
+  qurilma yuzasining maydoni va asosiy konstruktiv o'lchamlari aniqlanadi
+  ====
+  issiqlik quvvati aniqlanadi
+  ====
+  mahalliy qarshiliklarni yengish uchun ketgan bosimni va zarur nasos quvvatini aniqlash
+
+  +++++
+
+  Rekuperativ issiqlik almashinuvi qurilmalarini gidravlik hisobidan maqsad nima?
+  ====
+  mahalliy qarshiliklarni yengish uchun ketgan bosimni va zarur nasos quvvatini aniqlash
+  ====
+  qurilma yuzasining maydoni va asosiy konstruktiv o'lchamlari aniqlanadi
+  ====
+  issiqlik quvvati aniqlanadi
+  ====
+  issiqlik almashinuvi qurilmasining tashqi o'lchamlari orasidagi munosabatlar aniqlanadi
+
+  +++++
+
+  Rekuperativ issiqlik almashinuvi qurilmalarini mexanik hisobidan maqsad nima?
+  ====
+  tashqi va ichki bosim ostida qurilmani mustahkamlikka sinash
+  ====
+  qurilma yuzasining maydoni va asosiy konstruktiv o'lchamlari aniqlanadi
+  ====
+  issiqlik quvvati aniqlanadi
+  ====
+  issiqlik almashinuvi qurilmasining tashqi o'lchamlari orasidagi munosabatlar aniqlanadi
+
+  +++++
+
+  Rekuperativ issiqlik almashinuvi qurilmalarini texnik-iqtisodiy hisobidan maqsad nima?
+  ====
+  issiqlik almashinuvi qurilmasini texnikaviy-iqtisodiy tomondan asoslash
+  ====
+  qurilma yuzasining maydoni va asosiy konstruktiv o'lchamlari aniqlanadi
+  ====
+  issiqlik almashinuvi qurilmasining tashqi o'lchamlari orasidagi munosabatlar aniqlanadi
+  ====
+  mahalliy qarshiliklarni yengish uchun ketgan bosimni va zarur nasos quvvatini aniqlash
+
+  +++++
+
+  Lаminаr hаrаkаt tаrtibi uchun gidrаvlik qаrshilik qaysi tеnglаmа оrqаli aniqlanadi?
+  ====
+  λ-A/64 
+  ====
+  λ-A64 
+  ====
+  λ-64/A 
+  ====
+  λ-Ad/64
+
+  +++++
+
+  Issiqlik almashinuvi qurilmasining massasini va tashqi о‘lchamlarini kamaytirish uchun qanday usuldan foydalaniladi?
+  ====
+  issiqlik almashinuvini jadallashtirish
+  ====
+  qurilmani optimallashtirish
+  ====
+  gidravlik qarshilikni kamaytirish
+  ====
+  texnik-iqtisodiy takomillashtirish
+
+  +++++
+
+  Issiqlik quvurlarini ishlash prinsipi qachon va kim tomonidan ishlab chiqilgan?
+  ====
+  1944 yilda Gougler
+  ====
+  1945 yilda Kelvin
+  ====
+  194yilda Tomson
+  ====
+  1950 yilda Grover
+
+  +++++
+
+  Issiqlik quvurlari ichki tuzilishi bо‘yicha qanday turlarga bо‘linadi?
+  ====
+  fitilli va fitilsiz
+  ====
+  fitilli va gravitatsion
+  ====
+  gravitatsion va fitilsiz
+  ====
+  gravitatsion va markazdan qochma
+
+  +++++
+
+  Uchuvchan bo'lmagan moddalar eritmalarini tarkibidagi erituvchini qaynatish paytida chiqarib yuborish yo'li bilan quyuqlantirish jarayoni nima deb yuritiladi?
+  ====
+  bug'latish
+  ====
+  qaynatish
+  ====
+  suyuqlantirish
+  ====
+  isitish
+
+  +++++
+
+  Bug'latish jarayoni qanday usullarda olib borilishi mumkin?
+  ====
+  vakuum ostida, atmosfera va yuqori bosimda
+  ====
+  vakuum ostida, yuqori bosimda
+  ====
+  vakuum ostida, atmosfera bosimda
+  ====
+  atmosfera va yuqori bosimda
+
+  +++++
+
+  Eritma Te va erituvchi T qaynash haroratlari o'rtasidagi farq nima deb nomlanadi?
+  ====
+  harorat depressiya
+  ====
+  gidrostatik depressiya 
+  ====
+  gidravlik depressiya
+  ====
+  harorat farqi
+
+  +++++
+
+  Gidrostatik samara hisobiga eritma qaynash haroratining ortishi nima deb ataladi?
+  ====
+  gidrostatik depressiya
+  ====
+  harorat depressiya
+  ====
+  gidravlik depressiya
+  ====
+  harorat farqi
+
+  +++++
+
+  Ikkilamchi bug'ning separator va quvurlar orqali harakati davrida ishqalanish va mahalliy qarshiliklarni yengishi tufayli vujudga keladigan harorat yo'qotilishi nima deb ataladi?
+  ====
+  gidravlik depressiya
+  ====
+  gidrostatik depressiya
+  ====
+  harorat depressiya
+  ====
+  harorat farqi
+
+  +++++
+
+  Nam havoning asosiy xossalariga qanday tushunchalar kiritiladi?
+  ====
+  absolyut namlik, nisbiy namlik, nam saqlash, entalpiya
+  ====
+  absolyut namlik, nisbiy namlik
+  ====
+  nisbiy namlik, nam saqlash
+  ====
+  absolyut namlik, entalpiya
+
+  +++++
+
+  Nam havoning hajm birligiga to'g'ri kelgan suv bug'larining miqdori nima deb ataladi?
+  ====
+  absolyut namlik
+  ====
+  nisbiy namlik
+  ====
+  nam saqlash
+  ====
+  entalpiya
+
+  +++++
+
+  Havo absolyut namligining to'yinish paytidagi absolyut namlikka nisbati nima deb ataladi?
+  ====
+  nisbiy namlik
+  ====
+  absolyut namlik
+  ====
+  nam saqlash
+  ====
+  entalpiya
+
+  +++++
+
+  1 kg absolyut quruq havoga to’g’ri kelgan suv bug’larining miqdori nima deb ataladi?
+  ====
+  havoning nam saqlashi
+  ====
+  nisbiy namlik
+  ====
+  absolyut namlik
+  ====
+  entalpiya
+
+  +++++
+
+  Gaz hamda bug‘-gaz aralashmalaridagi bir yoki bir necha komponentlarning suyuqlikda tanlab yutilish jarayoni nima deb ataladi?
+  ====
+  absorbsiya
+  ====
+  yutilish
+  ====
+  adsorbsiya
+  ====
+  desorbsiya
+  +++++
+  Absorber qurilmasida yutilayotgan gaz nima deb ataladi?
+  ====
+  absorbtiv
+  ====
+  absorbsiya
+  ====
+  adsorbsiya
+  ====
+  adsorbtiv
+  +++++
+  Absorber qurilmasida yutayotgan suyuqlik nima deb ataladi?
+  ====
+  absorbent
+  ====
+  absorbsiya
+  ====
+  adsorbsiya
+  ====
+  adsorbtiv
+  +++++
+  Absorbtiv bilan absorbentning o‘zaro ta’siriga ko‘ra absorbsiya jarayoni qanday turlarga bо‘linadi?
+  ====
+  fizik va kimyoviy
+  ====
+  fizik va issiqlik
+  ====
+  issiqlik va kimyoviy
+  ====
+  fizik va mexanik
+  +++++
+  Qanday absorbsiyada yutilayotgan gaz bilan absorbent o‘zaro bir-biri bilan kimyoviy birikmaydi?
+  ====
+  fizik
+  ====
+  kimyoviy
+  ====
+  issiqlik
+  ====
+  fizik va mexanik
+  +++++
+  Agar yutilayotgan gaz absorbent bilan o‘zaro birikib, kimyoviy birikma hosil qilsa, bunday absorbsiya qanday nomlanadi?
+  ====
+  xemosorbsiya
+  ====
+  absorbsiya
+  ====
+  desorbsiya
+  ====
+  adsorbsiya
+  +++++
+  Suyuqlikka yutilgan gazni ajratib olish jarayoni nima deb ataladi?
+  ====
+  desorbsiya
+  ====
+  absorbsiya
+  ====
+  adsorbsiya
+  ====
+  xemosorbsiya
+  +++++
+  Ikki yoki bir necha komponentlardan tashkil topgan bir jinsli suyuqlik aralashmalarini ajratishda qanday usuldan foydalaniladi?
+  ====
+  haydash
+  ====
+  rektifikatsiya
+  ====
+  distillyatsiya
+  ====
+  absorbsiya
+  +++++
+  Oddiy haydashning nechta usuli mavjud?
+  ====
+  3
+  ====
+  4
+  ====
+  2
+  ====
+  5
+  +++++
+  Nam materiallarni qurituvchi agent yordamida suvsizlantirish jarayoni nima deb ataladi?
+  ====
+  quritish
+  ====
+  bug‘latish
+  ====
+  isitish
+  ====
+  qizdirish
+  +++++
+  Materiallarni qanday usullarda quritish mumkin?
+  ====
+  mexanik, fizik-kimyoviy, issiqlik
+  ====
+  mexanik, issiqlik
+  ====
+  fizik-kimyoviy, issiqlik
+  ====
+  mexanik, fizik-kimyoviy
+  +++++
+  Issiqlik nasoslarida ishchi jism sifatida qanday modda ishlatiladi?
+  ====
+  freon, ammiak
+  ====
+  suv, ammiak
+  ====
+  bug‘, freon
+  ====
+  gaz, bug‘
+   ++++
+  Keng qo’llaniladigan isitish tizimlar -…
+  ====
+  Ikki quvurli, ochiq ulangan tarmoqlar
+  ====
+  Ko’p quvurli, ochiq ulangan tarmoqlar
+  ====
+  Ikki quvurli, yopiq ulangan tarmoqlar
+  ====
+  Bir  quvurli, ochiq ulangan tarmoqlar
+  ++++
+  Dastlabki sinovni  o’tkazish sharti …
+  ====
+  Salniklli kompensatorlar o’rnatilishidan oldin
+  ====
+  П simon  kompensatorlar o’rnatilishidan oldin
+  ====
+  Klapanlar o’rnatilishidan oldin
+  ====
+  Zadvijkalar  o’rnatilishidan oldin
+  ++++
+  Yakuniy sinovni  o’tkazish sharti …
+  ====
+  Montajdan so’ng
+  ====
+  Salniklli kompensatorlar o’rnatilishidan oldin
+  ====
+  П simon  kompensatorlar o’rnatilishidan oldin
+  ====
+  Klapanlar o’rnatilishidan oldin
+  ++++
+  Sinovlarni o’tkazishga ruxsat etilgan eng past harorati …
+  ====
+  5ºC
+  ====
+  8ºC
+  ====
+  10ºC
+  ====
+  4ºC
+  ++++
+  Issiqlik tarmoqlarni sinov turlari …
+  ====
+  Opressovka, gidravlik, issiqlik, hisobiy haroratga sinash.
+  ====
+  Gidravlik, issiqlik, hisobiy haroratga sinash.
+  ====
+  Opressovka, gidravlik, issiqlik.
+  ====
+  Opressovka, issiqlik, hisobiy haroratga sinash
+  ++++
+  426*400*9 markali quvurda birinchi raqam nimani belgilaydi
+  ====
+  Quvurning tashqi diametrini
+  ====
+  Quvurning ichki diametrini
+  ====
+  Quvur devorchasini qalinligini
+  ====
+  Suvning bosimini
+  ++++
+  426*400*9 markali quvurda ikkinchi raqam nimani belgilaydi
+  ====	
+  Quvurning ichki diametrini
+  ====
+  Quvurning tashqi diametrini
+  ====
+  Quvur devorchasini qalinligini
+  ====
+  Suvning bosimini
+  ++++
+  Tarmoqning issiqlik hisobning vazifasi nimadan iborat?
+  ====
+  tarmoqdagi issiqlik yo’qotilishlarini aniqlab issiqlik izolyatsiyasini tanlashga;
+  ====
+  ma‘lum bo’lgan issiqlik tashuvchining sarfi va tarmoqdagi bosim yo’qotilishlari 
+  bo’yicha quvur diametrlarini aniqlashga;
+  ====
+  sistemaning turli nuqtalarida bosim va sarf orasidagi bog’lanishlarga;
+  ====
+  issiqlik izolyatsiyasiga uzatilgan issiqlik uzgarmas miqdorda atrof muxitga uzatilishiga
+  ++++
+  Aholining issiqlikka bo’lgan talabini qo’ndirish uchun qanday qurilmalardan foydalaniladi?
+  ====
+  suv qizdirish qozonxonalari va  IEM dan.
+  ====
+  faqat suv qizdirish qozonxonalaridan;  
+  ====
+  T turbinali ES dan;
+  ====
+  faqat IEM dan
+  ++++
+  Organik yoqilg’ida ishlaydigan  issiqlik manbalar…
+  ====
+  IES;. TQ
+  ====
+  KES; GES
+  ====
+  AES; gelio stansiyalar;
+  ====
+  GES; AES
+  ++++
+  Issiqlik tarmoqlarni issiqlik sinovida nimalar o’lchanadi?
+  ====
+  Quvurni boshida va oxirida suvning sarfi va harorati;
+  ====
+  Quvurni boshida va oxirida suvning bosimi,  sarfi va harorati;
+  ====
+  Quvurni boshida suvning sarfi va harorati;
+  ====
+  Quvurni boshida va oxirida suvning bosimi va  sarfi
+  ++++
+  Issiqlik tarmoqlarni gidravlik sinovida nimalar o’lchanadi?
+  ====
+  Quvurni boshida va oxirida suvning bosimi, sarfi va harorati;
+  ====
+  Quvurni boshida va oxirida suvning sarfi va harorati
+  ====
+  Quvurni boshida suvning sarfi va harorati;
+  ====
+  Quvurni boshida va oxirida suvning bosimi va  sarfi
+  ++++
+  Tarmoq suvi nima yordamida dezenfeksiyalanadi?
+  ====
+  Faol xlor;
+  ====
+  Osh tuzi;
+  ====
+  Magniy eritmasi;
+  ====
+  Oltingugurt eritmasi.
+  ++++
+  Odatda suvli tarmoqlarda qaysi birktirish armaturasi qo’llaniladi
+  ====
+  Zulfinlar
+  ====
+  Ventil
+  ====
+  Drossel 
+  ====
+  Shiber
+  ++++
+  Odatda bug’li tarmoqlarda qaysi birktirish armaturasi qo’llaniladi
+  ====
+  Ventil
+  ====
+  Zulfinlar
+  ====
+  Drossel 
+  ====
+  Shiber
+  ++++
+  426*400*9 markali quvurda uchinchi raqam nimani belgilaydi
+  ====
+  Quvur devorchasini qalinligini
+  ====
+  Quvurning ichki diametrini
+  ====
+  Quvurning tashqi diametrini
+  ====
+  Suvning bosimini
+  ++++
+  Issiqlik tarmoqlarni ishga turishini ruxsat beruvchi tashkilot –
+  ====
+  Davlat hay’ati
+  ====
+  Shahar hokimiyati
+  ====
+  Mahalla hay’ati
+  ====
+  Qurvchi tashkilot
+  ++++
+  Issiqlik ta‘minoti tizimlari boshqarmasida ulanishlar xizmati kimga bo’ysunadi?
+  ====
+  Bosh muxandisga;
+  ====
+  Direktorga;
+  ====
+  Devonxonaga;
+  ====
+  Reja – iqtisod bo’limiga;
+  ++++
+  Shtatlar soni deb nimaga aytiladi? 
+  ====
+  Issiqlik tarmog’iga ulangan yuklamaning 1 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;
+  ====
+  Issiqlik tarmog’iga ulangan yuklamaning 10 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;
+  ====
+  Issiqlik tarmog’iga ulangan yuklamaning 10 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;
+  ====
+  Issiqlik tarmog’iga ulangan yuklamaning 10 %  Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi
+  ++++
+  Keng qo’llaniladigan ichki isitish tizimlar -…
+  ====
+  П –simon tik quvurli tizimlar
+  ====
+  P –simon tik quvurli tizimlar
+  ====
+  П –simon gorizontal quvurli tizimlar
+  ====
+  Tik quvurli tizimlar.
+  ++++
+  Bug’  bilan isitish tizimlarida bug’ning harorati … oshmasligi kerak
+  ====
+  130ºC
+  ====
+  155ºC
+  ====
+  180ºC
+  ====
+  190ºC.
+  ++++
+  Havo bilan isitish tizimlarida havoning harorati …
+  ====
+  60ºC
+  ====
+  55ºC
+  ====
+  80ºC
+  ====
+  90ºC
+  ++++
+  Havo qizdiruvchi qurilma…
+  ====
+  kalorifer 
+  ====
+  ventilyator
+  ====
+  Issiqlik almashinuv apparati
+  ====
+  Ekonamayzr
+  ++++
+  Noan’aviy isitish manbalar…
+  ====
+  Quyosh, geotermal suvlar
+  ====
+  Quyosh, suyuq yoqig’i, suvlari
+  ====
+  Quyosh, mazut
+  ====
+  Quyosh, shamol.
+  ++++
+  Quyosh isitish tizimlari radiatsiyadan foydalanishi bo’yicha qanday turlarga bo’linadi…
+  ====
+  Passiv va aktiv
+  ====
+  Kollektorli va kollektorsiz
+  ====
+  Radiatsiyalangan va radiatsiya tushmaydigan
+  ====
+  Passiv va aktiv va zonali.
+  ++++
+  Bino ichidagi havo harorati quyidagiga bog’liq bo’ladi
+  ====
+  isitiladigan binoning vazifasiga;
+  ====
+  tashqi havo haroratiga;
+  ====
+  issiqlik tashuvchi turiga; 
+  ====
+  isitish tizimining ulanishiga.
+  ++++
+  Aholining issiqlikka bo’lgan talabini ko’ndirish uchun qanday qurilmalardan foydalaniladi?
+  ====
+  suv qizdirish qozonxonalari va  IEM dan.
+  ====
+  faqat suv qizdirish qozonxonalaridan; 
+  ==== 
+  T turbinali ES dan;
+  ====
+  faqat IEM dan
+  ++++
+  Oqim turini (laminar yoki turbulent) aniqlash uchun qaysi kreteriydan foydalaniladi…
+  ====
+  Reynolds
+  ====
+  Prandtl
+  ====
+  Nusselt
+  ====
+  Fure
+  ++++
+  Quvurning ekvivalent diametrning miqdori qaysi ko’rsatkichlarga bog’liq?
+  ====
+  quvurning ko’ndalang qirqim yuzasiga va namlangan perimetrga
+  ====
+  quvurning ko’ndalang qirqim yuzasiga va quvur qalinligiga
+  ====
+  namlangan perimetrga va quvur qalinligiga
+  ====
+  namlangan perimetrga va quvur uzunligiga
+  ====
+  quvurning ko’ndalang qirqim yuzasiga va quvur uzunligiga
+  ++++
+  Texnologik extiyojlar uchun issiqlik sarfi qaysi ko’rsatkichlar kiradi?
+  ====
+  Korxonani unumdorligi va bir maxsulot uchun  sarflanadigan issiqlik miqdori
+  ====
+  Korxonani unumdorligi va xodimlar soni
+  ====
+  Korxonani quvvati va bir maxsulot uchun  sarflanadigan issiqlik miqdori
+  ====
+  Korxonani elektr energiya sarfi va bir maxsulot uchun sarflanadigan issiqlik miqdori
+  ====
+  Korxonani unumdorligi va elektr energiya sarfi
+  ++++
+  Nechanchi yillarda O‘rta Osiyoda markazlashtirilgan issiqlik ta’minoti rivojlana boshladi?
+  ====
+  1928-1930 yillarda
+  ====
+  1930-1941 yillarda
+  ====
+  1920-1930 yillarda
+  ====
+  1918-1930 yillarda
+  ++++
+  Qachonga markazlashtirilgan issiqlik ta’minoti g‘oyasining paydo bo‘lishi to‘g‘ri kеladi?
+  ====
+  1877 yili AQSh ning Lokport shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+  ====
+  1777 yili AQSh ning Lokport shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+  ====
+  1907 yili Sankt-Peterburg shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+  ====
+  1877 yili Moskva shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+  ++++
+  IEM da issiqlik va elеktr enеrgiyasini qurama usulda ishlab chiqarish uchun yoqilg‘ining umuiy sarfi quyidagilardan iborat…
+  ====
+  elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘I sarflarning  yig’indisi
+  ====
+  elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning  ko’paytmasi
+  ====
+  elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i  sarflarning  ayirmasi
+  ====
+  elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning  farqi
+  ++++
+  Shartli yoqilg’i deb nimaga aytiladi?
+  ====
+  Issiqlik ajratishi 7000 kkal/kg ga teng bo’lgan yoqilg’i
+  ====
+  Issiqlik ajratishi 7003 kkal ga teng bo’lgan yoqilg’i
+  ====
+  Issiqlik ajratishi 7000 kj/kg ga teng bo’lgan yoqilg’i
+  ====
+  Issiqlik ajratishi 7050 kkal/kg  ga teng bo’lgan yoqilg’i
+  ====
+  Issiqlik ajratishi 7000 j/kg ga teng bo’lgan yoqilg’i
+  ++++
+  Qaysi yuklamaning sarfi hafta davomida o‘rtacha sarfi uning bir kеcha-kunduzdagi mе’yori asosida aniqlanadi?
+  ====
+  issiq suv
+  ====
+  isitish
+  ====
+  ventilyatsiya
+  ====
+  texnologik extiyojlar
+  ====
+  havo maromlash
+  ++++
+  Tеxnologik extiyojlarga ishlatiladigan issiqlik nimalarga bog’lik?
+  ====
+  jarayonning xususiyatga, ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi
+  ====
+  jarayonning xususiyatga, ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va tashqi havo haroratiga bog‘liq bo‘ladi
+  ====
+  ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi
+  ====
+  jarayonning xususiyatga, tashqi havo haroratiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi
+  ====
+  jarayonning xususiyatga va boshqalarga bog‘liq bo‘ladi
+  ++++
+  Turar joy binolarida isitish uchun sarflanadigan maksimal issiqlik oqimi nimalarga bog’liq?
+  ====
+  binoning solishtirma issiqlik tavsifi, ichki va tashqi havoning hisobiy haroratlariga, binoning tashqi hajmiga
+  ====
+  ichki va tashqi havoning hisobiy haroratlariga, binoning tashqi hajmiga
+  ====
+  binoning solishtirma issiqlik tavsifi, ichki havoning hisobiy haroratiga, binoning tashqi hajmiga
+  ====
+  binoning solishtirma issiqlik tavsifi, ichki va tashqi havoning hisobiy haroratlariga, 
+  ====
+  binoning solishtirma issiqlik tavsifi, tashqi havoning hisobiy haroratiga, binoning tashqi hajmi
+  ++++
+  Mavsumiy yuklamaning grafigi qurish uchun absissa va ordinata o‘qlari bo‘yicha qaysi ko’rsatkichlar    qo‘yib chiqiladi?
+  ====
+  absissada isitish mavsuminnig davomiyligi soatlarda va tashqi havoning harorati quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi 
+  ====
+  absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi 
+  ====
+  absissada tashqi havoning harorati quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi 
+  ====
+  absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo‘yicha esa, tashqi havoning harorati
+  ====
+  absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi va tashqi havoning harorati
+  ++++
+  Qaysi olim  tomonidan issiqlik ta’minotining bir quvuri tizimi ishlab chiqildi va amalda qo‘llash uchun taklif qilindi?
+  ====
+  L. A. Mеlеntеv
+  ====
+  L.K. Ramzin
+  ====
+  L. Vukolovich 
+  ====
+  E.E. Sokolov
+  ++++
+  Bir quvuri tizimni asosiy g‘oyasi  nimada?
+  ====
+  isitish qurilmasidan kеyin issiq suv ta’minotiga bеrilgan tarmoq suvining hammasi unda foydalaniladi
+  ====
+  isitish qurilmasidan kеyin issiq suv ni  stansiyaga qaytarish 
+  ====
+  isitish qurilmasidan kеyin issiq suvni qaytadan isitish qurilmasida ishlatish
+  ====
+  issiq suv ta’minotiga bеrilgan tarmoq suvining hammasi unda foydalaniladi
+  ====
+  isitish qurilmasidan kеyin issiq suv ta’minotiga bеrilgan tarmoq suvining bir qismi unda foydalaniladi
+  ++++
+  Ochiq tizimlarning yopiq tizimlarga nisbatan afzaligi:
+  ====
+  elektr stansiyasida va sanoat korxonalarida ishlatilgan past haroratli suvni issiq suv ta’minoti uchun foydalanish imkoni mavjudligi
+  ====
+  stansiyada suvning tayyorlanishi murakkabligi va qimmatligi
+  ====
+  iste’molchilarga berilayotgan suvning sifati sanitariya tozalik va salomatlik talablariga javob bermasligi
+  ====
+  issiqlik ta’minoti tizimi ustidan o‘tkaziladigan sanitariya nazoratining murakkabligi
+  ++++
+  Gidravlik hisoblashning vazifasiga kirmayadigan vazifa:
+  issiqlik qoplamani tanlash
+  ====
+  quvurning diamеtrini aniqlash
+  ====
+  bosim (siquv)ning kamayishini aniqlash
+  ====
+  tarmoqning turli nuqtalaridagi bosimlarni aniqlash
+  ++++
+  To’la naporni aniqlovchi ifodasiga nimalar kiradi?
+  ====
+  pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining yig‘indisiga tеng
+  ====
+  pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining farqiga tеng
+  ====
+  pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining ko’paytmasiga tеng
+  ====
+  pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining ayirmasiga tеng
+  ++++
+  Gidravlik hisobni bajarish uchun nimalar ma’lum bo’lishi kerak?
+  ====
+  issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi va paramеtrlari, tarmoq qismlarining uzunligi
+  ====
+  issiqlik tarmog‘ining chizma tasviri, tarmoq qismlarining uzunligi
+  ====
+  issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi va paramеtrlari
+  ====
+  issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi, tarmoq qismlarining uzunligi
+  ++++
+  Qaysi olim tonidan elevator sxеmasi ishlab chiqilgan.
+  ====
+  V. M. Chaplin
+  ====
+  L. A. Mеlеntеv
+  ====
+  L.K. Ramzin
+  ====
+  L. Vukolovich 
+  ++++
+  Yuqori haroratlarni  o’lchaydigan asbob belgilansin… 
+  ====
+  Pirometr
+  ====
+  Barometr 
+  ====
+  Rotametr
+  ====
+  Manometr 
+  ++++
+  Issiqlikning yillik sarfiga qaysi yuklamala kiradi?
+  ====
+  Isitish, ventilyatsiya, issiq suv, texnolgik extiyojlar yuklamalarning yig’indisi
+  ====
+  Isitish, ventilyatsiya, issiq suv yuklamalarning yig’indisi
+  ====
+  Isitish, issiq suv, texnolgik extiyojlar yuklamalarning yig’indisi
+  ====
+  ventilyatsiya, issiq suv, texnolgik extiyojlar yuklamalarning yig’indisi
+  ++++
+  Atmosfera bosimini  o’lchaydigan asbob belgilansin… 
+  ====
+  Barometr
+  ====
+  Pirometr
+  ====
+  Rotametr
+  ====
+  Manometr 
+  ++++
+  Laminar oqimini belgilovchi kattalik…
+  ====
+  Reynolds soni 2300 dan kichik
+  ====
+  Prandtl soni 2300 dan kichik
+  ====
+  Nusselt soni 2300 dan kichik
+  ====
+  Reynolds soni 2300 dan katta
+  ++++
+  Tashqi havo haroratiga bog’lik bo’lgan issiqlik yuklamalar…
+  ====
+  Isitish, ventilyatsiyalash, havo maromlash
+  ====
+  Isitish, ventilyatsiyalash
+  ====
+  Isitish, havo maromlash
+  ====
+  Issiq suv ta’minoti, texnologik extiyojlar
+  ++++
+  IEMlarda qanday turdagi energiyalar ishlab chikariladi?
+  ====
+  issiklik va elektr energiyasi;
+  ====
+  elektr energiyasi;
+  ====
+  issiklik, elektr va mexanik energiya;
+  ====
+  mexanik energiya
+  ++++
+  1 kVt*soat elektr energiya qancha issiklikka teng buladi (kJ)?
+  ====
+  3600 kJ;
+  ====
+  3200 kJ;
+  ====
+  2800 kJ;
+  ====
+  4,19 kJ
+  ++++
+  Zamonaviy KESlarda foydali ish koeffitsienti nechaga teng?
+  ====
+  35-40 %;
+  ====
+  40-45 %;
+  ====
+  45-50 %;
+  ====
+  30-35 %
+  ++++
+  Zamonaviy IEMlarda foydali ish koeffitsienti nechaga teng?
+  ====
+  75-80 %;
+  ====
+  50-90 %;
+  ====
+  45-50 %;
+  ====
+  30-35 %
+  ++++
+  Tuman kozonxonanig foydali ish koeffitsienti nechaga teng?
+  ====
+  50 - 90 %;
+  ====
+  40-45 %;
+  ====
+  45-50 %;
+  ====
+  30-35 %
+  ++++
+  Mavsumiy yuklamaga qaysi yuklamalar kiradi?
+  ====
+  isitish, ventilyatsiya va havoni maromlash;
+  ====
+  isitish, ventilyatsiya va havoni maromlash, issiq suv;
+  ====
+  isitish, ventilyatsiya va havoni maromlash, elektr energiyasi;
+  ====
+  isitish, ventilyatsiya va havoni maromlash, texnologik
+  ++++
+  Issiqlik tashuvchi  turlari…
+  ====
+  Issiq havo, issiq suv, buq’, elektr energiya; 
+  ====
+  Gaz, issiq havo, issiq suv, buq’, elektr energiya;
+  ====
+  Yoqilg’i, issiq suv, buq’, elektr energiya;
+  ====
+  Issiq havo, issiq suv, buq’
+  ++++
+  Issiqlik  energiya  iste‘mollanish turlari:
+  ====
+  isitish, ventilyasiyalash, issiq suv ta‘minoti, havo maromlash tizimlarida va texnologik jarayonlarida;
+  ====
+  isitish, ventilyasiyalash, issiq suv ta‘minoti va texnologik jarayonlarida;
+  ====
+  isitish, issiq suv ta‘minoti, havo maromlash tizimlarida va texnologik jarayonlarida;
+  ====
+  isitish, ventilyasiyalash, issiq suv ta‘minoti;
+  ++++
+  Markazlashtirilgan issiqlik ta’minotining xususiyati -…
+  ====
+  Bir issiqlik manbadan bir va bir nechta ist’emolchilarni issiqlik energiya bilan ta’minlash;
+  ====
+  Bir issiqlik manbadan  bir nechta xonalarni issiqlik energiya bilan ta’minlash;
+  ====
+  Bir issiqlik manbadan bir nechta xonalarni issiqlik energiya bilan ta’minlash;
+  ====
+  Bir nechta issiqlik manbadan bir va bir nechta ist’emolchilarni issiqlik energiya bilan ta’minlash;
+  ++++
+  Markazlashtirilgan issiqlik ta‘minoti tizimlarida issiqlik manba vazifasini bajaruvchi….
+  ====
+  IEM (issiqlik elektr markazlari), tuman qozonxonalari
+  ====
+  IEM (issiqlik elektr markazlari)
+  ====
+  tuman qozonxonalari
+  ====
+  IEM (issiqlik elektr markazlari), tuman va avtonom qozonxonalari
+  ++++
+  Faqat issiqlik energiyani ishlab chiqaradigan issiqlik qurilmalar.
+  ====
+  Qozonxonalar;
+  ====
+  Issiqlik elektr markazlar;
+  ====
+  Kondensatsion elektr stansiyalar;
+  ====
+  Issiqlik elektr stansiyalar;
+  ++++
+  Faqat elektr energiyani ishlab chiqaradigan issiqlik qurilmalar
+  ====
+  Kondensatsion elektr stansiyalar;
+  ====
+  Qozonxonalar;
+  ====
+  Issiqlik elektr markazlar;
+  ====
+  Issiqlik elektr stansiyalar;
+  ++++
+  Issiqlik va  elektr energiyani ishlab chiqaradigan issiqlik qurilmalar
+  ====
+  Issiqlik elektr markazlar
+  ====
+  Qozonxonalar;
+  ====
+  Kondensatsion elektr stansiyalar;
+  ====
+  Issiqlik elektr stansiyalar;
+  ++++
+  Tarmoqdagi sarf o’lchaydigan asbob belgilansin… 
+  ====
+  Rotametr 
+  ====
+  Pirometr
+  ====
+  Barometr
+  ====
+  Manometr 
+  ++++
+  Mavsumiy yuklamaga qaysi yuklamalar kiradi?
+  ====
+  isitish, ventilyatsiya va havoni maromlash;
+  ====
+  isitish, ventilyatsiya va havoni maromlash, issiq suv;
+  ====
+  isitish, ventilyatsiya va havoni maromlash, elektr energiyasi;
+  ====
+  isitish, ventilyatsiya va havoni maromlash, texnologik;
+  ++++
+  Tashqi havo haroratiga bog’lik bo’lgan issiqlik yuklamalar…
+  ====
+  Isitish, ventilyatsiyalash, havo maromlash;
+  ====
+  Isitish, ventilyatsiyalash;
+  ====
+  Isitish, havo maromlash;
+  ====
+  Issiq suv ta’minoti, texnologik extiyojlar;
+  ++++
+  Eng universal issiqlik tashuvchi…
+  ====
+  Issiq suv;
+  ====
+  Issiq havo;
+  ====
+  Bug’;
+  ====
+  Tutun gazlar;
+  ++++
+  Noan’aviy isitish manbalar…
+  ====
+  Quyosh, geothermal suvlar
+  ====
+  Quyosh, suyuq yoqig’i, suvlari
+  ====
+  Quyosh, mazut
+  ====
+  Quyosh, shamol
+  ++++
+  Tarmoqdagi bosim o’lchaydigan asbob belgilansin… 
+  ====
+  Manometer
+  ====
+  Pirometr
+  ====
+  Barometr
+  ====
+  Rotametr
+  ++++
+  Oqim turini (laminar yoki turbulent) aniqlash uchun qaysi kreteriydan foydalaniladi…
+  ====
+  Reynolds
+  ====
+  Prandtl
+  ====
+  Nusselt
+  ====
+  Fure
+  ++++
+  Davomiyik vaqtiga ko’ra issiqlik yuklamalari qanday turlarga bo’linadi?
+  ====
+  Mavsumiy va yillik
+  ====
+  Qishgii, yozgi, kuzgi
+  ====
+  Kuzgi va bahorgi
+  ====
+  Bahorgi
+  ++++
+  Shahar  issiqlik ta‘minotida  qo’llaniladigan tizimlar….
+  ====
+  ikki quvurli suvli tizimlar;
+  ====
+  bir quvurli suvli tizimlar;
+  ====
+  ikki quvurli bug’li tizimlar;
+  ====
+  uch quvurli suvli tizimlar;
+  ++++
+  Issiqlik tarmoqqa ulanishi bo’yicha isitish  tizimlarning bo’linishi…
+  ====
+  Mustaqil bo’lgan va mustaqil bo’lmagan;
+  ====
+  Ochiq va yopiq;
+  ====
+  Suvli va bug’li;
+  ====
+  Ulangan va ulanmagan.
+  ++++
+  Issiqlik  energiya  iste‘mollanish turlari
+  ====
+  isitish, ventilyasiyalash, issiq suv ta‘minoti, havo maromlash tizimlarida va texnologik jarayonlarida
+  ====
+  isitish, ventilyasiyalash, issiq suv ta‘minoti va texnologik jarayonlarida
+  ====
+  isitish, issiq suv ta‘minoti, havo maromlash tizimlarida va texnologik jarayonlarida
+  ====
+  isitish, ventilyasiyalash, issiq suv ta‘minoti
+  ++++
+  Keng qo’llaniladigan isitish tizimlar -…
+  ====
+  Ikki quvurli, ochiq ulangan tarmoqlar
+  ====
+  Ko’p quvurli, ochiq ulangan tarmoqlar
+  ====
+  Ikki quvurli, yopiq ulangan tarmoqlar
+  ====
+  Bir  quvurli, ochiq ulangan tarmoqlar
+  ++++
+  Markazlashtirilmagan issiqlik ta‘minoti tizimlari qanday turlarga bo’linadi?
+  ====
+  Shaxsiy va maxalliy;
+  ====
+  Guruxli va maxalliy;
+  ====
+  Shaxsiy va guruxli;  
+  ====
+  Shaxsiy va guruxli;
+  ++++  
+  Issiqlikni uzoq masofalarga uzatish uchun qaysi issiqlik tashuvchilardan foydalaniladi?
+  ====
+  Suv va suv bug’i;
+  ====
+  Suv, suv bug’i va havo;
+  ====
+  Suv va havo;
+  ====
+  suv bug’i va havo
+  ++++
+  Quvur ichidagi oqim harakati qaysi qonunga asoslandi…
+  ====
+  Bernulli qonuniga
+  ====
+  Fure qonuniga
+  ====
+  Reynolds qonuniga
+  ====
+  Prandtl qonuniga
+  ++++
+  Bug’  bilan isitish tizimlarida bug’ning harorati … oshmasligi kerak
+  ====
+  130 C
+  ====
+  155 C
+  ====
+  180 C
+  ====
+  190 C
+  ++++
+  Bino ichidagi havo harorati quyidagiga bog’liq bo’ladi
+  ====
+  isitiladigan binoning vazifasiga;
+  ====
+  tashqi havo haroratiga;
+  ====
+  issiqlik tashuvchi turiga;
+  ====
+  isitish tizimining ulanishiga;
+  ++++
+  Issiq suv ta‘minoti tizimlarning qanday turlari qo’llaniladi?
+  ====
+  Ochiq va yopik;
+  ====
+  Bir, ikki, uch va ko’p quvurli;
+  ====
+  Mustaqil va mustaqil bulmagan;
+  ====
+  Ko’p quvurli;
+  ++++
+  "Past bosimli" bug’ning bosimi nechaga teng?
+  ====
+  30,05-0,25 MPa;
+  ====
+  0,8-1,6 MPa;
+  ====
+  0,5-1,0 MPa;
+  ====
+  0,09-1,6 MPa;
+  ++++
+  Sifatli rostlashda qaysi parametr o’zgaradi?
+  ====
+  harorat;
+  ====
+  Sarf;
+  ====
+  sarf va harorat
+  ====
+  miqdor.
+  ++++
+  Miqdoriy rostlashda qaysi parametr o’zgaradi?
+  ====
+  sarf;
+  ====
+  sarf va harorat
+  ====
+  miqdor.
+  ====
+  harorat
+  ++++
+  Issiqlik yuklama turlari belgilansin:
+  ====
+  mavsumiy, yillik yuklamalar; 
+  ====
+  uzgaruvchan yuklamalar.
+  ====
+  mavsumiy yuklama;  
+  ====
+  yillik yuklamalar
+  ++++
+  Gidravlik hisob vazifasiga nimalar kirmaydi?
+  ====
+  tarmoqdagi issiqlik yo’qotilishlarini aniqlash
+  ====
+  quvurning diametrini aniqlash;
+  ====
+  bosimning kamayishini aniqlash;
+  ====
+  tarmoqning turli nuqtalaridagi bosimlarni aniqlash;
+  ++++
+  Bosimning chiziqli kamayishi tushunchasini qanday izoxlaysiz?
+  ====
+  Quvurning to’g’ri chiziqli qismida bosimning kamayishi;
+  ====
+  Quvurning butun uzunligi bo’yicha bosimning kamayishi;
+  ====
+  Quvurning maxalliy karshiliklarida bosimning kamayishi;
+  ====
+  Qarshiliklar yigindisiga.
+  ++++
+  Bosimning maxalliy kamayishini qanday tushuntirasiz?
+  ====
+  Bosimning turli tirsaklarda kamayishi;
+  ====
+  Quvurning diametri uzgargan joyida bosimning kamayishi;
+  ====
+  Quvurning barcha maxalliy qarshiliklarida bosimning kamayishi;
+  ====
+  Qarshiliklar yigindisiga
+  ++++
+  Issiqlik tarmog’ini gidravlik hisobining maqsadi nimada?
+  ====
+  Tarmoq quvurining diametrini va undagi muxit sarfini aniqlash; 
+  ====
+  Tarmoq quvurining diametrini aniqlash;
+  ====
+  Tarmoq quvurining qarshiligini aniqlash;
+  ====
+  Tarmoqdagi bosim kamayishini aniqlash
+  ++++
+  Pezometrik grafikning vazifasi? 
+  ====
+  Taromkning normal ishlashini ta‘minlovchi nasosni va yordamchi jixozlarini to’g’ri tanlash uchun tarmoqda bosimning umumiy kamayishi va tarmoqning har bir nuqtasidagi bosim qiymatlarini bilish.
+  ====
+  Tarmoqdagi bosim kamayishini bilish.
+  ====
+  Taromkning butun uzunligi bo’yicha bosim qiymatlarini bilish;
+  ====
+  Quvur diametrini tanlash.
+  ++++
+  Bosimni chiziqli kamayishi tushunchasini qanday izoxlaysiz?
+  ====
+  Quvurning to’g’ri chiziqli qismida bosimning kamayishi;
+  ====
+  Quvurning butun uzunligi bo’yicha bosimning kamayishi;
+  ====
+  Quvurning maxalliy karshiliklarida bosimning kamayishi;  
+  ====
+  Qarshiliklar yigindisiga.
+  ++++
+  Bosimni maxalliy kamayishini qanday tushuntirasiz?
+  ====
+  Bosimning turli to’siqlarda kamayishi; 
+  Quvurning diametri o’zgargan joyida bosimning kamayishi;
+  ====
+  Quvurning barcha mahalliy qarshiliklarida bosimning kamayishi;
+  ====
+  Qarshiliklar yig’indisiga
+  ++++               
+  Elevatorning vazifasi –
+  ====
+  Qaytish quvuridagi sovuq suvni ejektsiyalab (so’rib) uzatish quvuridagi suv     haroratini talab qilingan darajagacha tushirish.
+  ====
+  Iste‘molchiga beriladigan suvning haroratini maromlab berish;
+  ====
+  Issiqlik suv ta‘minoti tizimidagi suvning haroratini o’zgartirish;
+  ====
+  Suv qizdirgich vazifasini bajarish.
+  ++++
+  Gidravlik rejim deb nimaga aytiladi?
+  ====
+  Tizimni  turli nuqtalarida bosim va sarf orasidagi bog’lanishini belgilovchi rejim;
+  ====
+  Ma‘lum bo’lgan issiqlik tashuvchining sarfi va tarmoqdagi bosim yo’qotilishlari bo’yicha quvur diametrlarini aniqlovchi rejim;
+  ====
+  Tarmoqdagi issiqlik yo’qotilishlarini aniqlab issiqlik izolyatsiyasini tanlovchi rejim;
+  ====
+  Issiqlik izolyatsiyasiga uzatilgan issiqlik o’zgarmas miqdorda atrof muxitga uzatuvchi rejim;
+  ++++
+  Quvur ichida bosimning kamayishi quyidagiga teng:
+  ====
+  chiziqli va maxaliy bosim kamayishlar yigindisiga;
+  ====
+  chiziqli va maxaliy bosim kamayishlar farqiga;
+  ====
+  chiziqli bosim kamayishiga;
+  ====
+  maxaliy bosim kamayishiga.
+  ++++
+  Gidravlik zarba tarqalanishining xususiyati:
+  ====
+  To’lqunli jarayon; 
+  ====
+  To’g’ri chiziqli jarayon;
+  ====
+  O’zgarmas tezlikli jarayon;
+  ====
+  Suvning zichligiga bog’liq jarayon
+  ++++
+  Issiqlik tarmoqlarida qo‘llaniladigan armaturani vazifasi nimada?  
+  ====
+  berkitish, rostlash, saqlash, bosimni kamaytirish;
+  ====
+  kondensatni ajratish, nazorat o‘lchash, oqimni burash;
+  ====
+  berkitish, rostlash, saqlash, bosimni jshirish;
+  ====
+  kondensatni to’plash, nazorat o‘lchash, oqimni burash;
+  ++++
+  Elektr payvandli chokli quvurlarning shartli diametri... chiqariladi.
+  ====
+  1400 mm gacha; 
+  ====
+  2400 mm gacha;
+  ====
+  400mm gacha;
+  ====
+  1000mm gacha;
+  ++++
+  Elektr payvandli choksiz quvurlarning shartli diametri... chiqariladi.
+  ====
+  3400 mm gacha; choksizligi 
+  ====
+  2400 mm gacha;
+  ====
+  1400 mm gacha;
+  ====
+  1000mm gacha;
+  ++++
+  Shartli diametr Dsh quvurning ... bildiradi.
+  ====
+  nominal ichki diametrini;
+  ====
+  nominal tashqi diametrini;
+  ====
+  umumiy diametrini;   
+  ====
+  zavoddan chiquvchi quvurning diametrini.}
+  ++++
+  Suvning deaeratsiyalashning vazifasi….
+  ====
+  suv tarkibida mavjud bo’lgan agresiv  gazlani chiqarishr
+  ====
+  suv tarkibida mavjud bo’lgan eritilgan gazlar: kislorod 
+  ====
+  suv tarkibida mavjud bo’lgan eritilgan gazlar: uglerod dioksidi  chiqarish;
+  ====
+  suv tarkibida mavjud bo’lgan eritilgan gazlar xloridlar va sulfatlarini chiqarish.
+  ++++
+  IES, Tqlar qanday yoqilg’ida ishlaydi
+  ====
+  Organiq yoqilg’ida ishlaydigan  
+  ====
+  Qattiq yoqilg’ida ishlaydi
+  ====
+  Suyuq yoqilg’ida ishlaydi
+  ====
+  Barcha javob to’g’ri
+  ++++ 
+  Zulfin birktirish armaturasi qayerda qo’llaniladi
+  ====
+  suvli tarmoqlarda 
+  ====
+  berkitish
+  ====
+  tayanch uchun
+  ====
+  bug’li tarmoqlarda
+  ++++
+  Ventil birktirish armaturasi qayerda qo’llaniladi 
+  ====
+  bug’li tarmoqlarda
+  ====
+  berkitish
+  ====
+  tayanch uchun
+  ==== 
+  suvli tarmoqlarda 
+  ++++
+  Ta‘minot nasosining vazifasi.
+  ====
+  Bug’ qozonini ta‘minot suvi bilan ta‘minlab turish uchun;
+  ====
+  Yuqori bosimli qizdirgichlarni suv bilan to’ldirib turish;
+  ====
+  Deaeratordan suvni kondensatorga xaydab berish uchun
+  ====
+  Past bosimli qizdirgichlarni ta‘minot suvi bilan ta‘minlash
+  ++++
+  Ta‘minot nasosida ta‘minot  suvining xarorati.
+  ====
+  3(S dan 7(S gacha oshiradi;
+  ====
+  10(S dan 30(S gacha oshiradi;
+  ====
+  30(S dan 70(S gacha oshiradi;
+  ====
+  100(S atrofida oshiradi.
+  ++++
+  Zamonaviy korxona energiya xujaligining printsipial sxemasidagi tejamkorlikni ta‘minlovchi jixozlar:
+  ====
+  Yoqilg’i va issiqlik qayta foydalanish qurilmalari;
+  ====
+  Issiqlik almashtirgich
+  ====
+  Yuqori samarali pechlar, bug’ qozonlari, issiqlik almashtirgichlari va xokazo;
+  ====
+  Issiqlikdan qayta foydalanish qurilmalari;
+  ++++
+  Nima uchun xul material, uning quruq xolatidagiga nisbatan issiqlikni yaxshi o‘tkazadi?
+  ====
+  Xo‘l material tarkibidagi suvning issiqlik o‘tkazuvchanlik koeffisienti katta bo‘lgani uchun
+  ====	
+  Xo‘l materialning termik qarshiligi yuqori
+  ====	
+  Xo‘l materialning issiqlik almashinish koeffisienti yuqori
+  ====
+  Xo‘l materialning issiqlik almashinish koeffisienti yuqori
+  ====
+  Xo‘l materialning issiqlik berish koeffisienti yuqori bo‘lgani uchun
+  ++++
+  Yoqilg’i chiqindining turlari:
+  ====
+  Texnologik jarayonlarda xosil bo’lgan yonuvchan modda(gaz)lar, kimyoviy va mexanik chala yongan yoqilg’i;
+  ====
+  Kimyoviy va mexanik chala yongan yoqilg’i;
+  ====
+  Ishlatilgan issiq suv va qizdirilgan xavo; 
+  ====
+  Sun‘iy yoqilg’ilar – koks gazi, domna gazi 
+  ++++
+  Havo isitgichi nima?
+  ====
+  o'zidan o'tayotgan havoni qizdiradigan  almashinuv apparati. Havo isitgichdan chiqqan issiq havo o'txonaga yuboriladi.
+  ====
+  ta'minot suvini yonish mahsulotlari orqali qaynash holatiga keltiruvchi maxsus issiqlik almashgich yuzadir.
+  ====
+  bug'ni o'ta qizigan holatga etkazib beradigan maxsus yuzadir.
+  ====
+  qozonning issiqlik qabul qiluvchi yuzasidir.
+  ++++
+  Bir yilda necha kun, soat, minutdan iborat?
+  ====
+  365 kun, 8760 soat, 525600 minut.
+  ====
+  365 kun, 8750 soat, 525600 minut
+  ====
+  365 kun, 8760 soat, 524600 minut.
+  ====
+  365 kun, 8750 soat, 524600 minut
+  ++++
+  Issiqlik va massa almashinuv qurilmаlаrining turlаrini ko’rsating?
+  ====
+  rеkupеrаtiv, rеgеnеrаtiv, аrаlаshtiruvchi
+  ====
+  rеkupеrаtiv, rеgеnеrаtiv
+  ====
+  rеkupеrаtiv, аrаlаshtiruvchi
+  ====
+  rеgеnеrаtiv, аrаlаshtiruvchi
+  ++++
+  Issiqlik almashinuv qurilmalarida аsоsiy jаrаyon qaysi?
+  ====
+  issiqlik аlmаshinish
+  ====
+  mаssа аlmаshinish
+  ====
+  issiqlik vа mаssа аlmаshinish
+  ====
+  hаrоrаt аlmаshinishi
+  ++++
+  Rеаktоrlаrdа аsоsiy jаrаyon qaysi?
+  ====
+  fizik-kimyoviy
+  ====
+  issiqlik аlmаshinish
+  ====
+  issiqlik vа mаssа аlmаshinish
+  ====
+  mаssа аlmаshinish
+  ++++
+  Rеаktоrlаrdа yordаmchi jаrаyon qaysi?
+  ====
+  issiqlik аlmаshinish
+  ====
+  fizik-kimyoviy
+  ====
+  issiqlik vа mаssа аlmаshinish
+  ====
+  mаssа аlmаshinish
+  ++++
+  Kimyo sаnоаtidа issiqlik almashinuv qurilmalari umumiy qurilmаlаrning nеchа fоizini tаshkil etаdi?
+  ====
+  15-18%
+  ====
+  20-25%
+  ====
+  30-32%
+  ====
+  10-15%
+  ++++
+  Ishlash prinsipigа ko’rа issiqlik almashinuv qurilmalari nеchi turgа bo’linаdi?
+  ====
+  2 gа
+  ====
+  3 gа
+  ====
+  4 gа
+  ====
+  5 gа
+  ++++
+  Kоnstruktiv tuzilishi bo’yichа issiqlik almashinuv qurilmalari nеchi turgа bo’linаdi?
+  ====
+  quvurdаn, listdаn vа nоmеtаlli
+  ====
+  quvurdаn, listdаn qilingаn mаtеriаlli
+  ====
+  quvurli, nоmеtаlli
+  ====
+  mаtеriаllа vа quvurdаn
+  ++++
+  Quvurdаn yasаlgаn issiqlik almashinuv qurilmalаrigа qаysi qurilmalаr kirаdi?
+  ====
+  quvur ichidа quvur, o’rаmli
+  ====
+  spirаlsimоn vа o’rаmli
+  ====
+  grаfitli vа plаstinаli
+  ====
+  spirаl, plаstinаli
+  ++++
+  Listdаn yasаlgаn issiqlik almashinuv qurilmalаrigа qаysi qurilmalаr kirаdi?
+  ====
+  spirаlsimоn vа o’rаmli
+  ====
+  grаfitli vа plаstinаli
+  ====
+  quvur ichidа quvur, o’rаmli
+  ====
+  o’rаmli, grаfitli
+  ++++
+  Ishlаtilish mаqsаdigа ko’rа issiqlik almashinish qurilmalari necha turga bo’linadi?
+  ====
+  sоvutgichlаr, isitgichlаr, bug’lаtgich
+  ====
+  gradirniya, kondensator, bug’latgich
+  ====
+  sоvutgich, kоndеnsаtоr
+  ====
+  isitgichlаr, bug’lаtgich
+  ++++
+  Issiqlik bеrish usuligа ko’rа issiqlik almashinuv qurilmalari nеchi turgа bo’linаdi?
+  ====
+  2 gа
+  ====
+  3 gа
+  ====
+  4 gа
+  ====
+  5 gа
+  ++++
+   kоeffisiеnt bu - ...
+  ====
+  *issiqlik bеrish kоeffisiеnti
+  ====
+  issiqlik uzаtish kоeffisiеnti
+  ====
+  issiqlik o’tkаzuvchnlik kоeffisiеnti
+  ====
+  hаrоrаt o’tkаzish kоeffisiеnti
+  ++++
+  k kоeffisiеnt bu - ...
+  ====
+  issiqlik uzаtish kоeffisiеnti
+  ====
+  issiqlik bеrish kоeffisiеnti
+  ====
+  issiqlik o’tkzuvchnlik kоeffisiеnti
+  ====
+  hаrоrаt o’tkаzish kоeffisiеnti
+  ++++
+   kоeffisiеnt bu - ...
+  ====
+  issiqlik o’tkzuvchnlik kоeffisiеnti
+  ====
+  issiqlik uzаtish kоeffisiеnti
+  ====
+  issiqlik bеrish kоeffisiеnti
+  ====
+  hаrоrаt o’tkаzish kоeffisiеnti
+  ++++
+  Issiq muhitdаn sоvuq muhitgа issiqlikni uzаtish uchun qo’llаnilаdigаn hаrаkаtlаnuvchi muhitlar qanday nomlanadi?
+  ====
+  issiqlik tаshuvchi
+  ====
+  qo’zg’аluvchаn dеvоr
+  ====
+  qo’zg’аlmаs dеvоr
+  ====
+  issiqlik almashgich
+  ++++
+  Issiqlik almashinuv yuzаsi deb nimaga aytiladi?
+  ====
+  issiqlik almashinuv аmаlgа оshаdigаn yuzа
+  ====
+  mаssа almashinuv yuzаsi
+  ====
+  issiqlik vа mаssа almashinuv yuzаsi
+  ====
+  hаrоrаt almashinuv yuzаsi
+  ++++
+  Yuzаviy issiqlik almashinuv qurilmalаri qanday turga bo’lаnаdi?
+  ====
+  rеkupеrаtiv, rеgеnеrаtiv
+  ====
+  Rеkupеrаtiv
+  ====
+  Rеgеnеrаtiv
+  ====
+  Аrаlаshtiruvchi
+  ++++
+  Issiqlik tаshuvchi muhitlar qanday yo’nalishlarda hаrаkаt qiladi?
+  ====
+  to’g’ri, kеsishgаn, qаrаmа-qаrshi
+  ====
+  to’g’ri, kеsishgаn
+  ====
+  to’g’ri, qаrаmа-qаrshi
+  ====
+  kеsishgаn, qаrаmа-qаrshi
+  ++++
+  Issiqlik tаshuvchilаr mаqsаdigа ko’rа qаndаy turlаrgа bo’linаdi?
+  ====
+  issiqlik va sovuqlik tashuvchilar
+  ====
+  qizdiruvchi vа sоvituvchi issiqlik tаshuvchilаr
+  ====
+  оrаliq issiqlik vа sоvuqlik tаshuvchilаr
+  ====
+  sоvuqlik tаshuvchilаr vа quritish аgеnti
+  ++++
+  Аgrеgаt hоlаtigа ko’rа issiqlik tаshuvchilаr qаndаy turlаrgа bo’linаdi?
+  ====
+  bir, ikki vа ko’p fаzаli
+  ====
+  bir fаzаli
+  ====
+  ikki fаzаli
+  ====
+  ko’p fаzаli
+  ++++
+  Qo’yidаgi mоddаlаrdаn qаysilаri bir fаzаli issiqlik tаshuvchilаrgа kirаdi?
+  ====
+  pаst hаrоrаtli plаzmаlаr vа qаttiq mоddаlаr
+  ====
+  qаynоvchi vа bug’lаnuvchi mоddаlаr
+  ====
+  suv vа suv bug’i
+  ====
+  qаynоvchi vа suv
+  ++++
+  Qo’yidаgi mоddаlаrdаn qаysilаri ko’p fаzаli issiqlik tаshuvchilаrgа kirаdi?
+  ====
+  suv vа suv bug’i
+  ====
+  qаttiq mоddаlаr
+  ====
+  kоndеnsаsiyalаnmаydigаn mоddаlаr
+  ====
+  bug’lаnmаydigаn mоddаlаr
+  ++++
+  Ishchi hаrоrаti bo’yichа issiqlik tаshuvchilаr qanday turlarga bo’linadi?
+  ====
+  yuqоri, o’rtа, pаst vа kriоgеn hаrоrаtli
+  ====
+  yuqоri vа o’rtа hаrоrаtli
+  ====
+  yuqоri vа pаst hаrоrаtli
+  ====
+  o’rtа vа pаst hаrоrаtli
+  ++++
+  Qurilmаning issiqlik hisоbidаn mаqsаd nima?
+  ====
+  issiqlik almashinuv yuzаsi F ni tоpish
+  ====
+  Qurilmаning аsоsiy o’lchаmlаrini tоpish
+  ==== 
+  qurimаning qаrshiliklаrini tоpish
+  ====
+  issiqlik tаshuvchilаrni hаrоrаtlаrini аniqlаsh
+  ++++
+  Qurilmaning kоnstruktiv hisоbidаn mаqsаd nima?
+  ====
+  qurilmаning аsоsiy o’lchаmlаrini tоpish
+  ====
+  issiqlik almashinuv yuzаsi F ni tоpish
+  ====
+  qurimаning qаrshiliklаrini tоpish
+  ====
+  issiqlik tаshuvchilаrning bоsimini аniqlаsh
+  ++++
+  Qurilmaning gidrаvlik hisоbidаn mаqsаd nima?
+  ====
+  qurilmаning qаrshiliklаrini tоpish
+  ====
+  issiqlik almashinuv yuzаsi F ni tоpish
+  ====
+  qurilmаning аsоsiy o’lchаmlаrini tоpish
+  ====
+  issiqlik tаshuvchilаrni hаrоrаtlаrini аniqlаsh
+  ++++
+  Qurilmaning mеxаnik hisоbidаn mаqsаd nima?
+  ====
+  qurilmа mustаhkаmligini аniqlаsh
+  ====
+  qurilmаning аsоsiy o’lchаmlаrini tоpish
+  ====
+  qurilmаning qаrshiliklаrini tоpish
+  ====
+  kuchlаnishlаrni hisоblаsh
+  ++++
+  Issiqlik uzаtilishi nеchtа usulda amalga oshadi?
+  ====
+  3
+  ====
+  2
+  ====
+  4
+  ====
+  5
+  ++++
+  Kоnvеksiya hodisasi bu - ...
+  ====
+  issiq vа sоvuq hаvо mоddаlаrini o’rin аlmаshishi
+  ====
+  dеvоrning issiqlik o’tkаzuvchаnligi
+  ====
+  issiqlik almashinuv xоdisаsi
+  ====
+  mаssа almashinuv xоdisаsi
+  ++++
+  Kоnvеksiya nеchа xil bo’lаdi?
+  ====
+  2
+  ====
+  5
+  ====
+  3
+  ====
+  4
+  ++++
+  Hаrаkаt yo’nаlishi to’g’ri оqimli bo’lgаndа issiqlik tаshuvchilаr qаndаy hаrаkаtlаnаdi?
+  ====
+  bir tоmоngа
+  ====
+  qаrаmа-qаrshi tоmоngа
+  ====
+  bir-birigа to’g’ri burchаk оstidа
+  ====
+  bir-birigа egri burchаk оstidа
+  ++++
+  Hаrаkаt yo’nаlishi tеskаri оqimli bo’lgаndа issiqlik tаshuvchilаr qаndаy hаrаkаtlаnаdi?
+  ====
+  qаrаmа-qаrshi tоmоngа
+  ====
+  bir tоmоngа
+  ====
+  bir-birigа to’g’ri burchаk оstidа
+  ====
+  bir-birigа egri burchаk оstidа
+  ++++
+  Hаrаkаt yo’nаlishi kеsishgаn оqimli bo’lgаndа issiqlik tаshuvchilаr qаndаy hаrаkаtlаnаdi?
+  ====
+  bir-birigа to’g’ri burchаk оstidа
+  ====
+  bir tоmоngа
+  ====
+  qаrаmа-qаrshi tоmоngа
+  ====
+  bir-birigа egri burchаk оstidа
+  ++++
+  Yuqоri hаrоrаtdа ishlоvchi оlоvli tеxnikаdа qаndаy issiqlik almashinuv qurilmalаri qo’llаnilаdi?
+  ====
+  rеgеnеrаtiv
+  ====
+  Rеkupеrаtiv
+  ====
+  Аrаlаshtiruvchi
+  ====
+  Reaktorlar
+  ++++
+  Bug’lаtish qurilmаlаridа аsоsаn qаndаy issiqlik almashinuv qurilmalаri qo’llаnilаdi?
+  ====
+  rеkupеrаtiv, аrаlаshtiruvchi
+  ====
+  rеgеnеrаtiv, rеkupеrаtiv
+  ====
+  аrаlаshtiruvchi, rеgеnеrаtiv
+  ====
+  rеkupеrаtiv, аrаlаshtiruvchi
+  ++++
+  Energetik yoqilg'i deb nimaga aytiladi
+  ====
+  sanoat miqyosida elektr energiyasi va issiqlik ishlab chiqarishda foydalaniladigan  yoqilg'ilar energetik deb nomlanadi;
+  ====
+  kechadigan fizik-kimyoviy jarayonlar natijasida o'zidan issiqlik energiyasi ajratadigan va mukammal texnika yordamida bu issiqlikdan energiya ishlab chiqarishda foydalanish mumkin bo'lgan yoqilg'ilar energetik deb ataladi
+  ====
+  mukammal texnika yordamida issiqlikdan energiya ishlab chiqarishda foydalanish mumkin bo'lgan yoqilg'ilar energetik deb ataladi;
+  ====
+  kechadigan fizik-kimyoviy jarayonlar natijasida o'zidan issiqlik energiyasi ajratadigan yoqilg'ilar energetik deb ataladi;
+  ++++
+  Yer osti suvlari tarkibiga qanday kationlar bo’ladi 
+  ====
+  Mg, Ca, Na, K, Fe
+  ====
+  K, Al,Ti,S
+  ====
+  Cl,N,Si
+  ====
+  SO4, NO3, HCO3  
+  ++++
+  Yer osti suvlari tarkibiga qanday anionlar bo’ladi
+  ====
+  Si, SO4, NO3, HCO3 
+  ====
+  Mg, Ca, Na, K, Fe
+  ====
+  K, Al,Ti,S
+  ====
+  Cl,N,Si
+  ++++
+  Yer osti suvlari tarkibiga qanday gazlar uchraydi
+  ====
+  О2 va СО2 
+  ====
+  Mg, Ca, Na, K, Fe
+  ====
+  K, Al,Ti,S
+  ====
+  Ce, SO4, NO3, HCO3 
+  ++++
+  Issiqlik tashuvchi  turlari…
+  ====
+  Issiq havo, issiq suv, buq’, elektr energiya;
+  ====
+  Gaz,issiq havo, issiq suv, buq’, elektr energiya;
+  ====
+  Yoqilg’i, issiq suv, buq’, elektr energiya;
+  ====
+  Issiq havo, issiq suv, buq’;
+  ++++
+  Markazlashtirilgan issiqlik ta’minoti…
+  ====
+  Bir issiqlik manbadan bir va bir nechta ist’emolchilarni issiqlik energiya bilan ta’minlash;
+  ====
+  Bir issiqlik manbadan  bir nechta xonalarni issiqlik energiya bilan ta’minlash;
+  ====
+  Bir issiqlik manbadan bir nechta xonalarni issiqlik energiya bilan ta’minlash;
+  ====
+  Bir nechta issiqlik manbadan bir va bir nechta ist’emolchilarni issiqlik energiya bilan ta’minlash;
+  ++++
+  1 kvt*soat , kjoul ga o’tkazilsin…
+  ====
+  3600
+  ====
+  4219
+  ====
+  2200
+  ====
+  360
+  ++++
+  Pezometrik grafikni kurishdan maksad nima?
+  ====
+  Taromkning normal ishlashini ta‘minlovchi nasosni va yordamchi jixozlarini to’g’ri tanlash uchun tarmoqda bosimning umumiy kamayishi va tarmoqning har bir nuktasidagi bosim qiymatlarini bilish.
+  ====
+  Tarmoqdagi bosim kamayishini bilish.
+  ====
+  Taromkning butun uzunligi bo’yicha bosim qiymatlarini bilish;
+  ====
+  Quvur diametrini tanlash.
+  ++++
+  IEM ning qanday sxemalarini bilasiz?
+  ====
+  PT, T va R turdagi turbinali sxemalar;
+  ====
+  PT trubinali;
+  ====
+  T utrubinali;
+  ====
+  R turbinali
+  ++++
+  Keng qo’llaniladigan isitish tizimlar -…
+  ====
+  Ikki quvurli, ochiq ulangan tarmoqlar
+  ====
+  Ko’p quvurli, ochiq ulangan tarmoqlar
+  ====
+  Ikki quvurli, yopiq ulangan tarmoqlar
+  ====
+  Bir  quvurli, ochiq ulangan tarmoqlar
+  ++++
+  Dastlabki sinovni  o’tkazish sharti …
+  ====
+  Salniklli kompensatorlar o’rnatilishidan oldin
+  ====
+  П simon  kompensatorlar o’rnatilishidan oldin
+  ====
+  Klapanlar o’rnatilishidan oldin
+  ====
+  Zadvijkalar  o’rnatilishidan oldin
+  ++++
+  Yakuniy sinovni  o’tkazish sharti …
+  ====
+  Montajdan so’ng
+  ====
+  Salniklli kompensatorlar o’rnatilishidan oldin
+  ====
+  П simon  kompensatorlar o’rnatilishidan oldin
+  ====
+  Klapanlar o’rnatilishidan oldin
+  ++++
+  Sinovlarni o’tkazishga ruxsat etilgan eng past harorati …
+  ====
+  5ºC
+  ====
+  8ºC
+  ====
+  10ºC
+  ====
+  4ºC
+  ++++
+  Issiqlik tarmoqlarni sinov turlari …
+  ====
+  Opressovka, gidravlik, issiqlik, hisobiy haroratga sinash.
+  ====
+  Gidravlik, issiqlik, hisobiy haroratga sinash.
+  ====
+  Opressovka, gidravlik, issiqlik.
+  ====
+  Opressovka, issiqlik, hisobiy haroratga sinash
+  ++++
+  426*400*9 markali quvurda birinchi raqam nimani belgilaydi
+  ====
+  Quvurning tashqi diametrini
+  ====
+  Quvurning ichki diametrini
+  ====
+  Quvur devorchasini qalinligini
+  ====
+  Suvning bosimini
+  ++++
+  426*400*9 markali quvurda ikkinchi raqam nimani belgilaydi
+  ====	
+  Quvurning ichki diametrini
+  ====
+  Quvurning tashqi diametrini
+  ====
+  Quvur devorchasini qalinligini
+  ====
+  Suvning bosimini
+  ++++
+  Tarmoqning issiqlik hisobning vazifasi nimadan iborat?
+  ====
+  tarmoqdagi issiqlik yo’qotilishlarini aniqlab issiqlik izolyatsiyasini tanlashga;
+  ====
+  ma‘lum bo’lgan issiqlik tashuvchining sarfi va tarmoqdagi bosim yo’qotilishlari 
+  bo’yicha quvur diametrlarini aniqlashga;
+  ====
+  sistemaning turli nuqtalarida bosim va sarf orasidagi bog’lanishlarga;
+  ====
+  issiqlik izolyatsiyasiga uzatilgan issiqlik uzgarmas miqdorda atrof muxitga uzatilishiga
+  ++++
+  Aholining issiqlikka bo’lgan talabini qo’ndirish uchun qanday qurilmalardan foydalaniladi?
+  ====
+  suv qizdirish qozonxonalari va  IEM dan.
+  ====
+  faqat suv qizdirish qozonxonalaridan;  
+  ====
+  T turbinali ES dan;
+  ====
+  faqat IEM dan
+  ++++
+  Organik yoqilg’ida ishlaydigan  issiqlik manbalar…
+  ====
+  IES;. TQ
+  ====
+  KES; GES
+  ====
+  AES; gelio stansiyalar;
+  ====
+  GES; AES
+  ++++
+  Issiqlik tarmoqlarni issiqlik sinovida nimalar o’lchanadi?
+  ====
+  Quvurni boshida va oxirida suvning sarfi va harorati;
+  ====
+  Quvurni boshida va oxirida suvning bosimi,  sarfi va harorati;
+  ====
+  Quvurni boshida suvning sarfi va harorati;
+  ====
+  Quvurni boshida va oxirida suvning bosimi va  sarfi
+  ++++
+  Issiqlik tarmoqlarni gidravlik sinovida nimalar o’lchanadi?
+  ====
+  Quvurni boshida va oxirida suvning bosimi, sarfi va harorati;
+  ====
+  Quvurni boshida va oxirida suvning sarfi va harorati
+  ====
+  Quvurni boshida suvning sarfi va harorati;
+  ====
+  Quvurni boshida va oxirida suvning bosimi va  sarfi
+  ++++
+  Tarmoq suvi nima yordamida dezenfeksiyalanadi?
+  ====
+  Faol xlor;
+  ====
+  Osh tuzi;
+  ====
+  Magniy eritmasi;
+  ====
+  Oltingugurt eritmasi.
+  ++++
+  Odatda suvli tarmoqlarda qaysi birktirish armaturasi qo’llaniladi
+  ====
+  Zulfinlar
+  ====
+  Ventil
+  ====
+  Drossel 
+  ====
+  Shiber
+  ++++
+  Odatda bug’li tarmoqlarda qaysi birktirish armaturasi qo’llaniladi
+  ====
+  Ventil
+  ====
+  Zulfinlar
+  ====
+  Drossel 
+  ====
+  Shiber
+  ++++
+  426*400*9 markali quvurda uchinchi raqam nimani belgilaydi
+  ====
+  Quvur devorchasini qalinligini
+  ====
+  Quvurning ichki diametrini
+  ====
+  Quvurning tashqi diametrini
+  ====
+  Suvning bosimini
+  ++++
+  Issiqlik tarmoqlarni ishga turishini ruxsat beruvchi tashkilot –
+  ====
+  Davlat hay’ati
+  ====
+  Shahar hokimiyati
+  ====
+  Mahalla hay’ati
+  ====
+  Qurvchi tashkilot
+  ++++
+  Issiqlik ta‘minoti tizimlari boshqarmasida ulanishlar xizmati kimga bo’ysunadi?
+  ====
+  Bosh muxandisga;
+  ====
+  Direktorga;
+  ====
+  Devonxonaga;
+  ====
+  Reja – iqtisod bo’limiga;
+  ++++
+  Shtatlar soni deb nimaga aytiladi? 
+  ====
+  Issiqlik tarmog’iga ulangan yuklamaning 1 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;
+  ====
+  Issiqlik tarmog’iga ulangan yuklamaning 10 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;
+  ====
+  Issiqlik tarmog’iga ulangan yuklamaning 10 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;
+  ====
+  Issiqlik tarmog’iga ulangan yuklamaning 10 %  Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi
+  ++++
+  Keng qo’llaniladigan ichki isitish tizimlar -…
+  ====
+  П –simon tik quvurli tizimlar
+  ====
+  P –simon tik quvurli tizimlar
+  ====
+  П –simon gorizontal quvurli tizimlar
+  ====
+  Tik quvurli tizimlar.
+  ++++
+  Bug’  bilan isitish tizimlarida bug’ning harorati … oshmasligi kerak
+  ====
+  130ºC
+  ====
+  155ºC
+  ====
+  180ºC
+  ====
+  190ºC.
+  ++++
+  Havo bilan isitish tizimlarida havoning harorati …
+  ====
+  60ºC
+  ====
+  55ºC
+  ====
+  80ºC
+  ====
+  90ºC
+  ++++
+  Havo qizdiruvchi qurilma…
+  ====
+  kalorifer 
+  ====
+  ventilyator
+  ====
+  Issiqlik almashinuv apparati
+  ====
+  Ekonamayzr
+  ++++
+  Noan’aviy isitish manbalar…
+  ====
+  Quyosh, geotermal suvlar
+  ====
+  Quyosh, suyuq yoqig’i, suvlari
+  ====
+  Quyosh, mazut
+  ====
+  Quyosh, shamol.
+  ++++
+  Quyosh isitish tizimlari radiatsiyadan foydalanishi bo’yicha qanday turlarga bo’linadi…
+  ====
+  Passiv va aktiv
+  ====
+  Kollektorli va kollektorsiz
+  ====
+  Radiatsiyalangan va radiatsiya tushmaydigan
+  ====
+  Passiv va aktiv va zonali.
+  ++++
+  Bino ichidagi havo harorati quyidagiga bog’liq bo’ladi
+  ====
+  isitiladigan binoning vazifasiga;
+  ====
+  tashqi havo haroratiga;
+  ====
+  issiqlik tashuvchi turiga; 
+  ====
+  isitish tizimining ulanishiga.
+  ++++
+  Aholining issiqlikka bo’lgan talabini ko’ndirish uchun qanday qurilmalardan foydalaniladi?
+  ====
+  suv qizdirish qozonxonalari va  IEM dan.
+  ====
+  faqat suv qizdirish qozonxonalaridan; 
+  ==== 
+  T turbinali ES dan;
+  ====
+  faqat IEM dan
+  ++++
+  Oqim turini (laminar yoki turbulent) aniqlash uchun qaysi kreteriydan foydalaniladi…
+  ====
+  Reynolds
+  ====
+  Prandtl
+  ====
+  Nusselt
+  ====
+  Fure
+  ++++
+  Quvurning ekvivalent diametrning miqdori qaysi ko’rsatkichlarga bog’liq?
+  ====
+  quvurning ko’ndalang qirqim yuzasiga va namlangan perimetrga
+  ====
+  quvurning ko’ndalang qirqim yuzasiga va quvur qalinligiga
+  ====
+  namlangan perimetrga va quvur qalinligiga
+  ====
+  namlangan perimetrga va quvur uzunligiga
+  ====
+  quvurning ko’ndalang qirqim yuzasiga va quvur uzunligiga
+  ++++
+  Texnologik extiyojlar uchun issiqlik sarfi qaysi ko’rsatkichlar kiradi?
+  ====
+  Korxonani unumdorligi va bir maxsulot uchun  sarflanadigan issiqlik miqdori
+  ====
+  Korxonani unumdorligi va xodimlar soni
+  ====
+  Korxonani quvvati va bir maxsulot uchun  sarflanadigan issiqlik miqdori
+  ====
+  Korxonani elektr energiya sarfi va bir maxsulot uchun sarflanadigan issiqlik miqdori
+  ====
+  Korxonani unumdorligi va elektr energiya sarfi
+  ++++
+  Nechanchi yillarda O‘rta Osiyoda markazlashtirilgan issiqlik ta’minoti rivojlana boshladi?
+  ====
+  1928-1930 yillarda
+  ====
+  1930-1941 yillarda
+  ====
+  1920-1930 yillarda
+  ====
+  1918-1930 yillarda
+  ++++
+  Qachonga markazlashtirilgan issiqlik ta’minoti g‘oyasining paydo bo‘lishi to‘g‘ri kеladi?
+  ====
+  1877 yili AQSh ning Lokport shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+  ====
+  1777 yili AQSh ning Lokport shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+  ====
+  1907 yili Sankt-Peterburg shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+  ====
+  1877 yili Moskva shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi
+  ++++
+  IEM da issiqlik va elеktr enеrgiyasini qurama usulda ishlab chiqarish uchun yoqilg‘ining umuiy sarfi quyidagilardan iborat…
+  ====
+  elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘I sarflarning  yig’indisi
+  ====
+  elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning  ko’paytmasi
+  ====
+  elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i  sarflarning  ayirmasi
+  ====
+  elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning  farqi
+  ++++
+  Shartli yoqilg’i deb nimaga aytiladi?
+  ====
+  Issiqlik ajratishi 7000 kkal/kg ga teng bo’lgan yoqilg’i
+  ====
+  Issiqlik ajratishi 7003 kkal ga teng bo’lgan yoqilg’i
+  ====
+  Issiqlik ajratishi 7000 kj/kg ga teng bo’lgan yoqilg’i
+  ====
+  Issiqlik ajratishi 7050 kkal/kg  ga teng bo’lgan yoqilg’i
+  ====
+  Issiqlik ajratishi 7000 j/kg ga teng bo’lgan yoqilg’i
+  ++++
+  Qaysi yuklamaning sarfi hafta davomida o‘rtacha sarfi uning bir kеcha-kunduzdagi mе’yori asosida aniqlanadi?
+  ====
+  issiq suv
+  ====
+  isitish
+  ====
+  ventilyatsiya
+  ====
+  texnologik extiyojlar
+  ====
+  havo maromlash
+  ++++
+  Tеxnologik extiyojlarga ishlatiladigan issiqlik nimalarga bog’lik?
+  ====
+  jarayonning xususiyatga, ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi
+  ====
+  jarayonning xususiyatga, ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va tashqi havo haroratiga bog‘liq bo‘ladi
+  ====
+  ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi
+  ====
+  jarayonning xususiyatga, tashqi havo haroratiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi
+  ====
+  jarayonning xususiyatga va boshqalarga bog‘liq bo‘ladi
+  ++++
+  Turar joy binolarida isitish uchun sarflanadigan maksimal issiqlik oqimi nimalarga bog’liq?
+  ====
+  binoning solishtirma issiqlik tavsifi, ichki va tashqi havoning hisobiy haroratlariga, binoning tashqi hajmiga
+  ====
+  ichki va tashqi havoning hisobiy haroratlariga, binoning tashqi hajmiga
+  ====
+  binoning solishtirma issiqlik tavsifi, ichki havoning hisobiy haroratiga, binoning tashqi hajmiga
+  ====
+  binoning solishtirma issiqlik tavsifi, ichki va tashqi havoning hisobiy haroratlariga, 
+  ====
+  binoning solishtirma issiqlik tavsifi, tashqi havoning hisobiy haroratiga, binoning tashqi hajmi
+  ++++
+  Mavsumiy yuklamaning grafigi qurish uchun absissa va ordinata o‘qlari bo‘yicha qaysi ko’rsatkichlar    qo‘yib chiqiladi?
+  ====
+  absissada isitish mavsuminnig davomiyligi soatlarda va tashqi havoning harorati quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi 
+  ====
+  absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi 
+  ====
+  absissada tashqi havoning harorati quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi 
+  ====
+  absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo‘yicha esa, tashqi havoning harorati
+  ====
+  absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo‘yicha esa, soatli sarfi va tashqi havoning harorati
+  ++++
+  Qaysi olim  tomonidan issiqlik ta’minotining bir quvuri tizimi ishlab chiqildi va amalda qo‘llash uchun taklif qilindi?
+  ====
+  L. A. Mеlеntеv
+  ====
+  L.K. Ramzin
+  ====
+  L. Vukolovich 
+  ====
+  E.E. Sokolov
+  ++++
+  Bir quvuri tizimni asosiy g‘oyasi  nimada?
+  ====
+  isitish qurilmasidan kеyin issiq suv ta’minotiga bеrilgan tarmoq suvining hammasi unda foydalaniladi
+  ====
+  isitish qurilmasidan kеyin issiq suv ni  stansiyaga qaytarish 
+  ====
+  isitish qurilmasidan kеyin issiq suvni qaytadan isitish qurilmasida ishlatish
+  ====
+  issiq suv ta’minotiga bеrilgan tarmoq suvining hammasi unda foydalaniladi
+  ====
+  isitish qurilmasidan kеyin issiq suv ta’minotiga bеrilgan tarmoq suvining bir qismi unda foydalaniladi
+  ++++
+  Ochiq tizimlarning yopiq tizimlarga nisbatan afzaligi:
+  ====
+  elektr stansiyasida va sanoat korxonalarida ishlatilgan past haroratli suvni issiq suv ta’minoti uchun foydalanish imkoni mavjudligi
+  ====
+  stansiyada suvning tayyorlanishi murakkabligi va qimmatligi
+  ====
+  iste’molchilarga berilayotgan suvning sifati sanitariya tozalik va salomatlik talablariga javob bermasligi
+  ====
+  issiqlik ta’minoti tizimi ustidan o‘tkaziladigan sanitariya nazoratining murakkabligi
+  ++++
+  Gidravlik hisoblashning vazifasiga kirmayadigan vazifa:
+  issiqlik qoplamani tanlash
+  ====
+  quvurning diamеtrini aniqlash
+  ====
+  bosim (siquv)ning kamayishini aniqlash
+  ====
+  tarmoqning turli nuqtalaridagi bosimlarni aniqlash
+  ++++
+  To’la naporni aniqlovchi ifodasiga nimalar kiradi?
+  ====
+  pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining yig‘indisiga tеng
+  ====
+  pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining farqiga tеng
+  ====
+  pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining ko’paytmasiga tеng
+  ====
+  pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining ayirmasiga tеng
+  ++++
+  Gidravlik hisobni bajarish uchun nimalar ma’lum bo’lishi kerak?
+  ====
+  issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi va paramеtrlari, tarmoq qismlarining uzunligi
+  ====
+  issiqlik tarmog‘ining chizma tasviri, tarmoq qismlarining uzunligi
+  ====
+  issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi va paramеtrlari
+  ====
+  issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi, tarmoq qismlarining uzunligi
+  ++++
+  Qaysi olim tonidan elevator sxеmasi ishlab chiqilgan.
+  ====
+  V. M. Chaplin
+  ====
+  L. A. Mеlеntеv
+  ====
+  L.K. Ramzin
+  ====
+  L. Vukolovich
+  Qurilmaning kоnstruktiv hisоbidаn mаqsаd nima?
+  ====
+  qurilmаning аsоsiy o’lchаmlаrini tоpish
+  ====
+  issiqlik almashinuv yuzаsi F ni tоpish
+  ====
+  qurimаning qаrshiliklаrini tоpish
+  ====
+  issiqlik tаshuvchilаrning bоsimini аniqlаsh
+  ++++
+  Qurilmaning gidrаvlik hisоbidаn mаqsаd nima?
+  ====
+  qurilmаning qаrshiliklаrini tоpish
+  ====
+  issiqlik almashinuv yuzаsi F ni tоpish
+  ====
+  qurilmаning аsоsiy o’lchаmlаrini tоpish
+  ====
+  issiqlik tаshuvchilаrni hаrоrаtlаrini аniqlаsh
+  ++++
+  Qurilmaning mеxаnik hisоbidаn mаqsаd nima?
+  ====
+  qurilmа mustаhkаmligini аniqlаsh
+  ====
+  qurilmаning аsоsiy o’lchаmlаrini tоpish
+  ====
+  qurilmаning qаrshiliklаrini tоpish
+  ====
+  kuchlаnishlаrni hisоblаsh
+  ++++
+
+
 
 
                 
