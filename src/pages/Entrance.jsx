@@ -24,7 +24,7 @@ useEffect(() => {
                 <Books/>
               </div>
               <form >
-                  <div className='p-3 font-bold text-[30px] text-[red]'>
+                  <div className='p-3 mb-[30px] font-bold text-[30px] text-[red]'>
                         {seconds > 0 ? ( <h1>{Math.floor(seconds / 60)}:{seconds % 60}</h1> ) : ( <h1>Timer finished!</h1>)}
                   </div> 
               </form>
