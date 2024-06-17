@@ -3,7 +3,7 @@ const Password = ({ onLogin }) => {
   const [password, setPassword] = useState('');
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (password === '2002') {
+    if (password === 'Adiba') {
       onLogin(); 
     } else {
       setPassword('');
