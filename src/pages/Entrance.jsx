@@ -2,7 +2,7 @@ import React, { useEffect,  useState } from 'react'
 import Books from './Books';
 const Entrance = () => {
     let [result,setResult] = useState(false)
-    const [seconds, setSeconds] = useState(60);
+    const [seconds, setSeconds] = useState(2100);
 useEffect(() => {
     if (seconds > 0) {
       const timer = setTimeout(() => {
