@@ -18,6 +18,7 @@ const Password = ({ onLogin }) => {
     //     <div className="flex items-center justify-center">
     //       <button  className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="submit"> Log in  </button>
     //     </div>
+    // <a  href="https://exam-seven-theta.vercel.app/"target='blank' type="button" class="bg-[#42ba9a] border  p-[3px] "></a>
     //   </form>
     // </div>
 
@@ -30,6 +31,7 @@ const Password = ({ onLogin }) => {
           <button  className="bg-blue-100 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="submit"> Log in  </button>
         </div>
       </form>
+      <a  href="https://exam-seven-theta.vercel.app/"target='blank' type="button" class="bg-[#42ba9a] border   rounded px-1 pt-1 pb-2"></a>
     </div>
    
   );

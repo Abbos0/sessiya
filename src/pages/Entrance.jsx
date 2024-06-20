@@ -18,7 +18,9 @@ useEffect(() => {
   
   return (
     <div >
-        {result ? <h1 className=' text-[#009dff] font-bold text-[40px] mt-[200px] text-center bg-black '> Thank you very much !!! 😎 BOSS</h1>:
+        {/* {result ? <h1 className=' text-[#009dff] font-bold text-[40px] mt-[200px] text-center bg-black '> Thank you very much !!! 😎 BOSS</h1>: */}
+
+        {result ? <h1 className=' text-[#009dff] font-bold text-[40px] mt-[200px] text-center bg-black '></h1>:
             <>
               <div>
                 <Books/>

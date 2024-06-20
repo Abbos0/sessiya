@@ -48,7 +48,7 @@ const Message = () => {
         onSubmit={handleSubmit}
         className={`my-20 flex flex-col gap-5 justify-center items-center m-5 ${msg ? 'hidden' : ''}`}
       >
-           <button
+          <button
           type="checkbox"
           required
           value={sitename}
