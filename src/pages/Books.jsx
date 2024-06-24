@@ -24,19 +24,19 @@
 
 
 
-//  import React from 'react'
-//  import Img from "../assests/kursdoshlar.png"
-//  import Gost from "../assests/Gost.jpg"
-//   const Books = () => {
-//     return (
-//       <div>
-//          <img className='bg-no-repeat bg-cover bg-center' src={Img} alt="kursdoshlar" />
-//          <img className='bg-no-repeat bg-cover bg-center' src={Gost} alt="kursdoshlar" />
-//          <Message/>
-//         </div>
-//        )
-//      }
+ import React from 'react'
+ import Img from "../assests/kursdoshlar.png"
+ import Gost from "../assests/Gost.jpg"
+  const Books = () => {
+    return (
+      <div>
+         <img className='bg-no-repeat bg-cover bg-center' src={Img} alt="kursdoshlar" />
+         <img className='bg-no-repeat bg-cover bg-center' src={Gost} alt="kursdoshlar" />
+         <Message/>
+        </div>
+       )
+     }
     
-//      export default Books
+     export default Books
 
   
