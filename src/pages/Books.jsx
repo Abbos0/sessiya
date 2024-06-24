@@ -8,10 +8,9 @@
 //               <p class="text ">
                  
 //                 <h1>{`
-                       
-//                        gost ham tugadi
-               
-//                    `}</h1>
+//                           Gost ham tugadi
+
+//                   `}</h1>
 //                 </p>
 //             </pre>   
 
@@ -27,12 +26,13 @@
 
  import React from 'react'
  import Img from "../assests/kursdoshlar.png"
- import Gost from "../assests/Gost.jpg"
+ import Img from "../assests/Gost.jpg"
   const Books = () => {
     return (
       <div>
          <img className='bg-no-repeat bg-cover bg-center' src={Img} alt="kursdoshlar" />
          <img className='bg-no-repeat bg-cover bg-center' src={Gost} alt="kursdoshlar" />
+         <Message/>
         </div>
        )
      }
