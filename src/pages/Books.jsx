@@ -25,6 +25,7 @@
 
 
  import React from 'react'
+ import Message from './Message'
  import Img from "../assests/kursdoshlar.png"
  import Gost from "../assests/Gost.jpg"
   const Books = () => {
