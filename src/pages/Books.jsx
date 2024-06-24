@@ -26,7 +26,7 @@
 
  import React from 'react'
  import Img from "../assests/kursdoshlar.png"
- import Img from "../assests/Gost.jpg"
+ import Gost from "../assests/Gost.jpg"
   const Books = () => {
     return (
       <div>
