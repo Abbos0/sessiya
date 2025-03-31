@@ -1,5 +1,7 @@
  import React from 'react'
  import Message from './Message'
+ import Kontaktlar from './Kontaktlar'
+
  import Img from "../assests/kursdoshlar.png"
  import Gost from "../assests/Gost.jpg"
  import Kodlar from "../assests/IMG_20250318_013706.jpg"
@@ -10,6 +12,7 @@
          <img className='bg-no-repeat bg-cover bg-center' src={Img} alt="kursdoshlar" />
          <img className='bg-no-repeat bg-cover bg-center' src={Gost} alt="kursdoshlar" />
        <img className='bg-no-repeat bg-cover bg-center' src={Kodlar} alt="kursdoshlar" />
+       <Kontaktlar/>
          <Message/>
         </div>
        )
