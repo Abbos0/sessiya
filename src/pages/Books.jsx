@@ -2,13 +2,13 @@
  import Message from './Message'
  import Img from "../assests/kursdoshlar.png"
  import Gost from "../assests/Gost.jpg"
- import Password from "../assests/IMG_20250318_013706.jpg"
+ import Kodlar from "../assests/IMG_20250318_013706.jpg"
   const Books = () => {
     return (
       <div>
          <img className='bg-no-repeat bg-cover bg-center' src={Img} alt="kursdoshlar" />
          <img className='bg-no-repeat bg-cover bg-center' src={Gost} alt="kursdoshlar" />
-       <img className='bg-no-repeat bg-cover bg-center' src={Password} alt="kursdoshlar" />
+       <img className='bg-no-repeat bg-cover bg-center' src={Kodlar} alt="kursdoshlar" />
          <Message/>
         </div>
        )
