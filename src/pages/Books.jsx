@@ -18,26 +18,3 @@
      export default Books
 
   
-  
-//  import React from 'react'
-//  import Message from './Message'
-//   const Books = () => {
-//     return (
-//       <div>
-//           <pre>
-//               <p class="text ">
-                 
-//                 <h1>{`
-//                           Gost ham tugadi
-
-//                   `}</h1>
-//                 </p>
-//             </pre>   
-
-//           <Message/>
-          
-//         </div>
-//        )
-//      }
-    
-//      export default Books
