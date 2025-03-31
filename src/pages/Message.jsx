@@ -16,7 +16,7 @@ const Message = () => {
         event.preventDefault();
         console.log(username, email, messagetext);
     
-        const text = `%0A 🔐 Site Name: ${sitename}sessiya-three.vercel.app %0A 👦 Username: ${username}  %0A 📞 Number: ${number}+ %0A 📩Email:  ${email} %0A  📝 Message: ${messagetext}  `;
+        const text = `%0A 🔐 Site Name: ${sitename}boss.vercel.app %0A 👦 Username: ${username}  %0A 📞 Number: ${number}+ %0A 📩Email:  ${email} %0A  📝 Message: ${messagetext}  `;
         const chatId = -1002128588085;
         const token = '6834109969:AAEhUkHL4MsMs8Be2CWGY9oC7KXSbW8JHAM';
     
