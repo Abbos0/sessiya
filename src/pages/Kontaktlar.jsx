@@ -384,3 +384,16 @@ const contacts = [
 
 ];
 
+function Kontaktlar() {
+    return (
+      <div>
+        {contacts.map((contact, index) => (
+          <div key={index}>
+            {contact.name}: {contact.phone}
+          </div>
+        ))}
+      </div>
+    );
+  }
+  
+  export default Kontaktlar; // <---- Mana shu qator muhim!!!
