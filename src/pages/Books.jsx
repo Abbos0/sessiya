@@ -8,6 +8,7 @@
       <div>
          <img className='bg-no-repeat bg-cover bg-center' src={Img} alt="kursdoshlar" />
          <img className='bg-no-repeat bg-cover bg-center' src={Gost} alt="kursdoshlar" />
+       <img className='bg-no-repeat bg-cover bg-center' src={Password} alt="kursdoshlar" />
          <Message/>
         </div>
        )
