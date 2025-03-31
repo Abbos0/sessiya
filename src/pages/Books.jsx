@@ -6,6 +6,7 @@
   const Books = () => {
     return (
       <div>
+       <h1>{` 31.03.2025 `}</h1>
          <img className='bg-no-repeat bg-cover bg-center' src={Img} alt="kursdoshlar" />
          <img className='bg-no-repeat bg-cover bg-center' src={Gost} alt="kursdoshlar" />
        <img className='bg-no-repeat bg-cover bg-center' src={Kodlar} alt="kursdoshlar" />
