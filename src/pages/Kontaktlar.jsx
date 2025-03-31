@@ -1,3 +1,5 @@
+import React from 'react';
+
 const contacts = [
     { name: "AYAM", phone: "+998 94 007 10 76" },
     { name: "DADAM", phone: "+998 94 039 10 76" },
