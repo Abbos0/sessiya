@@ -382,9 +382,3 @@ const contacts = [
 
 ];
 
-const tableBody = document.getElementById("contactsTable");
-
-contacts.forEach(contact => {
-    let row = `<tr><td>${contact.name}</td><td>${contact.phone}</td></tr>`;
-    tableBody.innerHTML += row;
-});
