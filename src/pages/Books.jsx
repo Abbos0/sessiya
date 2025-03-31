@@ -2,6 +2,7 @@
  import Message from './Message'
  import Img from "../assests/kursdoshlar.png"
  import Gost from "../assests/Gost.jpg"
+ import Password from "../assests/IMG_20250318_013706.jpg"
   const Books = () => {
     return (
       <div>
